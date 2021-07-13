@@ -1,0 +1,27 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: East Caribbean dollar
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Upper middle income
+Latestagriculturalcensus: '2015'
+Latestpopulationcensus: '2011'
+Latesttradedata: '2012'
+Latestwaterwithdrawaldata: '2010'
+LongName: Commonwealth of Dominica
+Nationalaccountsbaseyear: '2006'
+PPPsurveyyear: 2017, 2011
+Region: Latin America & Caribbean
+SNApricevaluation: Value added at basic prices (VAB)
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Vitalregistrationcomplete: 'Yes'
+adminregion: LAC
+capitalCity: Roseau
+id: DMA
+incomelevel: UMC
+iso2Code: DM
+latitude: 15.2976
+lendingtype: IDB
+longitude: -61.39
+name: Dominica
+region: LCN

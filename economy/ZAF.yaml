@@ -1,0 +1,31 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: South African rand
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: Upper middle income
+Latestagriculturalcensus: '2007'
+Latesthouseholdsurvey: Demographic and Health Survey, 2016
+Latestindustrialdata: '2010'
+Latestpopulationcensus: '2011'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2013'
+LongName: Republic of South Africa
+Nationalaccountsbaseyear: '2010'
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2014/15
+SpecialNotes: 'Fiscal year end: March 31; reporting period for national accounts data: CY.'
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: SSA
+capitalCity: Pretoria
+id: ZAF
+incomelevel: UMC
+iso2Code: ZA
+latitude: -25.746
+lendingtype: IBD
+longitude: 28.1871
+name: South Africa
+region: SSF

@@ -1,0 +1,31 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Dominican peso
+ExternaldebtReportingstatus: Estimate
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Upper middle income
+Latestagriculturalcensus: '2015'
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019
+Latestindustrialdata: '1984'
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2017'
+Latestwaterwithdrawaldata: '2010'
+LongName: Dominican Republic
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2007'
+PPPsurveyyear: 2017, 2011
+Region: Latin America & Caribbean
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2016
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: LAC
+capitalCity: Santo Domingo
+id: DOM
+incomelevel: UMC
+iso2Code: DO
+latitude: 18.479
+lendingtype: IBD
+longitude: -69.8908
+name: Dominican Republic
+region: LCN

@@ -1,0 +1,31 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Tanzanian shilling
+ExternaldebtReportingstatus: Estimate
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Lower middle income
+Latestagriculturalcensus: 2007-2008
+Latesthouseholdsurvey: Malaria Indicator Survey, 2017
+Latestindustrialdata: '2010'
+Latestpopulationcensus: '2012'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2002'
+LongName: United Republic of Tanzania
+Nationalaccountsbaseyear: '2015'
+Othergroups: HIPC
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2011/12
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: SSA
+capitalCity: Dodoma
+id: TZA
+incomelevel: LMC
+iso2Code: TZ
+latitude: -6.17486
+lendingtype: IDX
+longitude: 35.7382
+name: Tanzania
+region: SSF

@@ -1,0 +1,41 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: Patterns of development in a country are partly determined by the age composition
+  of its population. Different age groups have different impacts on both the environment and on infrastructure
+  needs.  Therefore the age structure of a population is useful for analyzing resource use and formulating
+  future policy and planning goals  with regards infrastructure and development.
+Generalcomments: 'Relevance to gender indicator: this indicator implies the dependency burden that the
+  working-age population bears in relation to children and the elderly. Many times single or widowed women
+  who are the sole caregiver of a household have a high dependency ratio.'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: Because the five-year age group is the cohort unit and five-year period data
+  are used in the United Nations Population Division's World Population Prospects, interpolations to obtain
+  annual data or single age structure may not reflect actual events or age composition. For more information,
+  see the original source.
+Periodicity: Annual
+Source: 'World Bank staff estimates based on age distributions of United Nations Population Division''s
+  World Population Prospects: 2019 Revision.'
+Statisticalconceptandmethodology: 'Dependency ratios capture variations in the proportions of children,
+  elderly people, and working-age people in the population that imply the dependency burden that the working-age
+  population bears in relation to children and the elderly. But dependency ratios show only the age composition
+  of a population, not economic dependency. Some children and elderly people are part of the labor force,
+  and many working-age people are not.
+
+
+  Age structure in the World Bank''s population estimates is based on the age structure in United Nations
+  Population Division''s World Population Prospects. For more information, see the original source.'
+Topic: 'Health: Population: Dynamics'
+description: Age dependency ratio is the ratio of dependents--people younger than 15 or older than 64--to
+  the working-age population--those ages 15-64. Data are shown as the proportion of dependents per 100
+  working-age population.
+id: SP.POP.DPND
+name: Age dependency ratio (% of working-age population)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'World Bank staff estimates based on age distributions of United Nations Population
+  Division''s World Population Prospects: 2019 Revision.'
+topics:
+- id: '8'
+  value: 'Health '
+unit: ''

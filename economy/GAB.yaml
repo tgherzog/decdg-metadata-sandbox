@@ -1,0 +1,29 @@
+Alternativeconversionfactor: '1993'
+BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
+CurrencyUnit: Central African CFA franc
+ExternaldebtReportingstatus: Actual
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Upper middle income
+Latesthouseholdsurvey: Demographic and Health Survey, 2019/20
+Latestindustrialdata: '1995'
+Latestpopulationcensus: '2013'
+Latesttradedata: '2009'
+Latestwaterwithdrawaldata: '2005'
+LongName: Gabonese Republic
+Nationalaccountsbaseyear: '2001'
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Living Standards Measurement Study Survey (LSMS)/Integrated
+  household survey (IHS), 2017
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+adminregion: SSA
+capitalCity: Libreville
+id: GAB
+incomelevel: UMC
+iso2Code: GA
+latitude: 0.38832
+lendingtype: IBD
+longitude: 9.45162
+name: Gabon
+region: SSF

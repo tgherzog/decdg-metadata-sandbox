@@ -1,0 +1,30 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Burundi franc
+ExternaldebtReportingstatus: Estimate
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Low income
+Latesthouseholdsurvey: Demographic and Health Survey, 2016/17
+Latestindustrialdata: '2012'
+Latestpopulationcensus: '2008'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2000'
+LongName: Republic of Burundi
+Nationalaccountsbaseyear: '2005'
+Othergroups: HIPC
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Core Welfare Indicator Questionnaire Survey (CWIQ), 2014
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: SSA
+capitalCity: Bujumbura
+id: BDI
+incomelevel: LIC
+iso2Code: BI
+latitude: -3.3784
+lendingtype: IDX
+longitude: 29.3639
+name: Burundi
+region: SSF

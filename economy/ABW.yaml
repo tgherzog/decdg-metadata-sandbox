@@ -1,0 +1,23 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Aruban florin
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: High income
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2018'
+LongName: Aruba
+Nationalaccountsbaseyear: '2000'
+Region: Latin America & Caribbean
+SNApricevaluation: Value added at basic prices (VAB)
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Oranjestad
+id: ABW
+incomelevel: HIC
+iso2Code: AW
+latitude: 12.5167
+lendingtype: LNX
+longitude: -70.0167
+name: Aruba
+region: LCN

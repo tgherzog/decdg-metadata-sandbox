@@ -1,0 +1,30 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Danish krone
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard Plus (SDDS Plus)
+IncomeGroup: High income
+Latestagriculturalcensus: '2010'
+Latestindustrialdata: '2014'
+Latestpopulationcensus: 2011. Population figures compiled from administrative registers.
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2012'
+LongName: Kingdom of Denmark
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2015'
+PPPsurveyyear: Rolling surveys (annual estimation)
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Income survey (IS), 2015
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Copenhagen
+id: DNK
+incomelevel: HIC
+iso2Code: DK
+latitude: 55.6763
+lendingtype: LNX
+longitude: 12.5681
+name: Denmark
+region: ECS

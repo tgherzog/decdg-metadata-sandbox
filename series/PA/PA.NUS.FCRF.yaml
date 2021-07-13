@@ -1,0 +1,61 @@
+Developmentrelevance: In a market-based economy, household, producer, and government choices about resource
+  allocation are influenced by relative prices, including the real exchange rate, real wages, real interest
+  rates, and other prices in the economy. Relative prices also largely reflect these agents' choices.
+  Thus relative prices convey vital information about the interaction of economic agents in an economy
+  and with the rest of the world.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: Official or market exchange rates are often used to convert economic statistics
+  in local currencies to a common currency in order to make comparisons across countries. Since market
+  rates reflect at best the relative prices of tradable goods, the volume of goods and services that a
+  U.S. dollar buys in the United States may not correspond to what a U.S. dollar converted to another
+  country's currency at the official exchange rate would buy in that country, particularly when nontradable
+  goods and services account for a significant share of a country's output. An alternative exchange rate
+  - the purchasing power parity (PPP) conversion factor - is preferred because it reflects differences
+  in price levels for both tradable and nontradable goods and services and therefore provides a more meaningful
+  comparison of real output.
+Periodicity: Annual
+Source: International Monetary Fund, International Financial Statistics.
+Statisticalconceptandmethodology: The exchange rate is the price of one currency in terms of another.
+  Official exchange rates and exchange rate arrangements are established by governments. Other exchange
+  rates recognized by governments include market rates, which are determined largely by legal market forces,
+  and for countries with multiple exchange arrangements, principal rates, secondary rates, and tertiary
+  rates.
+Topic: 'Financial Sector: Exchange rates & prices'
+description: Official exchange rate refers to the exchange rate determined by national authorities or
+  to the rate determined in the legally sanctioned exchange market. It is calculated as an annual average
+  based on monthly averages (local currency units relative to the U.S. dollar).
+economies:
+  AUT: Data are reported in Austrian schillings.
+  BEL: Data are reported in Belgian francs.
+  CYP: Data are reported in Cypriot pounds.
+  DEU: Data are reported in German marks.
+  ECU: Data are reported in sucres.
+  ESP: Data are reported in Spanish pesetas.
+  EST: Data are reported in Estonian kroons.
+  FIN: Data are reported in Finnish markkas.
+  FRA: Data are reported in French francs.
+  GRC: Data are reported in Greek drachmas.
+  IRL: Data are reported in Irish pounds.
+  ITA: Data are reported in Italian liras.
+  LBR: Data are reported in Liberian dollars.
+  LTU: Data are reported in Lithuanian litas.
+  LUX: Data are reported in Luxembourg francs.
+  LVA: Data are reported in Latvian lats.
+  MLT: Data are reported in Maltese liras.
+  NLD: Data are reported in Netherlands guilders.
+  PRT: Data are reported in Portuguese escudos.
+  SLV: Data are reported in colones.
+  SVK: Data are reported in Slovak korunas.
+  SVN: Data are reported in Slovenian tolars.
+  ZWE: Data are reported in Zimbabwe dollars.
+id: PA.NUS.FCRF
+name: Official exchange rate (LCU per US$, period average)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, International Financial Statistics.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+unit: ''

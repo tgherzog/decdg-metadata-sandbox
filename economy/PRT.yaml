@@ -1,0 +1,34 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Euro
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard Plus (SDDS Plus)
+IncomeGroup: High income
+Latestagriculturalcensus: '2009'
+Latestindustrialdata: '2014'
+Latestpopulationcensus: '2011'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2007'
+LongName: Portuguese Republic
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2015'
+Othergroups: Euro area
+PPPsurveyyear: Rolling surveys (annual estimation)
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SpecialNotes: 'A simple multiplier is used to convert the national currencies of EMU members to euros.
+  The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro
+  = 200.482 Portuguese escudo. Please note that historical data before 1999 are not actual euros and are
+  not comparable or suitable for aggregation across countries.'
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: Special trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Lisbon
+id: PRT
+incomelevel: HIC
+iso2Code: PT
+latitude: 38.7072
+lendingtype: LNX
+longitude: -9.13552
+name: Portugal
+region: ECS

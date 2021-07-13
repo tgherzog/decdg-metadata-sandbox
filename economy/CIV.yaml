@@ -1,0 +1,31 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: West African CFA franc
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Lower middle income
+Latestagriculturalcensus: 2014-2015
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2016
+Latestindustrialdata: '1997'
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2005'
+LongName: "Republic of C\xF4te d'Ivoire"
+Nationalaccountsbaseyear: '2015'
+Othergroups: HIPC
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2015
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: Special trade system
+adminregion: SSA
+capitalCity: Yamoussoukro
+id: CIV
+incomelevel: LMC
+iso2Code: CI
+latitude: 5.332
+lendingtype: IDX
+longitude: -4.0305
+name: Cote d'Ivoire
+region: SSF

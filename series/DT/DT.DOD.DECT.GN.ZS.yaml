@@ -1,0 +1,54 @@
+Aggregationmethod: Weighted average
+Dataset: International Debt Statistics
+Developmentrelevance: "External debt is that part of the total debt in a country that is owed to creditors\
+  \ outside the country. The debtors can be the government, corporations or private households. The debt\
+  \ includes money owed to private commercial banks, other governments, or international financial institutions.\n\
+  \nExternal indebtedness affects a country's creditworthiness and investor perceptions. Nonreporting\
+  \ countries might have outstanding debt with the World Bank, other international financial institutions,\
+  \ or private creditors. Total debt service is contrasted with countries' ability to obtain foreign exchange\
+  \ through exports of goods, services, primary income, and workers' remittances.\n\nDebt ratios are used\
+  \ to assess the sustainability of a country's debt service obligations, but no absolute rules determine\
+  \ what values are too high. Empirical analysis of developing countries' experience and debt service\
+  \ performance shows that debt service difficulties become increasingly likely when the present value\
+  \ of debt reaches 200 percent of exports. Still, what constitutes a sustainable debt burden varies by\
+  \ country. Countries with fast-growing economies and exports are likely to be able to sustain higher\
+  \ debt levels. Various indicators determine a sustainable level of external debt, including:\n\na) debt\
+  \ to GDP ratio\nb) foreign debt to exports ratio\nc) government debt to current fiscal revenue ratio\
+  \ \nd) share of foreign debt\ne) short-term debt\nf) concessional debt in the total debt stock"
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Shortdefinition: Total external debt stocks to gross national income.
+Source: World Bank, International Debt Statistics.
+Statisticalconceptandmethodology: Data on external debt are gathered through the World Bank's Debtor Reporting
+  System (DRS). Long term debt data are compiled using the countries report on public and publicly guaranteed
+  borrowing on a loan-by-loan basis and private non guaranteed borrowing on an aggregate basis. These
+  data are supplemented by information from major multilateral banks and official lending agencies in
+  major creditor countries. Short-term debt data are gathered from the Quarterly External Debt Statistics
+  (QEDS) database, jointly developed by the World Bank and the IMF and from creditors through the reporting
+  systems of the Bank for International Settlements. Debt data are reported in the currency of repayment
+  and compiled and published in U.S. dollars. End-of-period exchange rates are used for the compilation
+  of stock figures (amount of debt outstanding), and projected debt service and annual average exchange
+  rates are used for the flows. Exchange rates are taken from the IMF's International Financial Statistics.
+  Debt repayable in multiple currencies, goods, or services and debt with a provision for maintenance
+  of the value of the currency of repayment are shown at book value.
+Topic: 'Economic Policy & Debt: External debt: Debt ratios & other items'
+description: Total external debt stocks to gross national income. Total external debt is debt owed to
+  nonresidents repayable in currency, goods, or services. Total external debt is the sum of public, publicly
+  guaranteed, and private nonguaranteed long-term debt, use of IMF credit, and short-term debt. Short-term
+  debt includes all debt having an original maturity of one year or less and interest in arrears on long-term
+  debt. GNI (formerly GNP) is the sum of value added by all resident producers plus any product taxes
+  (less subsidies) not included in the valuation of output plus net receipts of primary income (compensation
+  of employees and property income) from abroad.
+id: DT.DOD.DECT.GN.ZS
+name: External debt stocks (% of GNI)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, International Debt Statistics.
+topics:
+- id: '3'
+  value: Economy & Growth
+- id: '20'
+  value: External Debt
+unit: ''

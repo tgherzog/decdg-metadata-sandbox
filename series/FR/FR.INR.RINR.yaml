@@ -1,0 +1,59 @@
+Developmentrelevance: 'The banking system''s assets include its net foreign assets and net domestic credit.
+  Net domestic credit includes credit extended to the private sector and general government and credit
+  extended to the nonfinancial public sector in the form of investments in short- and long-term government
+  securities and loans to state enterprises; liabilities to the public and private sectors in the form
+  of deposits with the banking system are netted out. Net domestic credit also includes credit to banking
+  and nonbank financial institutions.
+
+
+  Domestic credit is the main vehicle through which changes in the money supply are regulated, with central
+  bank lending to the government often playing the most important role. The central bank can regulate
+  lending to the private sector in several ways - for example, by adjusting the cost of the refinancing
+  facilities it provides to banks, by changing market interest rates through open market operations, or
+  by controlling the availability of credit through changes in the reserve requirements imposed on banks
+  and ceilings on the credit provided by banks to the private sector.
+
+
+  The real interest rate is used in various economic theories to explain such phenomena as the capital
+  flight, business cycle and economic bubbles. When the real rate of interest is high, that is, demand
+  for credit is high, then money will, all other things being equal, move from consumption to savings.
+  Conversely, when the real rate of interest is low, demand will move from savings to investment and consumption.'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Source: International Monetary Fund, International Financial Statistics and data files using World Bank
+  data on the GDP deflator.
+Statisticalconceptandmethodology: 'Many interest rates coexist in an economy, reflecting competitive conditions,
+  the terms governing loans and deposits, and differences in the position and status of creditors and
+  debtors. In some economies interest rates are set by regulation or administrative fiat. In economies
+  with imperfect markets, or where reported nominal rates are not indicative of effective rates, it may
+  be difficult to obtain data on interest rates that reflect actual market transactions. Deposit and lending
+  rates are collected by the International Monetary Fund (IMF) as representative interest rates offered
+  by banks to resident customers. The terms and conditions attached to these rates differ by country,
+  however, limiting their comparability.
+
+
+  Real interest rates are calculated by adjusting nominal rates by an estimate of the inflation rate in
+  the economy. A negative real interest rate indicates a loss in the purchasing power of the principal.
+  The real interest rates are calculated as (i - P) / (1 + P), where i is the nominal lending interest
+  rate and P is the inflation rate (as measured by the GDP deflator).
+
+
+  In 2009 the IMF began publishing a new presentation of monetary statistics for countries that report
+  data in accordance with its Monetary Financial Statistical Manual 2000. The presentation for countries
+  that report data in accordance with its International Financial Statistics (IFS) remains the same.'
+Topic: 'Financial Sector: Interest rates'
+description: Real interest rate is the lending interest rate adjusted for inflation as measured by the
+  GDP deflator. The terms and conditions attached to lending rates differ by country, however, limiting
+  their comparability.
+id: FR.INR.RINR
+name: Real interest rate (%)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, International Financial Statistics and data files using
+  World Bank data on the GDP deflator.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+unit: ''

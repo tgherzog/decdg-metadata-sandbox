@@ -1,0 +1,43 @@
+Developmentrelevance: Both banking and financial systems enhance growth, the main factor in poverty reduction.
+  At low levels of economic development commercial banks tend to dominate the financial system, while
+  at higher levels domestic stock markets tend to become more active and efficient. The size and mobility
+  of international capital flows make it increasingly important to monitor the strength of financial systems.
+  Robust financial systems can increase economic activity and welfare, but instability can disrupt financial
+  activity and impose widespread costs on the economy.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: Countries use a variety of reporting formats, sample designs, interest compounding
+  formulas, averaging methods, and data presentations for indices and other data series on interest rates.
+  The IMF's Monetary and Financial Statistics Manual does not provide guidelines beyond the general recommendation
+  that such data should reflect market prices and effective (rather than nominal) interest rates and should
+  be representative of the financial assets and markets to be covered. For more information, please see
+  http://www.imf.org/external/pubs/ft/mfs/manual/index.htm.
+Periodicity: Annual
+Source: International Monetary Fund, International Financial Statistics and data files.
+Statisticalconceptandmethodology: 'Many interest rates coexist in an economy, reflecting competitive conditions,
+  the terms governing loans and deposits, and differences in the position and status of creditors and
+  debtors. In some economies interest rates are set by regulation or administrative fiat. In economies
+  with imperfect markets, or where reported nominal rates are not indicative of effective rates, it may
+  be difficult to obtain data on interest rates that reflect actual market transactions. Deposit and lending
+  rates are collected by the International Monetary Fund (IMF) as representative interest rates offered
+  by banks to resident customers. The terms and conditions attached to these rates differ by country,
+  however, limiting their comparability.
+
+
+  In 2009 the IMF began publishing a new presentation of monetary statistics for countries that report
+  data in accordance with its Monetary Financial Statistical Manual 2000. The presentation for countries
+  that report data in accordance with its International Financial Statistics (IFS) remains the same.'
+Topic: 'Financial Sector: Interest rates'
+description: Deposit interest rate is the rate paid by commercial or similar banks for demand, time, or
+  savings deposits. The terms and conditions attached to these rates differ by country, however, limiting
+  their comparability.
+id: FR.INR.DPST
+name: Deposit interest rate (%)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, International Financial Statistics and data files.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+unit: ''

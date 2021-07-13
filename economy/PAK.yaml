@@ -1,0 +1,33 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Pakistani rupee
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Lower middle income
+Latestagriculturalcensus: '2010'
+Latesthouseholdsurvey: 'Pakistan Maternal Mortality Survey
+
+  Other Data , 2019'
+Latestindustrialdata: '2006'
+Latestpopulationcensus: '2017'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2008'
+LongName: Islamic Republic of Pakistan
+Nationalaccountsbaseyear: 2005/06
+PPPsurveyyear: 2017, 2011
+Region: South Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2014/15
+SpecialNotes: 'Fiscal year end: June 30; reporting period for national accounts data: FY.'
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: SAS
+capitalCity: Islamabad
+id: PAK
+incomelevel: LMC
+iso2Code: PK
+latitude: 30.5167
+lendingtype: IDB
+longitude: 72.8
+name: Pakistan
+region: SAS

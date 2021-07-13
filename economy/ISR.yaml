@@ -1,0 +1,30 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Israeli new shekel
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: High income
+Latestindustrialdata: '2014'
+Latestpopulationcensus: 2020 (expected). Population figures compiled from administrative registers in
+  combination with other sources of data, such as sample surveys.
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2004'
+LongName: State of Israel
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2015'
+PPPsurveyyear: Rolling surveys (annual estimation)
+Region: Middle East & North Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2012
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: Special trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: ''
+id: ISR
+incomelevel: HIC
+iso2Code: IL
+latitude: 31.7717
+lendingtype: LNX
+longitude: 35.2035
+name: Israel
+region: MEA

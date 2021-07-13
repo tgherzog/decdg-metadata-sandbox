@@ -1,0 +1,53 @@
+Aggregationmethod: Gap-filled total
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: 'The value of imports is generally recorded as the cost of the goods when purchased
+  by the importer plus the cost of transport and insurance to the frontier of the importing country -
+  the cost, insurance, and freight (c.i.f.) value, corresponding to the landed cost at the point of entry
+  of foreign goods into the country. A few countries collect import data on a free on board (f.o.b.) basis
+  and adjust them for freight and insurance costs.
+
+
+  Countries may report trade according to the general or special system of trade. Under the general system
+  imports include goods imported for domestic consumption and imports into bonded warehouses and free
+  trade zones. Under the special system imports comprise goods imported for domestic consumption (including
+  transformation and repair) and withdrawals for domestic consumption from bonded warehouses and free
+  trade zones. Goods transported through a country en route to another are excluded.
+
+
+  Data on imports of goods are derived from the same sources as data on exports. In principle, world exports
+  and imports should be identical. Similarly, exports from an economy should equal the sum of imports
+  by the rest of the world from that economy. But differences in timing and definitions result in discrepancies
+  in reported values at all levels.'
+Periodicity: Annual
+Source: World Trade Organization.
+Statisticalconceptandmethodology: 'Merchandise trade data are from customs reports of goods moving into
+  or out of an economy or from reports of financial transactions related to merchandise trade recorded
+  in the balance of payments. Because of differences in timing and definitions, trade flow estimates from
+  customs reports and balance of payments may differ. Several international agencies process trade data,
+  each correcting unreported or misreported data, leading to other differences.
+
+
+  The data on total imports of goods (merchandise) are from the World Trade Organization (WTO), which
+  obtains data from national statistical offices and the IMF''s International Financial Statistics, supplemented
+  by the Comtrade database and publications or databases of regional organizations, specialized agencies,
+  economic groups, and private sources (such as Eurostat, the Food and Agriculture Organization, and country
+  reports of the Economist Intelligence Unit). Country websites and email contact have improved collection
+  of up-to-date statistics, reducing the proportion of estimates. The WTO database now covers most major
+  traders in Africa, Asia, and Latin America, which together with high-income countries account for nearly
+  95 percent of world trade. Reliability of data for countries in Europe and Central Asia has also improved.'
+Topic: 'Private Sector & Trade: Imports'
+description: Merchandise imports show the c.i.f. value of goods received from the rest of the world valued
+  in current U.S. dollars.
+id: TM.VAL.MRCH.CD.WT
+name: Merchandise imports (current US$)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Trade Organization.
+topics:
+- id: '12'
+  value: Private Sector
+- id: '21'
+  value: Trade
+unit: ''

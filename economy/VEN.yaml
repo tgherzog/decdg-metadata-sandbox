@@ -1,0 +1,27 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Venezuelan bolivar fuerte
+ExternaldebtReportingstatus: Estimate
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+Latestagriculturalcensus: '2008'
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2000
+Latestindustrialdata: '1998'
+Latestpopulationcensus: '2011'
+Latesttradedata: '2013'
+Latestwaterwithdrawaldata: '2007'
+LongName: "Rep\xFAblica Bolivariana de Venezuela"
+Nationalaccountsbaseyear: '1997'
+PPPsurveyyear: '2011'
+Region: Latin America & Caribbean
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2015
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+adminregion: LAC
+capitalCity: Caracas
+id: VEN
+incomelevel: INX
+iso2Code: VE
+latitude: 9.08165
+lendingtype: IBD
+longitude: -69.8371
+name: Venezuela, RB
+region: LCN

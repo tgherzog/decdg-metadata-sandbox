@@ -1,0 +1,30 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Sierra Leonean leone
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Low income
+Latesthouseholdsurvey: Demographic and Health Survey, 2019
+Latestindustrialdata: '1993'
+Latestpopulationcensus: '2020'
+Latesttradedata: '2017'
+Latestwaterwithdrawaldata: '2005'
+LongName: Republic of Sierra Leone
+Nationalaccountsbaseyear: '2006'
+Othergroups: HIPC
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2011
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: SSA
+capitalCity: Freetown
+id: SLE
+incomelevel: LIC
+iso2Code: SL
+latitude: 8.4821
+lendingtype: IDX
+longitude: -13.2134
+name: Sierra Leone
+region: SSF

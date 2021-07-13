@@ -1,0 +1,28 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: Having a child during the teenage years limits girls' opportunities for better education,
+  jobs, and income. Pregnancy is more likely to be unintended during the teenage years, and births are
+  more likely to be premature and are associated with greater risks of complications during delivery and
+  of death. In many countries maternal mortality is a leading cause of death among women of reproductive
+  age, although most of those deaths are preventable. Infants of adolescent mothers are also more likely
+  to have low birth weight, which can have a long-term impact on their health and development. Complications
+  from pregnancy and childbirth are the leading cause of death among girls aged 15-19 years in many low-
+  and middle-income countries.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Source: Demographic and Health Surveys.
+Topic: 'Health: Reproductive health'
+description: Teenage mothers are the percentage of women ages 15-19 who already have children or are currently
+  pregnant.
+id: SP.MTR.1519.ZS
+name: Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Demographic and Health Surveys.
+topics:
+- id: '8'
+  value: 'Health '
+- id: '17'
+  value: Gender
+unit: ''

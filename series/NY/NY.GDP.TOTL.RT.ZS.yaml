@@ -1,0 +1,40 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: 'Accounting for the contribution of natural resources to economic output is important
+  in building an analytical framework for sustainable development. In some countries earnings from natural
+  resources, especially from fossil fuels and minerals, account for a sizable share of GDP, and much of
+  these earnings come in the form of economic rents - revenues above the cost of extracting the resources.
+
+
+  Natural resources give rise to economic rents because they are not produced. For produced goods and
+  services competitive forces expand supply until economic profits are driven to zero, but natural resources
+  in fixed supply often command returns well in excess of their cost of production. Rents from nonrenewable
+  resources - fossil fuels and minerals - as well as rents from overharvesting of forests indicate the
+  liquidation of a country''s capital stock. When countries use such rents to support current consumption
+  rather than to invest in new capital to replace what is being used up, they are, in effect, borrowing
+  against their future.'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Source: World Bank staff estimates based on sources and methods described in the World Bank's The Changing
+  Wealth of Nations.
+Statisticalconceptandmethodology: The estimates of natural resources rents are calculated as the difference
+  between the price of a commodity and the average cost of producing it. This is done by estimating the
+  price of units of specific commodities and subtracting estimates of average unit costs of extraction
+  or harvesting costs. These unit rents are then multiplied by the physical quantities countries extract
+  or harvest to determine the rents for each commodity as a share of gross domestic product (GDP).
+Topic: 'Environment: Natural resources contribution to GDP'
+description: Total natural resources rents are the sum of oil rents, natural gas rents, coal rents (hard
+  and soft), mineral rents, and forest rents.
+id: NY.GDP.TOTL.RT.ZS
+name: Total natural resources rents (% of GDP)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank staff estimates based on sources and methods described in the World Bank's
+  The Changing Wealth of Nations.
+topics:
+- id: '5'
+  value: 'Energy & Mining '
+- id: '6'
+  value: 'Environment '
+unit: ''

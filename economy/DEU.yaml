@@ -1,0 +1,32 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Euro
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard Plus (SDDS Plus)
+IncomeGroup: High income
+Latestagriculturalcensus: '2010'
+Latestindustrialdata: '2014'
+Latestpopulationcensus: 2011. Population figures compiled from administrative registers and sample surveys
+  while data on housing characteristics are collected through full field enumeration.
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2010'
+LongName: Federal Republic of Germany
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2015'
+Othergroups: Euro area
+PPPsurveyyear: Rolling surveys (annual estimation)
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Income survey (IS), 2015
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: Special trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Berlin
+id: DEU
+incomelevel: HIC
+iso2Code: DE
+latitude: 52.5235
+lendingtype: LNX
+longitude: 13.4115
+name: Germany
+region: ECS

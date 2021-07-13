@@ -1,0 +1,36 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Euro
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard Plus (SDDS Plus)
+IncomeGroup: High income
+Latestagriculturalcensus: '2010'
+Latesthouseholdsurvey: World Health Survey, 2003
+Latestindustrialdata: '2013'
+Latestpopulationcensus: '2011'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2014'
+LongName: Slovak Republic
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2015'
+Othergroups: Euro area
+PPPsurveyyear: Rolling surveys (annual estimation)
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Income survey (IS), 2015
+SpecialNotes: 'A simple multiplier is used to convert the national currencies of EMU members to euros.
+  The following irrevocable euro conversion rate entered into force on January 1, 2009: 1 euro = 30.126
+  Slovak koruna. Please note that historical data are not actual euros and are not comparable or suitable
+  for aggregation across countries.'
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: Special trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Bratislava
+id: SVK
+incomelevel: HIC
+iso2Code: SK
+latitude: 48.1484
+lendingtype: LNX
+longitude: 17.1073
+name: Slovak Republic
+region: ECS

@@ -1,0 +1,29 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Guinean franc
+ExternaldebtReportingstatus: Actual
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Low income
+Latesthouseholdsurvey: Malaria Indicator Survey, 2021
+Latestpopulationcensus: '2014'
+Latesttradedata: '2015'
+Latestwaterwithdrawaldata: '2001'
+LongName: Republic of Guinea
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2010'
+Othergroups: HIPC
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Core Welfare Indicator Questionnaire Survey (CWIQ), 2012
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: Special trade system
+adminregion: SSA
+capitalCity: Conakry
+id: GIN
+incomelevel: LIC
+iso2Code: GN
+latitude: 9.51667
+lendingtype: IDX
+longitude: -13.7
+name: Guinea
+region: SSF

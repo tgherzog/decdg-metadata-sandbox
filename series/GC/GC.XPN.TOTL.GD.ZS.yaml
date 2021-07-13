@@ -1,0 +1,42 @@
+Aggregationmethod: Weighted average
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: 'For most countries central government finance data have been consolidated into
+  one account, but for others only budgetary central government accounts are available. Countries reporting
+  budgetary data are noted in the country metadata. Because budgetary accounts may not include all central
+  government units (such as social security funds), they usually provide an incomplete picture. In federal
+  states the central government accounts provide an incomplete view of total public finance.
+
+
+  Data on government revenue and expense are collected by the IMF through questionnaires to member countries
+  and by the Organisation for Economic Co-operation and Development (OECD). Despite IMF efforts to standardize
+  data collection, statistics are often incomplete, untimely, and not comparable across countries.'
+Periodicity: Annual
+Source: International Monetary Fund, Government Finance Statistics Yearbook and data files, and World
+  Bank and OECD GDP estimates.
+Statisticalconceptandmethodology: 'The IMF''s Government Finance Statistics Manual 2014, harmonized with
+  the 2008 SNA, recommends an accrual accounting method, focusing on all economic events affecting assets,
+  liabilities, revenues, and expenses, not just those represented by cash transactions. It accounts for
+  all changes in stocks, so stock data at the end of an accounting period equal stock data at the beginning
+  of the period plus flows over the period. The 1986 manual considered only debt stocks.
+
+
+  Government finance statistics are reported in local currency. Many countries report government finance
+  data by fiscal year; see country metadata for information on fiscal year end by country.'
+Topic: 'Public Sector: Government finance: Expense'
+description: Expense is cash payments for operating activities of the government in providing goods and
+  services. It includes compensation of employees (such as wages and salaries), interest and subsidies,
+  grants, social benefits, and other expenses such as rent and dividends.
+id: GC.XPN.TOTL.GD.ZS
+name: Expense (% of GDP)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, Government Finance Statistics Yearbook and data files,
+  and World Bank and OECD GDP estimates.
+topics:
+- id: '3'
+  value: Economy & Growth
+- id: '13'
+  value: 'Public Sector '
+unit: ''

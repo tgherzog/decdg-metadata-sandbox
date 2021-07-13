@@ -1,0 +1,31 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Swedish krona
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard Plus (SDDS Plus)
+IncomeGroup: High income
+Latestagriculturalcensus: '2010'
+Latestindustrialdata: '2014'
+Latestpopulationcensus: 2011. Population figures compiled from administrative registers.
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2010'
+LongName: Kingdom of Sweden
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2015'
+PPPsurveyyear: Rolling surveys (annual estimation)
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Income survey (IS), 2015
+SpecialNotes: 'Fiscal year end: June 30; reporting period for national accounts data: CY.'
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: Special trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Stockholm
+id: SWE
+incomelevel: HIC
+iso2Code: SE
+latitude: 59.3327
+lendingtype: LNX
+longitude: 18.0645
+name: Sweden
+region: ECS

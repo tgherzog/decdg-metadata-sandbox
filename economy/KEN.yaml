@@ -1,0 +1,30 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Kenyan shilling
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Lower middle income
+Latesthouseholdsurvey: Malaria Indicator Survey, 2020
+Latestindustrialdata: '2013'
+Latestpopulationcensus: '2009'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2010'
+LongName: Republic of Kenya
+Nationalaccountsbaseyear: '2009'
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2015/16
+SpecialNotes: 'Fiscal year end: June 30; reporting period for national accounts data: CY.'
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: SSA
+capitalCity: Nairobi
+id: KEN
+incomelevel: LMC
+iso2Code: KE
+latitude: -1.27975
+lendingtype: IDB
+longitude: 36.8126
+name: Kenya
+region: SSF

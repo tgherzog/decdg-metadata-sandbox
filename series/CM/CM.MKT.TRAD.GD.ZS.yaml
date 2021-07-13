@@ -1,0 +1,62 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: 'Stock market size can be measured in various ways, and each may produce a different
+  ranking of countries.
+
+
+  The development of an economy''s financial markets is closely related to its overall development. Well-functioning
+  financial systems provide good and easily accessible information which can lower transaction costs and
+  subsequently improve resource allocation and boosts economic growth. Both banking systems and stock
+  markets enhance growth, the main factor in poverty reduction. At low levels of economic development
+  commercial banks tend to dominate the financial system, while at higher levels domestic stock markets
+  tend to become more active and efficient relative to domestic banks.
+
+
+  Open economies with sound macroeconomic policies, good legal systems, and shareholder protection attract
+  capital and therefore have larger financial markets. Recent research on stock market development shows
+  that modern communications technology and increased financial integration have resulted in more cross-border
+  capital flows, a stronger presence of financial firms around the world, and the migration of stock exchange
+  activities to international exchanges. Many firms in emerging markets now cross-list on international
+  exchanges, which provides them with lower cost capital and more liquidity-traded shares. However, this
+  also means that exchanges in emerging markets may not have enough financial activity to sustain them,
+  putting pressure on them to rethink their operations.'
+Generalcomments: Stock market data were previously sourced from Standard & Poor's until they discontinued
+  their "Global Stock Markets Factbook" and database in April 2013. Time series have been replaced in
+  December 2015 with data from the World Federation of Exchanges and may differ from the previous S&P
+  definitions and methodology.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: Data cover measures of size (market capitalization, number of listed domestic
+  companies) and liquidity (value of shares traded as a percentage of gross domestic product, value of
+  shares traded as a percentage of market capitalization). The comparability of such data across countries
+  may be limited by conceptual and statistical weaknesses, such as inaccurate reporting and differences
+  in accounting standards. Only EOB trades are included in the total value of shares traded.
+Periodicity: Annual
+Source: World Federation of Exchanges database.
+Statisticalconceptandmethodology: The value of shares traded represent the transfer of ownership effected
+  automatically through the exchange's electronic order book (EOB), where orders placed by trading members
+  are usually exposed to all market users and automatically matched according to precise rules set up
+  by the exchange, generally on a price/time priority basis. For data before 2001, the WFE used two different
+  approaches for the collection of trading data, depending on the individual stock exchange's market organization
+  and rules. The first approach is the Trading System View (TSV). Stock exchanges adopting this view count
+  only those transactions which pass through their trading system or trading floor. The TSV is generally
+  adopted by exchanges which operate a centralized order book (order-driven market). Trades done by their
+  members off the exchange are not included. The second approach is the Regulated Environment View (REV).
+  Stock exchanges in this category include all transactions subject to supervision by the market authority,
+  including transactions made by members, and sometimes non-members, on outside trading systems and transactions
+  into foreign markets. Figures reported under the REV approach will be higher than those reported under
+  the TSV approach.
+Topic: 'Financial Sector: Capital markets'
+description: The value of shares traded is the total number of shares traded, both domestic and foreign,
+  multiplied by their respective matching prices. Figures are single counted (only one side of the transaction
+  is considered). Companies admitted to listing and admitted to trading are included in the data. Data
+  are end of year values.
+id: CM.MKT.TRAD.GD.ZS
+name: Stocks traded, total value (% of GDP)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Federation of Exchanges database.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+unit: ''

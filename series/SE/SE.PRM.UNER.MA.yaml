@@ -1,0 +1,40 @@
+Aggregationmethod: Sum
+Developmentrelevance: Large numbers of children out of school create pressure to enroll children and provide
+  classrooms, teachers, and educational materials, a task made difficult in many countries by limited
+  education budgets. However, getting children into school is a high priority for countries and crucial
+  for achieving universal primary education.
+Generalcomments: For aggregate data, each economy is classified based on the classification of World Bank
+  Group's fiscal year 2021 (July 1, 2020-June 30, 2021).
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: Due to different data sources for enrollment and population data, the number
+  may not capture the actual number of children not attending in primary school.
+Periodicity: Annual
+Source: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2020.
+Statisticalconceptandmethodology: "The number of out-of-school children is calculated by subtracting the\
+  \ number of primary school-age children enrolled in primary or secondary school from the total population\
+  \ of the official primary school-age children. \n\nData on education are collected by the UNESCO Institute\
+  \ for Statistics from official responses to its annual education survey. All the data are mapped to\
+  \ the International Standard Classification of Education (ISCED) to ensure the comparability of education\
+  \ programs at the international level. The current version was formally adopted by UNESCO Member States\
+  \ in 2011. Population data are drawn from the United Nations Population Division. Using a single source\
+  \ for population data standardizes definitions, estimations, and interpolation methods, ensuring a consistent\
+  \ methodology across countries and minimizing potential enumeration problems in national censuses.\n\
+  \nThe reference years reflect the school year for which the data are presented. In some countries the\
+  \ school year spans two calendar years (for example, from September 2010 to June 2011); in these cases\
+  \ the reference year refers to the year in which the school year ended (2011 in the example)."
+Topic: 'Education: Participation'
+description: Children out of school are the number of primary-school-age children not enrolled in primary
+  or secondary school.
+id: SE.PRM.UNER.MA
+name: Children out of school, primary, male
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2020.
+topics:
+- id: '4'
+  value: 'Education '
+- id: '17'
+  value: Gender
+unit: ''

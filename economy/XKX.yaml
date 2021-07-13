@@ -1,0 +1,26 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Euro
+ExternaldebtReportingstatus: Actual
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Upper middle income
+Latestagriculturalcensus: '2014'
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019/20
+Latestpopulationcensus: '2011'
+LongName: Republic of Kosovo
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2008'
+PPPsurveyyear: PPPs are imputed for 2011 and 2017 based on a regression model
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2015
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+adminregion: ECA
+capitalCity: Pristina
+id: XKX
+incomelevel: UMC
+iso2Code: XK
+latitude: 42.565
+lendingtype: IDX
+longitude: 20.926
+name: Kosovo
+region: ECS

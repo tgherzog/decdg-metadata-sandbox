@@ -1,0 +1,31 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: Females comprise almost one-half of the world population.  Female population relative
+  to male population is a primary demographic indicator, reflecting historical events such as wars and
+  the socio-demographic and ethno-cultural characteristics of the population.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Source: 'World Bank staff estimates based on age/sex distributions of United Nations Population Division''s
+  World Population Prospects: 2019 Revision.'
+Statisticalconceptandmethodology: Population structure by age and sex in the World Bank's estimates is
+  based on the population structure by age and sex in United Nations Population Division's World Population
+  Prospects. For more information, see the original source.
+Topic: 'Health: Population: Structure'
+description: Female population is the percentage of the population that is female. Population is based
+  on the de facto definition of population, which counts all residents regardless of legal status or citizenship.
+economies:
+  AUS: 'Including Other Territories comprising Jervis Bay Territory, Christmas Island and the Cocos (Keeling)
+    Islands. '
+  CHI: Refers to Guernsey, and Jersey.
+  CHN: Excluding Hong Kong SAR, China; Macao SAR, China; Taiwan, China.
+id: SP.POP.TOTL.FE.ZS
+name: Population, female (% of total population)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'World Bank staff estimates based on age/sex distributions of United Nations Population
+  Division''s World Population Prospects: 2019 Revision.'
+topics:
+- id: '8'
+  value: 'Health '
+unit: ''

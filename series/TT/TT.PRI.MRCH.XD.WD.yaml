@@ -1,0 +1,62 @@
+BasePeriod: '2000'
+Developmentrelevance: "Data on international trade in goods are available from each country's balance\
+  \ of payments and customs records. While the balance of payments focuses on the financial transactions\
+  \ that accompany trade, customs data record the direction of trade and the physical quantities and value\
+  \ of goods entering or leaving the customs area. Customs data may differ from data recorded in the balance\
+  \ of payments because of differences in valuation and time of recording. The 2008 United Nations System\
+  \ of National Accounts and the sixth edition of the International Monetary Fund\u2019s (IMF) Balance\
+  \ of Payments Manual attempted to reconcile definitions and reporting standards for international trade\
+  \ statistics, but differences in sources, timing, and national practices limit comparability. Real growth\
+  \ rates derived from trade volume indexes and terms of trade based on unit price indexes may therefore\
+  \ differ from those derived from national accounts aggregates.\n\nTrade in goods, or merchandise trade,\
+  \ includes all goods that add to or subtract from an economy's material resources. Trade data are collected\
+  \ on the basis of a country's customs area, which in most cases is the same as its geographic area.\
+  \ Goods provided as part of foreign aid are included, but goods destined for extraterritorial agencies\
+  \ (such as embassies) are not.\n\nBy international agreement customs data are reported to the United\
+  \ Nations Statistics Division, which maintains the Commodity Trade (Comtrade) and Monthly Bulletin of\
+  \ Statistics databases. The United Nations Conference on Trade and Development (UNCTAD) compiles international\
+  \ trade statistics, including price, value, and volume indexes, from national and international sources\
+  \ such as the IMF\u2019s International Financial Statistics database, the United Nations Economic Commission\
+  \ for Latin America and the Caribbean, the U.S. Bureau of Labor Statistics, Japan Customs, Bank of Japan,\
+  \ and UNCTAD\u2019s Commodity Price Statistics and Merchandise Trade Matrix. The IMF also compiles data\
+  \ on trade prices and volumes in its International Financial Statistics (IFS) database."
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: Collecting and tabulating trade statistics are difficult. Some developing countries
+  lack the capacity to report timely data, especially landlocked countries and countries whose territorial
+  boundaries are porous. Their trade has to be estimated from the data reported by their partners. Countries
+  that belong to common customs unions may need to collect data through direct inquiry of companies. Economic
+  or political concerns may lead some national authorities to suppress or misrepresent data on certain
+  trade flows, such as oil, military equipment, or the exports of a dominant producer. In other cases
+  reported trade data may be distorted by deliberate under- or over-invoicing to affect capital transfers
+  or avoid taxes. And in some regions smuggling and black market trading result in unreported trade flows.
+Periodicity: Annual
+Source: United Nations Conference on Trade and Development, Handbook of Statistics and data files, and
+  International Monetary Fund, International Financial Statistics.
+Statisticalconceptandmethodology: The terms of trade index measures the relative prices of a country's
+  exports and imports. There are several ways to calculate it. The most common is the net barter (or commodity)
+  terms of trade index, or the ratio of the export price index to the import price index. When a country's
+  net barter terms of trade index increases, its exports become more expensive or its imports become cheaper.
+Topic: 'Private Sector & Trade: Trade indexes'
+description: "Net barter terms of trade index is calculated as the percentage ratio of the export unit\
+  \ value indexes to the import unit value indexes, measured relative to the base year 2000. Unit value\
+  \ indexes are based on data reported by countries that demonstrate consistency under UNCTAD quality\
+  \ controls, supplemented by UNCTAD's estimates using the previous year\u2019s trade values at the Standard\
+  \ International Trade Classification three-digit level as weights. To improve data coverage, especially\
+  \ for the latest periods, UNCTAD constructs a set of average prices indexes at the three-digit product\
+  \ classification of the Standard International Trade Classification revision 3 using UNCTAD\u2019s Commodity\
+  \ Price Statistics, interna\xADtional and national sources, and UNCTAD secretariat estimates and calculates\
+  \ unit value indexes at the country level using the current year's trade values as weights."
+id: TT.PRI.MRCH.XD.WD
+name: Net barter terms of trade index (2000 = 100)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: United Nations Conference on Trade and Development, Handbook of Statistics and data
+  files, and International Monetary Fund, International Financial Statistics.
+topics:
+- id: '12'
+  value: Private Sector
+- id: '21'
+  value: Trade
+unit: ''

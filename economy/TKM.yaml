@@ -1,0 +1,27 @@
+Alternativeconversionfactor: "1987\u201395, 1997\u20132007"
+BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
+CurrencyUnit: New Turkmen manat
+ExternaldebtReportingstatus: Estimate
+IncomeGroup: Upper middle income
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019
+Latestpopulationcensus: '2012'
+Latesttradedata: '2000'
+Latestwaterwithdrawaldata: '2004'
+LongName: Turkmenistan
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2005'
+PPPsurveyyear: PPPs are imputed for 2011 and 2017 based on a regression model
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Living Standards Measurement Study Survey (LSMS), 1998
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+adminregion: ECA
+capitalCity: Ashgabat
+id: TKM
+incomelevel: UMC
+iso2Code: TM
+latitude: 37.9509
+lendingtype: IBD
+longitude: 58.3794
+name: Turkmenistan
+region: ECS

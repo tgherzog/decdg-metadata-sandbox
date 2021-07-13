@@ -1,0 +1,30 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Cabo Verde escudo
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Lower middle income
+Latestagriculturalcensus: '2015'
+Latesthouseholdsurvey: Demographic and Health Survey, 2005
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2001'
+LongName: Republic of Cabo Verde
+Nationalaccountsbaseyear: '2007'
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Income survey (IS), 2015
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: Special trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: SSA
+capitalCity: Praia
+id: CPV
+incomelevel: LMC
+iso2Code: CV
+latitude: 14.9218
+lendingtype: IDB
+longitude: -23.5087
+name: Cabo Verde
+region: SSF

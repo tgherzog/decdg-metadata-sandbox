@@ -1,0 +1,28 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Seychelles rupee
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: High income
+Latestagriculturalcensus: '2011'
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2005'
+LongName: Republic of Seychelles
+Nationalaccountsbaseyear: '2006'
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2013
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Victoria
+id: SYC
+incomelevel: HIC
+iso2Code: SC
+latitude: -4.6309
+lendingtype: IBD
+longitude: 55.4466
+name: Seychelles
+region: SSF

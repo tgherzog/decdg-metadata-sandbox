@@ -1,0 +1,20 @@
+Aggregationmethod: Weighted average
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Source: World Bank national accounts data, and OECD National Accounts data files.
+Statisticalconceptandmethodology: Gross savings represent the difference between disposable income and
+  consumption and replace gross domestic savings, a concept used by the World Bank and included in World
+  Development Indicators editions before 2006. The change was made to conform to SNA concepts and definitions.
+Topic: 'Economic Policy & Debt: National accounts: Shares of GDP & other'
+description: Gross savings are calculated as gross national income less total consumption, plus net transfers.
+id: NY.GNS.ICTR.ZS
+name: Gross savings (% of GDP)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank national accounts data, and OECD National Accounts data files.
+topics:
+- id: '3'
+  value: Economy & Growth
+unit: ''

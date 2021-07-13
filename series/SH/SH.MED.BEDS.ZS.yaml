@@ -1,0 +1,39 @@
+Aggregationmethod: Weighted average
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: Depending on the source and means of monitoring, data may not be exactly comparable
+  across countries. For more information, see the original source.
+Notesfromoriginalsource: Depending on the source and means of monitoring, data may not be exactly comparable
+  across countries. See listed source for country-specific details.
+Periodicity: Annual
+Source: Data are from the World Health Organization, supplemented by country data.
+Statisticalconceptandmethodology: 'Health systems - the combined arrangements of institutions and actions
+  whose primary purpose is to promote, restore, or maintain health (World Health Organization, World Health
+  Report 2000) - are increasingly being recognized as key to combating disease and improving the health
+  status of populations. The World Bank''s Healthy Development: Strategy for Health, Nutrition, and Population
+  Results emphasizes the need to strengthen health systems, which are weak in many countries, in order
+  to increase the effectiveness of programs aimed at reducing specific diseases and further reduce morbidity
+  and mortality. To evaluate health systems, the World Health Organization (WHO) has recommended that
+  key components - such as financing, service delivery, workforce, governance, and information - be monitored
+  using several key indicators. The data are a subset of the key indicators. Monitoring health systems
+  allows the effectiveness, efficiency, and equity of different health system models to be compared. Health
+  system data also help identify weaknesses and strengths and areas that need investment, such as additional
+  health facilities, better health information systems, or better trained human resources.
+
+
+  Availability and use of health services, such as hospital beds per 1,000 people, reflect both demand-
+  and supply-side factors. In the absence of a consistent definition this is a crude indicator of the
+  extent of physical, financial, and other barriers to health care.'
+Topic: 'Health: Health systems'
+description: Hospital beds include inpatient beds available in public, private, general, and specialized
+  hospitals and rehabilitation centers. In most cases beds for both acute and chronic care are included.
+id: SH.MED.BEDS.ZS
+name: Hospital beds (per 1,000 people)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Data are from the World Health Organization, supplemented by country data.
+topics:
+- id: '8'
+  value: 'Health '
+unit: ''

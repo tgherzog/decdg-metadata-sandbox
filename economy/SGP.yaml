@@ -1,0 +1,29 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Singapore dollar
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: High income
+Latesthouseholdsurvey: National Health Survey, 2010
+Latestindustrialdata: '2014'
+Latestpopulationcensus: 2020 (expected). Population figures compiled from administrative registers.
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '1975'
+LongName: Republic of Singapore
+Nationalaccountsbaseyear: '2015'
+PPPsurveyyear: 2017, 2011
+Region: East Asia & Pacific
+SNApricevaluation: Value added at basic prices (VAB)
+SpecialNotes: 'Fiscal year end: March 31; reporting period for national accounts data: CY.'
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Singapore
+id: SGP
+incomelevel: HIC
+iso2Code: SG
+latitude: 1.28941
+lendingtype: LNX
+longitude: 103.85
+name: Singapore
+region: EAS

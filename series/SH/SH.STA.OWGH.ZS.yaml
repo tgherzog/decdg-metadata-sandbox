@@ -1,0 +1,33 @@
+Aggregationmethod: See SH.STA.OWGH.ME.ZS for aggregation
+Generalcomments: "Estimates of overweight children are from national survey data. Once considered only\
+  \ a high-income economy problem, overweight children have become a growing concern in developing countries.\
+  \ Research shows an association between childhood obesity and a high prevalence of diabetes, respiratory\
+  \ disease, high blood pressure, and psychosocial and orthopedic disorders (de Onis and Bl\xF6ssner 2003).\
+  \ Childhood obesity is associated with a higher chance of obesity, premature death, and disability in\
+  \ adulthood. In addition to increased future risks, obese children experience breathing difficulties\
+  \ and increased risk of fractures, hypertension, early markers of cardiovascular disease, insulin resistance,\
+  \ and psychological effects. Children in low- and middle-income countries are more vulnerable to inadequate\
+  \ nutrition before birth and in infancy and early childhood. Many of these children are exposed to high-fat,\
+  \ high-sugar, high-salt, calorie-dense, micronutrient-poor foods, which tend be lower in cost than more\
+  \ nutritious foods. These dietary patterns, in conjunction with low levels of physical activity, result\
+  \ in sharp increases in childhood obesity, while under-nutrition continues."
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Source: 'UNICEF, WHO, World Bank: Joint child malnutrition estimates (JME). Aggregation is based on UNICEF,
+  WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology.'
+Topic: 'Health: Nutrition'
+description: Prevalence of overweight children is the percentage of children under age 5 whose weight
+  for height is more than two standard deviations above the median for the international reference population
+  of the corresponding age as established by the WHO's new child growth standards released in 2006.
+id: SH.STA.OWGH.ZS
+name: Prevalence of overweight, weight for height (% of children under 5)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'UNICEF, WHO, World Bank: Joint child malnutrition estimates (JME). Aggregation is
+  based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology.'
+topics:
+- id: '8'
+  value: 'Health '
+unit: ''

@@ -1,0 +1,31 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Lesotho loti
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Lower middle income
+Latestagriculturalcensus: '2010'
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2018
+Latestindustrialdata: '1985'
+Latestpopulationcensus: '2016'
+Latesttradedata: '2017'
+Latestwaterwithdrawaldata: '2000'
+LongName: Kingdom of Lesotho
+Nationalaccountsbaseyear: '2012'
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2010
+SpecialNotes: 'Fiscal year end: March 31; reporting period for national accounts data: CY.'
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: SSA
+capitalCity: Maseru
+id: LSO
+incomelevel: LMC
+iso2Code: LS
+latitude: -29.5208
+lendingtype: IDX
+longitude: 27.7167
+name: Lesotho
+region: SSF

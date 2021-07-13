@@ -1,0 +1,452 @@
+Aggregationmethod: Sum
+Dataset: International Debt Statistics
+Developmentrelevance: 'External indebtedness affects a country''s creditworthiness and investor perceptions.
+  Nonreporting countries might have outstanding debt with the World Bank, other international financial
+  institutions, or private creditors. Total debt service is contrasted with countries'' ability to obtain
+  foreign exchange through exports of goods, services, primary income, and workers'' remittances.
+
+
+  Debt ratios are used to assess the sustainability of a country''s debt service obligations, but no absolute
+  rules determine what values are too high. Empirical analysis of developing countries'' experience and
+  debt service performance shows that debt service difficulties become increasingly likely when the present
+  value of debt reaches 200 percent of exports. Still, what constitutes a sustainable debt burden varies
+  by country. Countries with fast-growing economies and exports are likely to be able to sustain higher
+  debt levels.'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Shortdefinition: Total external debt is debt owed to nonresidents repayable in currency, goods, or services.
+  It is the sum of public, publicly guaranteed, and private nonguaranteed long-term debt, short-term debt,
+  and use of IMF credit. Data are in current U.S. dollars.
+Source: World Bank, International Debt Statistics.
+Statisticalconceptandmethodology: Data on external debt are gathered through the World Bank's Debtor Reporting
+  System (DRS). Long term debt data are compiled using the countries report on public and publicly guaranteed
+  borrowing on a loan-by-loan basis and private non guaranteed borrowing on an aggregate basis. These
+  data are supplemented by information from major multilateral banks and official lending agencies in
+  major creditor countries. Short-term debt data are gathered from the Quarterly External Debt Statistics
+  (QEDS) database, jointly developed by the World Bank and the IMF and from creditors through the reporting
+  systems of the Bank for International Settlements. Debt data are reported in the currency of repayment
+  and compiled and published in U.S. dollars. End-of-period exchange rates are used for the compilation
+  of stock figures (amount of debt outstanding), and projected debt service and annual average exchange
+  rates are used for the flows. Exchange rates are taken from the IMF's International Financial Statistics.
+  Debt repayable in multiple currencies, goods, or services and debt with a provision for maintenance
+  of the value of the currency of repayment are shown at book value.
+Topic: 'Economic Policy & Debt: External debt: Debt outstanding'
+description: Total external debt is debt owed to nonresidents repayable in currency, goods, or services.
+  Total external debt is the sum of public, publicly guaranteed, and private nonguaranteed long-term debt,
+  use of IMF credit, and short-term debt. Short-term debt includes all debt having an original maturity
+  of one year or less and interest in arrears on long-term debt. Data are in current U.S. dollars.
+economies:
+  AFG: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds). Data include the effects
+    of Paris Club debt restructuring agreements signed in 2010 and HIPC and MDRI debt relief.
+  AGO: Long-term public and publicly guaranteed debt data  and long-term private nonguaranteed debt data
+    for 2019 are based on reports provided by the country.  Short-term debt data for 2019 are sourced
+    by the National Bank of Angola.
+  ALB: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Central
+    Bank of Albania.
+  ARG: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Long-term private nonguaranteed debt data before 2008
+    are World Bank staff estimates. Short-term debt data for 2019 are sourced by the Quarterly External
+    Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  ARM: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  AZE: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are World Bank staff estimates based on the market
+    data. Short-term debt for 2019 is based on data from the BIS.
+  BDI: Long-term public and publicly guaranteed debt data for 2019 are World Bank staff estimates based
+    on the original terms of the loans and creditors data. Long-term private nonguaranteed debt data are
+    not available. Data include the effects of Paris Club debt restructuring agreement and HIPC and MDRI
+    debt relief.
+  BEN: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt for 2019 is
+    based on data from the BIS. Data include the effects of Paris Club debt restructuring agreement and
+    HIPC and MDRI debt relief.
+  BFA: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed for 2019 are World Bank staff estimates. Short-term debt
+    data for 2019 is based on data from the BIS. Data include HIPC and MDRI debt relief.
+  BGD: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed and short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  BGR: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data from 2008 are World Bank staff estimates based
+    on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly External
+    Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  BIH: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data from 2005 are World Bank staff estimates. Short-term
+    debt for 2019 is based on data from the BIS.
+  BLR: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed and short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  BLZ: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data are not available.
+  BOL: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds). Data include the effects
+    of HIPC and MDRI debt relief.
+  BRA: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are based on reports provided
+    by the country.
+  BTN: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt for 2019 is based on data from the BIS.
+  BWA: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are World Bank staff estimates based on the market
+    data. Short-term debt for 2019 is based on data from the BIS.
+  CAF: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt for 2019 is
+    based on data from the BIS. Data include the effects of HIPC and MDRI debt relief.
+  CHN: Long-term public and publicly guaranteed, long-term private nonguaranteed, and short-term debt
+    data for 2019 are World Bank staff estimates based on country aggregate reports.
+  CIV: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data for 2019 are World Bank staff estimates. Short-term
+    debt for 2019 is based on data from the BIS. Data include the effects of Paris Club agreement signed
+    in 2011 and 2012 and HIPC and MDRI debt relief.
+  CMR: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt for 2019 is based on data from the BIS.
+    Data include the effects of HIPC and MDRI debt relief.
+  COD: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt for 2019 is
+    based on data from the BIS. Data include the effects of Paris Club debt restructuring agreement and
+    HIPC and MDRI debt relief.
+  COG: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country and does not fully cover the debt contracted with the private creditors. Long-term private
+    nonguaranteed debt data are not available. Short-term debt for 2019 is based on data from the BIS.
+    Data include the effects of Paris Club debt restructuring agreement and HIPC and MDRI debt relief.
+  COL: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  COM: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt and short-term debt data for 2019 are not available.
+    Data include the effects of Paris Club debt restructuring agreements signed in 2010 and the HIPC debt
+    relief.
+  CPV: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed and short-term debt data are not available. Short-term debt
+    for 2019 is based on data from the BIS.
+  CRI: Long-term public and publicly guaranteed, long-term private nonguaranteed, and short-term debt
+    data for 2019 are based on reports provided by the country.
+  DJI: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt data for 2019
+    is sourced by the Quarterly External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).  Data
+    include the effects of Paris Club debt restructuring agreement signed in 2008.
+  DMA: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt data for 2019
+    are sourced by the Quarterly External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  DOM: Long-term public and publicly guaranteed and long-term private nonguaranteed debt debt data for
+    2019 are World Bank staff estimates based on the original terms of the loans and creditors data. Short-term
+    debt for 2019 is based on data from the BIS. Data include the effects of Paris Club debt restructuring
+    agreement signed in 2005.
+  DZA: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country.Short-term debt data for 2019 are based on reports provided
+    by the country.
+  ECU: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country and does not cover the debt aroused from the advanced
+    oil sales. Short-term debt for 2019 is based on Central Bank data.
+  EGY: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  ERI: Long-term public and publicly guaranteed debt data from 2010 are World Bank staff estimates. Long-term
+    private nonguaranteed debt data are not available. Short-term debt for 2019 is based on data from
+    the BIS.
+  ETH: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt for 2019 is
+    based on data from the BIS. Data include the effects of HIPC and MDRI debt relief.
+  FJI: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt for 2019 is based on data from the BIS.
+  GAB: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt for 2019 is
+    based on data from the BIS. Data include the effects of Paris Club debt buyback agreement signed in
+    2007.
+  GEO: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  GHA: Long-term public and publicly guaranteed debt data for 2019 are World Bank staff estimates based
+    on the original terms of the loans and creditors data. Long-term private nonguaranteed debt data only
+    cover bonds. Short-term debt for 2019 is based on data from the BIS. Data include the effects of MDRI
+    debt relief.
+  GIN: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt for 2019 is
+    based on data from the BIS. Data include the effects of Paris Club debt restructuring agreement signed
+    in 2010 and 2012 and HIPC and MDRI debt relief.
+  GMB: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt for 2019 is
+    based on data from the BIS. Data include the effects of HIPC and MDRI debt relief.
+  GNB: Long-term public and publicly guaranteed debt data for 2019 are World Bank staff estimates based
+    on the original terms of the loans and creditors data. Long-term private nonguaranteed and Short-term
+    debt for 2019 is sourced by the Quarterly External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+    Data include the effects of Paris Club debt restructuring agreement and HIPC and MDRI debt relief.
+  GRD: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt for 2019 is
+    based on data from the BIS.
+  GTM: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed and short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  GUY: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data for 2019 are World Bank staff estimates based on
+    the market data. Short-term debt for 2019 is based on data from the BIS. Data include the effects
+    of HIPC and MDRI debt relief.
+  HND: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds). Data include the effects
+    of HIPC and MDRI debt relief.
+  HTI: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data only cover Inter-American Development Bank loans.
+    Short-term debt data for 2019 are based on Central Bank data. Data include the effects of Paris Club
+    restructuring agreements signed in 2006 and 2009 and HIPC and MDRI debt relief.
+  IDN: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  IND: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  IRN: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt for 2019 is based on Central Bank data.
+  JAM: Long-term public and publicly guaranteed debt and Long-term private non-guarantee data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are based on reports provided
+    by the country.
+  JOR: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data and short-term debt data for 2019 are sourced by
+    the Quarterly External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  KAZ: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are based on reports provided
+    by the country.
+  KEN: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data for 2019 are World Bank staff estimates based on
+    the market data. Short-term debt for 2019 is based on data from the BIS.
+  KGZ: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  KHM: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are based on reports provided
+    by the country. Data include MDRI debt relief.
+  LAO: Long-term public and publicly guaranteed debt data for 2019 are World Bank staff estimates based
+    on the original terms of the loans and creditors data. Long-term private nonguaranteed debt data for
+    2019 are World Bank staff estimates based on the market data. Short-term debt for 2019 is based on
+    data from the BIS.
+  LBN: Long-term public and publicly guaranteed, long-term private nonguaranteed and short-term debt data
+    for 2019 are based on reports provided by the country.
+  LBR: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country and World Bank staff estimates based on the original terms of the loans. Long-term private
+    nonguaranteed debt data for 2019 are World Bank staff estimates based on the market data. Data include
+    the effects of Paris Club rescheduling agreement signed in 2008 and 2010, and HIPC and MDRI debt relief.
+  LCA: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt for 2019 is
+    sourced by the Quarterly External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  LKA: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  LSO: Long-term public and publicly guaranteed and short-term debt data for 2019 are based on reports
+    provided by the country. Long-term private nonguaranteed debt data are not available. Short-term debt
+    for 2019 is based on data from the BIS.
+  MAR: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  MDA: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  MDG: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data for 2019 are World Bank staff estimates based on
+    the market data. Short-term debt for 2019 is based on data from the BIS. Data include the effects
+    of HIPC and MDRI debt relief.
+  MDV: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data for 2019 are World Bank staff estimates. Short-term
+    debt for 2019 is based on data from the BIS.
+  MEX: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  MKD: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  MLI: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country and World Bank staff estimates based on the original terms of the loans. Long-term private
+    nonguaranteed debt data are not available. Short-term debt for 2019 is based on data from the BIS.
+    Data include the effects of HIPC and MDRI debt relief.
+  MMR: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data for 2019 are World Bank staff estimates based on
+    the market data. Short-term debt data are not available. Data include HIPC debt relief.
+  MNE: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data for 2019 are World Bank staff estimates. Short-term
+    debt for 2019 is based on data from the BIS.
+  MNG: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed and short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  MOZ: Long-term public and publicly guaranteed for 2019 are based on reports provided by the country
+    and World Bank staff estimates based on the original terms of the loans.  Long-term private nonguaranteed
+    debt data for 2019 are based on reports provided by the country. Short-term debt for 2019 is based
+    on data from the BIS. Data include HIPC and MDRI debt relief.
+  MRT: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt for 2019 is
+    based on data from the BIS. Data include the effects of MDRI debt relief.
+  MUS: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2018
+    are based on reports provided by the country. Short-term debt data for 2018 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  MWI: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt for 2019 is
+    based on data from the BIS. Data include the effects of Paris Club rescheduling agreement signed in
+    2006 and HIPC and MDRI debt relief.
+  MYS: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2016
+    are World Bank staff estimates based on reports provided by the country. Short-term debt data for
+    2016 are sourced by the Quarterly External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  NER: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt for 2019 is
+    based on data from the BIS. Data include the effects of HIPC and MDRI debt relief.
+  NGA: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country.  Long-term private nonguaranteed debt data are World Bank staff estimates based on the market
+    data.
+  NIC: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are based on reports provided
+    by the country. Data include the effects of HIPC and MDRI debt relief.
+  NPL: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed and short-term debt data for 2019 are World Bank staff estimates
+    based on the Quarterly External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  PAK: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  PAN: Long-term public and publicly guaranteed debt data for 2016 are based on reports provided by the
+    country. Long-term private nonguaranteed and short-term debt data for 2016 is sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  PER: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed and short-term debt data for 2019 is sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).  Data for 2007 include
+    Bond prepayment and prepayment to Paris Club creditors.
+  PHL: Long-term public and publicly guaranteed, long-term private nonguaranteed, and short-term debt
+    data for 2019 are based on reports provided by the country. Long-term private nonguaranteed debt data
+    no longer include unregistered debt and are revised from 2005 based on the reports provided by the
+    country.
+  PNG: Long-term public and publicly guaranteed debt data for 2019 is based on reports provided by the
+    country. Long-term private nonguaranteed debt for 2019 is sourced by the Quarterly External Debt Statistics
+    database (http://datatopics.worldbank.org/debt/qeds). Short-term debt for 2019 is based on data from
+    the BIS.
+  PRY: Long-term public and publicly guaranteed for 2019 are based on reports provided by the country.
+    Long-term private nonguaranteed debt and short-term debt for 2019 are based on Central Bank data.
+  ROU: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2018
+    are based on reports provided by the country. Short-term debt for 2018 is sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  RUS: Long-term public and publicly guaranteed, long-term private nonguaranteed, and short-term debt
+    data for 2019 are World Bank staff estimates based on country aggregate reports.
+  RWA: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed and Short-term debt for 2019 is sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds). Data include the effects
+    of HIPC and MDRI debt relief.
+  SDN: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt for 2019 is
+    based on data from the BIS.
+  SEN: Long-term public and publicly guaranteed, and short-term debt data for 2019 are based on reports
+    provided by the country. Long-term private nonguaranteed debt data for 2019 are World Bank staff estimates.
+    Data include the effects of Paris Club debt restructuring agreement and HIPC and MDRI debt relief.
+  SLB: Long-term public and publicly guaranteed debt and long-term private nonguaranteed debt data for
+    2019 are based on reports provided by the country. Short-term debt data for 2019 is sourced by the
+    Quarterly External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  SLE: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt data for 2019
+    are sourced by the Quarterly External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+    Data include the effects of Paris Club debt restructuring agreement and HIPC and MDRI debt relief.
+  SLV: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  SOM: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data and short-term debt data are not available. Beginning
+    in 2018, the data reflects the outstanding debt stock, principal and interest arrears, and includes
+    late interest/penalties amounts following the reconcilation excercise by Goverment of Somalia with
+    respective creditors.
+  SRB: Long-term public and publicly guaranteed debt data,  long-term private nonguaranteed debt data
+    and short-term debt data for 2019 are based on reports provided by the country.
+  STP: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt for 2019 is
+    based on data from the BIS. Data include HIPC and MDRI debt relief.
+  SWZ: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt for 2019 is
+    based on data from the BIS.
+  SYR: Long-term public and publicly guaranteed debt data for 2019 are World Bank staff estimates based
+    on the original terms of the loans. Long-term private nonguaranteed debt data are not available. Short-term
+    debt for 2019 is based on data from the BIS.
+  TCD: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt data for 2019
+    is based on data from the BIS. Data include the effects of HIPC debt relief.
+  TGO: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt for 2019 is
+    based on data from the BIS. Data include the effects of Paris Club debt restructuring agreement and
+    HIPC and MDRI debt relief.
+  THA: Long-term public and publicly guaranteed, long-term private nonguaranteed, and short-term debt
+    data for 2019 are based on reports provided by the country.
+  TJK: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt for 2019 is sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds). Data include MDRI debt
+    relief.
+  TKM: Long-term public and publicly guaranteed debt data for 2019 are World Bank staff estimates based
+    on the original terms of the loans. Long-term private nonguaranteed debt data (excluding bonds) only
+    cover European Bank for Reconstruction and Development lending. Short-term debt for 2019 is based
+    on data from the BIS.
+  TLS: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt for 2019 is
+    based on data from the BIS.
+  TON: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country.  Long-term private nonguaranteed debt and short-term debt data for 2019 are not available.
+  TUN: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data and short-term debt data for 2019 are sourced by
+    the Quarterly External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  TUR: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  TZA: Long-term public and publicly guaranteed debt data for 2019 are World Bank staff estimates based
+    on the original terms of the loans. Long-term private nonguaranteed debt data for 2019 are based on
+    Central Bank data. Short-term debt for 2019 is based on data from the BIS. Data include the effects
+    of HIPC and MDRI debt relief.
+  UGA: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed and short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds). Data include the effects
+    of HIPC and MDRI debt relief.
+  UKR: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  UZB: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 is based on data from
+    the BIS.
+  VCT: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt data are excluded
+    since BIS data include debt liabilities of offshore centers located in the country. BIS short-term
+    debt data for 2015, 2016, 2017, 2018 and 2019 are $676 million, $806 million, $787 million, $532 million,
+    and $363 million respectively.
+  VEN: Long-term public and publicly guaranteed debt data for 2019 are World Bank staff estimates based
+    on the original terms of the loans and creditors data. Long-term private nonguaranteed and short-term
+    debt data for 2019 are World Bank staff estimates based on country reports.
+  VNM: Long-term public and publicly guaranteed debt data for 2019 are World Bank staff estimates based
+    on the original terms of the loans. Long-term private nonguaranteed debt data for 2019 are based on
+    reports provided by the country. Short-term debt data for 2019 are based on reports provided by the
+    country.
+  VUT: Long-term public and publicly guaranteed debt data for 2019 are World Bank staff estimates based
+    on the original terms of the loans. Long-term private nonguaranteed debt data are not available. Short-term
+    debt for 2019 is based on data from the BIS.
+  WSM: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data are not available. Short-term debt data are excluded
+    since BIS data include debt liabilities of offshore centers located in the country.  BIS short-term
+    debt data for 2017, 2018 and 2019 are $4.2 billion, $4.4 billion, and $4.5 billion, respectively.
+  XKX: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  YEM: Long-term public and publicly guaranteed debt data for 2019 are World Bank staff estimates based
+    on the original terms of the loans. Long-term private nonguaranteed debt data are not available. Short-term
+    debt for 2019 is based on data from the BIS.
+  ZAF: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    are based on reports provided by the country. Short-term debt data for 2019 are sourced by the Quarterly
+    External Debt Statistics database (http://datatopics.worldbank.org/debt/qeds).
+  ZMB: Long-term public and publicly guaranteed debt data for 2019 are based on reports provided by the
+    country. Long-term private nonguaranteed debt data for 2019 are sourced by the Quarterly External
+    Debt Statistics database (http://datatopics.worldbank.org/debt/qeds). Short-term debt for 2019 is
+    based on data from the BIS. The 2019 debt stock reflect new methodology and coverage of debt.
+  ZWE: Long-term public and publicly guaranteed and long-term private nonguaranteed debt data for 2019
+    is based on reports provided by the country. Short-term debt for 2019 is based on data from the BIS.
+id: DT.DOD.DECT.CD
+name: External debt stocks, total (DOD, current US$)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, International Debt Statistics.
+topics:
+- id: '3'
+  value: Economy & Growth
+- id: '20'
+  value: External Debt
+unit: ''

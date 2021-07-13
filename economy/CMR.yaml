@@ -1,0 +1,29 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Central African CFA franc
+ExternaldebtReportingstatus: Actual
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Lower middle income
+Latesthouseholdsurvey: Malaria Indicator Survey, 2020/21
+Latestindustrialdata: '2002'
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2017'
+Latestwaterwithdrawaldata: '2000'
+LongName: Republic of Cameroon
+Nationalaccountsbaseyear: '2005'
+Othergroups: HIPC
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Priority survey (PS), 2014
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: Special trade system
+adminregion: SSA
+capitalCity: Yaounde
+id: CMR
+incomelevel: LMC
+iso2Code: CM
+latitude: 3.8721
+lendingtype: IDB
+longitude: 11.5174
+name: Cameroon
+region: SSF

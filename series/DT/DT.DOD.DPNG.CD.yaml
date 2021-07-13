@@ -1,0 +1,51 @@
+Aggregationmethod: Sum
+Dataset: International Debt Statistics
+Developmentrelevance: 'External indebtedness affects a country''s creditworthiness and investor perceptions.
+  Nonreporting countries might have outstanding debt with the World Bank, other international financial
+  institutions, or private creditors. Total debt service is contrasted with countries'' ability to obtain
+  foreign exchange through exports of goods, services, primary income, and workers'' remittances.
+
+
+  Debt ratios are used to assess the sustainability of a country''s debt service obligations, but no absolute
+  rules determine what values are too high. Empirical analysis of developing countries'' experience and
+  debt service performance shows that debt service difficulties become increasingly likely when the present
+  value of debt reaches 200 percent of exports. Still, what constitutes a sustainable debt burden varies
+  by country. Countries with fast-growing economies and exports are likely to be able to sustain higher
+  debt levels.'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Shortdefinition: Private nonguaranteed external debt comprises long-term external obligations of private
+  debtors that are not guaranteed for repayment by a public entity. Data are in current U.S. dollars.
+Source: World Bank, International Debt Statistics.
+Statisticalconceptandmethodology: Data on external debt are gathered through the World Bank's Debtor Reporting
+  System (DRS). Long term debt data are compiled using the countries report on public and publicly guaranteed
+  borrowing on a loan-by-loan basis and private non guaranteed borrowing on an aggregate basis. These
+  data are supplemented by information from major multilateral banks and official lending agencies in
+  major creditor countries. Short-term debt data are gathered from the Quarterly External Debt Statistics
+  (QEDS) database, jointly developed by the World Bank and the IMF and from creditors through the reporting
+  systems of the Bank for International Settlements. Debt data are reported in the currency of repayment
+  and compiled and published in U.S. dollars. End-of-period exchange rates are used for the compilation
+  of stock figures (amount of debt outstanding), and projected debt service and annual average exchange
+  rates are used for the flows. Exchange rates are taken from the IMF's International Financial Statistics.
+  Debt repayable in multiple currencies, goods, or services and debt with a provision for maintenance
+  of the value of the currency of repayment are shown at book value.
+Topic: 'Economic Policy & Debt: External debt: Debt outstanding'
+description: Private nonguaranteed external debt comprises long-term external obligations of private debtors
+  that are not guaranteed for repayment by a public entity. Data are in current U.S. dollars.
+economies:
+  ARG: Provincial debt for long-term private nonguaranteed debt data are World Bank staff estimates.
+  IND: Data prior to 2003 are mechanically adjusted from fiscal year to calendar year.
+  PHL: 'Long-term private nonguaranteed debt includes the following monitored aggregate private-sector
+    debt: unregistered debt, intercompany debt and capital leases.'
+  URY: Data on private nonguaranteed debt only cover Inter-American Development Bank and Bonds.
+id: DT.DOD.DPNG.CD
+name: External debt stocks, private nonguaranteed (PNG) (DOD, current US$)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, International Debt Statistics.
+topics:
+- id: '20'
+  value: External Debt
+unit: ''

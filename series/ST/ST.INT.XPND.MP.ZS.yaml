@@ -1,0 +1,100 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: 'Tourism is officially recognized as a directly measurable activity, enabling more
+  accurate analysis and more effective policy. Whereas previously the sector relied mostly on approximations
+  from related areas of measurement (e.g. Balance of Payments statistics), tourism today possesses a range
+  of instruments to track its productive activities and the activities of the consumers that drive them:
+  visitors (both tourists and excursionists).
+
+
+  An increasing number of countries have opened up and invested in tourism development, making tourism
+  a key driver of socio-economic progress through export revenues, the creation of jobs and enterprises,
+  and infrastructure development. As an internationally traded service, inbound tourism has become one
+  of the world''s major trade categories. For many developing countries it is one of the main sources
+  of foreign exchange income and a major component of exports, creating much needed employment and development
+  opportunities.
+
+
+  This measure reflects the importance of tourism as an internationally traded service relative to other
+  categories of imports. Such a measure reveals the predilection for tourism in a country''s import structure
+  and the relative degree of an economy''s domestic revenue outflows due to international tourism.'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: 'Tourism can be either domestic or international. The data refers to international
+  tourism, where the traveler''s country of residence differs from the visiting country. International
+  tourism consists of inbound (arrival) and outbound (departures) tourism.
+
+
+  The data are from the World Tourism Organization (WTO), a United Nations agency. The data on inbound
+  and outbound tourists refer to the number of arrivals and departures, not to the number of people traveling.
+
+
+  Expenditure associated with the activity of international visitors has been traditionally identified
+  with the travel item of the Balance of Payments (BOP).
+
+
+  The 2008 International Recommendations for Tourism Statistics consider that "tourism industries and
+  products" includes transport of passengers. Consequently, a better estimate of tourism-related expenditure
+  by inbound and outbound visitors in an international scenario would be, in terms of the BOP, the value
+  of the travel item plus that of the passenger transport item.
+
+
+  Nevertheless, users should be aware that BOP estimates include, in addition to expenditures associated
+  to visitors, those related to other types of travelers (these might be substantial in some countries;
+  for instance, long-term students or patients, border and seasonal workers, etc.). Also data on expenditure
+  by main purpose of the trip are BOP data.'
+Periodicity: Annual
+Source: World Tourism Organization, Yearbook of Tourism Statistics, Compendium of Tourism Statistics and
+  data files, and IMF and World Bank imports estimates.
+Statisticalconceptandmethodology: 'Outbound tourism expenditures may include those by residents traveling
+  abroad as same-day visitors, except when these are important enough to justify separate classification.
+  For some countries they do not include expenditures for passenger transport items. Their share in imports
+  is calculated as a ratio to imports of goods and services (all transactions between residents of a country
+  and the rest of the world involving a change of ownership from nonresidents to residents of general
+  merchandise, goods sent for processing and repairs, nonmonetary gold, and services).
+
+
+  International tourism expenditures'' share in imports is calculated as a ratio to imports of goods and
+  services, which comprise all transactions between residents of a country and the rest of the world involving
+  a change of ownership from nonresidents to residents of general merchandise, goods sent for processing
+  and repairs, nonmonetary gold, and services.
+
+
+  Statistical information on tourism is based mainly on data on arrivals and overnight stays along with
+  balance of payments information. These data do not completely capture the economic phenomenon of tourism
+  or provide the information needed for effective public policies and efficient business operations. Data
+  are needed on the scale and significance of tourism. Information on the role of tourism in national
+  economies is particularly deficient. Although the World Tourism Organization reports progress in harmonizing
+  definitions and measurement, differences in national practices still prevent full comparability.
+
+
+  The World Tourism Organization is improving its coverage of tourism expenditure data, using balance
+  of payments data from the International Monetary Fund (IMF) supplemented by data from individual countries.
+  These data include travel and passenger transport items as defined in the IMF''s Balance of Payments.
+  When the IMF does not report data on passenger transport items, expenditure data for travel items are
+  shown.
+
+
+  The aggregates are calculated using the World Bank''s weighted aggregation methodology and differ from
+  the World Tourism Organization''s aggregates.'
+Topic: 'Private Sector & Trade: Travel & tourism'
+description: International tourism expenditures are expenditures of international outbound visitors in
+  other countries, including payments to foreign carriers for international transport. These expenditures
+  may include those by residents traveling abroad as same-day visitors, except in cases where these are
+  important enough to justify separate classification. For some countries they do not include expenditures
+  for passenger transport items. Their share in imports is calculated as a ratio to imports of goods and
+  services, which comprise all transactions between residents of a country and the rest of the world involving
+  a change of ownership from nonresidents to residents of general merchandise, goods sent for processing
+  and repairs, nonmonetary gold, and services.
+id: ST.INT.XPND.MP.ZS
+name: International tourism, expenditures (% of total imports)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Tourism Organization, Yearbook of Tourism Statistics, Compendium of Tourism
+  Statistics and data files, and IMF and World Bank imports estimates.
+topics:
+- id: '12'
+  value: Private Sector
+- id: '21'
+  value: Trade
+unit: ''

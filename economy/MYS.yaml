@@ -1,0 +1,31 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Malaysian ringgit
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: Upper middle income
+Latestagriculturalcensus: 2015. Economic Census, Natural Resources Census, Livestock Census, Livestock
+  and Aquaculture Census or Sample Agricultural Census.
+Latesthouseholdsurvey: World Health Survey, 2003
+Latestindustrialdata: '2012'
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2005'
+LongName: Malaysia
+Nationalaccountsbaseyear: '2015'
+PPPsurveyyear: 2017, 2011
+Region: East Asia & Pacific
+SNApricevaluation: Value added at producer prices (VAP)
+SourceofmostrecentIncomeandexpendituredata: Income survey (IS), 2015
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: EAP
+capitalCity: Kuala Lumpur
+id: MYS
+incomelevel: UMC
+iso2Code: MY
+latitude: 3.12433
+lendingtype: IBD
+longitude: 101.684
+name: Malaysia
+region: EAS

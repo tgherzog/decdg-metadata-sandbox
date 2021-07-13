@@ -1,0 +1,30 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Afghan afghani
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Low income
+Latesthouseholdsurvey: Demographic and Health Survey, 2015
+Latestpopulationcensus: '1979'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2000'
+LongName: Islamic State of Afghanistan
+Nationalaccountsbaseyear: '2016'
+Othergroups: HIPC
+PPPsurveyyear: PPPs are imputed for 2011 and 2017 based on a regression model
+Region: South Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2016/17
+SpecialNotes: 'Fiscal year end: March 20; reporting period for national accounts data: FY.'
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: SAS
+capitalCity: Kabul
+id: AFG
+incomelevel: LIC
+iso2Code: AF
+latitude: 34.5228
+lendingtype: IDX
+longitude: 69.1761
+name: Afghanistan
+region: SAS

@@ -1,0 +1,276 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: The crude mortality rate is a good indicator of the general health status of a geographic
+  area or population. The crude death rate is not appropriate for comparison of different populations
+  or areas with large differences in age-distributions. Higher crude death rates can be found in some
+  developed countries, despite high life expectancy, because typically these countries have a much higher
+  proportion of older people, due to lower recent birth rates and lower age-specific mortality rates.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: Vital registers are the preferred source for these data, but in many developing
+  countries systems for registering births and deaths are absent or incomplete because of deficiencies
+  in the coverage of events or geographic areas. Many developing countries carry out special household
+  surveys that ask respondents about recent births and deaths. Estimates derived in this way are subject
+  to sampling errors and recall errors.
+Periodicity: Annual
+Shortdefinition: Crude death rate indicates the number of deaths per 1,000 midyear population.
+Source: '(1) United Nations Population Division. World Population Prospects: 2019 Revision. (2) Census
+  reports and other statistical publications from national statistical offices, (3) Eurostat: Demographic
+  Statistics, (4) United Nations Statistical Division. Population and Vital Statistics Reprot (various
+  years), (5) U.S. Census Bureau: International Database, and (6) Secretariat of the Pacific Community:
+  Statistics and Demography Programme.'
+Statisticalconceptandmethodology: 'The crude death rate is calculated as the number of deaths in a given
+  period divided by the population exposed to risk of death in that period. For human populations the
+  period is usually one year and, if the population changes in size over the year, the divisor is taken
+  as the population at the mid-year. The rate is usually expressed in terms of 1,000 people: for example,
+  a crude death rate of 9.5 (per 1000 people) in a population of 1 million would imply 9500 deaths per
+  year in the entire population. Subtracting the crude death rate from the crude birth rate provides the
+  rate of natural increase, which is equal to the rate of population change in the absence of migration.
+
+
+  Vital rates are based on data from birth and death registration systems, censuses, and sample surveys
+  by national statistical offices and other organizations, or on demographic analysis. Data for the most
+  recent year for some high-income countries are provisional estimates based on vital registers. The estimates
+  for many countries are projections based on extrapolations of levels and trends from earlier years or
+  interpolations of population estimates and projections from the United Nations Population Division.'
+Topic: 'Health: Population: Dynamics'
+description: Crude death rate indicates the number of deaths occurring during the year, per 1,000 population
+  estimated at midyear. Subtracting the crude death rate from the crude birth rate provides the rate of
+  natural increase, which is equal to the rate of population change in the absence of migration.
+economies:
+  ABW: 'Data source: United Nations World Population Prospects'
+  AFG: 'Data source: United Nations World Population Prospects'
+  AGO: 'Data source: United Nations World Population Prospects'
+  ALB: 'Data source: United Nations World Population Prospects'
+  AND: 'Data source: Eurostat'
+  ARE: 'Data source: United Nations World Population Prospects'
+  ARG: 'Data source: United Nations World Population Prospects'
+  ARM: 'Data source: United Nations World Population Prospects'
+  ASM: 'Data source: United Nations Population and Vital Statistics Report'
+  ATG: 'Data source: United Nations Population and Vital Statistics Report'
+  AUS: 'Data source: Australian Bureau of Statistics'
+  AUT: 'Data source: Eurostat'
+  AZE: 'Data source: State Statistical Committee, United Nations World Population Prospects'
+  BDI: 'Data source: United Nations World Population Prospects'
+  BEL: 'Data source: Eurostat, National Institute of Statistics'
+  BEN: 'Data source: United Nations World Population Prospects'
+  BFA: 'Data source: United Nations World Population Prospects'
+  BGD: 'Data source: United Nations World Population Prospects'
+  BGR: 'Data source: Eurostat, National Statistical Institute'
+  BHR: 'Data source: United Nations World Population Prospects'
+  BHS: 'Data source: United Nations World Population Prospects'
+  BIH: 'Data source: United Nations World Population Prospects'
+  BLR: 'Data source: Eurostat, TransMONEE, United Nations World Population Prospects'
+  BLZ: 'Data source: United Nations World Population Prospects'
+  BMU: 'Data source: Bermuda Government Department of Statistics, United Nations Population and Vital
+    Statistics Report'
+  BOL: 'Data source: United Nations World Population Prospects'
+  BRA: 'Data source: United Nations World Population Prospects'
+  BRB: 'Data source: United Nations World Population Prospects'
+  BRN: 'Data source: United Nations World Population Prospects'
+  BTN: 'Data source: United Nations World Population Prospects'
+  BWA: 'Data source: United Nations World Population Prospects'
+  CAF: 'Data source: United Nations World Population Prospects'
+  CAN: 'Data source: Statistics Canada, United Nations Population and Vital Statistics Report, United
+    Nations World Population Prospects'
+  CHE: 'Data source: Eurostat'
+  CHI: 'Data source: United Nations World Population Prospects'
+  CHL: 'Data source: United Nations World Population Prospects'
+  CHN: 'Data source: National Bureau of Statistics'
+  CIV: 'Data source: United Nations World Population Prospects'
+  CMR: 'Data source: United Nations World Population Prospects'
+  COD: 'Data source: United Nations World Population Prospects'
+  COG: 'Data source: United Nations World Population Prospects'
+  COL: 'Data source: United Nations World Population Prospects'
+  COM: 'Data source: United Nations World Population Prospects'
+  CPV: 'Data source: United Nations World Population Prospects'
+  CRI: 'Data source: United Nations World Population Prospects'
+  CUB: 'Data source: United Nations World Population Prospects'
+  CUW: 'Data source: Central bureau of Statistics'
+  CYM: 'Data source: Economics and Statistics Office of Government of the Cayman Islands'
+  CYP: 'Data source: United Nations World Population Prospects'
+  CZE: 'Data source: Eurostat'
+  DEU: 'Data source: Eurostat'
+  DJI: 'Data source: United Nations World Population Prospects'
+  DMA: 'Data source: United Nations Population and Vital Statistics Report'
+  DNK: 'Data source: Eurostat'
+  DOM: 'Data source: United Nations World Population Prospects'
+  DZA: 'Data source: United Nations World Population Prospects'
+  ECU: 'Data source: United Nations World Population Prospects'
+  EGY: 'Data source: United Nations World Population Prospects'
+  ERI: 'Data source: United Nations World Population Prospects'
+  ESP: 'Data source: Eurostat'
+  EST: 'Data source: Eurostat'
+  ETH: 'Data source: United Nations World Population Prospects'
+  FIN: 'Data source: Eurostat'
+  FJI: 'Data source: United Nations World Population Prospects'
+  FRA: "Data source and note: Eurostat, United Nations World Population Prospects. Including the French\
+    \ overseas departments of French Guiana, Guadeloupe, Martinique, R\xE9union."
+  FRO: 'Data source: Statistics Faroe Islands'
+  FSM: 'Data source: United Nations World Population Prospects'
+  GAB: 'Data source: United Nations World Population Prospects'
+  GBR: 'Data source: Eurostat'
+  GEO: 'Data source and note: United Nations World Population Prospects. Including Abkhazia and South
+    Ossetia.'
+  GHA: 'Data source: United Nations World Population Prospects'
+  GIN: 'Data source: United Nations World Population Prospects'
+  GMB: 'Data source: United Nations World Population Prospects'
+  GNB: 'Data source: United Nations World Population Prospects'
+  GNQ: 'Data source: United Nations World Population Prospects'
+  GRC: 'Data source: Eurostat'
+  GRD: 'Data source: United Nations World Population Prospects'
+  GRL: 'Data source: Statistics Greenland'
+  GTM: 'Data source: United Nations World Population Prospects'
+  GUM: 'Data source: United Nations World Population Prospects'
+  GUY: 'Data source: United Nations World Population Prospects'
+  HKG: 'Data source: Census and Statistics Department'
+  HND: 'Data source: United Nations World Population Prospects'
+  HRV: 'Data source: Croatian Bureau of Statistics, Eurostat'
+  HTI: 'Data source: United Nations World Population Prospects'
+  HUN: 'Data source: Eurostat'
+  IDN: 'Data source: United Nations World Population Prospects'
+  IMN: 'Data source: United Nations Population and Vital Statistics Report'
+  IND: 'Data source: United Nations Population and Vital Statistics Report, Sample Registration System,
+    United Nations World Population Prospects'
+  IRL: 'Data source: Eurostat'
+  IRN: 'Data source: United Nations World Population Prospects'
+  IRQ: 'Data source: United Nations World Population Prospects'
+  ISL: 'Data source: Eurostat'
+  ISR: 'Data source: Central Bureau of Statistics'
+  ITA: 'Data source: Eurostat'
+  JAM: 'Data source: United Nations World Population Prospects'
+  JOR: 'Data source: United Nations World Population Prospects'
+  JPN: 'Data source: Ministry of Internal Affairs and Communications, Statistics Bureau; United Nations
+    Population and Vital Statistics Report'
+  KAZ: 'Data source: Statistical Agency of Kazakhstan, United Nations World Population Prospects'
+  KEN: 'Data source: United Nations World Population Prospects'
+  KGZ: 'Data source: National Statistics Committee, United Nations World Population Prospects'
+  KHM: 'Data source: United Nations World Population Prospects'
+  KIR: 'Data source: United Nations World Population Prospects'
+  KNA: 'Data source: United Nations Population and Vital Statistics Report'
+  KOR: 'Data source: Korean Statistical Information Service'
+  KWT: 'Data source: United Nations World Population Prospects'
+  LAO: 'Data source: United Nations World Population Prospects'
+  LBN: 'Data source: United Nations World Population Prospects'
+  LBR: 'Data source: United Nations World Population Prospects'
+  LBY: 'Data source: United Nations World Population Prospects'
+  LCA: 'Data source: United Nations World Population Prospects'
+  LIE: 'Data source: Eurostat'
+  LKA: 'Data source: United Nations World Population Prospects'
+  LSO: 'Data source: United Nations World Population Prospects'
+  LTU: 'Data source: Eurostat'
+  LUX: 'Data source: Eurostat'
+  LVA: 'Data source: Eurostat'
+  MAC: 'Data source: United Nations World Population Prospects'
+  MAF: 'Data source: U.S. Census Bureau'
+  MAR: 'Data source: United Nations World Population Prospects'
+  MCO: 'Data source: Eurostat'
+  MDA: 'Data source and note: United Nations World Population Prospects. Including Transnistria.'
+  MDG: 'Data source: United Nations World Population Prospects'
+  MDV: 'Data source: United Nations World Population Prospects'
+  MEX: 'Data source: United Nations World Population Prospects'
+  MHL: 'Data source: Economic Policy, Planning and Statistics Office'
+  MKD: 'Data source: United Nations World Population Prospects'
+  MLI: 'Data source: United Nations World Population Prospects'
+  MLT: 'Data source: Eurostat'
+  MMR: 'Data source: United Nations World Population Prospects'
+  MNE: 'Data source: United Nations World Population Prospects'
+  MNG: 'Data source: United Nations World Population Prospects'
+  MNP: 'Data source: United Nations Population and Vital Statistics Report'
+  MOZ: 'Data source: United Nations World Population Prospects'
+  MRT: 'Data source: United Nations World Population Prospects'
+  MUS: 'Data source: Statistics Mauritius'
+  MWI: 'Data source: United Nations World Population Prospects'
+  MYS: 'Data source: United Nations World Population Prospects'
+  NAM: 'Data source: United Nations World Population Prospects'
+  NCL: 'Data source: Institute of Statistics and Economic Studies, United Nations World Population Prospects'
+  NER: 'Data source: United Nations World Population Prospects'
+  NGA: 'Data source: United Nations World Population Prospects'
+  NIC: 'Data source: United Nations World Population Prospects'
+  NLD: 'Data source: Eurostat'
+  NOR: 'Data source: Eurostat'
+  NPL: 'Data source: United Nations World Population Prospects'
+  NZL: 'Data source: Statistics New Zealand'
+  OMN: 'Data source: United Nations World Population Prospects'
+  PAK: 'Data source: United Nations World Population Prospects'
+  PAN: 'Data source: United Nations World Population Prospects'
+  PER: 'Data source: United Nations World Population Prospects'
+  PHL: 'Data source: United Nations World Population Prospects'
+  PLW: 'Data source: Bureau of Budget and Planning, Office of Planning and Statistics'
+  PNG: 'Data source: United Nations World Population Prospects'
+  POL: 'Data source: Eurostat'
+  PRI: 'Data source: U.S. Census Bureau, Centers for Disease Control and Prevention'
+  PRK: 'Data source: United Nations World Population Prospects'
+  PRT: 'Data source: Eurostat'
+  PRY: 'Data source: United Nations World Population Prospects'
+  PSE: 'Data source and note: Palestinian Central Bureau of Statistics, United Nations World Population
+    Prospects (for State of Palestine)'
+  PYF: 'Data source: United Nations World Population Prospects'
+  QAT: 'Data source: United Nations World Population Prospects'
+  ROU: 'Data source: Eurostat'
+  RUS: 'Data source: Russian Federation Federal State Statistics Service, United Nations World Population
+    Prospects'
+  RWA: 'Data source: United Nations World Population Prospects'
+  SAU: 'Data source: United Nations World Population Prospects'
+  SDN: 'Data source: United Nations World Population Prospects. Estimates are for Sudan excluding South
+    Sudan.'
+  SEN: 'Data source: United Nations World Population Prospects'
+  SGP: 'Data source: Department of Statistics Singapore'
+  SLB: 'Data source: United Nations World Population Prospects'
+  SLE: 'Data source: United Nations World Population Prospects'
+  SLV: 'Data source: United Nations World Population Prospects'
+  SMR: 'Data source: Eurostat'
+  SOM: 'Data source: United Nations World Population Prospects'
+  SRB: 'Data source: Eurostat'
+  SSD: 'Data source: United Nations World Population Prospects'
+  STP: 'Data source: United Nations World Population Prospects'
+  SUR: 'Data source: United Nations World Population Prospects'
+  SVK: 'Data source: Eurostat'
+  SVN: 'Data source: Eurostat'
+  SWE: 'Data source: Eurostat'
+  SWZ: 'Data source: United Nations World Population Prospects'
+  SXM: 'Data source: Department of Statistics, St. Maarten; United Nations Population and Vital Statistics
+    Report'
+  SYC: 'Data source: National Bureau of Statistics'
+  SYR: 'Data source: United Nations World Population Prospects'
+  TCD: 'Data source: United Nations World Population Prospects'
+  TGO: 'Data source: United Nations World Population Prospects'
+  THA: 'Data source: United Nations World Population Prospects'
+  TJK: 'Data source: United Nations World Population Prospects'
+  TKM: 'Data source: United Nations World Population Prospects'
+  TLS: 'Data source: United Nations World Population Prospects'
+  TON: 'Data source: United Nations World Population Prospects'
+  TTO: 'Data source: United Nations World Population Prospects'
+  TUN: 'Data source: United Nations World Population Prospects'
+  TUR: 'Data source: United Nations World Population Prospects'
+  TZA: 'Data source: United Nations World Population Prospects'
+  UGA: 'Data source: United Nations World Population Prospects'
+  UKR: 'Data source: State Statistics Committee of Ukraine, United Nations World Population Prospects'
+  URY: 'Data source: United Nations World Population Prospects'
+  USA: 'Data source: National Center for Health Statistics, U.S. Census Bureau'
+  UZB: 'Data source: State Committee of the Republic of Uzbekistan on Statistics, United Nations World
+    Population Prospects'
+  VCT: 'Data source: United Nations World Population Prospects'
+  VEN: 'Data source: United Nations World Population Prospects'
+  VIR: 'Data source: U.S. Census Bureau'
+  VNM: 'Data source: United Nations World Population Prospects'
+  VUT: 'Data source: United Nations World Population Prospects'
+  WSM: 'Data source: United Nations World Population Prospects'
+  XKX: 'Data source: U.S. Census Bureau'
+  YEM: 'Data source: United Nations World Population Prospects'
+  ZAF: 'Data source: United Nations World Population Prospects'
+  ZMB: 'Data source: United Nations World Population Prospects'
+  ZWE: 'Data source: United Nations World Population Prospects'
+id: SP.DYN.CDRT.IN
+name: Death rate, crude (per 1,000 people)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: '(1) United Nations Population Division. World Population Prospects: 2019 Revision.
+  (2) Census reports and other statistical publications from national statistical offices, (3) Eurostat:
+  Demographic Statistics, (4) United Nations Statistical Division. Population and Vital Statistics Reprot
+  (various years), (5) U.S. Census Bureau: International Database, and (6) Secretariat of the Pacific
+  Community: Statistics and Demography Programme.'
+topics:
+- id: '8'
+  value: 'Health '
+unit: ''

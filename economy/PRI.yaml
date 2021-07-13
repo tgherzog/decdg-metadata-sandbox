@@ -1,0 +1,26 @@
+CurrencyUnit: U.S. dollar
+IncomeGroup: High income
+Latestagriculturalcensus: '2012'
+Latesthouseholdsurvey: Reproductive Health Survey, 1995/96
+Latestindustrialdata: '2006'
+Latestpopulationcensus: 2020 (expected)
+Latestwaterwithdrawaldata: '2010'
+LongName: Puerto Rico
+Nationalaccountsbaseyear: '1954'
+PPPsurveyyear: PPPs are imputed for 2011 and 2017 based on a regression model
+Region: Latin America & Caribbean
+SNApricevaluation: Value added at producer prices (VAP)
+SpecialNotes: 'Fiscal year end: June 30; reporting period for national accounts data: FY.'
+SystemofNationalAccounts: Country uses the 1968 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: San Juan
+id: PRI
+incomelevel: HIC
+iso2Code: PR
+latitude: 18.23
+lendingtype: LNX
+longitude: -66.0
+name: Puerto Rico
+region: LCN

@@ -1,0 +1,79 @@
+Aggregationmethod: Sum
+Developmentrelevance: 'DAC exists to help its members coordinate their development assistance and to encourage
+  the expansion and improve the effectiveness of the aggregate resources flowing to recipient economies.
+  In this capacity DAC monitors the flow of all financial resources, but its main concern is official
+  development assistance (ODA). Grants or loans to countries and territories on the DAC list of aid recipients
+  have to meet three criteria to be counted as ODA. They are provided by official agencies, including
+  state and local governments, or by their executive agencies. They promote economic development and welfare
+  as the main objective. And they are provided on concessional financial terms (loans must have a grant
+  element of at least 25 percent, calculated at a discount rate of 10 percent). The DAC Statistical Reporting
+  Directives provide the most detailed explanation of this definition and all ODA-related rules.
+
+
+  OECD''s IDS database provides a set of readily available basic data that enables analysis on where aid
+  goes, what purposes it serves and what policies it aims to implement, on a comparable basis for all
+  DAC members. The aid data is most commonly used to analyze the sectoral and geographical breakdown of
+  aid for selected years and donors or groups of donors. The data can also be used to target specific
+  policy issues (e.g. tying status of aid) and monitor donors'' compliance with various international
+  recommendations in the field of development co-operation.'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: 'Data on ODA is for aid-receiving countries. The data cover loans and grants
+  from DAC member countries, multilateral organizations, and non-DAC donors. They do not reflect aid given
+  by recipient countries to other developing countries. As a result, some countries that are net donors
+  (such as Saudi Arabia) are shown as aid recipients. The indicator does not distinguish types of aid
+  (program, project, or food aid; emergency assistance; or post-conflict peacekeeping assistance), which
+  may have different effects on the economy.
+
+
+  Because this indicator relies on information from donors, it is not necessarily consistent with information
+  recorded by recipients in the balance of payments, which often excludes all or some technical assistance
+  - particularly payments to expatriates made directly by the donor. Similarly, grant commodity aid may
+  not always be recorded in trade data or in the balance of payments. Moreover, DAC statistics exclude
+  aid for military and antiterrorism purposes.
+
+
+  The aggregates refer to World Bank classifications of economies and therefore may differ from those
+  of the OECD.'
+Periodicity: Annual
+Source: World Bank, International Debt Statistics, and OECD.
+Statisticalconceptandmethodology: 'Technical cooperation contributions take the form mainly of the supply
+  of human resources from donors or action directed to human resources (such as training or advice). Also
+  included are aid for promoting development awareness and aid provided to refugees in the donor economy.
+  Assistance specifically to facilitate a capital project is not included. Technical cooperation ncludes
+  both grants to nationals of aid recipient countries receiving education or training at home or abroad
+  and payments to consultants, advisers and similar personnel as well as teachers and administrators serving
+  in recipient countries (including the cost of associated equipment).
+
+
+  The flows of official and private financial resources from the members of the Development Assistance
+  Committee (DAC) of the Organisation for Economic Co-operation and Development (OECD) to developing economies
+  are compiled by DAC, based principally on reporting by DAC members using standard questionnaires issued
+  by the DAC Secretariat. A network of statistical correspondents collects data from aid agencies and
+  government departments (central, state and local) on an ongoing basis. Their task is also to ensure
+  that reporting conforms to the Reporting Directives (definitions and classifications) agreed by the
+  DAC.
+
+
+  The official development assistance (ODA) estimates are published annually at the end of the calendar
+  year in International Development Statistics (IDS) database. Data are in current U.S. dollars.'
+Topic: 'Economic Policy & Debt: Balance of payments: Reserves & other items'
+description: Technical cooperation grants include free-standing technical cooperation grants, which are
+  intended to finance the transfer of technical and managerial skills or of technology for the purpose
+  of building up general national capacity without reference to any specific investment projects; and
+  investment-related technical cooperation grants, which are provided to strengthen the capacity to execute
+  specific investment projects. Data are in current U.S. dollars.
+id: BX.GRT.TECH.CD.WD
+name: Technical cooperation grants (BoP, current US$)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, International Debt Statistics, and OECD.
+topics:
+- id: '3'
+  value: Economy & Growth
+- id: '20'
+  value: External Debt
+- id: '2'
+  value: 'Aid Effectiveness '
+unit: ''

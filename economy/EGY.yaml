@@ -1,0 +1,33 @@
+BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
+CurrencyUnit: Egyptian pound
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: Lower middle income
+Latestagriculturalcensus: 2009-2010
+Latesthouseholdsurvey: Health Issues Survey, 2015
+Latestindustrialdata: '2012'
+Latestpopulationcensus: '2017'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2010'
+LongName: Arab Republic of Egypt
+Nationalaccountsbaseyear: 2016/17
+PPPsurveyyear: 2017, 2011
+Region: Middle East & North Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2015
+SpecialNotes: 'Fiscal year end: June 30; reporting period for national accounts data: FY for years 1980
+  and after. The data from 1973 to 1979 are calendar year data.'
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: MNA
+capitalCity: Cairo
+id: EGY
+incomelevel: LMC
+iso2Code: EG
+latitude: 30.0982
+lendingtype: IBD
+longitude: 31.2461
+name: Egypt, Arab Rep.
+region: MEA

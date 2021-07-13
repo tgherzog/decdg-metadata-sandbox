@@ -1,0 +1,31 @@
+Alternativeconversionfactor: "1990\u201395"
+CurrencyUnit: Uzbek som
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Lower middle income
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2006
+Latestpopulationcensus: '1989'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2005'
+LongName: Republic of Uzbekistan
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2010'
+PPPsurveyyear: 2017 (Experimental survey for individual consumption expenditure by households), 2017 GDP
+  PPPs and 2011 PPPs are imputed by a regression model
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2013
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ECA
+capitalCity: Tashkent
+id: UZB
+incomelevel: LMC
+iso2Code: UZ
+latitude: 41.3052
+lendingtype: IDB
+longitude: 69.269
+name: Uzbekistan
+region: ECS

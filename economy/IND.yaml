@@ -1,0 +1,31 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Indian rupee
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: Lower middle income
+Latestagriculturalcensus: 2010-2011
+Latesthouseholdsurvey: Demographic and Health Survey, 2019/20
+Latestindustrialdata: '2014'
+Latestpopulationcensus: '2011'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2010'
+LongName: Republic of India
+Nationalaccountsbaseyear: '2011'
+PPPsurveyyear: 2017, 2011
+Region: South Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2011/12
+SpecialNotes: 'Fiscal year end: March 31; reporting period for national accounts data: FY.'
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: SAS
+capitalCity: New Delhi
+id: IND
+incomelevel: LMC
+iso2Code: IN
+latitude: 28.6353
+lendingtype: IBD
+longitude: 77.225
+name: India
+region: SAS

@@ -1,0 +1,27 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Solomon Islands dollar
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Lower middle income
+Latesthouseholdsurvey: Solomon Islands Demographic and Health Survey, 2006/07
+Latestpopulationcensus: '2019'
+Latesttradedata: '2018'
+LongName: Solomon Islands
+Nationalaccountsbaseyear: '2012'
+PPPsurveyyear: 2011 (Only for individual consumption expenditure by households)
+Region: East Asia & Pacific
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2012/13
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: Special trade system
+adminregion: EAP
+capitalCity: Honiara
+id: SLB
+incomelevel: LMC
+iso2Code: SB
+latitude: -9.42676
+lendingtype: IDX
+longitude: 159.949
+name: Solomon Islands
+region: EAS

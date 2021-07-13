@@ -1,0 +1,33 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Euro
+ExternaldebtReportingstatus: Actual
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Upper middle income
+Latestagriculturalcensus: '2010'
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2018
+Latestpopulationcensus: '2011'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2010'
+LongName: Montenegro
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2006'
+PPPsurveyyear: Rolling surveys (annual estimation)
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2014
+SpecialNotes: Montenegro declared independence from Serbia and Montenegro on June 3, 2006. Where available,
+  data for each country are shown separately. However, for Serbia, some indicators continue to include
+  data for Montenegro through 2005.
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: Special trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ECA
+capitalCity: Podgorica
+id: MNE
+incomelevel: UMC
+iso2Code: ME
+latitude: 42.4602
+lendingtype: IBD
+longitude: 19.2595
+name: Montenegro
+region: ECS

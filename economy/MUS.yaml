@@ -1,0 +1,30 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Mauritian rupee
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: Upper middle income
+Latestagriculturalcensus: '2014'
+Latesthouseholdsurvey: World Health Survey, 2003
+Latestindustrialdata: '2012'
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2003'
+LongName: Republic of Mauritius
+Nationalaccountsbaseyear: '2006'
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2012
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: SSA
+capitalCity: Port Louis
+id: MUS
+incomelevel: UMC
+iso2Code: MU
+latitude: -20.1605
+lendingtype: IBD
+longitude: 57.4977
+name: Mauritius
+region: SSF

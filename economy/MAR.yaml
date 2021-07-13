@@ -1,0 +1,29 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Moroccan dirham
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: Lower middle income
+Latesthouseholdsurvey: Morocco National Survey on Population and Family Health, 2010/11
+Latestindustrialdata: '2013'
+Latestpopulationcensus: '2014'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2010'
+LongName: Kingdom of Morocco
+Nationalaccountsbaseyear: '2007'
+PPPsurveyyear: 2011, annual estimation for 2014-2017
+Region: Middle East & North Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2013
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: Special trade system
+adminregion: MNA
+capitalCity: Rabat
+id: MAR
+incomelevel: LMC
+iso2Code: MA
+latitude: 33.9905
+lendingtype: IBD
+longitude: -6.8704
+name: Morocco
+region: MEA

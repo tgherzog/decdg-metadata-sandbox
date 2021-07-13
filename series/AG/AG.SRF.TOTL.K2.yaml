@@ -1,0 +1,39 @@
+Aggregationmethod: Sum
+Developmentrelevance: 'Total surface area is particularly important for understanding an economy''s agricultural
+  capacity and the environmental effects of human activity. Innovations in satellite mapping and computer
+  databases have resulted in more precise measurements of land and water areas.
+
+
+  Population, surface area, income, and output are basic measures of the size of an economy. They also
+  provide a broad indication of actual and potential resources. Land area is therefore used as one of
+  the major indicator to normalize other indicators.'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: 'The data are collected by the Food and Agriculture Organization (FAO) of the
+  United Nations through annual questionnaires. The FAO tries to impose standard definitions and reporting
+  methods, but complete consistency across countries and over time is not possible.
+
+
+  The data collected from official national sources through the questionnaire are supplemented with information
+  from official secondary data sources. The secondary sources cover official country data from websites
+  of national ministries, national publications and related country data reported by various international
+  organizations.'
+Periodicity: Annual
+Source: Food and Agriculture Organization, electronic files and web site.
+Statisticalconceptandmethodology: Total land area includes inland water bodies such as major rivers and
+  lakes. Variations from year to year may be due to updated or revised data rather than to change in area.
+Topic: 'Environment: Land use'
+description: Surface area is a country's total area, including areas under inland bodies of water and
+  some coastal waterways.
+id: AG.SRF.TOTL.K2
+name: Surface area (sq. km)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Food and Agriculture Organization, electronic files and web site.
+topics:
+- id: '1'
+  value: 'Agriculture & Rural Development  '
+- id: '6'
+  value: 'Environment '
+unit: ''

@@ -1,0 +1,37 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: Reproductive health is a state of physical and mental well-being in relation to
+  the reproductive system and its functions and processes. Means of achieving reproductive health include
+  education and services during pregnancy and childbirth, safe and effective contraception, and prevention
+  and treatment of sexually transmitted diseases. Complications of pregnancy and childbirth are the leading
+  cause of death and disability among women of reproductive age in developing countries.
+Generalcomments: Contraceptive prevalence amongst women of reproductive age is an indicator of women's
+  empowerment and is related to maternal health, HIV/AIDS, and gender equality.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Source: UNICEF's State of the World's Children and Childinfo, United Nations Population Division's World
+  Contraceptive Use, household surveys including Demographic and Health Surveys and Multiple Indicator
+  Cluster Surveys.
+Statisticalconceptandmethodology: Contraceptive prevalence reflects all methods - ineffective traditional
+  methods as well as highly effective modern methods. Contraceptive prevalence rates are obtained mainly
+  from household surveys, including Demographic and Health Surveys, Multiple Indicator Cluster Surveys,
+  and contraceptive prevalence surveys. Unmarried women are often excluded from such surveys, which may
+  bias the estimates.
+Topic: 'Health: Reproductive health'
+description: Contraceptive prevalence rate is the percentage of women who are practicing, or whose sexual
+  partners are practicing, any form of contraception. It is usually measured for women ages 15-49 who
+  are married or in union.
+id: SP.DYN.CONU.ZS
+name: Contraceptive prevalence, any methods (% of women ages 15-49)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNICEF's State of the World's Children and Childinfo, United Nations Population Division's
+  World Contraceptive Use, household surveys including Demographic and Health Surveys and Multiple Indicator
+  Cluster Surveys.
+topics:
+- id: '8'
+  value: 'Health '
+- id: '17'
+  value: Gender
+unit: ''

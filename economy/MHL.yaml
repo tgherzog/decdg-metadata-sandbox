@@ -1,0 +1,24 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: U.S. dollar
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Upper middle income
+Latesthouseholdsurvey: Republic of the Marshall Islands Demographic and Health Survey, 2007
+Latestpopulationcensus: 2020 (expected)
+LongName: Republic of the Marshall Islands
+Nationalaccountsbaseyear: '2015'
+PPPsurveyyear: 2011 (Only for individual consumption expenditure by households)
+Region: East Asia & Pacific
+SNApricevaluation: Value added at basic prices (VAB)
+SpecialNotes: 'Fiscal year ends on September 30; reporting period for national accounts data: FY.'
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+adminregion: EAP
+capitalCity: Majuro
+id: MHL
+incomelevel: UMC
+iso2Code: MH
+latitude: 7.11046
+lendingtype: IDX
+longitude: 171.135
+name: Marshall Islands
+region: EAS

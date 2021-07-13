@@ -1,0 +1,38 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: Data on repeaters are often used to indicate an education system's internal efficiency.
+  Repeaters not only increase the cost of education for the family and the school system, but also use
+  limited school resources.
+Generalcomments: For aggregate data, each economy is classified based on the classification of World Bank
+  Group's fiscal year 2021 (July 1, 2020-June 30, 2021).
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: "Country policies on repetition and promotion differ. In some cases the number\
+  \ of repeaters is controlled because of limited capacity. In other cases the number of repeaters is\
+  \ almost 0 because of automatic promotion \u2013 suggesting a system that is highly efficient but that\
+  \ may not be endowing students with enough cognitive skills."
+Periodicity: Annual
+Source: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of February 2020.
+Statisticalconceptandmethodology: "Share of repeaters in primary school is calculated by dividing the\
+  \ sum of repeaters in all grades of primary school by the total number of students enrolled in primary\
+  \ school, and multiplying by 100. \n\nData on education are collected by the UNESCO Institute for Statistics\
+  \ from official responses to its annual education survey. All the data are mapped to the International\
+  \ Standard Classification of Education (ISCED) to ensure the comparability of education programs at\
+  \ the international level. The current version was formally adopted by UNESCO Member States in 2011.\
+  \ \n\nThe reference years reflect the school year for which the data are presented. In some countries\
+  \ the school year spans two calendar years (for example, from September 2010 to June 2011); in these\
+  \ cases the reference year refers to the year in which the school year ended (2011 in the example)."
+Topic: 'Education: Efficiency'
+description: Repeaters in primary school are the number of students enrolled in the same grade as in the
+  previous year, as a percentage of all students enrolled in primary school.
+id: SE.PRM.REPT.MA.ZS
+name: Repeaters, primary, male (% of male enrollment)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of February 2020.
+topics:
+- id: '4'
+  value: 'Education '
+- id: '17'
+  value: Gender
+unit: ''

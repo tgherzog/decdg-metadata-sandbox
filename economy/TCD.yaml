@@ -1,0 +1,27 @@
+BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
+CurrencyUnit: Central African CFA franc
+ExternaldebtReportingstatus: Actual
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Low income
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019
+Latestpopulationcensus: '2009'
+Latesttradedata: '1995'
+Latestwaterwithdrawaldata: '2005'
+LongName: Republic of Chad
+Nationalaccountsbaseyear: '2005'
+Othergroups: HIPC
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Priority survey (PS), 2011
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+adminregion: SSA
+capitalCity: N'Djamena
+id: TCD
+incomelevel: LIC
+iso2Code: TD
+latitude: 12.1048
+lendingtype: IDX
+longitude: 15.0445
+name: Chad
+region: SSF

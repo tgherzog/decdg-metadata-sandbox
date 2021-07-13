@@ -1,0 +1,52 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: The gross intake ratio in the first grade of primary education indicates the level
+  of access to primary education and the education system's capacity to provide access to primary education.
+  A low gross intake ratio in the first grade of primary education reflects the fact that many children
+  do not enter primary education even though school attendance, at least through the primary level, is
+  mandatory in most countries. Because the gross intake ratio includes all new entrants regardless of
+  age, it can exceed 100 percent in some situations, such as immediately after fees have been abolished
+  or when the number of reenrolled children is large.
+Generalcomments: For aggregate data, each economy is classified based on the classification of World Bank
+  Group's fiscal year 2021 (July 1, 2020-June 30, 2021).
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: The quality of data is affected when new entrants and repeaters are not correctly
+  distinguished in the first grade of primary education. Caution is also needed for countries with a total
+  population under 100,000 since the United Nations Population Division neither publish nor endorse single-age
+  data for those countries. The data are highly subject to fluctuations in migration and other factors.
+Periodicity: Annual
+Source: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of February 2020.
+Statisticalconceptandmethodology: 'Gross intake ratio in the first grade of primary education is calculated
+  by dividing the number of new entrants (enrollments minus repeaters) in the first grade of primary education,
+  regardless of age, by the population of the official primary entrance age and multiplying the result
+  by 100.
+
+
+  Data on education are collected by the UNESCO Institute for Statistics from official responses to its
+  annual education survey. All the data are mapped to the International Standard Classification of Education
+  (ISCED) to ensure the comparability of education programs at the international level. The current version
+  was formally adopted by UNESCO Member States in 2011. Population data are drawn from the United Nations
+  Population Division. Using a single source for population data standardizes definitions, estimations,
+  and interpolation methods, ensuring a consistent methodology across countries and minimizing potential
+  enumeration problems in national censuses.
+
+
+  The reference years reflect the school year for which the data are presented. In some countries the
+  school year spans two calendar years (for example, from September 2010 to June 2011); in these cases
+  the reference year refers to the year in which the school year ended (2011 in the example).'
+Topic: 'Education: Efficiency'
+description: Gross intake ratio in first grade of primary education is the number of new entrants in the
+  first grade of primary education regardless of age, expressed as a percentage of the population of the
+  official primary entrance age.
+id: SE.PRM.GINT.FE.ZS
+name: Gross intake ratio in first grade of primary education, female (% of relevant age group)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of February 2020.
+topics:
+- id: '4'
+  value: 'Education '
+- id: '17'
+  value: Gender
+unit: ''

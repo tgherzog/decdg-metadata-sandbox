@@ -1,0 +1,108 @@
+Aggregationmethod: Sum
+Developmentrelevance: 'DAC exists to help its members coordinate their development assistance and to encourage
+  the expansion and improve the effectiveness of the aggregate resources flowing to recipient economies.
+  In this capacity DAC monitors the flow of all financial resources, but its main concern is official
+  development assistance (ODA). Grants or loans to countries and territories on the DAC list of aid recipients
+  have to meet three criteria to be counted as ODA. They are provided by official agencies, including
+  state and local governments, or by their executive agencies. They promote economic development and welfare
+  as the main objective. And they are provided on concessional financial terms (loans must have a grant
+  element of at least 25 percent, calculated at a discount rate of 10 percent). The DAC Statistical Reporting
+  Directives provide the most detailed explanation of this definition and all ODA-related rules.
+
+
+  DAC statistics aim to meet the needs of policy makers in the field of development co-operation, and
+  to provide a means of assessing the comparative performance of aid donors. DAC statistics are used extensively
+  in the Peer Reviews conducted for each DAC member every four to five years, and have a wide range of
+  other applications. They are used to measure donors'' compliance with various international recommendations
+  in the field of development co-operation (terms, volume), and are indispensable for analysis of virtually
+  every aspect of development and development co-operation.
+
+
+  From 1960 to 1990, official development assistance (ODA) flows from DAC countries to developing countries
+  rose steadily, but then fell sharply in the 1990s. Since then, a series of high-profile international
+  conferences have boosted ODA flows. In the mid-2000s, ODA once again rose due to exceptional debt relief
+  operations for Iraq and Nigeria. Despite the recent financial crisis, ODA flows have continued to rise
+  and in the early 2010s reached their highest real level ever at about USD 130 billion. This demonstrates
+  effectiveness of aid pledges, especially when they are made on the basis of adequate resources and backed
+  by strong political will.'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: 'Data on ODA is for aid-receiving countries. The data cover loans and grants
+  from DAC member countries, multilateral organizations, and non-DAC donors. They do not reflect aid given
+  by recipient countries to other developing countries. As a result, some countries that are net donors
+  are shown as aid recipients. The indicator does not distinguish types of aid (program, project, or food
+  aid; emergency assistance; or post-conflict peacekeeping assistance), which may have different effects
+  on the economy.
+
+
+  Because the indicator relies on information from donors, it is not necessarily consistent with information
+  recorded by recipients in the balance of payments, which often excludes all or some technical assistance
+  - particularly payments to expatriates made directly by the donor. Similarly, grant commodity aid may
+  not always be recorded in trade data or in the balance of payments. Moreover, DAC statistics exclude
+  aid for military and antiterrorism purposes.
+
+
+  The nominal values may overstate the real value of aid to recipients. Changes in international prices
+  and exchange rates can reduce the purchasing power of aid. Tying aid, still prevalent though declining
+  in importance, also tends to reduce its purchasing power. Tying requires recipients to purchase goods
+  and services from the donor country or from a specified group of countries. Such arrangements prevent
+  a recipient from misappropriating or mismanaging aid receipts, but they may also be motivated by a desire
+  to benefit donor country suppliers.
+
+
+  The aggregates refer to World Bank classifications of economies and therefore may differ from those
+  of the OECD.'
+Periodicity: Annual
+Shortdefinition: Net official development assistance is disbursement flows (net of repayment of principal)
+  that meet the DAC definition of ODA and are made to countries and territories on the DAC list of aid
+  recipients. Data are in current U.S. dollars.
+Source: 'Development Assistance Committee of the Organisation for Economic Co-operation and Development,
+  Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation Report,
+  and International Development Statistics database. Data are available online at: https://stats.oecd.org/.'
+Statisticalconceptandmethodology: "The flows of official and private financial resources from the members\
+  \ of the Development Assistance Committee (DAC) of the Organisation for Economic Co-operation and Development\
+  \ (OECD) to developing economies are compiled by DAC, based principally on donor reports on bilateral\
+  \ programs by DAC members using standard questionnaires issued by the DAC Secretariat. DAC has 24 members\
+  \ - 23 individual economies and 1 multilateral institution (European Union institutions). \n\nNet official\
+  \ development assistance (ODA) consists of disbursements of loans made on concessional terms (net of\
+  \ repayments of principal) and grants by official agencies of the members of DAC, by multilateral institutions,\
+  \ and by non-DAC countries to promote economic development and welfare in countries and territories\
+  \ in the DAC list of ODA recipients. It includes loans with a grant element of at least 25 percent (calculated\
+  \ at a rate of discount of 10 percent). Data are in current U.S. dollars.\n\nTotal net disbursements\
+  \ is the sum of grants, capital subscriptions (deposit basis), recoveries and total net loans and other\
+  \ long-term capital.\n\nThe ODA excludes nonconcessional flows from official creditors, which are classified\
+  \ as \"other official flows,\" and aid for military and anti-terrorism purposes. Transfer payments to\
+  \ private individuals, such as pensions, reparations, and insurance payouts, are in general not counted.\
+  \ In addition to financial flows, ODA includes technical cooperation, most expenditures for peacekeeping\
+  \ under UN mandates and assistance to refugees, contributions to multilateral institutions such as the\
+  \ United Nations and its specialized agencies, and concessional funding to multilateral development\
+  \ banks.\n\n\nFlows are transfers of resources, either in cash or in the form of commodities or services\
+  \ measured on a cash basis. Short-term capital transactions (with one year or less maturity) are not\
+  \ counted. Repayments of the principal (but not interest) of ODA loans are recorded as negative flows.\
+  \ Proceeds from official equity investments in a developing country are reported as ODA, while proceeds\
+  \ from their later sale are recorded as negative flows.\n\nThe official development assistance (ODA)\
+  \ estimates are published annually at the end of the calendar year in International Development Statistics\
+  \ (IDS) database."
+Topic: 'Economic Policy & Debt: Official development assistance'
+description: Net official development assistance (ODA) consists of disbursements of loans made on concessional
+  terms (net of repayments of principal) and grants by official agencies of the members of the Development
+  Assistance Committee (DAC), by multilateral institutions, and by non-DAC countries to promote economic
+  development and welfare in countries and territories in the DAC list of ODA recipients. It includes
+  loans with a grant element of at least 25 percent (calculated at a rate of discount of 10 percent).
+  Data are in current U.S. dollars.
+id: DT.ODA.ODAT.CD
+name: Net official development assistance received (current US$)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'Development Assistance Committee of the Organisation for Economic Co-operation and
+  Development, Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation
+  Report, and International Development Statistics database. Data are available online at: https://stats.oecd.org/.'
+topics:
+- id: '2'
+  value: 'Aid Effectiveness '
+- id: '3'
+  value: Economy & Growth
+- id: '20'
+  value: External Debt
+unit: ''

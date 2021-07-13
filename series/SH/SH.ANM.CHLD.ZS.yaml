@@ -1,0 +1,28 @@
+Aggregationmethod: Weighted average
+Generalcomments: Anemia is defined as a low blood haemoglobin concentration. Anaemia may result from a
+  number of causes, with the most significant contributor being iron deficiency. Anaemia resulting from
+  iron deficiency adversely affects cognitive and motor development and causes fatigue and low productivity.
+  Children under age 5 and pregnant women have the highest risk for anemia.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: Data for blood haemoglobin concentrations are still limited, compared to other
+  nutritional indicators such as hild anthropometry. As a result, the estimates may not capture the full
+  variation across countries and regions.
+Periodicity: Annual
+Source: World Health Organization, Global Health Observatory Data Repository/World Health Statistics.
+Statisticalconceptandmethodology: "Data on anemia are compiled by the WHO, and a statistical model was\
+  \ used to estimate trends. WHO\u2019s hemoglobin threshold concentration in blood was used."
+Topic: 'Health: Nutrition'
+description: Prevalence of anemia, children ages 6-59 months, is the percentage of children ages 6-59
+  months whose hemoglobin level is less than 110 grams per liter, adjusted for altitude.
+id: SH.ANM.CHLD.ZS
+name: Prevalence of anemia among children (% of children ages 6-59 months)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Health Organization, Global Health Observatory Data Repository/World Health
+  Statistics.
+topics:
+- id: '8'
+  value: 'Health '
+unit: ''

@@ -1,0 +1,44 @@
+Developmentrelevance: The size and mobility of international capital flows make it increasingly important
+  to monitor the strength of financial systems. Robust financial systems can increase economic activity
+  and welfare, but instability can disrupt financial activity and impose widespread costs on the economy.
+  The ratio of bank capital to assets, a measure of bank solvency and resiliency, shows the extent to
+  which banks can deal with unexpected losses. Capital includes tier 1 capital (paid-up shares and common
+  stock), a common feature in all countries' banking systems, and total regulatory capital, which includes
+  several types of subordinated debt instruments that need not be repaid if the funds are required to
+  maintain minimum capital levels (tier 2 and tier 3 capital). Total assets include all nonfinancial and
+  financial assets. Data are from internally consistent financial statements.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: Reporting countries compile the data using different methodologies, which may
+  also vary for different points in time for the same country. Users are advised to consult the accompanying
+  metadata on the IMF FSI website (data.imf.org) to conduct more meaningful cross-country comparisons
+  or to assess the evolution of the indicator for any of the countries.
+Periodicity: Annual
+Source: International Monetary Fund, Financial Soundness Indicators.
+Statisticalconceptandmethodology: 'The ratio of capital to total assets, without the latter being risk
+  weighted. Capital is measured as total capital and reserves as reported in the sectoral balance sheet;
+  for cross-border consolidated data, Tier 1 capital can also be used. It indicates the extent to which
+  assets are funded by other than own funds and is a measure of capital adequacy of the deposit-taking
+  sector. It complements the capital adequacy ratios compiled based on the methodology agreed to by the
+  Basle Committee on Banking Supervision. Also, it measures financial leverage and is sometimes called
+  the leverage ratio. Data are submitted by national authorities to the IMF following the Financial Soundness
+  Indicators (FSI) Compilation Guide. For country specific metadata, including reporting period, please
+  refer to the GFSR FSI Tables and the Data and Metadata Tables available through FSIs website: http://data.imf.org/.'
+Topic: 'Financial Sector: Assets'
+description: Bank capital to assets is the ratio of bank capital and reserves to total assets. Capital
+  and reserves include funds contributed by owners, retained earnings, general and special reserves, provisions,
+  and valuation adjustments. Capital includes tier 1 capital (paid-up shares and common stock), which
+  is a common feature in all countries' banking systems, and total regulatory capital, which includes
+  several specified types of subordinated debt instruments that need not be repaid if the funds are required
+  to maintain minimum capital levels (these comprise tier 2 and tier 3 capital). Total assets include
+  all nonfinancial and financial assets.
+id: FB.BNK.CAPA.ZS
+name: Bank capital to assets ratio (%)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, Financial Soundness Indicators.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+unit: ''

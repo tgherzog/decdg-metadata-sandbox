@@ -1,0 +1,35 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: The pupil-teacher ratio is often used to compare the quality of schooling across
+  countries, but it is often weakly related to student learning and quality of education.
+Generalcomments: For aggregate data, each economy is classified based on the classification of World Bank
+  Group's fiscal year 2021 (July 1, 2020-June 30, 2021).
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: The comparability of pupil-teacher ratios across countries is affected by the
+  definition of teachers and by differences in class size by grade and in the number of hours taught,
+  as well as the different practices countries employ such as part-time teachers, school shifts, and multi-grade
+  classes. Moreover, the underlying enrollment levels are subject to a variety of reporting errors.
+Periodicity: Annual
+Source: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of February 2020.
+Statisticalconceptandmethodology: "Pupil-teacher ratio is calculated by dividing the number of students\
+  \ at the specified level of education by the number of teachers at the same level of education. \n\n\
+  Data on education are collected by the UNESCO Institute for Statistics from official responses to its\
+  \ annual education survey. All the data are mapped to the International Standard Classification of Education\
+  \ (ISCED) to ensure the comparability of education programs at the international level. The current\
+  \ version was formally adopted by UNESCO Member States in 2011. \n\nThe reference years reflect the\
+  \ school year for which the data are presented. In some countries the school year spans two calendar\
+  \ years (for example, from September 2010 to June 2011); in these cases the reference year refers to\
+  \ the year in which the school year ended (2011 in the example)."
+Topic: 'Education: Inputs'
+description: Primary school pupil-teacher ratio is the average number of pupils per teacher in primary
+  school.
+id: SE.PRM.ENRL.TC.ZS
+name: Pupil-teacher ratio, primary
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of February 2020.
+topics:
+- id: '4'
+  value: 'Education '
+unit: ''

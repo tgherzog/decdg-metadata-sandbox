@@ -1,0 +1,44 @@
+Aggregationmethod: Weighted average
+Generalcomments: 'Aggregate data by groups are computed based on the groupings for the World Bank fiscal
+  year in which the data was released by the World Health Organization.
+
+
+  This is the Sustainable Development Goal indicator 3.3.2[https://unstats.un.org/sdgs/metadata/].'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: 'The limited availability of data on health status is a major constraint in
+  assessing the health situation in developing countries. Surveillance data are lacking for many major
+  public health concerns. Estimates of prevalence and incidence are available for some diseases but are
+  often unreliable and incomplete. National health authorities differ widely in capacity and willingness
+  to collect or report information. To compensate for this and improve reliability and international comparability,
+  the World Health Organization (WHO) prepares estimates in accordance with epidemiological models and
+  statistical standards.
+
+
+  Uncertainty bounds for the incidence are available at http://data.worldbank.org'
+Notesfromoriginalsource: Estimates are presented with uncertainty intervals (see footnote). When ranges
+  are presented, the lower and higher numbers correspond to the 2.5th and 97.5th centiles of the outcome
+  distributions (generally produced by simulations). For more detailed information, see the original source.
+Periodicity: Annual
+Source: World Health Organization, Global Tuberculosis Report.
+Statisticalconceptandmethodology: Tuberculosis is one of the main causes of adult deaths from a single
+  infectious agent in developing countries. In developed countries tuberculosis has reemerged largely
+  as a result of cases among immigrants. Since tuberculosis incidence cannot be directly measured, estimates
+  are obtained by eliciting expert opinion or are derived from measurements of prevalence or mortality.
+Topic: 'Health: Risk factors'
+description: Incidence of tuberculosis is the estimated number of new and relapse tuberculosis cases arising
+  in a given year, expressed as the rate per 100,000 population. All forms of TB are included, including
+  cases in people living with HIV. Estimates for all years are recalculated as new information becomes
+  available and techniques are refined, so they may differ from those published previously.
+id: SH.TBS.INCD
+name: Incidence of tuberculosis (per 100,000 people)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Health Organization, Global Tuberculosis Report.
+topics:
+- id: '8'
+  value: 'Health '
+- id: '2'
+  value: 'Aid Effectiveness '
+unit: ''

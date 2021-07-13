@@ -1,0 +1,33 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Indonesian rupiah
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: Lower middle income
+Latestagriculturalcensus: '2013'
+Latesthouseholdsurvey: Demographic and Health Survey, 2017; Indonesia Young Adult Reproductive Health
+  Survey , 2017
+Latestindustrialdata: '2013'
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2000'
+LongName: Republic of Indonesia
+Nationalaccountsbaseyear: '2010'
+PPPsurveyyear: 2017, 2011
+Region: East Asia & Pacific
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2017
+SpecialNotes: 'Fiscal year end: March 31; reporting period for national accounts data: CY. Data for Indonesia
+  include Timor-Leste through 1999 unless otherwise noted.'
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: EAP
+capitalCity: Jakarta
+id: IDN
+incomelevel: LMC
+iso2Code: ID
+latitude: -6.19752
+lendingtype: IBD
+longitude: 106.83
+name: Indonesia
+region: EAS

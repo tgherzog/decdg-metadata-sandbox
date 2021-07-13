@@ -1,0 +1,29 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Chilean peso
+IMFdatadisseminationstandard: Special Data Dissemination Standard Plus (SDDS Plus)
+IncomeGroup: High income
+Latestagriculturalcensus: '2007'
+Latestindustrialdata: '2013'
+Latestpopulationcensus: '2017'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2006'
+LongName: Republic of Chile
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2013'
+PPPsurveyyear: Rolling surveys (annual estimation)
+Region: Latin America & Caribbean
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2017
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Santiago
+id: CHL
+incomelevel: HIC
+iso2Code: CL
+latitude: -33.475
+lendingtype: IBD
+longitude: -70.6475
+name: Chile
+region: LCN

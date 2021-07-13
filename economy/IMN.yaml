@@ -1,0 +1,23 @@
+CurrencyUnit: Pound sterling
+IncomeGroup: High income
+Latestpopulationcensus: '2016'
+LongName: Isle of Man
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2015'
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SpecialNotes: 'Fiscal year end: March 31; reporting period for national account data: FY. Classification
+  for years after 2012 was adjusted and figures were re-estimated by the World Bank, based on the detailed
+  data published by the Cabinet Office, and are not consistent with data for 2011 and before.'
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Douglas
+id: IMN
+incomelevel: HIC
+iso2Code: IM
+latitude: 54.1509
+lendingtype: LNX
+longitude: -4.47928
+name: Isle of Man
+region: ECS

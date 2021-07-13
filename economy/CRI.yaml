@@ -1,0 +1,32 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Costa Rican colon
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: Upper middle income
+Latestagriculturalcensus: '2014'
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2018
+Latestindustrialdata: '2013'
+Latestpopulationcensus: '2011'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2013'
+LongName: Republic of Costa Rica
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2017'
+PPPsurveyyear: 2011, and Rolling surveys (annual estimation) after 2016
+Region: Latin America & Caribbean
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2017
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: Special trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: LAC
+capitalCity: San Jose
+id: CRI
+incomelevel: UMC
+iso2Code: CR
+latitude: 9.63701
+lendingtype: IBD
+longitude: -84.0089
+name: Costa Rica
+region: LCN

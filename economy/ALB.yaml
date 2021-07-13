@@ -1,0 +1,32 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Albanian lek
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Upper middle income
+Latestagriculturalcensus: '2012'
+Latesthouseholdsurvey: Demographic and Health Survey, 2017/18
+Latestindustrialdata: '2013'
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2006'
+LongName: Republic of Albania
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2010'
+PPPsurveyyear: Rolling surveys (annual estimation)
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Living Standards Measurement Study Survey (LSMS), 2012
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: Special trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ECA
+capitalCity: Tirane
+id: ALB
+incomelevel: UMC
+iso2Code: AL
+latitude: 41.3317
+lendingtype: IBD
+longitude: 19.8172
+name: Albania
+region: ECS

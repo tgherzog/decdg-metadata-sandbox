@@ -1,0 +1,38 @@
+Developmentrelevance: Industrial development generally entails a structural transition from resource-based
+  and low technology activities to medium and high-tech industry (MHT) activities. A modern, highly complex
+  production structure offers better opportunities for skills development and technological innovation.
+  MHT activities are also the high value addition industries of manufacturing with higher technological
+  intensity and labour productivity. Increasing the share of MHT sectors also reflects the impact of innovation
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: 'Value added by economic activity should be reported at least at 3-digit ISIC
+  for compiling MHT values. Missing values at country level are imputed based on the methodology from
+  Competitive Industrial Performance Report (UNIDO, 2017. Conversion to USD or difference in ISIC combinations
+  may cause discrepancy between national and international figures. For additional information please
+  see UNIDO (2017): http://stat.unido.org/content/publications/volume-i%252c-competitive-industrial-performance-report-2016'
+Periodicity: Annual
+Source: United Nations Industrial Development Organization (UNIDO), Competitive Industrial Performance
+  (CIP) database
+Statisticalconceptandmethodology: 'The indicator is calculated as the share of the sum of the value added
+  from medium and high-tech industry economic activities to manufacturing value added. The medium and
+  high-tech industry is defined using OECD classification as the following by International Standard Industrial
+  Classification of All Economic Activities (ISIC) Revision 3 and Revision 4 Division respectively: ISIC
+  Rev. 3 (24, 29, 30, 31, 32, 33, 34, 35 excluding 351). Manufacturing value added is the value added
+  of manufacturing industry, which is Section C of ISIC Rev.4, and Section D of ISIC Rev.3.  Data can
+  be found in UNIDO INDSTAT4 Database by ISIC Revision 3 and ISIC Revision 4 respectively. Data are collected
+  using General Industrial Statistics Questionnaire which is filled by NSOs and submitted to UNIDO annually.
+  Data for OECD countries are obtained directly from OECD. Country data are also collected from official
+  publications and official web-sites. For additional information please see Table B.2.2 in Appendix B
+  of UNIDO (2017): http://stat.unido.org/content/publications/volume-i%252c-competitive-industrial-performance-report-2016'
+Topic: 'Economic Policy & Debt: National accounts: Shares of GDP & other'
+description: The proportion of medium and high-tech industry value added in total value added of manufacturing
+id: NV.MNF.TECH.ZS.UN
+name: Medium and high-tech industry (% manufacturing value added)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: United Nations Industrial Development Organization (UNIDO), Competitive Industrial
+  Performance (CIP) database
+topics:
+- {}
+unit: ''

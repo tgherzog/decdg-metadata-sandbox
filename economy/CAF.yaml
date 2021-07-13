@@ -1,0 +1,30 @@
+BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
+CurrencyUnit: Central African CFA franc
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Low income
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2018/19
+Latestindustrialdata: '1993'
+Latestpopulationcensus: '2003'
+Latesttradedata: '2017'
+Latestwaterwithdrawaldata: '2005'
+LongName: Central African Republic
+Nationalaccountsbaseyear: '2005'
+Othergroups: HIPC
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Priority survey (PS), 2008
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: SSA
+capitalCity: Bangui
+id: CAF
+incomelevel: LIC
+iso2Code: CF
+latitude: 5.63056
+lendingtype: IDX
+longitude: 21.6407
+name: Central African Republic
+region: SSF

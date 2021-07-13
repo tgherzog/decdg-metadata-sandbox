@@ -1,0 +1,20 @@
+CurrencyUnit: Euro
+IncomeGroup: High income
+Latestpopulationcensus: 2016. Population figures compiled from administrative registers.
+Latestwaterwithdrawaldata: '2009'
+LongName: Principality of Monaco
+Nationalaccountsbaseyear: '2010'
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Monaco
+id: MCO
+incomelevel: HIC
+iso2Code: MC
+latitude: 43.7325
+lendingtype: LNX
+longitude: 7.41891
+name: Monaco
+region: ECS

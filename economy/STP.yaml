@@ -1,0 +1,32 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: "S\xE3o Tom\xE9 and Principe dobra"
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Lower middle income
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019
+Latestpopulationcensus: '2012'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '1993'
+LongName: "Democratic Republic of S\xE3o Tom\xE9 and Principe"
+Nationalaccountsbaseyear: '2008'
+Othergroups: HIPC
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Priority survey (PS), 2010
+SpecialNotes: "National account data\_were adjusted to reflect the\_new banknote (1 new Dobra STN = 1000\
+  \ old Dobra STD)"
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: Special trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: SSA
+capitalCity: Sao Tome
+id: STP
+incomelevel: LMC
+iso2Code: ST
+latitude: 0.20618
+lendingtype: IDX
+longitude: 6.6071
+name: Sao Tome and Principe
+region: SSF

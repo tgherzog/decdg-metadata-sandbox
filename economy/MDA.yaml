@@ -1,0 +1,35 @@
+Alternativeconversionfactor: "1990\u201395"
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Moldovan leu
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: Upper middle income
+Latestagriculturalcensus: '2011'
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2012
+Latestindustrialdata: '2012'
+Latestpopulationcensus: '2014'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2007'
+LongName: Republic of Moldova
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2010'
+PPPsurveyyear: 2017, 2014, 2011
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2017
+SpecialNotes: Excluding Transnistria. For 1950-94, World Bank estimates using UN World Population Prospects'
+  growth rates of whole Moldova.
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ECA
+capitalCity: Chisinau
+id: MDA
+incomelevel: UMC
+iso2Code: MD
+latitude: 47.0167
+lendingtype: IBD
+longitude: 28.8497
+name: Moldova
+region: ECS

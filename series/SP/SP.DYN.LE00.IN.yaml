@@ -1,0 +1,257 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: Mortality rates for different age groups (infants, children, and adults) and overall
+  mortality indicators (life expectancy at birth or survival to a given age) are important indicators
+  of health status in a country. Because data on the incidence and prevalence of diseases are frequently
+  unavailable, mortality rates are often used to identify vulnerable populations. And they are among the
+  indicators most frequently used to compare socioeconomic development across countries.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: Annual data series from United Nations Population Division's World Population
+  Prospects are interpolated data from 5-year period data. Therefore they may not reflect real events
+  as much as observed data.
+Periodicity: Annual
+Source: '(1) United Nations Population Division. World Population Prospects: 2019 Revision, or derived
+  from male and female life expectancy at birth from sources such as: (2) Census reports and other statistical
+  publications from national statistical offices, (3) Eurostat: Demographic Statistics, (4) United Nations
+  Statistical Division. Population and Vital Statistics Reprot (various years), (5) U.S. Census Bureau:
+  International Database, and (6) Secretariat of the Pacific Community: Statistics and Demography Programme.'
+Statisticalconceptandmethodology: 'Life expectancy at birth used here is the average number of years a
+  newborn is expected to live if mortality patterns at the time of its birth remain constant in the future.
+  It reflects the overall mortality level of a population, and summarizes the mortality pattern that prevails
+  across all age groups in a given year. It is calculated in a period life table which provides a snapshot
+  of a population''s mortality pattern at a given time. It therefore does not reflect the mortality pattern
+  that a person actually experiences during his/her life, which can be calculated in a cohort life table.
+
+
+  High mortality in young age groups significantly lowers the life expectancy at birth. But if a person
+  survives his/her childhood of high mortality, he/she may live much longer. For example, in a population
+  with a life expectancy at birth of 50, there may be few people dying at age 50. The life expectancy
+  at birth may be low due to the high childhood mortality so that once a person survives his/her childhood,
+  he/she may live much longer than 50 years.'
+Topic: 'Health: Mortality'
+description: Life expectancy at birth indicates the number of years a newborn infant would live if prevailing
+  patterns of mortality at the time of its birth were to stay the same throughout its life.
+economies:
+  ABW: 'Data source: United Nations World Population Prospects'
+  AFG: 'Data source: United Nations World Population Prospects'
+  AGO: 'Data source: United Nations World Population Prospects'
+  ALB: 'Data source: United Nations World Population Prospects'
+  ARE: 'Data source: United Nations World Population Prospects'
+  ARG: 'Data source: United Nations World Population Prospects'
+  ARM: 'Data source: United Nations World Population Prospects'
+  ATG: 'Data source: United Nations World Population Prospects'
+  AUS: Derived using male and female life expectancy
+  AUT: Derived using male and female life expectancy
+  AZE: 'Data source: United Nations World Population Prospects'
+  BDI: 'Data source: United Nations World Population Prospects'
+  BEL: Derived using male and female life expectancy
+  BEN: 'Data source: United Nations World Population Prospects'
+  BFA: 'Data source: United Nations World Population Prospects'
+  BGD: 'Data source: United Nations World Population Prospects'
+  BGR: Derived using male and female life expectancy
+  BHR: 'Data source: United Nations World Population Prospects'
+  BHS: 'Data source: United Nations World Population Prospects'
+  BIH: 'Data source: United Nations World Population Prospects'
+  BLR: Derived using male and female life expectancy
+  BLZ: 'Data source: United Nations World Population Prospects'
+  BMU: Derived using male and female life expectancy
+  BOL: 'Data source: United Nations World Population Prospects'
+  BRA: 'Data source: United Nations World Population Prospects'
+  BRB: 'Data source: United Nations World Population Prospects'
+  BRN: 'Data source: United Nations World Population Prospects'
+  BTN: 'Data source: United Nations World Population Prospects'
+  BWA: 'Data source: United Nations World Population Prospects'
+  CAF: 'Data source: United Nations World Population Prospects'
+  CAN: Derived using male and female life expectancy
+  CHE: Derived using male and female life expectancy
+  CHI: 'Data source: United Nations World Population Prospects'
+  CHL: 'Data source: United Nations World Population Prospects'
+  CHN: 'Data source: United Nations World Population Prospects'
+  CIV: 'Data source: United Nations World Population Prospects'
+  CMR: 'Data source: United Nations World Population Prospects'
+  COD: 'Data source: United Nations World Population Prospects'
+  COG: 'Data source: United Nations World Population Prospects'
+  COL: 'Data source: United Nations World Population Prospects'
+  COM: 'Data source: United Nations World Population Prospects'
+  CPV: 'Data source: United Nations World Population Prospects'
+  CRI: 'Data source: United Nations World Population Prospects'
+  CUB: 'Data source: United Nations World Population Prospects'
+  CUW: Derived using male and female life expectancy
+  CYM: Derived using male and female life expectancy
+  CYP: 'Data source: United Nations World Population Prospects'
+  CZE: Derived using male and female life expectancy
+  DEU: Derived using male and female life expectancy
+  DJI: 'Data source: United Nations World Population Prospects'
+  DMA: Derived using male and female life expectancy
+  DNK: Derived using male and female life expectancy
+  DOM: 'Data source: United Nations World Population Prospects'
+  DZA: 'Data source: United Nations World Population Prospects'
+  ECU: 'Data source: United Nations World Population Prospects'
+  EGY: 'Data source: United Nations World Population Prospects'
+  ERI: 'Data source: United Nations World Population Prospects'
+  ESP: Derived using male and female life expectancy
+  EST: Derived using male and female life expectancy
+  ETH: 'Data source: United Nations World Population Prospects'
+  FIN: Derived using male and female life expectancy
+  FJI: 'Data source: United Nations World Population Prospects'
+  FRA: Derived using male and female life expectancy
+  FRO: Derived using male and female life expectancy
+  FSM: 'Data source: United Nations World Population Prospects'
+  GAB: 'Data source: United Nations World Population Prospects'
+  GBR: Derived using male and female life expectancy
+  GEO: 'Data source: United Nations World Population Prospects'
+  GHA: 'Data source: United Nations World Population Prospects'
+  GIN: 'Data source: United Nations World Population Prospects'
+  GMB: 'Data source: United Nations World Population Prospects'
+  GNB: 'Data source: United Nations World Population Prospects'
+  GNQ: 'Data source: United Nations World Population Prospects'
+  GRC: Derived using male and female life expectancy
+  GRD: 'Data source: United Nations World Population Prospects'
+  GRL: Derived using male and female life expectancy
+  GTM: 'Data source: United Nations World Population Prospects'
+  GUM: 'Data source: United Nations World Population Prospects'
+  GUY: 'Data source: United Nations World Population Prospects'
+  HKG: Derived using male and female life expectancy
+  HND: 'Data source: United Nations World Population Prospects'
+  HRV: Derived using male and female life expectancy
+  HTI: 'Data source: United Nations World Population Prospects'
+  HUN: Derived using male and female life expectancy
+  IDN: 'Data source: United Nations World Population Prospects'
+  IMN: Derived using male and female life expectancy
+  IND: 'Data source: United Nations World Population Prospects'
+  IRL: Derived using male and female life expectancy
+  IRN: 'Data source: United Nations World Population Prospects'
+  IRQ: 'Data source: United Nations World Population Prospects'
+  ISL: Derived using male and female life expectancy
+  ISR: Derived using male and female life expectancy
+  ITA: Derived using male and female life expectancy
+  JAM: 'Data source: United Nations World Population Prospects'
+  JOR: 'Data source: United Nations World Population Prospects'
+  JPN: Derived using male and female life expectancy
+  KAZ: Derived using male and female life expectancy
+  KEN: 'Data source: United Nations World Population Prospects'
+  KGZ: Derived using male and female life expectancy
+  KHM: 'Data source: United Nations World Population Prospects'
+  KIR: 'Data source: United Nations World Population Prospects'
+  KNA: Derived using male and female life expectancy
+  KOR: Derived using male and female life expectancy
+  KWT: 'Data source: United Nations World Population Prospects'
+  LAO: 'Data source: United Nations World Population Prospects'
+  LBN: 'Data source: United Nations World Population Prospects'
+  LBR: 'Data source: United Nations World Population Prospects'
+  LBY: 'Data source: United Nations World Population Prospects'
+  LCA: 'Data source: United Nations World Population Prospects'
+  LIE: Derived using male and female life expectancy
+  LKA: 'Data source: United Nations World Population Prospects'
+  LSO: 'Data source: United Nations World Population Prospects'
+  LTU: Derived using male and female life expectancy
+  LUX: Derived using male and female life expectancy
+  LVA: Derived using male and female life expectancy
+  MAC: 'Data source: United Nations World Population Prospects'
+  MAF: Derived using male and female life expectancy
+  MAR: 'Data source: United Nations World Population Prospects'
+  MDA: 'Data source: United Nations World Population Prospects'
+  MDG: 'Data source: United Nations World Population Prospects'
+  MDV: 'Data source: United Nations World Population Prospects'
+  MEX: 'Data source: United Nations World Population Prospects'
+  MHL: Derived using male and female life expectancy
+  MKD: 'Data source: United Nations World Population Prospects'
+  MLI: 'Data source: United Nations World Population Prospects'
+  MLT: Derived using male and female life expectancy
+  MMR: 'Data source: United Nations World Population Prospects'
+  MNE: 'Data source: United Nations World Population Prospects'
+  MNG: 'Data source: United Nations World Population Prospects'
+  MOZ: 'Data source: United Nations World Population Prospects'
+  MRT: 'Data source: United Nations World Population Prospects'
+  MUS: Derived using male and female life expectancy
+  MWI: 'Data source: United Nations World Population Prospects'
+  MYS: 'Data source: United Nations World Population Prospects'
+  NAM: 'Data source: United Nations World Population Prospects'
+  NCL: Derived using male and female life expectancy
+  NER: 'Data source: United Nations World Population Prospects'
+  NGA: 'Data source: United Nations World Population Prospects'
+  NIC: 'Data source: United Nations World Population Prospects'
+  NLD: Derived using male and female life expectancy
+  NOR: Derived using male and female life expectancy
+  NPL: 'Data source: United Nations World Population Prospects'
+  NZL: Derived using male and female life expectancy
+  OMN: 'Data source: United Nations World Population Prospects'
+  PAK: 'Data source: United Nations World Population Prospects'
+  PAN: 'Data source: United Nations World Population Prospects'
+  PER: 'Data source: United Nations World Population Prospects'
+  PHL: 'Data source: United Nations World Population Prospects'
+  PLW: Derived using male and female life expectancy
+  PNG: 'Data source: United Nations World Population Prospects'
+  POL: Derived using male and female life expectancy
+  PRI: Derived using male and female life expectancy
+  PRK: 'Data source: United Nations World Population Prospects'
+  PRT: Derived using male and female life expectancy
+  PRY: 'Data source: United Nations World Population Prospects'
+  PSE: 'Data source: United Nations World Population Prospects'
+  PYF: 'Data source: United Nations World Population Prospects'
+  QAT: 'Data source: United Nations World Population Prospects'
+  ROU: Derived using male and female life expectancy
+  RUS: Derived using male and female life expectancy
+  RWA: 'Data source: United Nations World Population Prospects'
+  SAU: 'Data source: United Nations World Population Prospects'
+  SDN: 'Data source: United Nations World Population Prospects'
+  SEN: 'Data source: United Nations World Population Prospects'
+  SGP: Derived using male and female life expectancy
+  SLB: 'Data source: United Nations World Population Prospects'
+  SLE: 'Data source: United Nations World Population Prospects'
+  SLV: 'Data source: United Nations World Population Prospects'
+  SMR: Derived using male and female life expectancy
+  SOM: 'Data source: United Nations World Population Prospects'
+  SRB: Derived using male and female life expectancy
+  SSD: 'Data source: United Nations World Population Prospects'
+  STP: 'Data source: United Nations World Population Prospects'
+  SUR: 'Data source: United Nations World Population Prospects'
+  SVK: Derived using male and female life expectancy
+  SVN: Derived using male and female life expectancy
+  SWE: Derived using male and female life expectancy
+  SWZ: 'Data source: United Nations World Population Prospects'
+  SXM: Derived using male and female life expectancy
+  SYC: Derived using male and female life expectancy
+  SYR: 'Data source: United Nations World Population Prospects'
+  TCD: 'Data source: United Nations World Population Prospects'
+  TGO: 'Data source: United Nations World Population Prospects'
+  THA: 'Data source: United Nations World Population Prospects'
+  TJK: 'Data source: United Nations World Population Prospects'
+  TKM: 'Data source: United Nations World Population Prospects'
+  TLS: 'Data source: United Nations World Population Prospects'
+  TON: 'Data source: United Nations World Population Prospects'
+  TTO: 'Data source: United Nations World Population Prospects'
+  TUN: 'Data source: United Nations World Population Prospects'
+  TUR: 'Data source: United Nations World Population Prospects'
+  TZA: 'Data source: United Nations World Population Prospects'
+  UGA: 'Data source: United Nations World Population Prospects'
+  UKR: Derived using male and female life expectancy
+  URY: 'Data source: United Nations World Population Prospects'
+  USA: Derived using male and female life expectancy
+  UZB: 'Data source: United Nations World Population Prospects'
+  VCT: 'Data source: United Nations World Population Prospects'
+  VEN: 'Data source: United Nations World Population Prospects'
+  VIR: Derived using male and female life expectancy
+  VNM: 'Data source: United Nations World Population Prospects'
+  VUT: 'Data source: United Nations World Population Prospects'
+  WSM: 'Data source: United Nations World Population Prospects'
+  XKX: Derived using male and female life expectancy
+  YEM: 'Data source: United Nations World Population Prospects'
+  ZAF: 'Data source: United Nations World Population Prospects'
+  ZMB: 'Data source: United Nations World Population Prospects'
+  ZWE: 'Data source: United Nations World Population Prospects'
+id: SP.DYN.LE00.IN
+name: Life expectancy at birth, total (years)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: '(1) United Nations Population Division. World Population Prospects: 2019 Revision,
+  or derived from male and female life expectancy at birth from sources such as: (2) Census reports and
+  other statistical publications from national statistical offices, (3) Eurostat: Demographic Statistics,
+  (4) United Nations Statistical Division. Population and Vital Statistics Reprot (various years), (5)
+  U.S. Census Bureau: International Database, and (6) Secretariat of the Pacific Community: Statistics
+  and Demography Programme.'
+topics:
+- id: '8'
+  value: 'Health '
+unit: ''

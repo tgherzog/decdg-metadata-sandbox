@@ -1,0 +1,50 @@
+Aggregationmethod: Sum
+Developmentrelevance: 'Transport infrastructure - highways, railways, ports and waterways, and airports
+  and air traffic control systems - and the services that flow from it are crucial to the activities of
+  households, producers, and governments. Because performance indicators vary widely by transport mode
+  and focus (whether physical infrastructure or the services flowing from that infrastructure), highly
+  specialized and carefully specified indicators are required to measure a country''s transport infrastructure.
+
+
+  The sea transport industry a vital engine of global socio-economic growth. It is of vital importance
+  for economic development, creating direct and indirect employment, supporting tourism and local businesses,
+  and stimulating foreign investment and international trade. Economic growth, technological change, market
+  liberalization, and oil prices affect sea transport throughout the world.'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: 'Measures of port container traffic, much of it commodities of medium to high
+  value added, give some indication of economic growth in a country. But when traffic is merely transshipment,
+  much of the economic benefit goes to the terminal operator and ancillary services for ships and containers
+  rather than to the country more broadly. In transshipment centers empty containers may account for as
+  much as 40 percent of traffic.
+
+
+  Data cover coastal shipping as well as international journeys. Transshipment traffic is counted as two
+  lifts at the intermediate port (once to off-load and again as an outbound lift) and includes empty units.
+  Data for transport sectors are not always internationally comparable. Unlike for demographic statistics,
+  national income accounts, and international trade data, the collection of infrastructure data has not
+  been "internationalized."'
+Periodicity: Annual
+Source: UNCTAD (http://unctad.org/en/Pages/statistics.aspx)
+Statisticalconceptandmethodology: TEU is the standard unit, referring to 20-foot equivalent units or 20-foot-long
+  cargo container. The size of cargo containers range from 20 feet long to more than 50 feet long. The
+  international measure is the smallest box, the 20-footer or 20-foot-equivalent unit (TEU). Two twenty-foot
+  containers (TEUs) equal one FEU. Container vessel capacity and port throughput capacity are frequently
+  referred to in TEUs. 2015 and 2016 figures comprise estimates for countries where current year statistics
+  were not available. In these cases, estimates include averages and extrapolations from previous years'
+  data.
+Topic: 'Infrastructure: Transportation'
+description: Port container traffic measures the flow of containers from land to sea transport modes.,
+  and vice versa, in twenty-foot equivalent units (TEUs), a standard-size container. Data refer to coastal
+  shipping as well as international journeys. Transshipment traffic is counted as two lifts at the intermediate
+  port (once to off-load and again as an outbound lift) and includes empty units.
+id: IS.SHP.GOOD.TU
+name: 'Container port traffic (TEU: 20 foot equivalent units)'
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNCTAD (http://unctad.org/en/Pages/statistics.aspx)
+topics:
+- id: '9'
+  value: 'Infrastructure '
+unit: ''

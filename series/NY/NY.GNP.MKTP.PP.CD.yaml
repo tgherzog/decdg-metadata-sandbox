@@ -1,0 +1,45 @@
+Aggregationmethod: Gap-filled total
+Developmentrelevance: Because development encompasses many factors - economic, environmental, cultural,
+  educational, and institutional - no single measure gives a complete picture. However, the total earnings
+  of the residents of an economy, measured by its gross national income (GNI), is a good measure of its
+  capacity to provide for the well-being of its people.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Source: International Comparison Program, World Bank | World Development Indicators database, World Bank
+  | Eurostat-OECD PPP Programme.
+Statisticalconceptandmethodology: "Typically, higher income countries have higher price levels, while\
+  \ lower income countries have lower price levels (Balassa-Samuelson effect). Market exchange rate-based\
+  \ cross-country comparisons of GDP at its expenditure components reflect both differences in economic\
+  \ outputs (volumes) and prices. Given the differences in price levels, the size of higher income countries\
+  \ is inflated, while the size of lower income countries is depressed in the comparison. PPP-based cross-country\
+  \ comparisons of GDP at its expenditure components only reflect differences in economic outputs (volume),\
+  \ as PPPs control for price level differences between the countries. Hence, the comparison reflects\
+  \ the real size of the countries.\n\nFor more information on underlying GNI in local currency, please\
+  \ refer to the metadata for \"GNI (current LCU)\" [NY.GNP.MKTP.CN]. For more information on underlying\
+  \ PPP conversion factor, please refer to the metadata for \"PPP conversion factor, GDP (LCU per international\
+  \ $)\" [PA.NUS.PPP]. \n\nFor the concept and methodology of PPP, please refer to the International Comparison\
+  \ Program (ICP)\u2019s website (https://www.worldbank.org/en/programs/icp)."
+Topic: 'Economic Policy & Debt: Purchasing power parity'
+description: "This indicator provides values for gross national income (GNI. Formerly GNP) expressed in\
+  \ current international dollars converted by purchasing power parity (PPP) conversion factor. \nGross\
+  \ national income is the sum of value added by all resident producers plus any product taxes (less subsidies)\
+  \ not included in the valuation of output plus net receipts of primary income (compensation of employees\
+  \ and property income) from abroad. PPP conversion factor is a spatial price deflator and currency converter\
+  \ that eliminates the effects of the differences in price levels between countries.\n\nFrom July 2020,\
+  \ \u201CGNI: linked series (current LCU)\u201D [NY.GNP.MKTP.CN.AD] is used as underlying GNI in local\
+  \ currency unit so that it\u2019s in line with time series of PPP conversion factors, which are extrapolated\
+  \ with linked deflators."
+economies:
+  AFG: Estimates are based on regression.
+id: NY.GNP.MKTP.PP.CD
+name: GNI, PPP (current international $)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Comparison Program, World Bank | World Development Indicators database,
+  World Bank | Eurostat-OECD PPP Programme.
+topics:
+- id: '3'
+  value: Economy & Growth
+unit: ''

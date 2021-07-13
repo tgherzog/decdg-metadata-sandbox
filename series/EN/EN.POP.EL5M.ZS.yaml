@@ -1,0 +1,45 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: Scientists use the terms climate change and global warming to refer to the gradual
+  increase in the Earth's surface temperature that has accelerated since the industrial revolution and
+  especially over the past two decades. Most global warming has been caused by human activities that have
+  changed the chemical composition of the atmosphere through a buildup of greenhouse gases - primarily
+  carbon dioxide, methane, and nitrous oxide. Rising global temperatures will cause sea level rise and
+  alter local climate conditions, affecting forests, crop yields, and water supplies, and may affect human
+  health, animals, and many types of ecosystems.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: "The 2007 Intergovernmental Panel on Climate Change's (IPCC) assessment report\
+  \ concluded that global warming is \u201Cunequivocal\u201D and gave the strongest warning yet about\
+  \ the role of human activities. The report estimated that sea levels would rise approximately 49 centimeters\
+  \ over the next 100 years, with a range of uncertainty of 20\u201386 centimeters. That will lead to\
+  \ increased coastal flooding through direct inundation and a higher base for storm surges, allowing\
+  \ flooding of larger areas and higher elevations. Climate model simulations predict an increase in average\
+  \ surface air temperature of about 2.5\xB0C by 2100 (Kattenberg and others 1996) and increase of \u201C\
+  killer\u201D heat waves during the warm season (Karl and others 1997)."
+Periodicity: Annual
+Source: 'Center for International Earth Science Information Network (CIESIN)/Columbia University. 2013.
+  Urban-Rural Population and Land Area Estimates Version 2. Palisades, NY: NASA Socioeconomic Data and
+  Applications Center (SEDAC). http://sedac.ciesin.columbia.edu/data/set/lecz-urban-rural-population-land-area-estimates-v2.'
+Statisticalconceptandmethodology: Population counts in low elevation zones in the year 1990 as described
+  by GRUMPv1 input estimates allocated into 3 arc second grid cells. Population counts in low elevation
+  zones in the year 2000 as described by GRUMPv1 input estimates allocated into 3 arc second grid cells.
+  Population counts in low elevation zones in the year 2010 derived from the application of United Nations
+  2000-2010 national growth rates to year 2000 population data from GRUMPv1 (see documentation for full
+  description of methodologies).
+Topic: 'Environment: Land use'
+description: Population below 5m is the percentage of the total population living in areas where the elevation
+  is 5 meters or less.
+id: EN.POP.EL5M.ZS
+name: Population living in areas where elevation is below 5 meters (% of total population)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'Center for International Earth Science Information Network (CIESIN)/Columbia University.
+  2013. Urban-Rural Population and Land Area Estimates Version 2. Palisades, NY: NASA Socioeconomic Data
+  and Applications Center (SEDAC). http://sedac.ciesin.columbia.edu/data/set/lecz-urban-rural-population-land-area-estimates-v2.'
+topics:
+- id: '19'
+  value: Climate Change
+- id: '6'
+  value: 'Environment '
+unit: ''

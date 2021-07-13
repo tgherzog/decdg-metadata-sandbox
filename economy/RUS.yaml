@@ -1,0 +1,33 @@
+Alternativeconversionfactor: "1987\u201395"
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Russian ruble
+ExternaldebtReportingstatus: Preliminary
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: Upper middle income
+Latestagriculturalcensus: '2016'
+Latesthouseholdsurvey: Russian Federation Reproductive Health Survey, 2011
+Latestindustrialdata: '2014'
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2013'
+LongName: Russian Federation
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2016'
+PPPsurveyyear: Rolling surveys (annual estimation)
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2017
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ECA
+capitalCity: Moscow
+id: RUS
+incomelevel: UMC
+iso2Code: RU
+latitude: 55.7558
+lendingtype: IBD
+longitude: 37.6176
+name: Russian Federation
+region: ECS

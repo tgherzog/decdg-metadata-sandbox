@@ -1,0 +1,31 @@
+Alternativeconversionfactor: '1991'
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Vietnamese dong
+ExternaldebtReportingstatus: Actual
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Lower middle income
+Latestagriculturalcensus: '2016'
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2020/21
+Latestindustrialdata: '2013'
+Latestpopulationcensus: '2019'
+Latesttradedata: '2017'
+Latestwaterwithdrawaldata: '2005'
+LongName: Socialist Republic of Vietnam
+Nationalaccountsbaseyear: '2010'
+PPPsurveyyear: 2017, 2011
+Region: East Asia & Pacific
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2016
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: EAP
+capitalCity: Hanoi
+id: VNM
+incomelevel: LMC
+iso2Code: VN
+latitude: 21.0069
+lendingtype: IBD
+longitude: 105.825
+name: Vietnam
+region: EAS

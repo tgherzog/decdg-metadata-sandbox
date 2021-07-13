@@ -1,0 +1,31 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Guatemalan quetzal
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Upper middle income
+Latesthouseholdsurvey: Demographic and Health Survey, 2014/15
+Latestindustrialdata: '1988'
+Latestpopulationcensus: '2018'
+Latesttradedata: '2017'
+Latestwaterwithdrawaldata: '2006'
+LongName: Republic of Guatemala
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2013'
+PPPsurveyyear: '2011'
+Region: Latin America & Caribbean
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Living Standards Measurement Study Survey (LSMS), 2014
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: Special trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: LAC
+capitalCity: Guatemala City
+id: GTM
+incomelevel: UMC
+iso2Code: GT
+latitude: 14.6248
+lendingtype: IBD
+longitude: -90.5328
+name: Guatemala
+region: LCN

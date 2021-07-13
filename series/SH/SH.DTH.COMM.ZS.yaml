@@ -1,0 +1,37 @@
+Aggregationmethod: Weighted average
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: The limited availability of data on health status is a major constraint in assessing
+  the health situation in developing countries. Surveillance data are lacking for many major public health
+  concerns. Estimates of prevalence and incidence are available for some diseases but are often unreliable
+  and incomplete. National health authorities differ widely in capacity and willingness to collect or
+  report information. To compensate for this and improve reliability and international comparability,
+  the World Health Organization (WHO) prepares estimates in accordance with epidemiological models and
+  statistical standards.
+Periodicity: Annual
+Source: 'Derived based on the data from Global Health Estimates 2020: Deaths by Cause, Age, Sex, by Country
+  and by Region, 2000-2019. Geneva, World Health Organization; 2020. Link: https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death'
+Statisticalconceptandmethodology: Data on cause of death are compiled by the WHO, based mainly on data
+  from national vital registry systems, as well as sample registration systems, population laboratories,
+  and epidemiological analysis of specific conditions. Data are classified based on the International
+  Statistical Classification of Diseases and Related Health Problems, 10th revision. Data have been carefully
+  analyzed to take into account incomplete coverage of vital registration and the likely differences in
+  cause of death patterns that would be expected in undercovered and often poorer subpopulations. Special
+  attention has also been paid to misattribution or miscoding of causes of death in cardiovascular diseases,
+  cancer, injuries, and general ill-defined categories. For further information, consult the original
+  source.
+Topic: 'Health: Risk factors'
+description: Cause of death refers to the share of all deaths for all ages by underlying causes. Communicable
+  diseases and maternal, prenatal and nutrition conditions include infectious and parasitic diseases,
+  respiratory infections, and nutritional deficiencies such as underweight and stunting.
+id: SH.DTH.COMM.ZS
+name: Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'Derived based on the data from Global Health Estimates 2020: Deaths by Cause, Age,
+  Sex, by Country and by Region, 2000-2019. Geneva, World Health Organization; 2020. Link: https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death'
+topics:
+- id: '8'
+  value: 'Health '
+unit: ''

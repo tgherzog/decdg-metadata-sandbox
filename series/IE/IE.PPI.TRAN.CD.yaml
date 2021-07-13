@@ -1,0 +1,82 @@
+Aggregationmethod: Sum
+Developmentrelevance: 'Investment in infrastructure projects with private participation has made important
+  contributions to easing fiscal constraints, improving the efficiency of infrastructure services, and
+  extending delivery to poor people. Developing countries have been in the forefront, pioneering better
+  approaches to infrastructure services and reaping the benefits of greater competition and customer focus.
+  Entrepreneurship is essential to the dynamism of the modern market economy, and a greater entry density
+  of new businesses can foster competition and economic growth.
+
+
+  Private sector development and investment - tapping private sector initiative and investment for socially
+  useful purposes - are critical for poverty reduction. In parallel with public sector efforts, private
+  investment, especially in competitive markets, has tremendous potential to contribute to growth. Private
+  markets are the engine of productivity growth, creating productive jobs and higher incomes. And with
+  government playing a complementary role of regulation, funding, and service provision, private initiative
+  and investment can help provide the basic services and conditions that empower poor people - by improving
+  health, education, and infrastructure.'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: 'The data on investment in infrastructure projects with private participation
+  refer to all investment (public and private) in projects in which a private company assumes operating
+  risk during the operating period or development and operating risk during the contract period. Investment
+  refers to commitments not disbursements. Foreign state-owned companies are considered private entities
+  for the purposes of this measure.
+
+
+  Movable assets and small projects are excluded. The types of projects included are operations and management
+  contracts, operations and management contracts with major capital expenditure, greenfield projects (in
+  which a private entity or a public-private joint venture builds and operates a new facility), and divestitures.
+  Investment commitments are the sum of investments in facilities and investments in government assets.
+  Investments in facilities are the resources the project company commits to invest during the contract
+  period either in new facilities or in expansion and modernization of existing facilities. Investments
+  in government assets are the resources the project company spends on acquiring government assets such
+  as state-owned enterprises, rights to provide services in a specific area, or the use of specific radio
+  spectrums. Data on the projects are compiled from publicly available information. The database aims
+  to be as comprehensive as possible, but some projects - particularly those involving local and small-scale
+  operators - may be omitted because they are not publicly reported.'
+Periodicity: Annual
+Shortdefinition: Investment in transport with private participation is the value of commitments to transportation
+  projects that have reached financial closure and directly or indirectly serve the public, including
+  management and lease contracts, operation and management contracts with major capital expenditure, greenfield
+  projects (in which a private entity or public-private joint venture builds and operates a new facility),
+  and divestitures. Movable assets and small projects are excluded.
+Source: World Bank, Private Participation in Infrastructure Project Database (http://ppi.worldbank.org).
+Statisticalconceptandmethodology: 'The data are from the World Bank''s Private Participation in Infrastructure
+  (PPI) Project database, which tracks infrastructure projects with private participation in developing
+  countries. It provides information on more than 5,000 infrastructure projects in 139 developing economies
+  from 1984. The database contains more than 30 fields per project record, including country, financial
+  closure year, infrastructure services provided, type of private participation, investment, technology,
+  capacity, project location, contract duration, private sponsors, bidding process, and development bank
+  support.
+
+
+  The database is a joint product of the World Bank''s Finance, Economics, and Urban Development Department
+  and the Public-Private Infrastructure Advisory Facility. Geographic and income aggregates are calculated
+  by the World Bank''s Development Data Group.
+
+
+  Data are in current U.S. dollars.'
+Topic: 'Private Sector & Trade: Private infrastructure investment'
+description: Investment  in transport projects with private participation refers to commitments to  infrastructure
+  projects in transport that have reached financial closure and directly or indirectly serve the public.
+  Movable assets and small projects are excluded. The types of projects included are  management and lease
+  contracts, operations and management contracts with major capital expenditure, greenfield projects (in
+  which a private entity or a public-private joint venture builds and operates a new facility), and divestitures.
+  Investment commitments are the sum of investments in facilities and investments in government assets.
+  Investments in facilities are the resources the project company commits to invest during the contract
+  period either in new facilities or in expansion and modernization of existing facilities. Investments
+  in government assets are the resources the project company spends on acquiring government assets such
+  as state-owned enterprises, rights to provide services in a specific area, or the use of specific radio
+  spectrums. Data is presented based on investment year. Data are in current U.S. dollars.
+id: IE.PPI.TRAN.CD
+name: Investment in transport with private participation (current US$)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, Private Participation in Infrastructure Project Database (http://ppi.worldbank.org).
+topics:
+- id: '9'
+  value: 'Infrastructure '
+- id: '12'
+  value: Private Sector
+unit: ''

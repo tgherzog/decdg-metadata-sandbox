@@ -1,0 +1,50 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: 'Alternative energy is produced without the undesirable consequences of the burning
+  of fossil fuels, such as high carbon dioxide emissions, which is considered to be the major contributing
+  factor of global warming.
+
+
+  Past few decade have seen a rise in global investment in renewable energy, led by wind and solar. In
+  transport, major car companies are adding hybrid and full-electric vehicles to their product lines and
+  many governments have launched plans to encourage consumers to buy these vehicles Fossil fuels continue
+  to outpace alternative and renewable energy growth. Coal has been the fastest-growing global energy
+  source, meeting about one-half of new electricity demand.
+
+
+  Total energy use refers to the use of primary energy before transformation to other end-use fuels (such
+  as electricity and refined petroleum products). It includes energy from combustible renewables and waste
+  - solid biomass and animal products, gas and liquid from biomass, and industrial and municipal waste.
+  Biomass is any plant matter used directly as fuel or converted into fuel, heat, or electricity.
+
+
+  Governments in many countries are increasingly aware of the urgent need to make better use of the world''s
+  energy resources. Improved energy efficiency is often the most economic and readily available means
+  of improving energy security and reducing greenhouse gas emissions.'
+Generalcomments: 'Restricted use: Please contact the International Energy Agency for third-party use of
+  these data.'
+License_Type: Use and distribution of these data are subject to IEA terms and conditions.
+License_URL: http://www.iea.org/t&c/termsandconditions
+Limitationsandexceptions: The IEA makes these estimates in consultation with national statistical offices,
+  oil companies, electric utilities, and national energy experts. The IEA occasionally revises its time
+  series to reflect political changes, and energy statistics undergo continual changes in coverage or
+  methodology as more detailed energy accounts become available. Breaks in series are therefore unavoidable.
+Periodicity: Annual
+Source: "IEA Statistics \xA9 OECD/IEA 2014 (http://www.iea.org/stats/index.asp), subject to https://www.iea.org/t&c/termsandconditions/"
+Statisticalconceptandmethodology: Energy data are compiled by the International Energy Agency (IEA). IEA
+  data for economies that are not members of the Organisation for Economic Co-operation and Development
+  (OECD) are based on national energy data adjusted to conform to annual questionnaires completed by OECD
+  member governments.
+Topic: 'Environment: Energy production & use'
+description: Clean energy is noncarbohydrate energy that does not produce carbon dioxide when generated.
+  It includes hydropower and nuclear, geothermal, and solar power, among others.
+id: EG.USE.COMM.CL.ZS
+name: Alternative and nuclear energy (% of total energy use)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: "IEA Statistics \xA9 OECD/IEA 2014 (http://www.iea.org/stats/index.asp), subject to\
+  \ https://www.iea.org/t&c/termsandconditions/"
+topics:
+- id: '5'
+  value: 'Energy & Mining '
+unit: ''

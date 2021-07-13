@@ -1,0 +1,64 @@
+Aggregationmethod: Unweighted average
+Developmentrelevance: 'The International Development Association (IDA) is the part of the World Bank Group
+  that helps the poorest countries reduce poverty by providing concessional loans and grants for programs
+  aimed at boosting economic growth and improving living conditions. IDA funding helps these countries
+  deal with the complex challenges they face in meeting the Millennium Development Goals.
+
+
+  The World Bank''s IDA Resource Allocation Index (IRAI) is based on the results of the annual Country
+  Policy and Institutional Assessment (CPIA) exercise, which covers the IDA-eligible countries. Country
+  assessments have been carried out annually since the mid-1970s by World Bank staff. Over time the criteria
+  have been revised from a largely macroeconomic focus to include governance aspects and a broader coverage
+  of social and structural dimensions. Country performance is assessed against a set of 16 criteria grouped
+  into four clusters: economic management, structural policies, policies for social inclusion and equity,
+  and public sector management and institutions. IDA resources are allocated to a country on per capita
+  terms based on its IDA country performance rating and, to a limited extent, based on its per capita
+  gross national income. This ensures that good performers receive a higher IDA allocation in per capita
+  terms. The IRAI is a key element in the country performance rating.'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: The CPIA exercise is intended to capture the quality of a country's policies
+  and institutional arrangements, focusing on key elements that are within the country's control, rather
+  than on outcomes (such as economic growth rates) that are influenced by events beyond the country's
+  control. More specifically, the CPIA measures the extent to which a country's policy and institutional
+  framework supports sustainable growth and poverty reduction and, consequently, the effective use of
+  development assistance.
+Periodicity: Annual
+Source: World Bank Group, CPIA database (http://www.worldbank.org/ida).
+Statisticalconceptandmethodology: 'All criteria within each cluster receive equal weight, and each cluster
+  has a 25 percent weight in the overall score, which is obtained by averaging the average scores of the
+  four clusters. For each of the 16 criteria countries are rated on a scale of 1 (low) to 6 (high). The
+  scores depend on the level of performance in a given year assessed against the criteria, rather than
+  on changes in performance compared with the previous year. All 16 CPIA criteria contain a detailed description
+  of each rating level. In assessing country performance, World Bank staff evaluate the country''s performance
+  on each of the criteria and assign a rating. The ratings reflect a variety of indicators, observations,
+  and judgments based on country knowledge and on relevant publicly available indicators. In interpreting
+  the assessment scores, it should be noted that the criteria are designed in a developmentally neutral
+  manner. Accordingly, higher scores can be attained by a country that, given its stage of development,
+  has a policy and institutional framework that more strongly fosters growth and poverty reduction.
+
+
+  The country teams that prepare the ratings are very familiar with the country, and their assessments
+  are based on country diagnostic studies prepared by the World Bank or other development organizations
+  and on their own professional judgment. An early consultation is conducted with country authorities
+  to make sure that the assessments are informed by up-to-date information. To ensure that scores are
+  consistent across countries, the process involves two key phases. In the benchmarking phase a small
+  representative sample of countries drawn from all regions is rated. Country teams prepare proposals
+  that are reviewed first at the regional level and then in a Bankwide review process. A similar process
+  is followed to assess the performance of the remaining countries, using the benchmark countries'' scores
+  as guideposts. The final ratings are determined following a Bankwide review. The overall numerical IRAI
+  score and the separate criteria scores were first publicly disclosed in June 2006.'
+Topic: 'Public Sector: Policy & institutions'
+description: The policies for social inclusion and equity cluster includes gender equality, equity of
+  public resource use, building human resources, social protection and labor, and policies and institutions
+  for environmental sustainability.
+id: IQ.CPA.SOCI.XQ
+name: CPIA policies for social inclusion/equity cluster average (1=low to 6=high)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank Group, CPIA database (http://www.worldbank.org/ida).
+topics:
+- id: '13'
+  value: 'Public Sector '
+unit: ''

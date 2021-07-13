@@ -1,0 +1,27 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: U.S. dollar
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: High income
+Latestpopulationcensus: '2015'
+Latesttradedata: '2018'
+LongName: Republic of Palau
+Nationalaccountsbaseyear: '2015'
+PPPsurveyyear: 2011 (Only for individual consumption expenditure by households)
+Region: East Asia & Pacific
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2006
+SpecialNotes: 'Fiscal year ends on September 30; reporting period for national accounts data: FY.'
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Koror
+id: PLW
+incomelevel: HIC
+iso2Code: PW
+latitude: 7.34194
+lendingtype: IBD
+longitude: 134.479
+name: Palau
+region: EAS

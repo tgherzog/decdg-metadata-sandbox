@@ -1,0 +1,22 @@
+CurrencyUnit: Australian dollar
+IncomeGroup: High income
+Latesthouseholdsurvey: Nauru Demographic and Health Survey, 2007
+Latestpopulationcensus: '2011'
+LongName: Republic of Nauru
+Nationalaccountsbaseyear: '2007'
+PPPsurveyyear: 2011 (Only for individual consumption expenditure by households)
+Region: East Asia & Pacific
+SNApricevaluation: Value added at basic prices (VAB)
+SpecialNotes: 'Fiscal year end: June 30; reporting period for national accounts data: FY.'
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Yaren District
+id: NRU
+incomelevel: HIC
+iso2Code: NR
+latitude: -0.5477
+lendingtype: IBD
+longitude: 166.920867
+name: Nauru
+region: EAS

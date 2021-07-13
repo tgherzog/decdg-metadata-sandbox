@@ -1,0 +1,24 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: South Sudanese Pound
+IncomeGroup: Low income
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2010
+Latestpopulationcensus: '2008'
+Latestwaterwithdrawaldata: '2011'
+LongName: Republic of South Sudan
+Nationalaccountsbaseyear: '2009'
+PPPsurveyyear: PPPs are imputed for 2011 and 2017 based on a regression model
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2009
+SpecialNotes: 'Fiscal year end: June 30; reporting period for national accounts data: FY.'
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+adminregion: SSA
+capitalCity: Juba
+id: SSD
+incomelevel: LIC
+iso2Code: SS
+latitude: 4.85
+lendingtype: IDX
+longitude: 31.6
+name: South Sudan
+region: SSF

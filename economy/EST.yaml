@@ -1,0 +1,37 @@
+Alternativeconversionfactor: "1987\u201395"
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Euro
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: High income
+Latestagriculturalcensus: '2010'
+Latesthouseholdsurvey: World Health Survey, 2003
+Latestindustrialdata: '2014'
+Latestpopulationcensus: 2012. Population figures compiled from administrative registers in combination
+  with other sources of data, such as sample surveys.
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2014'
+LongName: Republic of Estonia
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2015'
+Othergroups: Euro area
+PPPsurveyyear: Rolling surveys (annual estimation)
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Income survey (IS), 2015
+SpecialNotes: 'The following irrevocable euro conversion rate entered into force on January 1, 2011: 1
+  euro = 15.6466 Estonian kroon. Please note that historical data are not actual euros and are not comparable
+  or suitable for aggregation across countries.'
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Tallinn
+id: EST
+incomelevel: HIC
+iso2Code: EE
+latitude: 59.4392
+lendingtype: LNX
+longitude: 24.7586
+name: Estonia
+region: ECS

@@ -1,0 +1,31 @@
+BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
+CurrencyUnit: Ethiopian birr
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Low income
+Latesthouseholdsurvey: Socioeconomic Survey 2018-2019, Interim Demographic and Health Survey, 2019
+Latestindustrialdata: '2014'
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2016'
+Latestwaterwithdrawaldata: '2016'
+LongName: Federal Democratic Republic of Ethiopia
+Nationalaccountsbaseyear: 2015/2016
+Othergroups: HIPC
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2015/16
+SpecialNotes: 'Fiscal year end: July 7; reporting period for national accounts data: FY.'
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: SSA
+capitalCity: Addis Ababa
+id: ETH
+incomelevel: LIC
+iso2Code: ET
+latitude: 9.02274
+lendingtype: IDX
+longitude: 38.7468
+name: Ethiopia
+region: SSF

@@ -1,0 +1,30 @@
+Generalcomments: The choice of consumption or income for a country is made according to which welfare
+  aggregate is used to estimate extreme poverty in PovcalNet. The practice adopted by the World Bank for
+  estimating global and regional poverty is, in principle, to use per capita consumption expenditure as
+  the welfare measure wherever available; and to use income as the welfare measure for countries for which
+  consumption is unavailable. However, in some cases data on consumption may be available but are outdated
+  or not shared with the World Bank for recent survey years. In these cases, if data on income are available,
+  income is used. Whether data are for consumption or income per capita is noted in the footnotes. Because
+  household surveys are infrequent in most countries and are not aligned across countries, comparisons
+  across countries or over time should be made with a high degree of caution.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: Because household surveys are infrequent in most countries and are not aligned
+  across countries, comparisons across countries or over time should be made with a high degree of caution.
+Periodicity: Annual
+Relatedsourcelinks: 'World Bank, PovcalNet: an online poverty analysis tool, http://iresearch.worldbank.org/PovcalNet/index.htm'
+Source: World Bank, Global Database of Shared Prosperity (GDSP) circa 2011-2016 (http://www.worldbank.org/en/topic/poverty/brief/global-database-of-shared-prosperity).
+Topic: 'Poverty: Shared prosperity'
+Unitofmeasure: 2011 PPP $
+description: Mean consumption or income per capita (2011 PPP $ per day) used in calculating the growth
+  rate in the welfare aggregate of the bottom 40% of the population in the income distribution in a country.
+id: SI.SPR.PC40
+name: Survey mean consumption or income per capita, bottom 40% of population (2011 PPP $ per day)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, Global Database of Shared Prosperity (GDSP) circa 2011-2016 (http://www.worldbank.org/en/topic/poverty/brief/global-database-of-shared-prosperity).
+topics:
+- id: '11'
+  value: 'Poverty '
+unit: ''

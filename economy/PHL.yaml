@@ -1,0 +1,31 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Philippine peso
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: Lower middle income
+Latestagriculturalcensus: '2012'
+Latesthouseholdsurvey: Demographic and Health Survey, 2017
+Latestindustrialdata: '2012'
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2009'
+LongName: Republic of the Philippines
+Nationalaccountsbaseyear: '2018'
+PPPsurveyyear: 2017, 2011
+Region: East Asia & Pacific
+SNApricevaluation: Value added at producer prices (VAP)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2015
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: EAP
+capitalCity: Manila
+id: PHL
+incomelevel: LMC
+iso2Code: PH
+latitude: 14.5515
+lendingtype: IBD
+longitude: 121.035
+name: Philippines
+region: EAS

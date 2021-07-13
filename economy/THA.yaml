@@ -1,0 +1,31 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Thai baht
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: Upper middle income
+Latestagriculturalcensus: '2013'
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019
+Latestindustrialdata: '2011'
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2007'
+LongName: Kingdom of Thailand
+Nationalaccountsbaseyear: '2002'
+PPPsurveyyear: 2017, 2011
+Region: East Asia & Pacific
+SNApricevaluation: Value added at producer prices (VAP)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2015
+SpecialNotes: 'Fiscal year end: September 30; reporting period for national accounts data: CY.'
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: Special trade system
+adminregion: EAP
+capitalCity: Bangkok
+id: THA
+incomelevel: UMC
+iso2Code: TH
+latitude: 13.7308
+lendingtype: IBD
+longitude: 100.521
+name: Thailand
+region: EAS

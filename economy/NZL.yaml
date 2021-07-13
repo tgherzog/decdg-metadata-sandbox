@@ -1,0 +1,28 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: New Zealand dollar
+IncomeGroup: High income
+Latestagriculturalcensus: '2012'
+Latestindustrialdata: '2012'
+Latestpopulationcensus: '2018'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2010'
+LongName: New Zealand
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2015'
+PPPsurveyyear: Rolling surveys (annual estimation)
+Region: East Asia & Pacific
+SNApricevaluation: Value added at basic prices (VAB)
+SpecialNotes: 'Fiscal year end: March 31; reporting period for national accounts data: CY.'
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Wellington
+id: NZL
+incomelevel: HIC
+iso2Code: NZ
+latitude: -41.2865
+lendingtype: LNX
+longitude: 174.776
+name: New Zealand
+region: EAS

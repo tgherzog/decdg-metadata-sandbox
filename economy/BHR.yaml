@@ -1,0 +1,29 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Bahraini dinar
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: High income
+Latestagriculturalcensus: '2010'
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2000
+Latestindustrialdata: '2013'
+Latestpopulationcensus: 2020 (expected). Population figures compiled from administrative registers.
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2003'
+LongName: Kingdom of Bahrain
+Nationalaccountsbaseyear: '2010'
+PPPsurveyyear: Annual estimation for 2011-2017
+Region: Middle East & North Africa
+SNApricevaluation: Value added at producer prices (VAP)
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Manama
+id: BHR
+incomelevel: HIC
+iso2Code: BH
+latitude: 26.1921
+lendingtype: LNX
+longitude: 50.5354
+name: Bahrain
+region: MEA

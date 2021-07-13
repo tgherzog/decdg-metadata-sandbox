@@ -1,0 +1,30 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Myanmar kyat
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Lower middle income
+Latestagriculturalcensus: '2010'
+Latesthouseholdsurvey: Demographic and Health Survey, 2015/16
+Latestpopulationcensus: '2014'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2000'
+LongName: Republic of the Union of Myanmar
+Nationalaccountsbaseyear: '2015'
+PPPsurveyyear: 2017, 2011
+Region: East Asia & Pacific
+SNApricevaluation: Value added at producer prices (VAP)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2015
+SpecialNotes: 'Fiscal year end: September 30; reporting period for national accounts data: FY.'
+SystemofNationalAccounts: Country uses the 1968 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: EAP
+capitalCity: Naypyidaw
+id: MMR
+incomelevel: LMC
+iso2Code: MM
+latitude: 21.914
+lendingtype: IDX
+longitude: 95.9562
+name: Myanmar
+region: EAS

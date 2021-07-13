@@ -1,0 +1,32 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Croatian kuna
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: High income
+Latestagriculturalcensus: 2010. Economic Census, Natural Resources Census, Livestock Census, Livestock
+  and Aquaculture Census or Sample Agricultural Census.
+Latesthouseholdsurvey: World Health Survey, 2003
+Latestindustrialdata: '1996'
+Latestpopulationcensus: '2011'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2013'
+LongName: Republic of Croatia
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2015'
+PPPsurveyyear: Rolling surveys (annual estimation)
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Income survey (IS), 2015
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: Special trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Zagreb
+id: HRV
+incomelevel: HIC
+iso2Code: HR
+latitude: 45.8069
+lendingtype: IBD
+longitude: 15.9614
+name: Croatia
+region: ECS

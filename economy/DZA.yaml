@@ -1,0 +1,30 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Algerian dinar
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Lower middle income
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2018/19
+Latestindustrialdata: '2010'
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2017'
+Latestwaterwithdrawaldata: '2012'
+LongName: People's Democratic Republic of Algeria
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2012'
+PPPsurveyyear: 2017, 2011
+Region: Middle East & North Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2011
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: Special trade system
+adminregion: MNA
+capitalCity: Algiers
+id: DZA
+incomelevel: LMC
+iso2Code: DZ
+latitude: 36.7397
+lendingtype: IBD
+longitude: 3.05097
+name: Algeria
+region: MEA

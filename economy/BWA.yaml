@@ -1,0 +1,30 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Botswana pula
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Upper middle income
+Latestagriculturalcensus: '2015'
+Latesthouseholdsurvey: Family Health Survey 2007-2008
+Latestindustrialdata: '2013'
+Latestpopulationcensus: '2011'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2000'
+LongName: Republic of Botswana
+Nationalaccountsbaseyear: '2006'
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Core Welfare Indicator Questionnaire Survey (CWIQ), 2015/16
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: SSA
+capitalCity: Gaborone
+id: BWA
+incomelevel: UMC
+iso2Code: BW
+latitude: -24.6544
+lendingtype: IBD
+longitude: 25.9201
+name: Botswana
+region: SSF

@@ -1,0 +1,31 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: East Caribbean dollar
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Upper middle income
+Latestagriculturalcensus: '2007'
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2012
+Latestindustrialdata: '1997'
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2017'
+Latestwaterwithdrawaldata: '2007'
+LongName: St. Lucia
+Nationalaccountsbaseyear: '2018'
+PPPsurveyyear: 2017, 2011
+Region: Latin America & Caribbean
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2016
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: LAC
+capitalCity: Castries
+id: LCA
+incomelevel: UMC
+iso2Code: LC
+latitude: 14.0
+lendingtype: IDB
+longitude: -60.9832
+name: St. Lucia
+region: LCN

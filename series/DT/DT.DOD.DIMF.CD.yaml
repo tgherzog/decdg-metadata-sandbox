@@ -1,0 +1,62 @@
+Aggregationmethod: Sum
+Dataset: International Debt Statistics
+Developmentrelevance: 'External indebtedness affects a country''s creditworthiness and investor perceptions.
+  Nonreporting countries might have outstanding debt with the World Bank, other international financial
+  institutions, or private creditors. Total debt service is contrasted with countries'' ability to obtain
+  foreign exchange through exports of goods, services, primary income, and workers'' remittances.
+
+
+  Debt ratios are used to assess the sustainability of a country''s debt service obligations, but no absolute
+  rules determine what values are too high. Empirical analysis of developing countries'' experience and
+  debt service performance shows that debt service difficulties become increasingly likely when the present
+  value of debt reaches 200 percent of exports. Still, what constitutes a sustainable debt burden varies
+  by country. Countries with fast-growing economies and exports are likely to be able to sustain higher
+  debt levels.'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Shortdefinition: "Use of IMF credit denotes members\u2019 drawings on the IMF other than amounts drawn\
+  \ against the country\u2019s reserve tranche position. Use of IMF credit includes purchases and drawings\
+  \ under Stand-By, Extended, Structural Adjustment, Enhanced Structural Adjustment, and Systemic Transformation\
+  \ Facility Arrangements as well as Trust Fund loans. SDR allocations are also included in this category."
+Source: World Bank, International Debt Statistics.
+Statisticalconceptandmethodology: 'Data related to the operations of the IMF come from the IMF Treasurer''s
+  Department and are converted from special drawing rights (SDRs) into dollars using end-of-period exchange
+  rates for stocks and average over the period exchange rates for converting flows. DOD refers to disbursed
+  and outstanding debt; data are in current U.S. dollars.
+
+
+  Data on external debt are gathered through the World Bank''s Debtor Reporting System (DRS). Long term
+  debt data are compiled using the countries report on public and publicly guaranteed borrowing on a loan-by-loan
+  basis and private non guaranteed borrowing on an aggregate basis. These data are supplemented by information
+  from major multilateral banks and official lending agencies in major creditor countries. Short-term
+  debt data are gathered from the Quarterly External Debt Statistics (QEDS) database, jointly developed
+  by the World Bank and the IMF and from creditors through the reporting systems of the Bank for International
+  Settlements. Debt data are reported in the currency of repayment and compiled and published in U.S.
+  dollars. End-of-period exchange rates are used for the compilation of stock figures (amount of debt
+  outstanding), and projected debt service and annual average exchange rates are used for the flows. Exchange
+  rates are taken from the IMF''s International Financial Statistics. Debt repayable in multiple currencies,
+  goods, or services and debt with a provision for maintenance of the value of the currency of repayment
+  are shown at book value.'
+Topic: 'Economic Policy & Debt: External debt: Debt outstanding'
+description: "Use of IMF Credit: Data related to the operations of the IMF are provided by the IMF Treasurer\u2019\
+  s Department. They are converted from special drawing rights into dollars using end-of-period exchange\
+  \ rates for stocks and average-over-the-period exchange rates for flows. IMF trust fund operations under\
+  \ the Enhanced Structural Adjustment Facility, Extended Fund Facility, Poverty Reduction and Growth\
+  \ Facility, and Structural Adjustment Facility (Enhanced Structural Adjustment Facility in 1999) are\
+  \ presented together with all of the IMF\u2019s special facilities (buffer stock, supplemental reserve,\
+  \ compensatory and contingency facilities, oil facilities, and other facilities). SDR allocations are\
+  \ also included in this category. According to the BPM6, SDR allocations are recorded as the incurrence\
+  \ of a debt liability of the member receiving them (because of a requirement to repay the allocation\
+  \ in certain circumstances, and also because interest accrues). This debt item is introduced for the\
+  \ first time this year with historical data starting in 1999."
+id: DT.DOD.DIMF.CD
+name: Use of IMF credit (DOD, current US$)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, International Debt Statistics.
+topics:
+- id: '20'
+  value: External Debt
+unit: ''

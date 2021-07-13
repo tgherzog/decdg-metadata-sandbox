@@ -1,0 +1,29 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: Diabetes, an important cause of ill health and a risk factor for other diseases
+  in developed countries, is spreading rapidly in developing countries. Highest among the elderly, prevalence
+  rates are rising among younger and productive populations in developing countries. Economic development
+  has led to the spread of Western lifestyles and diet to developing countries, resulting in a substantial
+  increase in diabetes. Without effective prevention and control programs, diabetes will likely continue
+  to increase.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: The limited availability of data on health status is a major constraint in assessing
+  the health situation in developing countries. Surveillance data are lacking for many major public health
+  concerns. Estimates of prevalence and incidence are available for some diseases but are often unreliable
+  and incomplete. National health authorities differ widely in capacity and willingness to collect or
+  report information.
+Periodicity: Annual
+Source: International Diabetes Federation, Diabetes Atlas.
+Topic: 'Health: Risk factors'
+description: Diabetes prevalence refers to the percentage of people ages 20-79 who have type 1 or type
+  2 diabetes. It is calculated by adjusting to a standard population age-structure.
+id: SH.STA.DIAB.ZS
+name: Diabetes prevalence (% of population ages 20 to 79)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Diabetes Federation, Diabetes Atlas.
+topics:
+- id: '8'
+  value: 'Health '
+unit: ''

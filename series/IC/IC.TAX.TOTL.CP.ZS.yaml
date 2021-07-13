@@ -1,0 +1,54 @@
+Aggregationmethod: Unweighted average
+Developmentrelevance: 'The total tax rate payable by businesses provides a comprehensive measure of the
+  cost of all the taxes a business bears. It differs from the statutory tax rate, which is the factor
+  applied to the tax base. In computing business tax rates, actual tax payable is divided by commercial
+  profit.
+
+
+  Taxes are the main source of revenue for most governments. The sources of tax revenue and their relative
+  contributions are determined by government policy choices about where and how to impose taxes and by
+  changes in the structure of the economy. Tax policy may reflect concerns about distributional effects,
+  economic efficiency (including corrections for externalities), and the practical problems of administering
+  a tax system. There is no ideal level of taxation. But taxes influence incentives and thus the behavior
+  of economic actors and the economy''s competitiveness.'
+Generalcomments: Data are presented for the survey year instead of publication year.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: "To make the data comparable across countries, several assumptions are made\
+  \ about businesses. The main assumptions are that they are limited liability companies, they operate\
+  \ in the country's most populous city, they are domestically owned, they perform general industrial\
+  \ or commercial activities, and they have certain levels of start-up capital, employees, and turnover.\
+  \ \n\nThe Doing Business methodology on business taxes is consistent with the Total Tax Contribution\
+  \ framework developed by PricewaterhouseCoopers (now PwC), which measures the taxes that are borne by\
+  \ companies and that affect their income statements. However, PwC bases its calculation on data from\
+  \ the largest companies in the economy, while Doing Business focuses on a standardized medium-size company."
+Periodicity: Annual
+Source: World Bank, Doing Business project (http://www.doingbusiness.org/).
+Statisticalconceptandmethodology: 'The data covering taxes payable by businesses, measure all taxes and
+  contributions that are government mandated (at any level - federal, state, or local), apply to standardized
+  businesses, and have an impact in their income statements. The taxes covered go beyond the definition
+  of a tax for government national accounts (compulsory, unrequited payments to general government) and
+  also measure any imposts that affect business accounts. The main differences are in labor contributions
+  and value added taxes.
+
+
+  The data account for government-mandated contributions paid by the employer to a requited private pension
+  fund or workers insurance fund but exclude value added taxes because they do not affect the accounting
+  profits of the business - that is, they are not reflected in the income statement.'
+Topic: 'Private Sector & Trade: Business environment'
+description: Total tax rate measures the amount of taxes and mandatory contributions payable by businesses
+  after accounting for allowable deductions and exemptions as a share of commercial profits. Taxes withheld
+  (such as personal income tax) or collected and remitted to tax authorities (such as value added taxes,
+  sales taxes or goods and service taxes) are excluded.
+id: IC.TAX.TOTL.CP.ZS
+name: Total tax rate (% of commercial profits)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, Doing Business project (http://www.doingbusiness.org/).
+topics:
+- id: '12'
+  value: Private Sector
+- id: '13'
+  value: 'Public Sector '
+unit: ''

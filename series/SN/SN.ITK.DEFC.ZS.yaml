@@ -1,0 +1,36 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: Good nutrition is the cornerstone for survival, health and development. Well-nourished
+  children perform better in school, grow into healthy adults and in turn give their children a better
+  start in life. Well-nourished women face fewer risks during pregnancy and childbirth, and their children
+  set off on firmer developmental paths, both physically and mentally (UNICEF www.childinfo.org).
+Generalcomments: This is the Sustainable Development Goal indicator 2.1.1[https://unstats.un.org/sdgs/metadata/].
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: From a policy and program standpoint, this measure has its limits. First, food
+  insecurity exists even where food availability is not a problem because of inadequate access of poor
+  households to food. Second, food insecurity is an individual or household phenomenon, and the average
+  food available to each person, even corrected for possible effects of low income, is not a good predictor
+  of food insecurity among the population. And third, nutrition security is determined not only by food
+  security but also by the quality of care of mothers and children and the quality of the household's
+  health environment (Smith and Haddad 2000).
+Periodicity: Annual
+Source: Food and Agriculture Organization (http://www.fao.org/publications/en/).
+Statisticalconceptandmethodology: Data on undernourishment are from the Food and Agriculture Organization
+  (FAO) of the United Nations and measure food deprivation based on average food available for human consumption
+  per person, the level of inequality in access to food, and the minimum calories required for an average
+  person.
+Topic: 'Health: Nutrition'
+description: Population below minimum level of dietary energy consumption (also referred to as prevalence
+  of undernourishment) shows the percentage of the population whose food intake is insufficient to meet
+  dietary energy requirements continuously. Data showing as 5 may signify a prevalence of undernourishment
+  below 5%.
+id: SN.ITK.DEFC.ZS
+name: Prevalence of undernourishment (% of population)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Food and Agriculture Organization (http://www.fao.org/publications/en/).
+topics:
+- id: '8'
+  value: 'Health '
+unit: ''

@@ -1,0 +1,93 @@
+Aggregationmethod: Unweighted average
+Developmentrelevance: 'Access to finance can expand opportunities for all with higher levels of access
+  and use of banking services associated with lower financing obstacles for people and businesses. A stable
+  financial system that promotes efficient savings and investment is also crucial for a thriving democracy
+  and market economy.
+
+
+  There are several aspects of access to financial services: availability, cost, and quality of services.
+  The development and growth of credit markets depend on access to timely, reliable, and accurate data
+  on borrowers'' credit experiences. Access to credit can be improved by making it easy to create and
+  enforce collateral agreements and by increasing information about potential borrowers'' creditworthiness.
+  Lenders look at a borrower''s credit history and collateral. Where credit registries and effective collateral
+  laws are absent - as in many developing countries - banks make fewer loans. Indicators that cover getting
+  credit include the strength of legal rights index and the depth of credit information index.
+
+
+  The economic health of a country is measured not only in macroeconomic terms but also by other factors
+  that shape daily economic activity such as laws, regulations, and institutional arrangements. The data
+  measure business regulation, gauge regulatory outcomes, and measure the extent of legal protection of
+  property, the flexibility of employment regulation, and the tax burden on businesses.
+
+
+  The fundamental premise of this data is that economic activity requires good rules and regulations that
+  are efficient, accessible to all who need to use them, and simple to implement. Thus sometimes there
+  is more emphasis on more regulation, such as stricter disclosure requirements in related-party transactions,
+  and other times emphasis is on for simplified regulations, such as a one-stop shop for completing business
+  startup formalities.
+
+
+  Entrepreneurs may not be aware of all required procedures or may avoid legally required procedures altogether.
+  But where regulation is particularly onerous, levels of informality are higher, which comes at a cost:
+  firms in the informal sector usually grow more slowly, have less access to credit, and employ fewer
+  workers - and those workers remain outside the protections of labor law. The indicator can help policymakers
+  understand the business environment in a country and - along with information from other sources such
+  as the World Bank''s Enterprise Surveys - provide insights into potential areas of reform.'
+Generalcomments: Data are presented for the survey year instead of publication year. Data before 2013
+  are not comparable with data from 2013 onward due to methodological changes.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: The Doing Business methodology has limitations that should be considered when
+  interpreting the data. First, the data collected refer to businesses in the economy's largest city and
+  may not represent regulations in other locations of the economy. To address this limitation, subnational
+  indicators are being collected for selected economies. These subnational studies point to significant
+  differences in the speed of reform and the ease of doing business across cities in the same economy.
+  Second, the data often focus on a specific business form - generally a limited liability company of
+  a specified size - and may not represent regulation for other types of businesses such as sole proprietorships.
+  Third, transactions described in a standardized business case refer to a specific set of issues and
+  may not represent the full set of issues a business encounters. Fourth, the time measures involve an
+  element of judgment by the expert respondents. When sources indicate different estimates, the Doing
+  Business time indicators represent the median values of several responses given under the assumptions
+  of the standardized case. Fifth, the methodology assumes that a business has full information on what
+  is required and does not waste time when completing procedures.
+Periodicity: Annual
+Source: World Bank, Doing Business project (http://www.doingbusiness.org/).
+Statisticalconceptandmethodology: 'For Doing Business 2015, the credit information index has expanded
+  with two new measurements, namely whether (1) banks and financial institutions access credit bureaus
+  and credit registries'' databases through an online platform or system-to-system connection; and (2)
+  bureau or registry credit scores are offered as a value added service to help banks and financial institutions
+  to assess the creditworthiness of borrowers. Furthermore, if the credit bureau or registry is not operational
+  or covers less than 5% of the adult population, the score on the depth of credit information index is
+  0. (Previously, the coverage threshold to score on the credit information index was 0.1%. In Doing Business
+  2015 this threshold has been increased to 5%.)
+
+
+  Data are collected by the World Bank with a standardized survey that uses a simple business case to
+  ensure comparability across economies and over time - with assumptions about the legal form of the business,
+  its size, its location, and nature of its operation. Surveys are administered through more than 9,000
+  local experts, including lawyers, business consultants, accountants, freight forwarders, government
+  officials, and other professionals who routinely administer or advise on legal and regulatory requirements.
+
+
+  The Doing Business project of the World Bank encompasses two types of data: data from readings of laws
+  and regulations and data on time and motion indicators that measure efficiency in achieving a regulatory
+  goal. Within the time and motion indicators cost estimates are recorded from official fee schedules
+  where applicable. The data from surveys are subjected to numerous tests for robustness, which lead to
+  revision or expansion of the information collected. For more information on methodology, see http://www.doingbusiness.org/Methodology/getting-credit#legalRights.'
+Topic: 'Private Sector & Trade: Business environment'
+description: Depth of credit information index measures rules affecting the scope, accessibility, and
+  quality of credit information available through public or private credit registries. The index ranges
+  from 0 to 8, with higher values indicating the availability of more credit information, from either
+  a public registry or a private bureau, to facilitate lending decisions.
+id: IC.CRD.INFO.XQ
+name: Depth of credit information index (0=low to 8=high)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, Doing Business project (http://www.doingbusiness.org/).
+topics:
+- id: '7'
+  value: 'Financial Sector '
+- id: '12'
+  value: Private Sector
+unit: ''

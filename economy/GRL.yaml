@@ -1,0 +1,20 @@
+CurrencyUnit: Danish krone
+IncomeGroup: High income
+Latestpopulationcensus: 2020 (expected). Population figures compiled from administrative registers.
+Latesttradedata: '2018'
+LongName: Greenland
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Nuuk
+id: GRL
+incomelevel: HIC
+iso2Code: GL
+latitude: 64.1836
+lendingtype: LNX
+longitude: -51.7214
+name: Greenland
+region: ECS

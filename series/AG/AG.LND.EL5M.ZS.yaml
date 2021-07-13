@@ -1,0 +1,42 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: Scientists use the terms climate change and global warming to refer to the gradual
+  increase in the Earth's surface temperature that has accelerated since the industrial revolution and
+  especially over the past two decades. Most global warming has been caused by human activities that have
+  changed the chemical composition of the atmosphere through a buildup of greenhouse gases - primarily
+  carbon dioxide, methane, and nitrous oxide. Rising global temperatures will cause sea level rise and
+  alter local climate conditions, affecting forests, crop yields, and water supplies, and may affect human
+  health, animals, and many types of ecosystems.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: "The 2007 Intergovernmental Panel on Climate Change's (IPCC) assessment report\
+  \ concluded that global warming is \u201Cunequivocal\u201D and gave the strongest warning yet about\
+  \ the role of human activities. The report estimated that sea levels would rise approximately 49 centimeters\
+  \ over the next 100 years, with a range of uncertainty of 20\u201386 centimeters. That will lead to\
+  \ increased coastal flooding through direct inundation and a higher base for storm surges, allowing\
+  \ flooding of larger areas and higher elevations. Climate model simulations predict an increase in average\
+  \ surface air temperature of about 2.5\xB0C by 2100 (Kattenberg and others 1996) and increase of \u201C\
+  killer\u201D heat waves during the warm season (Karl and others 1997)."
+Periodicity: Annual
+Source: 'Center for International Earth Science Information Network (CIESIN)/Columbia University. 2013.
+  Urban-Rural Population and Land Area Estimates Version 2. Palisades, NY: NASA Socioeconomic Data and
+  Applications Center (SEDAC). http://sedac.ciesin.columbia.edu/data/set/lecz-urban-rural-population-land-area-estimates-v2.'
+Statisticalconceptandmethodology: "Elevation data used to generate the low elevation coastal zones come\
+  \ from the SRTM3 Enhanced Global Map developed by ISCIENCES. The ISCIENCES digital elevation model was\
+  \ created using NASA\u2019s Jet Propulsion Laboratory Shuttle Radar Topography Mission data processed\
+  \ to 3 arc-seconds (SRTM3)."
+Topic: 'Environment: Land use'
+description: Land area below 5m is the percentage of total land where the elevation is 5 meters or less.
+id: AG.LND.EL5M.ZS
+name: Land area where elevation is below 5 meters (% of total land area)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'Center for International Earth Science Information Network (CIESIN)/Columbia University.
+  2013. Urban-Rural Population and Land Area Estimates Version 2. Palisades, NY: NASA Socioeconomic Data
+  and Applications Center (SEDAC). http://sedac.ciesin.columbia.edu/data/set/lecz-urban-rural-population-land-area-estimates-v2.'
+topics:
+- id: '19'
+  value: Climate Change
+- id: '6'
+  value: 'Environment '
+unit: ''

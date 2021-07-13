@@ -1,0 +1,71 @@
+Aggregationmethod: Unweighted average
+Developmentrelevance: 'The economic health of a country is measured not only in macroeconomic terms but
+  also by other factors that shape daily economic activity such as laws, regulations, and institutional
+  arrangements. The data measure business regulation, gauge regulatory outcomes, and measure the extent
+  of legal protection of property, the flexibility of employment regulation, and the tax burden on businesses.
+
+
+  The fundamental premise of this data is that economic activity requires good rules and regulations that
+  are efficient, accessible to all who need to use them, and simple to implement. Thus sometimes there
+  is more emphasis on more regulation, such as stricter disclosure requirements in related-party transactions,
+  and other times emphasis is on for simplified regulations, such as a one-stop shop for completing business
+  startup formalities.
+
+
+  Entrepreneurs may not be aware of all required procedures or may avoid legally required procedures altogether.
+  But where regulation is particularly onerous, levels of informality are higher, which comes at a cost:
+  firms in the informal sector usually grow more slowly, have less access to credit, and employ fewer
+  workers - and those workers remain outside the protections of labor law. The indicator can help policymakers
+  understand the business environment in a country and - along with information from other sources such
+  as the World Bank''s Enterprise Surveys - provide insights into potential areas of reform.'
+Generalcomments: Data are presented for the survey year instead of publication year.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: The Doing Business methodology has limitations that should be considered when
+  interpreting the data. First, the data collected refer to businesses in the economy's largest city and
+  may not represent regulations in other locations of the economy. To address this limitation, subnational
+  indicators are being collected for selected economies. These subnational studies point to significant
+  differences in the speed of reform and the ease of doing business across cities in the same economy.
+  Second, the data often focus on a specific business form - generally a limited liability company of
+  a specified size - and may not represent regulation for other types of businesses such as sole proprietorships.
+  Third, transactions described in a standardized business case refer to a specific set of issues and
+  may not represent the full set of issues a business encounters. Fourth, the time measures involve an
+  element of judgment by the expert respondents. When sources indicate different estimates, the Doing
+  Business time indicators represent the median values of several responses given under the assumptions
+  of the standardized case. Fifth, the methodology assumes that a business has full information on what
+  is required and does not waste time when completing procedures.
+Periodicity: Annual
+Source: World Bank, Doing Business project (http://www.doingbusiness.org/).
+Statisticalconceptandmethodology: 'Data are collected by the World Bank with a standardized survey that
+  uses a simple business case to ensure comparability across economies and over time - with assumptions
+  about the legal form of the business, its size, its location, and nature of its operation. Surveys are
+  administered through more than 9,000 local experts, including lawyers, business consultants, accountants,
+  freight forwarders, government officials, and other professionals who routinely administer or advise
+  on legal and regulatory requirements.
+
+
+  Entrepreneurs around the world face a range of challenges. One of them is inefficient regulation. The
+  indicator measures the procedures, time, cost and paid-in minimum capital required for a small or medium-size
+  limited liability company to start up and formally operate.
+
+
+  The Doing Business project of the World Bank encompasses two types of data: data from readings of laws
+  and regulations and data on time and motion indicators that measure efficiency in achieving a regulatory
+  goal. Within the time and motion indicators cost estimates are recorded from official fee schedules
+  where applicable. The data from surveys are subjected to numerous tests for robustness, which lead to
+  revision or expansion of the information collected.'
+Topic: 'Private Sector & Trade: Business environment'
+description: Start-up procedures are those required to start a business, including interactions to obtain
+  necessary permits and licenses and to complete all inscriptions, verifications, and notifications to
+  start operations. Data are for businesses with specific characteristics of ownership, size, and type
+  of production.
+id: IC.REG.PROC.MA
+name: Start-up procedures to register a business, male (number)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, Doing Business project (http://www.doingbusiness.org/).
+topics:
+- id: '12'
+  value: Private Sector
+unit: ''

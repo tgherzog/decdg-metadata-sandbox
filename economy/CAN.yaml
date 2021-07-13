@@ -1,0 +1,31 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Canadian dollar
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard Plus (SDDS Plus)
+IncomeGroup: High income
+Latestagriculturalcensus: '2016'
+Latestindustrialdata: '2014'
+Latestpopulationcensus: '2016'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2009'
+LongName: Canada
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2015'
+PPPsurveyyear: Rolling surveys (annual estimation)
+Region: North America
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Labor force survey (LFS), 2013
+SpecialNotes: 'Fiscal year end: March 31; reporting period for national accounts data: CY.'
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Ottawa
+id: CAN
+incomelevel: HIC
+iso2Code: CA
+latitude: 45.4215
+lendingtype: LNX
+longitude: -75.6919
+name: Canada
+region: NAC

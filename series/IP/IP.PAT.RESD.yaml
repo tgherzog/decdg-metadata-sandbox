@@ -1,0 +1,71 @@
+Aggregationmethod: Sum
+Developmentrelevance: 'The Patent Cooperation Treaty (www.wipo.int/pct) provides a two phase system for
+  filing patent. International applications under the treaty provide for a national patent grant only
+  - there is no international patent. The national filing represents the applicant''s seeking of patent
+  protection for a given territory, whereas international filings, while representing a legal right, do
+  not accurately reflect where patent protection is sought. Resident filings are those from residents
+  of the country concerned. Nonresident filings are from applicants abroad. For regional offices applications
+  from residents of any member state of the regional patent convention are considered nonresident filings.
+  Some offices (notably the U.S. Patent and Trademark Office) use the residence of the inventor rather
+  than the applicant to classify filings.
+
+
+  Patent data are a great resource for the study of technical change in a country or region. Patent data
+  provide a uniquely detailed source of information on inventive activity and the multiple dimensions
+  of the inventive process (e.g. geographical location, technical and institutional origin, individuals
+  and networks). Furthermore, patent data form a consistent basis for comparisons across time and across
+  countries.
+
+
+  Patent data can be used in the analysis of a wide array of topics related to technical change and patenting
+  activity including industry-science linkages, patenting strategies by companies, internationalization
+  of research, and indicators on the value of patents. Patent-based statistics reflect the inventive performance
+  of countries, regions and firms, as well as other aspects of the dynamics of the innovation process
+  such as co-operation in innovation or technology paths.'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: A patent is an exclusive right granted for a specified period (generally 20
+  years) for a new way of doing something or a new technical solution to a problem - an invention. The
+  invention must be of practical use and display a characteristic unknown in the existing body of knowledge
+  in its field. Most countries have systems to protect patentable inventions.
+Periodicity: Annual
+Shortdefinition: Patent applications are worldwide patent applications filed through the Patent Cooperation
+  Treaty procedure or with a national patent office.
+Source: 'World Intellectual Property Organization (WIPO), WIPO Patent Report: Statistics on Worldwide
+  Patent Activity. The International Bureau of WIPO assumes no responsibility with respect to the transformation
+  of these data.'
+Statisticalconceptandmethodology: 'Resident patent applications are those for which the first-named applicant
+  or assignee is a resident of the State or region concerned. In the case of regional offices such as
+  the European Patent Office, a resident is an applicant from any of the member States of the regional
+  patent convention.
+
+
+  Patent data cover applications and grants classified by field of technology. International applications
+  series distinguish four subcategories: a) patents taken out by residents of a country in that country;
+  b) patents taken out in a country by non-residents of that country; c) total patents registered in the
+  country or naming it; d) patents taken out outside a country by its residents. Data on patents granted
+  only distinguish between patents awarded to residents and to non-residents. A patent provides protection
+  for the invention to the owner of the patent for a limited period, generally 20 years.
+
+
+  Patent applications are worldwide patent applications filed through the Patent Cooperation Treaty procedure
+  or with a national patent office for exclusive rights for an invention - a product or process that provides
+  a new way of doing something or offers a new technical solution to a problem.'
+Topic: 'Infrastructure: Technology'
+description: Patent applications are worldwide patent applications filed through the Patent Cooperation
+  Treaty procedure or with a national patent office for exclusive rights for an invention--a product or
+  process that provides a new way of doing something or offers a new technical solution to a problem.
+  A patent provides protection for the invention to the owner of the patent for a limited period, generally
+  20 years.
+id: IP.PAT.RESD
+name: Patent applications, residents
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'World Intellectual Property Organization (WIPO), WIPO Patent Report: Statistics on
+  Worldwide Patent Activity. The International Bureau of WIPO assumes no responsibility with respect to
+  the transformation of these data.'
+topics:
+- id: '14'
+  value: 'Science & Technology '
+unit: ''

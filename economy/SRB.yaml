@@ -1,0 +1,42 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: New Serbian dinar
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Upper middle income
+Latestagriculturalcensus: '2012'
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019
+Latestindustrialdata: '2014'
+Latestpopulationcensus: '2011'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2013'
+LongName: Republic of Serbia
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2015'
+PPPsurveyyear: Rolling surveys (annual estimation)
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2016
+SpecialNotes: Montenegro declared independence from Serbia and Montenegro on June 3, 2006. Where available,
+  data for each country are shown separately. However, for Serbia, some indicators, such as those series
+  for which data appear only for Serbia and not Montenegro--e.g., aid, environment, external debt, balance
+  of payments, various social indicators excluding population--continue to include data for Montenegro
+  through 2005. Moreover, data from 1999 onward for Serbia for most indicators exclude data for Kosovo,
+  1999 being the year when Kosovo became a territory under international administration pursuant to UN
+  Security Council Resolution 1244 (1999); any exceptions are noted. Kosovo became a World Bank member
+  on June 29, 2009; available data are shown separately for Kosovo. In 2011, the Statistical Office of
+  Serbia improved the methodology of national accounts data for 2003 onward. Specifically, the classification
+  of sectors was revised.
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ECA
+capitalCity: Belgrade
+id: SRB
+incomelevel: UMC
+iso2Code: RS
+latitude: 44.8024
+lendingtype: IBD
+longitude: 20.4656
+name: Serbia
+region: ECS

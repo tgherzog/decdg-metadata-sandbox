@@ -1,0 +1,31 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: West African CFA franc
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: Lower middle income
+Latestagriculturalcensus: '2013'
+Latesthouseholdsurvey: Continuous Demographic and Health Survey, 2017
+Latestindustrialdata: '2012'
+Latestpopulationcensus: '2013'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2002'
+LongName: Republic of Senegal
+Nationalaccountsbaseyear: '2014'
+Othergroups: HIPC
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Priority survey (PS), 2011/12
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: SSA
+capitalCity: Dakar
+id: SEN
+incomelevel: LMC
+iso2Code: SN
+latitude: 14.7247
+lendingtype: IDX
+longitude: -17.4734
+name: Senegal
+region: SSF

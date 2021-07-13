@@ -1,0 +1,36 @@
+Developmentrelevance: Industrial development generally entails a structural transition from resource-based
+  and low technology activities to medium and high-tech industry (MHT) activities. A modern, highly complex
+  production structure offers better opportunities for skills development and technological innovation.
+  MHT activities are also the high value addition industries of manufacturing with higher technological
+  intensity and labor productivity. Increasing the share of MHT sectors also reflects the impact of innovation.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: Missing values at country level are imputed based on the methodology from Competitive
+  Industrial Performance Report (UNIDO, 2017).
+Periodicity: Annual
+Source: United Nations Industrial Development Organization (UNIDO), Competitive Industrial Performance
+  (CIP) database
+Statisticalconceptandmethodology: 'The data from UN COMTRADE is downloaded in SITC Revision 3, 3-digit,
+  by reporting country, year, partner code, commodity and flow (export and re-export). SITC medium technology:
+  266, 267, 512, 513, 533, 553, 554, 562, 571, 572, 573, 574, 575, 579, 581, 582, 583, 591, 593, 597,
+  598, 653, 671, 672, 678, 711, 712,713, 714, 721, 722, 723, 724, 725, 726, 727, 728, 731, 733, 735, 737,
+  741, 742, 743, 744, 745, 746, 747, 748, 749, 761, 762, 763, 772, 773, 775, 778, 781, 782, 783, 784,
+  785, 786, 791, 793, 811, 812, 813, 872, 873, 882, 884, 885; SITC high technology: 525, 541, 542, 716,
+  718, 751, 752, 759, 764, 771, 774, 776, 792, 871, 874, 881, 891. Net-exports are calculated as exports
+  minus re-exports. Manufactured exports, is the sum of the four categories resource-based exports, low-tech
+  exports, medium tech exports and high-tech exports; and medium-high technology exports, is the sum of
+  medium tech exports and high-tech exports. The world value of manufacturing exports is the sum of all
+  manufacturing net exports. For additional information please see Table B.2.1 in Appendix B of UNIDO
+  (2017): http://stat.unido.org/content/publications/volume-i%252c-competitive-industrial-performance-report-2016'
+Topic: 'Infrastructure: Technology'
+description: Share of medium and high-tech manufactured exports in total manufactured exports.
+id: TX.MNF.TECH.ZS.UN
+name: Medium and high-tech exports (% manufactured exports)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: United Nations Industrial Development Organization (UNIDO), Competitive Industrial
+  Performance (CIP) database
+topics:
+- {}
+unit: ''

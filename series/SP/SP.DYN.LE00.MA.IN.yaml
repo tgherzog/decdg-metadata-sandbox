@@ -1,0 +1,271 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: Mortality rates for different age groups (infants, children, and adults) and overall
+  mortality indicators (life expectancy at birth or survival to a given age) are important indicators
+  of health status in a country. Because data on the incidence and prevalence of diseases are frequently
+  unavailable, mortality rates are often used to identify vulnerable populations. And they are among the
+  indicators most frequently used to compare socioeconomic development across countries.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: Annual data series from United Nations Population Division's World Population
+  Prospects are interpolated data from 5-year period data. Therefore they may not reflect real events
+  as much as observed data.
+Periodicity: Annual
+Source: '(1) United Nations Population Division. World Population Prospects: 2019 Revision. (2) Census
+  reports and other statistical publications from national statistical offices, (3) Eurostat: Demographic
+  Statistics, (4) United Nations Statistical Division. Population and Vital Statistics Reprot (various
+  years), (5) U.S. Census Bureau: International Database, and (6) Secretariat of the Pacific Community:
+  Statistics and Demography Programme.'
+Statisticalconceptandmethodology: 'Life expectancy at birth used here is the average number of years a
+  newborn is expected to live if mortality patterns at the time of its birth remain constant in the future.
+  It reflects the overall mortality level of a population, and summarizes the mortality pattern that prevails
+  across all age groups in a given year. It is calculated in a period life table which provides a snapshot
+  of a population''s mortality pattern at a given time. It therefore does not reflect the mortality pattern
+  that a person actually experiences during his/her life, which can be calculated in a cohort life table.
+
+
+  High mortality in young age groups significantly lowers the life expectancy at birth. But if a person
+  survives his/her childhood of high mortality, he/she may live much longer. For example, in a population
+  with a life expectancy at birth of 50, there may be few people dying at age 50. The life expectancy
+  at birth may be low due to the high childhood mortality so that once a person survives his/her childhood,
+  he/she may live much longer than 50 years.'
+Topic: 'Health: Mortality'
+description: Life expectancy at birth indicates the number of years a newborn infant would live if prevailing
+  patterns of mortality at the time of its birth were to stay the same throughout its life.
+economies:
+  ABW: 'Data source: United Nations World Population Prospects'
+  AFG: 'Data source: United Nations World Population Prospects'
+  AGO: 'Data source: United Nations World Population Prospects'
+  ALB: 'Data source: United Nations World Population Prospects'
+  ARE: 'Data source: United Nations World Population Prospects'
+  ARG: 'Data source: United Nations World Population Prospects'
+  ARM: 'Data source: United Nations World Population Prospects'
+  ATG: 'Data source: United Nations World Population Prospects'
+  AUS: 'Data source: Australian Bureau of Statistics'
+  AUT: 'Data source: Eurostat, Austria Central Statistical Office'
+  AZE: 'Data source: United Nations World Population Prospects'
+  BDI: 'Data source: United Nations World Population Prospects'
+  BEL: 'Data source: Eurostat, National Institute of Statistics'
+  BEN: 'Data source: United Nations World Population Prospects'
+  BFA: 'Data source: United Nations World Population Prospects'
+  BGD: 'Data source: United Nations World Population Prospects'
+  BGR: 'Data source: Eurostat, National Statistical Institute'
+  BHR: 'Data source: United Nations World Population Prospects'
+  BHS: 'Data source: United Nations World Population Prospects'
+  BIH: 'Data source: United Nations World Population Prospects'
+  BLR: 'Data source: National Statistical Committee of the Republic of Belarus; United Nations World Population
+    Prospects'
+  BLZ: 'Data source: United Nations World Population Prospects'
+  BMU: 'Data source: Bermuda Government Department of Statistics, United Nations Population and Vital
+    Statistics Report'
+  BOL: 'Data source: United Nations World Population Prospects'
+  BRA: 'Data source: United Nations World Population Prospects'
+  BRB: 'Data source: United Nations World Population Prospects'
+  BRN: 'Data source: United Nations World Population Prospects'
+  BTN: 'Data source: United Nations World Population Prospects'
+  BWA: 'Data source: United Nations World Population Prospects'
+  CAF: 'Data source: United Nations World Population Prospects'
+  CAN: 'Data source: Statistics Canada'
+  CHE: 'Data source: Eurostat, Swiss Federal Statistical Office'
+  CHI: 'Data source: United Nations World Population Prospects'
+  CHL: 'Data source: United Nations World Population Prospects'
+  CHN: 'Data source: United Nations World Population Prospects'
+  CIV: 'Data source: United Nations World Population Prospects'
+  CMR: 'Data source: United Nations World Population Prospects'
+  COD: 'Data source: United Nations World Population Prospects'
+  COG: 'Data source: United Nations World Population Prospects'
+  COL: 'Data source: United Nations World Population Prospects'
+  COM: 'Data source: United Nations World Population Prospects'
+  CPV: 'Data source: United Nations World Population Prospects'
+  CRI: 'Data source: United Nations World Population Prospects'
+  CUB: 'Data source: United Nations World Population Prospects'
+  CUW: 'Data source: Central bureau of Statistics'
+  CYM: 'Data source: Economics and Statistics Office of Government of the Cayman Islands'
+  CYP: 'Data source: United Nations World Population Prospects'
+  CZE: 'Data source: Eurostat, Statistical Year Book, Czech Statistical Office'
+  DEU: 'Data source: Eurostat, United Nations World Population Prospects, Germany Federal Statistical
+    Office'
+  DJI: 'Data source: United Nations World Population Prospects'
+  DMA: 'Data source: United Nations Population and Vital Statistics Report'
+  DNK: 'Data source: Eurostat, Statistics Denmark'
+  DOM: 'Data source: United Nations World Population Prospects'
+  DZA: 'Data source: United Nations World Population Prospects'
+  ECU: 'Data source: United Nations World Population Prospects'
+  EGY: 'Data source: United Nations World Population Prospects'
+  ERI: 'Data source: United Nations World Population Prospects'
+  ESP: 'Data source: Eurostat, Instituto Nacional de Estadistica'
+  EST: 'Data source: Eurostat, United Nations World Population Prospects, Statistical Office of Estonia'
+  ETH: 'Data source: United Nations World Population Prospects'
+  FIN: 'Data source: Eurostat, Statistics Finland'
+  FJI: 'Data source: United Nations World Population Prospects'
+  FRA: "Data source and note: Eurostat, United Nations World Population Prospects, Institut National de\
+    \ la Statistique et des \xC9tudes \xC9conomiques. Including the French overseas departments of French\
+    \ Guiana, Guadeloupe, Martinique, R\xE9union."
+  FRO: 'Data source: Statistics Faroe Islands'
+  FSM: 'Data source: United Nations World Population Prospects'
+  GAB: 'Data source: United Nations World Population Prospects'
+  GBR: 'Data source: Eurostat, United Kingdom Office for National Statistics'
+  GEO: 'Data source and note: United Nations World Population Prospects. Including Abkhazia and South
+    Ossetia.'
+  GHA: 'Data source: United Nations World Population Prospects'
+  GIN: 'Data source: United Nations World Population Prospects'
+  GMB: 'Data source: United Nations World Population Prospects'
+  GNB: 'Data source: United Nations World Population Prospects'
+  GNQ: 'Data source: United Nations World Population Prospects'
+  GRC: 'Data source: Eurostat, United Nations World Population Prospects'
+  GRD: 'Data source: United Nations World Population Prospects'
+  GRL: 'Data source: Statistics Greenland, United Nations Population and Vital Statistics Report'
+  GTM: 'Data source: United Nations World Population Prospects'
+  GUM: 'Data source: United Nations World Population Prospects'
+  GUY: 'Data source: United Nations World Population Prospects'
+  HKG: 'Data source: Census and Statistics Department, United Nations World Population Prospects'
+  HND: 'Data source: United Nations World Population Prospects'
+  HRV: 'Data source: Croatian Bureau of Statistics, Eurostat, United Nations World Population Prospects'
+  HTI: 'Data source: United Nations World Population Prospects'
+  HUN: 'Data source: Eurostat, Hungarian Central Statistical Office'
+  IDN: 'Data source: United Nations World Population Prospects'
+  IMN: 'Data source: CIA World Fact book'
+  IND: 'Data source: United Nations World Population Prospects'
+  IRL: 'Data source: Eurostat, United Nations World Population Prospects'
+  IRN: 'Data source: United Nations World Population Prospects'
+  IRQ: 'Data source: United Nations World Population Prospects'
+  ISL: 'Data source: Eurostat, United Nations World Population Prospects, Iceland Central Statistics Office'
+  ISR: 'Data source: Central Bureau of Statistics'
+  ITA: 'Data source: Eurostat, Italy National Statistical Institute'
+  JAM: 'Data source: United Nations World Population Prospects'
+  JOR: 'Data source: United Nations World Population Prospects'
+  JPN: 'Data source: Ministry of Internal Affairs and Communications, Statistics Bureau'
+  KAZ: 'Data source: Statistical Agency of Kazakhstan, United Nations World Population Prospects'
+  KEN: 'Data source: United Nations World Population Prospects'
+  KGZ: 'Data source: National Statistics Committee, United Nations World Population Prospects'
+  KHM: 'Data source: United Nations World Population Prospects'
+  KIR: 'Data source: United Nations World Population Prospects'
+  KNA: 'Data source: United Nations Population and Vital Statistics Report'
+  KOR: 'Data source: Korean Statistical Information Service, United Nations World Population Prospects'
+  KWT: 'Data source: United Nations World Population Prospects'
+  LAO: 'Data source: United Nations World Population Prospects'
+  LBN: 'Data source: United Nations World Population Prospects'
+  LBR: 'Data source: United Nations World Population Prospects'
+  LBY: 'Data source: United Nations World Population Prospects'
+  LCA: 'Data source: United Nations World Population Prospects'
+  LIE: 'Data source: Eurostat'
+  LKA: 'Data source: United Nations World Population Prospects'
+  LSO: 'Data source: United Nations World Population Prospects'
+  LTU: 'Data source: Eurostat, Statistics Lithuania'
+  LUX: 'Data source: Eurostat, United Nations World Population Prospects'
+  LVA: 'Data source: Eurostat, Council of Europe, Latvia Central Statistical Bureau'
+  MAC: 'Data source: United Nations World Population Prospects'
+  MAF: 'Data source: U.S. Census Bureau'
+  MAR: 'Data source: United Nations World Population Prospects'
+  MDA: 'Data source and note: United Nations World Population Prospects. Including Transnistria.'
+  MDG: 'Data source: United Nations World Population Prospects'
+  MDV: 'Data source: United Nations World Population Prospects'
+  MEX: 'Data source: United Nations World Population Prospects'
+  MHL: 'Data source: Economic Policy, Planning and Statistics Office; World Health Report 2001; U.S. Census
+    Bureau'
+  MKD: 'Data source: United Nations World Population Prospects'
+  MLI: 'Data source: United Nations World Population Prospects'
+  MLT: 'Data source: Eurostat, United Nations World Population Prospects'
+  MMR: 'Data source: United Nations World Population Prospects'
+  MNE: 'Data source: United Nations World Population Prospects'
+  MNG: 'Data source: United Nations World Population Prospects'
+  MOZ: 'Data source: United Nations World Population Prospects'
+  MRT: 'Data source: United Nations World Population Prospects'
+  MUS: 'Data source: Statistics Mauritius, United Nations World Population Prospects'
+  MWI: 'Data source: United Nations World Population Prospects'
+  MYS: 'Data source: United Nations World Population Prospects'
+  NAM: 'Data source: United Nations World Population Prospects'
+  NCL: 'Data source: Institute of Statistics and Economic Studies, United Nations World Population Prospects'
+  NER: 'Data source: United Nations World Population Prospects'
+  NGA: 'Data source: United Nations World Population Prospects'
+  NIC: 'Data source: United Nations World Population Prospects'
+  NLD: 'Data source: Eurostat, Statistics Netherlands'
+  NOR: 'Data source: Eurostat, Statistics Norway'
+  NPL: 'Data source: United Nations World Population Prospects'
+  NZL: 'Data source: Statistics New Zealand, United Nations World Population Prospects'
+  OMN: 'Data source: United Nations World Population Prospects'
+  PAK: 'Data source: United Nations World Population Prospects'
+  PAN: 'Data source: United Nations World Population Prospects'
+  PER: 'Data source: United Nations World Population Prospects'
+  PHL: 'Data source: United Nations World Population Prospects'
+  PLW: 'Data source: Bureau of Budget and Planning, Office of Planning and Statistics'
+  PNG: 'Data source: United Nations World Population Prospects'
+  POL: 'Data source: Eurostat, Statistics Poland'
+  PRI: 'Data source: U.S. Census Bureau, United Nations World Population Prospects'
+  PRK: 'Data source: United Nations World Population Prospects'
+  PRT: "Data source: Eurostat, Instituto Nacional de Estat\xEDstica"
+  PRY: 'Data source: United Nations World Population Prospects'
+  PSE: 'Data source and note: United Nations World Population Prospects (for State of Palestine)'
+  PYF: 'Data source: United Nations World Population Prospects'
+  QAT: 'Data source: United Nations World Population Prospects'
+  ROU: 'Data source: Eurostat, Uninted Nations World Population Prospects, National Institute of Statistics'
+  RUS: 'Data source: Eurostat, Russian Federation Federal State Statistics Service, United Nations World
+    Population Prospects'
+  RWA: 'Data source: United Nations World Population Prospects'
+  SAU: 'Data source: United Nations World Population Prospects'
+  SDN: 'Data source: United Nations World Population Prospects. Estimates are for Sudan excluding South
+    Sudan.'
+  SEN: 'Data source: United Nations World Population Prospects'
+  SGP: 'Data source: Department of Statistics Singapore, United Nations World Population Prospects'
+  SLB: 'Data source: United Nations World Population Prospects'
+  SLE: 'Data source: United Nations World Population Prospects'
+  SLV: 'Data source: United Nations World Population Prospects'
+  SMR: 'Data source: Eurostat'
+  SOM: 'Data source: United Nations World Population Prospects'
+  SRB: 'Data source: Eurostat, Council of Europe, INED, Statistical Oce of the Republic of Serbia'
+  SSD: 'Data source: United Nations World Population Prospects'
+  STP: 'Data source: United Nations World Population Prospects'
+  SUR: 'Data source: United Nations World Population Prospects'
+  SVK: 'Data source: Eurostat, United Nations World Population Prospects, Statistical Office of the Slovak
+    Republic, Council of Europe'
+  SVN: 'Data source: Eurostat, Statistical Office of the Republic of Slovenia'
+  SWE: 'Data source: Eurostat; Statistics Sweden; INED; Human Mortality Database by University of California,
+    Berkeley, and Max Planck Institute for Demographic Research'
+  SWZ: 'Data source: United Nations World Population Prospects'
+  SXM: 'Data source: Department of Statistics, St. Maarten; Central bureau of Statistics Netherlands Antilles'
+  SYC: 'Data source: National Bureau of Statistics'
+  SYR: 'Data source: United Nations World Population Prospects'
+  TCD: 'Data source: United Nations World Population Prospects'
+  TGO: 'Data source: United Nations World Population Prospects'
+  THA: 'Data source: United Nations World Population Prospects'
+  TJK: 'Data source: United Nations World Population Prospects'
+  TKM: 'Data source: United Nations World Population Prospects'
+  TLS: 'Data source: United Nations World Population Prospects'
+  TON: 'Data source: United Nations World Population Prospects'
+  TTO: 'Data source: United Nations World Population Prospects'
+  TUN: 'Data source: United Nations World Population Prospects'
+  TUR: 'Data source: United Nations World Population Prospects'
+  TZA: 'Data source: United Nations World Population Prospects'
+  UGA: 'Data source: United Nations World Population Prospects'
+  UKR: 'Data source: State Statistics Committee of Ukraine, United Nations World Population Prospects'
+  URY: 'Data source: United Nations World Population Prospects'
+  USA: 'Data source: National Center for Health Statistics'
+  UZB: 'Data source: United Nations World Population Prospects'
+  VCT: 'Data source: United Nations World Population Prospects'
+  VEN: 'Data source: United Nations World Population Prospects'
+  VIR: 'Data source: U.S. Census Bureau, United Nations World Population Prospects'
+  VNM: 'Data source: United Nations World Population Prospects'
+  VUT: 'Data source: United Nations World Population Prospects'
+  WSM: 'Data source: United Nations World Population Prospects'
+  XKX: 'Data source: U.S. Census Bureau'
+  YEM: 'Data source: United Nations World Population Prospects'
+  ZAF: 'Data source: United Nations World Population Prospects'
+  ZMB: 'Data source: United Nations World Population Prospects'
+  ZWE: 'Data source: United Nations World Population Prospects'
+id: SP.DYN.LE00.MA.IN
+name: Life expectancy at birth, male (years)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: '(1) United Nations Population Division. World Population Prospects: 2019 Revision.
+  (2) Census reports and other statistical publications from national statistical offices, (3) Eurostat:
+  Demographic Statistics, (4) United Nations Statistical Division. Population and Vital Statistics Reprot
+  (various years), (5) U.S. Census Bureau: International Database, and (6) Secretariat of the Pacific
+  Community: Statistics and Demography Programme.'
+topics:
+- id: '8'
+  value: 'Health '
+- id: '17'
+  value: Gender
+- id: '15'
+  value: 'Social Development '
+unit: ''

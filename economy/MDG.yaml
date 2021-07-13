@@ -1,0 +1,30 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Malagasy ariary
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Low income
+Latesthouseholdsurvey: Demographic and Health Survey, 2021
+Latestindustrialdata: '2006'
+Latestpopulationcensus: '2018'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2000'
+LongName: Republic of Madagascar
+Nationalaccountsbaseyear: '2007'
+Othergroups: HIPC
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Priority survey (PS), 2012
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: SSA
+capitalCity: Antananarivo
+id: MDG
+incomelevel: LIC
+iso2Code: MG
+latitude: -20.4667
+lendingtype: IDX
+longitude: 45.7167
+name: Madagascar
+region: SSF

@@ -1,0 +1,27 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: West African CFA franc
+ExternaldebtReportingstatus: Estimate
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Low income
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2018/19
+Latestpopulationcensus: '2009'
+Latesttradedata: '2005'
+Latestwaterwithdrawaldata: '2000'
+LongName: Republic of Guinea-Bissau
+Nationalaccountsbaseyear: '2005'
+Othergroups: HIPC
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Core Welfare Indicator Questionnaire Survey (CWIQ), 2010
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+adminregion: SSA
+capitalCity: Bissau
+id: GNB
+incomelevel: LIC
+iso2Code: GW
+latitude: 11.8037
+lendingtype: IDX
+longitude: -15.1804
+name: Guinea-Bissau
+region: SSF

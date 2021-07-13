@@ -1,0 +1,31 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Polish zloty
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: High income
+Latestagriculturalcensus: '2010'
+Latestindustrialdata: '2013'
+Latestpopulationcensus: 2011. Population figures compiled from administrative registers in combination
+  with other sources of data, such as sample surveys.
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2012'
+LongName: Republic of Poland
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2010'
+PPPsurveyyear: Rolling surveys (annual estimation)
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2016
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: Special trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Warsaw
+id: POL
+incomelevel: HIC
+iso2Code: PL
+latitude: 52.26
+lendingtype: IBD
+longitude: 21.02
+name: Poland
+region: ECS

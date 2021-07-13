@@ -1,0 +1,59 @@
+Aggregationmethod: Sum
+Developmentrelevance: 'The addition of man-made greenhouse gases to the Atmosphere disturbs the earth''s
+  radiative balance. This is leading to an increase in the earth''s surface temperature and to related
+  effects on climate, sea level rise and world agriculture. Emissions of CO2 are from burning oil, coal
+  and gas for energy use, burning wood and waste materials, and from industrial processes such as cement
+  production. Emission intensity is the average emission rate of a given pollutant from a given source
+  relative to the intensity of a specific activity. Emission intensities are also used to compare the
+  environmental impact of different fuels or activities. The related terms - emission factor and carbon
+  intensity - are often used interchangeably.
+
+
+  The carbon dioxide emissions of a country are only an indicator of one greenhouse gas. For a more complete
+  idea of how a country influences climate change, gases such as methane and nitrous oxide should be taken
+  into account. This is particularly important in agricultural economies.
+
+
+  The environmental effects of carbon dioxide are of significant interest. Carbon dioxide (CO2) makes
+  up the largest share of the greenhouse gases contributing to global warming and climate change. Converting
+  all other greenhouse gases (methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons
+  (PFCs), Sulphur hexafluoride (SF6)) to carbon dioxide (or CO2) equivalents makes it possible to compare
+  them and to determine their individual and total contributions to global warming. The Kyoto Protocol,
+  an environmental agreement adopted in 1997 by many of the parties to the United Nations Framework Convention
+  on Climate Change (UNFCCC), is working towards curbing CO2 emissions globally.'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: National reporting to the United Nations Framework Convention on Climate Change
+  that follows the Intergovernmental Panel on Climate Change guidelines is based on national emission
+  inventories and covers all sources of anthropogenic carbon dioxide emissions as well as carbon sinks
+  (such as forests). To estimate emissions, the countries that are Parties to the Climate Change Convention
+  (UNFCCC) use complex, state-of-the-art methodologies recommended by the Intergovernmental Panel on Climate
+  Change (IPCC).
+Periodicity: Annual
+Source: "CAIT data: Climate Watch. 2020. GHG Emissions. Washington, DC: World Resources Institute. Available\
+  \ at:\_https://www.climatewatchdata.org/ghg-emissions."
+Statisticalconceptandmethodology: The GHG totals are expressed in CO2 equivalent using the GWP100 metric
+  of the Second Assessment Report of IPCC and include CO2 (GWP100=1), CH4 (GWP100=21), N2O (GWP100=310)
+  and F-gases (c-C4F8 GWP=8700, C2F6 GWP=9200, C3F8 GWP=7000, C4F10 GWP=7000, C5F12 GWP=7500, C6F14 GWP=7400,
+  C7F16 GWP=7820, CF4 GWP=6500, HFC-125 GWP=2800, HFC-134a GWP=1300, HFC-143a GWP=3800, HFC-152a GWP=140,
+  HFC-227ea GWP=2900, HFC-23 GWP=11700, HFC-236fa GWP=6300, HFC-245fa GWP=858, HFC-32 GWP=650, HFC-365mfc
+  GWP=804, HFC-43-10-mee GWP=1300, SF6 GWP=23900).
+Topic: 'Environment: Emissions'
+description: Total greenhouse gas emissions in kt of CO2 equivalent are composed of CO2 totals excluding
+  short-cycle biomass burning (such as agricultural waste burning and savanna burning) but including other
+  biomass burning (such as forest fires, post-burn decay, peat fires and decay of drained peatlands),
+  all anthropogenic CH4 sources, N2O sources and F-gases (HFCs, PFCs and SF6).
+id: EN.ATM.GHGT.KT.CE
+name: Total greenhouse gas emissions (thousand metric tons of CO2 equivalent excluding Land-Use Change
+  and Forestry)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: "CAIT data: Climate Watch. 2020. GHG Emissions. Washington, DC: World Resources Institute.\
+  \ Available at:\_https://www.climatewatchdata.org/ghg-emissions."
+topics:
+- id: '19'
+  value: Climate Change
+- id: '6'
+  value: 'Environment '
+unit: ''

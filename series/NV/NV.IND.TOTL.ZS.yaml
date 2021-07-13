@@ -1,0 +1,45 @@
+Aggregationmethod: Weighted average
+Generalcomments: 'Note: Data for OECD countries are based on ISIC, revision 4.'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: Ideally, industrial output should be measured through regular censuses and surveys
+  of firms. But in most developing countries such surveys are infrequent, so earlier survey results must
+  be extrapolated using an appropriate indicator. The choice of sampling unit, which may be the enterprise
+  (where responses may be based on financial records) or the establishment (where production units may
+  be recorded separately), also affects the quality of the data. Moreover, much industrial production
+  is organized in unincorporated or owner-operated ventures that are not captured by surveys aimed at
+  the formal sector. Even in large industries, where regular surveys are more likely, evasion of excise
+  and other taxes and nondisclosure of income lower the estimates of value added. Such problems become
+  more acute as countries move from state control of industry to private enterprise, because new firms
+  and growing numbers of established firms fail to report. In accordance with the System of National Accounts,
+  output should include all such unreported activity as well as the value of illegal activities and other
+  unrecorded, informal, or small-scale operations. Data on these activities need to be collected using
+  techniques other than conventional surveys of firms.
+Periodicity: Annual
+Source: World Bank national accounts data, and OECD National Accounts data files.
+Statisticalconceptandmethodology: Gross domestic product (GDP) represents the sum of value added by all
+  its producers. Value added is the value of the gross output of producers less the value of intermediate
+  goods and services consumed in production, before accounting for consumption of fixed capital in production.
+  The United Nations System of National Accounts calls for value added to be valued at either basic prices
+  (excluding net taxes on products) or producer prices (including net taxes on products paid by producers
+  but excluding sales or value added taxes). Both valuations exclude transport charges that are invoiced
+  separately by producers. Total GDP is measured at purchaser prices. Value added by industry is normally
+  measured at basic prices.
+Topic: 'Economic Policy & Debt: National accounts: Shares of GDP & other'
+description: 'Industry corresponds to ISIC divisions 10-45 and includes manufacturing (ISIC divisions
+  15-37). It comprises value added in mining, manufacturing (also reported as a separate subgroup), construction,
+  electricity, water, and gas. Value added is the net output of a sector after adding up all outputs and
+  subtracting intermediate inputs. It is calculated without making deductions for depreciation of fabricated
+  assets or depletion and degradation of natural resources. The origin of value added is determined by
+  the International Standard Industrial Classification (ISIC), revision 3. Note: For VAB countries, gross
+  value added at factor cost is used as the denominator.'
+id: NV.IND.TOTL.ZS
+name: Industry, value added (% of GDP)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank national accounts data, and OECD National Accounts data files.
+topics:
+- id: '3'
+  value: Economy & Growth
+unit: ''

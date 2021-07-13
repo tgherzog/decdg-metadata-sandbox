@@ -1,0 +1,53 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: 'Literacy rate is an outcome indicator to evaluate educational attainment. This
+  data can predict the quality of future labor force and can be used in ensuring policies for life skills
+  for men and women.
+
+
+  It can be also used as a proxy instrument to see the effectiveness of education system; a high literacy
+  rate suggests the capacity of an education system to provide a large population with opportunities to
+  acquire literacy skills. The accumulated achievement of education is fundamental for further intellectual
+  growth and social and economic development, although it doesn''t necessarily ensure the quality of education.
+
+
+  Literate women implies that they can seek and use information for the betterment of the health, nutrition
+  and education of their household members. Literate women are also empowered to play a meaningful role.'
+Generalcomments: For aggregate data, each economy is classified based on the classification of World Bank
+  Group's fiscal year 2021 (July 1, 2020-June 30, 2021).
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: In practice, literacy is difficult to measure. Estimating literacy rates requires
+  census or survey measurements under controlled conditions. Many countries report the number of literate
+  people from self-reported data. Some use educational attainment data as a proxy but apply different
+  lengths of school attendance or levels of completion. Ant there is a trend among recent national and
+  international surveys toward using a direct reading test of literacy skills. Because definitions and
+  methods of data collection differ across countries, data should be used cautiously.
+Periodicity: Annual
+Source: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2020.
+Statisticalconceptandmethodology: 'Literacy statistics for most countries cover the population ages 15
+  and older, but some include younger ages or are confined to age ranges that tend to inflate literacy
+  rates. The youth literacy rate for ages 15-24 reflects recent progress in education. It measures the
+  accumulated outcomes of primary education over the previous 10 years or so by indicating the proportion
+  of the population who have passed through the primary education system and acquired basic literacy and
+  numeracy skills. Generally, literacy also encompasses numeracy, the ability to make simple arithmetic
+  calculations.
+
+
+  Data on literacy are compiled by the UNESCO Institute for Statistics based on national censuses and
+  household surveys and, for countries without recent literacy data, using the Global Age-Specific Literacy
+  Projection Model (GALP). For detailed information, see www.uis.unesco.org.'
+Topic: 'Education: Outcomes'
+description: Adult literacy rate is the percentage of people ages 15 and above who can both read and write
+  with understanding a short simple statement about their everyday life.
+id: SE.ADT.LITR.MA.ZS
+name: Literacy rate, adult male (% of males ages 15 and above)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2020.
+topics:
+- id: '4'
+  value: 'Education '
+- id: '17'
+  value: Gender
+unit: ''

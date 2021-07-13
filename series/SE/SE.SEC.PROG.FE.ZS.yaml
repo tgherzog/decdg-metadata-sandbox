@@ -1,0 +1,44 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: The effective transition rate from primary to secondary education conveys the degree
+  of access or transition between the two levels. As completing primary education is a prerequisite for
+  participating in lower secondary education, growing numbers of primary completers will inevitably create
+  pressure for more available places at the secondary level. A low effective transition rate can signal
+  such problems as an inadequate examination and promotion system or insufficient secondary education
+  capacity.
+Generalcomments: For aggregate data, each economy is classified based on the classification of World Bank
+  Group's fiscal year 2021 (July 1, 2020-June 30, 2021).
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: The quality of data on the transition rate is affected when new entrants and
+  repeaters are not correctly distinguished. Students who interrupt their studies after completing primary
+  education could also affect data quality.
+Periodicity: Annual
+Source: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of February 2020.
+Statisticalconceptandmethodology: "Effective transition rate is calculated by dividing the number of new\
+  \ entrants in the first grade of secondary education in a given year (t) by the number of students who\
+  \ enrolled in the final grade of primary education in the previous school year (t-1) minus the number\
+  \ of repeaters from the last grade of primary education in the given year (t), and multiplying by 100.\
+  \ \nData on education are collected by the UNESCO Institute for Statistics from official responses to\
+  \ its annual education survey. All the data are mapped to the International Standard Classification\
+  \ of Education (ISCED) to ensure the comparability of education programs at the international level.\
+  \ The current version was formally adopted by UNESCO Member States in 2011. \n\nThe reference years\
+  \ reflect the school year for which the data are presented. In some countries the school year spans\
+  \ two calendar years (for example, from September 2010 to June 2011); in these cases the reference year\
+  \ refers to the year in which the school year ended (2011 in the example)."
+Topic: 'Education: Efficiency'
+description: Progression to secondary school refers to the number of new entrants to the first grade of
+  secondary school in a given year as a percentage of the number of students enrolled in the final grade
+  of primary school in the previous year (minus the number of repeaters from the last grade of primary
+  education in the given year).
+id: SE.SEC.PROG.FE.ZS
+name: Progression to secondary school, female (%)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of February 2020.
+topics:
+- id: '4'
+  value: 'Education '
+- id: '17'
+  value: Gender
+unit: ''

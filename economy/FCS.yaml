@@ -1,0 +1,26 @@
+LongName: Fragile and conflict affected situations
+SpecialNotes: 'Fragile and conflict-affected situations aggregate, based on the FY21 FCS list.
+
+
+  Countries are distinguished based on the nature and severity of issues they face. The classification
+  uses the following categories:
+
+  - Countries with high levels of institutional and social fragility, identified based on publicly available
+  indicators that measure the quality of policy and institutions and manifestations of fragility.
+
+  - Countries affected by violent conflict, identified based on a threshold number of conflict-related
+  deaths relative to the population. This category includes two sub-categories based on the intensity
+  of violence: countries in high-intensity conflict and countries in medium-intensity conflict.
+
+
+  For more information, please visit https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/harmonized-list-of-fragile-situations.'
+adminregion: ''
+capitalCity: ''
+id: FCS
+incomelevel: NA
+iso2Code: F1
+latitude: ''
+lendingtype: ''
+longitude: ''
+name: Fragile and conflict affected situations
+region: NA

@@ -1,0 +1,73 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: 'Population estimates are usually based on national population censuses. Estimates
+  for the years before and after the census are interpolations or extrapolations based on demographic
+  models. Errors and undercounting occur even in high-income countries; in developing countries errors
+  may be substantial because of limits in the transport, communications, and other resources required
+  conducting and analyzing a full census.
+
+
+  Population density is a measure of the intensity of land-use, and can be calculated for a block, city,
+  county, state, country, continent or the entire world. Considering that over half of the Earth''s land
+  mass consists of areas inhospitable to human inhabitation, such as deserts and high mountains, and that
+  population tends to cluster around seaports and fresh water sources, a simple number of population density
+  by itself does not give any meaningful measurement of human population density.
+
+
+  Several of the most densely populated territories in the world are city-states, microstates, or dependencies.[6][7]
+  These territories share a relatively small area and a high urbanization level, with an economically
+  specialized city population drawing also on rural resources outside the area, illustrating the difference
+  between high population density and overpopulation.'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: 'Current population estimates for developing countries that lack recent census
+  data and pre- and post-census estimates for countries with census data are provided by the United Nations
+  Population Division and other agencies. The cohort component method - a standard method for estimating
+  and projecting population - requires fertility, mortality, and net migration data, often collected from
+  sample surveys, which can be small or limited in coverage. Population estimates are from demographic
+  modeling and so are susceptible to biases and errors from shortcomings in the model and in the data.
+  Because the five-year age group is the cohort unit and five-year period data are used, interpolations
+  to obtain annual data or single age structure may not reflect actual events or age composition.
+
+
+  The quality and reliability of official demographic data are also affected by public trust in the government,
+  government commitment to full and accurate enumeration, confidentiality and protection against misuse
+  of census data, and census agencies'' independence from political influence. Moreover, comparability
+  of population indicators is limited by differences in the concepts, definitions, collection procedures,
+  and estimation methods used by national statistical agencies and other organizations that collect the
+  data.'
+Periodicity: Annual
+Source: Food and Agriculture Organization and World Bank population estimates.
+Statisticalconceptandmethodology: 'Population density is midyear population divided by land area in square
+  kilometers. This ratio can be calculated for any territorial unit for any point in time, depending on
+  the source of the population data. Populationestimates are prepared by World Bank staff from variety
+  of sources. They are based on the de facto definition of population and include all residents regardless
+  of legal status or citizenship, within the physical boundaries of a country and under the jurisdiction
+  of that country''s political control. Refugees not permanently settled in the country of asylum are
+  considered part of the population of their country of origin. Population numbers are either current
+  census data or historical census data extrapolated through demographic methods. The count also excludes
+  visitors from overseas.
+
+
+  Population density is calculated by dividing midyear population by land area in a country. Population
+  is based on the de facto definition of population, which counts all residents regardless of legal status
+  or citizenship - except for refugees not permanently settled in the country of asylum, who are generally
+  considered part of the population of their country of origin. Land area is a country''s total area,
+  excluding area under inland water bodies, national claims to continental shelf, and exclusive economic
+  zones. In most cases the definition of inland water bodies includes major rivers and lakes.'
+Topic: 'Environment: Density & urbanization'
+description: Population density is midyear population divided by land area in square kilometers. Population
+  is based on the de facto definition of population, which counts all residents regardless of legal status
+  or citizenship--except for refugees not permanently settled in the country of asylum, who are generally
+  considered part of the population of their country of origin. Land area is a country's total area, excluding
+  area under inland water bodies, national claims to continental shelf, and exclusive economic zones.
+  In most cases the definition of inland water bodies includes major rivers and lakes.
+id: EN.POP.DNST
+name: Population density (people per sq. km of land area)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Food and Agriculture Organization and World Bank population estimates.
+topics:
+- id: '16'
+  value: 'Urban Development '
+unit: ''

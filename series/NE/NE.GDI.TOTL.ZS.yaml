@@ -1,0 +1,47 @@
+Aggregationmethod: Weighted average
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: 'Because policymakers have tended to focus on fostering the growth of output,
+  and because data on production are easier to collect than data on spending, many countries generate
+  their primary estimate of GDP using the production approach. Moreover, many countries do not estimate
+  all the components of national expenditures but instead derive some of the main aggregates indirectly
+  using GDP (based on the production approach) as the control total.
+
+
+  Data on capital formation may be estimated from direct surveys of enterprises and administrative records
+  or based on the commodity flow method using data from production, trade, and construction activities.
+  The quality of data on government fixed capital formation depends on the quality of government accounting
+  systems (which tend to be weak in developing countries). Measures of fixed capital formation by households
+  and corporations - particularly capital outlays by small, unincorporated enterprises - are usually unreliable.
+
+
+  Estimates of changes in inventories are rarely complete but usually include the most important activities
+  or commodities. In some countries these estimates are derived as a composite residual along with household
+  final consumption expenditure. According to national accounts conventions, adjustments should be made
+  for appreciation of the value of inventory holdings due to price changes, but this is not always done.
+  In highly inflationary economies this element can be substantial.'
+Periodicity: Annual
+Source: World Bank national accounts data, and OECD National Accounts data files.
+Statisticalconceptandmethodology: Gross domestic product (GDP) from the expenditure side is made up of
+  household final consumption expenditure, general government final consumption expenditure, gross capital
+  formation (private and public investment in fixed assets, changes in inventories, and net acquisitions
+  of valuables), and net exports (exports minus imports) of goods and services. Such expenditures are
+  recorded in purchaser prices and include net taxes on products.
+Topic: 'Economic Policy & Debt: National accounts: Shares of GDP & other'
+description: Gross capital formation (formerly gross domestic investment) consists of outlays on additions
+  to the fixed assets of the economy plus net changes in the level of inventories. Fixed assets include
+  land improvements (fences, ditches, drains, and so on); plant, machinery, and equipment purchases; and
+  the construction of roads, railways, and the like, including schools, offices, hospitals, private residential
+  dwellings, and commercial and industrial buildings. Inventories are stocks of goods held by firms to
+  meet temporary or unexpected fluctuations in production or sales, and "work in progress." According
+  to the 1993 SNA, net acquisitions of valuables are also considered capital formation.
+id: NE.GDI.TOTL.ZS
+name: Gross capital formation (% of GDP)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank national accounts data, and OECD National Accounts data files.
+topics:
+- id: '3'
+  value: Economy & Growth
+unit: ''

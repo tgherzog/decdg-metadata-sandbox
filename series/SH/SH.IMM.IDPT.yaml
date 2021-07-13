@@ -1,0 +1,37 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: Immunization is one of the most cost-effective public health interventions, and
+  is an essential component for reducing under-five mortality. Immunization coverage estimates are used
+  to monitor coverage of immunization services and to guide disease eradication and elimination efforts.
+Generalcomments: This is the Sustainable Development Goal indicator 3.b.1 [https://unstats.un.org/sdgs/metadata/].
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: In many developing countries a lack of precise information on the size of the
+  cohort of one-year-old children makes immunization coverage difficult to estimate from program statistics.
+Periodicity: Annual
+Source: WHO and UNICEF (http://www.who.int/immunization/monitoring_surveillance/en/).
+Statisticalconceptandmethodology: 'Governments in developing countries usually finance immunization against
+  measles and diphtheria, pertussis (whooping cough), and tetanus (DTP) as part of the basic public health
+  package. The data shown here are based on an assessment of national immunization coverage rates by the
+  WHO and UNICEF. The assessment considered both administrative data from service providers and household
+  survey data on children''s immunization histories. Based on the data available, consideration of potential
+  biases, and contributions of local experts, the most likely true level of immunization coverage was
+  determined for each year.
+
+
+  Notes on regional and global aggregates: When the vaccine is not introduced in a national immunization
+  schedule, the missing value is assumed zero (or close to zero) in the relevant groups'' averages.'
+Topic: 'Health: Disease prevention'
+description: Child immunization, DPT, measures the percentage of children ages 12-23 months who received
+  DPT vaccinations before 12 months or at any time before the survey. A child is considered adequately
+  immunized against diphtheria, pertussis (or whooping cough), and tetanus (DPT) after receiving three
+  doses of vaccine.
+id: SH.IMM.IDPT
+name: Immunization, DPT (% of children ages 12-23 months)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: WHO and UNICEF (http://www.who.int/immunization/monitoring_surveillance/en/).
+topics:
+- id: '8'
+  value: 'Health '
+unit: ''

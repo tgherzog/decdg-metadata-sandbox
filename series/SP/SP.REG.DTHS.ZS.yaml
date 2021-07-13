@@ -1,0 +1,19 @@
+Aggregationmethod: Weighted average
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Source: World Health Organization, Global Health Observatory Data Repository/World Health Statistics (http://apps.who.int/gho/data/node.main.1?lang=en).
+Topic: 'Health: Population: Dynamics'
+description: Completeness of death registration is the estimated percentage of deaths that are registered
+  with their cause of death information in the vital registration system of a country.
+id: SP.REG.DTHS.ZS
+name: Completeness of death registration with cause-of-death information (%)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Health Organization, Global Health Observatory Data Repository/World Health
+  Statistics (http://apps.who.int/gho/data/node.main.1?lang=en).
+topics:
+- id: '8'
+  value: 'Health '
+unit: ''

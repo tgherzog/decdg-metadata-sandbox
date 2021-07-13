@@ -1,0 +1,24 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Australian dollar
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Upper middle income
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019/20
+Latestpopulationcensus: '2012'
+Latesttradedata: '2008'
+LongName: Tuvalu
+Nationalaccountsbaseyear: '2005'
+PPPsurveyyear: 2011 (Only for individual consumption expenditure by households)
+Region: East Asia & Pacific
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2010
+SystemofNationalAccounts: Country uses the 1968 System of National Accounts methodology
+adminregion: EAP
+capitalCity: Funafuti
+id: TUV
+incomelevel: UMC
+iso2Code: TV
+latitude: -8.6314877
+lendingtype: IDX
+longitude: 179.089567
+name: Tuvalu
+region: EAS

@@ -1,0 +1,110 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: 'Despite much progress in recent decades, gender inequalities remain pervasive in
+  many dimensions of life - worldwide. But while disparities exist throughout the world, they are most
+  prevalent in developing countries. Gender inequalities in the allocation of such resources as education,
+  health care, nutrition, and political voice matter because of the strong association with well-being,
+  productivity, and economic growth. These patterns of inequality begin at an early age, with boys routinely
+  receiving a larger share of education and health spending than do girls, for example.
+
+
+  Women are vastly underrepresented in decision-making positions in government, although there is some
+  evidence of recent improvement. Gender parity in parliamentary representation is still far from being
+  realized. Without representation at this level, it is difficult for women to influence policy.
+
+
+  A strong and vibrant democracy is possible only when parliament is fully inclusive of the population
+  it represents. Parliaments cannot consider themselves inclusive, however, until they can boast the full
+  participation of women. This is not just about women''s right to equality and their contribution to
+  the conduct of public affairs, but also about using women''s resources and potential to determine political
+  and development priorities that benefit societies and the global community.'
+Generalcomments: 'Relevance to gender indicator: Women are vastly underrepresented in decision making
+  positions in government, although there is some evidence of recent improvement. Gender parity in parliamentary
+  representation is still far from being realized. Without representation at this level, it is difficult
+  for women to influence policy.
+
+
+  This is the Sustainable Development Goal indicator 5.5.1 (a). [https://unstats.un.org/sdgs/metadata/].'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: 'The number of countries covered varies with suspensions or dissolutions of
+  parliaments. There can be difficulties in obtaining information on by-election results and replacements
+  due to death or resignation. These changes are ad hoc events which are more difficult to keep track
+  of. By-elections, for instance, are often not announced internationally as general elections are. Parliaments
+  vary considerably in their internal workings and procedures, however, generally legislate, oversee government
+  and represent the electorate. In terms of measuring women''s contribution to political decision making,
+  this indicator may not be sufficient because some women may face obstacles in fully and efficiently
+  carrying out their parliamentary mandate.
+
+
+  The data is compiled by the Inter-Parliamentary Union on the basis of information provided by National
+  Parliaments. The percentages do not take into account the case of parliaments for which no data was
+  available at that date. Information is available in all countries where a national legislature exists
+  and therefore does not include parliaments that have been dissolved or suspended for an indefinite period.'
+Periodicity: Annual
+Source: Inter-Parliamentary Union (IPU) (www.ipu.org).  For the year of 1998, the data is as of August
+  10, 1998.
+Statisticalconceptandmethodology: 'The proportion of seats held by women in national parliaments is the
+  number of seats held by women members in single or lower chambers of national parliaments, expressed
+  as a percentage of all occupied seats; it is derived by dividing the total number of seats occupied
+  by women by the total number of seats in parliament.
+
+
+  National parliaments can be bicameral or unicameral. This indicator covers the single chamber in unicameral
+  parliaments and the lower chamber in bicameral parliaments. It does not cover the upper chamber of bicameral
+  parliaments. Seats are usually won by members in general parliamentary elections. Seats may also be
+  filled by nomination, appointment, indirect election, rotation of members and by-election. Seats refer
+  to the number of parliamentary mandates, or the number of members of parliament.'
+Topic: 'Gender: Public life & decision making'
+description: Women in parliaments are the percentage of parliamentary seats in a single or lower chamber
+  held by women.
+economies:
+  BGD: "In 2004, the number of seats in parliament was raised from 300 to 345, with the addition of 45\
+    \ reserved seats for women. These reserved seats were filled in September and October 2005, being\
+    \ allocated to political parties in proportion to their share of the national vote received in the\
+    \ 2001 election. \nThe parliament was dissolved on 27 October 2006, in view of elections that are\
+    \ yet to take place. Women held 52 of the 345 seats (15%) in the outgoing parliament. \n45 reserved\
+    \ seats reserved for women are yet to be filled in 2008."
+  EGY: Figures correspond to the results of elections to the Lower House completed in January 2012. Elections
+    to the Upper House will be completed in early 2012.
+  GEO: Elections were held in November 2003. However, on 25 November 2003, the election results were annuled
+    by the Supreme Court of Georgia. New elections will be held in March 2004.
+  GIN: The parliament was dissolved following the December 2008 coup
+  KEN: Situation for 1 January 2008 for directly elected members endorsed by the electoral commission.
+    The additional twelve appointed seats and two ex-officio seats had yet to be filled.
+  KWT: No woman candidate was elected in the 2006 elections. However, one woman, appointed to the 16-member
+    cabinet, is counted, because cabinet ministers also sit in parliament. In 2008, two women were appointed
+    to the 16-member cabinet sworn in June 2008.
+  LBY: Following the popular uprising and protracted fighting that eventually ousted Col. Muammar Gaddafi,
+    the General People's Congress - the unicameral parliament of the now defunct Libyan Arab Jamahiriya
+    - has ceased to function. Parliamentary elections are expected to be held in 2012 under the supervision
+    of the National Transitional Council, the interim government of the new Libya.
+  NAM: The 6 additional non-voting members will be appointed by the President of the Republic after he
+    will be sworn in on 21 March 2005.
+  SGP: The parliament convened on 2 November 2006 following the elections held in May. Nine members are
+    yet to be appointed to the parliament.
+  TLS: The purpose of elections held on 30 August 2001 was to elect members of the Constituent Assembly
+    of Timor-Leste. This body became the National Parliament on 20 May 2002, the date on which the country
+    became independent, without any new elections
+  TON: No women were elected in 2008, however one woman was appointed to the Cabinet. As cabinet ministers
+    also sit in parliament, there is one woman out of a total of 32 members.
+  USA: The total refers to all voting members of the House.
+  VEN: On 25 August 1999, the Constituent Assembly elected on 25 July adopted a dercree putting the bicameral
+    Congress on indefinite recess
+  ZAF: The figures for 1999-2017 on the distribution of seats do not include the 36 special rotating delegates
+    appointed on an ad hoc basis, and all percentages given are therefore calculated on the basis of the
+    54 permanent seats.
+id: SG.GEN.PARL.ZS
+name: Proportion of seats held by women in national parliaments (%)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Inter-Parliamentary Union (IPU) (www.ipu.org).  For the year of 1998, the data is
+  as of August 10, 1998.
+topics:
+- id: '13'
+  value: 'Public Sector '
+- id: '17'
+  value: Gender
+- id: '15'
+  value: 'Social Development '
+unit: ''

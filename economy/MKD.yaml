@@ -1,0 +1,32 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Macedonian denar
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard Plus (SDDS Plus)
+IncomeGroup: Upper middle income
+Latestagriculturalcensus: '2007'
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2018/19
+Latestindustrialdata: '2010'
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2007'
+LongName: Republic of North Macedonia
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2005'
+PPPsurveyyear: Rolling surveys (annual estimation)
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Income survey (IS), 2017
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: Special trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ECA
+capitalCity: Skopje
+id: MKD
+incomelevel: UMC
+iso2Code: MK
+latitude: 42.0024
+lendingtype: IBD
+longitude: 21.4361
+name: North Macedonia
+region: ECS

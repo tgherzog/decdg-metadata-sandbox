@@ -1,0 +1,31 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Australian dollar
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: High income
+Latestagriculturalcensus: 2015-2016
+Latestindustrialdata: '2013'
+Latestpopulationcensus: '2016'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2013'
+LongName: Commonwealth of Australia
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2019'
+PPPsurveyyear: Rolling surveys (annual estimation)
+Region: East Asia & Pacific
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2010
+SpecialNotes: 'Fiscal year end: June 30; reporting period for national accounts data: FY.'
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Canberra
+id: AUS
+incomelevel: HIC
+iso2Code: AU
+latitude: -35.282
+lendingtype: LNX
+longitude: 149.129
+name: Australia
+region: EAS

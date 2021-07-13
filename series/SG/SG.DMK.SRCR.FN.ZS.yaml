@@ -1,0 +1,43 @@
+Developmentrelevance: "Women\u2018s participation in decisions being made in their own households, that\
+  \ is households in which they usually live with their spouse and/or children with or without others,\
+  \ is widely accepted as a universal indicator of women\u2018s empowerment. The ability of women to make\
+  \ decisions that affect their personal circumstances is an essential element of their empowerment and\
+  \ serves as an important contributor to their overall development."
+Generalcomments: This is the Sustainable Development Goal indicator 5.6.1[https://unstats.un.org/sdgs/metadata/].
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: Current estimates of the indicator are based on currently married or in union
+  women of reproductive age (15-49 years old) who are using any type of contraception.  In the current
+  Demographic and Health Surveys (DHS),  the question on decision-making on use of contraception is only
+  asked to women who are currently using contraception. Because the questions on decision- making on sexual
+  relations and health care are restricted to women (15-49) currently married or in union, the denominator
+  for Indicator 5.6.1 is women 15-49, who are currently married or in union and currently using contraception.  However,
+  agreement has been reached with Macro/ICF for upcoming DHS surveys to ask the question on decision on
+  use of contraception to all married/ in union women aged 15-49 years, whether they are currently using
+  any contraception or not. The DHS model questionnaire for Phase 7 already includes the question on decision-making
+  for women who are not currently using any contraception.
+Periodicity: Annual
+Source: Demographic and Health Surveys compiled by United Nations Population Fund
+Statisticalconceptandmethodology: 'Numerator of the indicator is number of married or in union women ages
+  15-49 who have been interviewed and satisfy all three empowerment criteria: 1)who can say "no" to sex;
+  and 2)for whom the decision on contraception is not mainly made by the husband/partner; and 3) for whom
+  decision on health care for themselves ins not usually made by the husband/partner or someone else.  Denominator
+  of the indicator is the total number of women ages 15-49 who are married or in union and who have been
+  interviewed.'
+Topic: 'Gender: Public life & decision making'
+description: "Proportion of women ages 15-49 years (married or in union) who make their own decision on\
+  \ all three selected areas i.e. can say no to sexual intercourse with their husband or partner if they\
+  \ do not want; decide on use of contraception; and decide on their own health care. Only women who provide\
+  \ a \u201Cyes\u201D answer to all three components are considered as women who \u201Cmake her own decisions\
+  \ regarding sexual and reproductive\u201D."
+id: SG.DMK.SRCR.FN.ZS
+name: Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive
+  health care  (% of women age 15-49)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Demographic and Health Surveys compiled by United Nations Population Fund
+topics:
+- id: '17'
+  value: Gender
+unit: ''

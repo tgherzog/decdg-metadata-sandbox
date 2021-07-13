@@ -1,0 +1,54 @@
+Generalcomments: The comparability of welfare aggregates (consumption or income) for the chosen years
+  T0 and T1 is assessed for every country. If comparability across the two surveys is a major concern
+  for a country, the selection criteria are re-applied to select the next best survey year(s). Annualized
+  growth rates are calculated between the survey years, using a compound growth formula. The survey years
+  defining the period for which growth rates are calculated and the type of welfare aggregate used to
+  calculate the growth rates are noted in the footnotes.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: 'Growth rates for Iraq are based on survey means of 2005 PPP$. The coverage
+  and quality of the 2011 PPP price data for Iraq and most other North African and Middle Eastern countries
+  were hindered by the exceptional period of instability they faced at the time of the 2011 exercise of
+  the International Comparison Program. See PovcalNet (http://iresearch.worldbank.org/PovcalNet) for detailed
+  explanations.
+
+
+  Because household surveys are infrequent in most countries and are not aligned across countries, comparisons
+  across countries or over time should be made with a high degree of caution.'
+Periodicity: Annual
+Relatedsourcelinks: 'World Bank, PovcalNet: an online poverty analysis tool, http://iresearch.worldbank.org/PovcalNet/index.htm'
+Shortdefinition: The growth rate in the welfare aggregate of total population is computed as annualized
+  average growth rate in per capita real consumption or income of total population from household surveys
+  over a roughly 5-year period. Growth rates for most countries are based on survey means of 2011 PPP$.
+  For Iraq, they are based on survey means of 2005 PPP$.
+Source: World Bank, Global Database of Shared Prosperity (GDSP) circa 2011-2016 (http://www.worldbank.org/en/topic/poverty/brief/global-database-of-shared-prosperity).
+Topic: 'Poverty: Shared prosperity'
+Unitofmeasure: '%'
+description: 'The growth rate in the welfare aggregate of the total population is computed as the annualized
+  average growth rate in per capita real consumption or income of the total population in  the income
+  distribution in a country from household surveys over a roughly 5-year period. Mean per capita real
+  consumption or income is measured at 2011 Purchasing Power Parity (PPP) using the PovcalNet (http://iresearch.worldbank.org/PovcalNet).
+  For some countries means are not reported due to grouped and/or confidential data. The annualized growth
+  rate is computed as (Mean in final year/Mean in initial year)^(1/(Final year - Initial year)) - 1.  The
+  reference year is the year in which the underlying household survey data was collected. In cases for
+  which the data collection period bridged two calendar years, the first year in which data were collected
+  is reported. The initial year refers to the nearest survey collected 5 years before the most recent
+  survey available, only surveys collected between 3 and 7 years before the most recent survey are considered.
+  The final year refers to the most recent survey available between 2011 and 2015.
+
+
+  Growth rates for Iraq are based on survey means of 2005 PPP$. The coverage and quality of the 2011 PPP
+  price data for Iraq and most other North African and Middle Eastern countries were hindered by the exceptional
+  period of instability they faced at the time of the 2011 exercise of the International Comparison Program.
+  See PovcalNet for detailed explanations.'
+id: SI.SPR.PCAP.ZG
+name: Annualized average growth rate in per capita real survey mean consumption or income, total population
+  (%)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, Global Database of Shared Prosperity (GDSP) circa 2011-2016 (http://www.worldbank.org/en/topic/poverty/brief/global-database-of-shared-prosperity).
+topics:
+- id: '11'
+  value: 'Poverty '
+unit: ''

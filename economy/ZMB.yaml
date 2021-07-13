@@ -1,0 +1,33 @@
+Alternativeconversionfactor: "1990\u201392"
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: New Zambian kwacha
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Lower middle income
+Latesthouseholdsurvey: Demographic and Health Survey, 2018
+Latestindustrialdata: '1994'
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2002'
+LongName: Republic of Zambia
+Nationalaccountsbaseyear: '2010'
+Othergroups: HIPC
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2015
+SpecialNotes: National accounts data were rebased to reflect the January 1, 2013, introduction of the
+  new Zambian kwacha at a rate of 1,000 old kwacha = 1 new kwacha.
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: SSA
+capitalCity: Lusaka
+id: ZMB
+incomelevel: LMC
+iso2Code: ZM
+latitude: -15.3982
+lendingtype: IDX
+longitude: 28.2937
+name: Zambia
+region: SSF

@@ -1,0 +1,57 @@
+Aggregationmethod: Weighted average
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Source: International Comparison Program, World Bank | World Development Indicators database, World Bank
+  | Eurostat-OECD PPP Programme.
+Statisticalconceptandmethodology: "Typically, higher income countries have higher price levels, while\
+  \ lower income countries have lower price levels (Balassa-Samuelson effect). Market exchange rate-based\
+  \ cross-country comparisons of GDP at its expenditure components reflect both differences in economic\
+  \ outputs (volumes) and prices. Given the differences in price levels, the size of higher income countries\
+  \ is inflated, while the size of lower income countries is depressed in the comparison. PPP-based cross-country\
+  \ comparisons of GDP at its expenditure components only reflect differences in economic outputs (volume),\
+  \ as PPPs control for price level differences between the countries. Hence, the comparison reflects\
+  \ the real size of the countries.\n\nFor more information on underlying GNI in current international\
+  \ dollar, please refer to the metadata for \"GNI, PPP (current international $)\" [NY.GNP.MKTP.PP.CD].\
+  \ For more information on underlying population, please refer to the metadata for \"total population\"\
+  \ [SP.POP.TOTL]. \nFor the concept and methodology of PPP, please refer to the International Comparison\
+  \ Program (ICP)\u2019s website (https://www.worldbank.org/en/programs/icp)."
+Topic: 'Economic Policy & Debt: Purchasing power parity'
+description: "This indicator provides per capita values for gross national income (GNI. Formerly GNP)\
+  \ expressed in current international dollars converted by purchasing power parity (PPP) conversion factor.\
+  \ \nGNI is the sum of value added by all resident producers plus any product taxes (less subsidies)\
+  \ not included in the valuation of output plus net receipts of primary income (compensation of employees\
+  \ and property income) from abroad. PPP conversion factor is a spatial price deflator and currency converter\
+  \ that eliminates the effects of the differences in price levels between countries."
+economies:
+  AFG: Estimates are based on regression.
+  ARG: Estimates are based on regression.
+  CYP: Data are for areas under the effective control of the Government of the Republic of Cyprus.
+  ERI: Estimates are based on regression.
+  GEO: Excludes Abkhazia and South Ossetia.
+  GUY: Estimates are based on regression.
+  LBN: Estimates are based on regression.
+  LBY: Estimates are based on regression.
+  MAR: Includes Former Spanish Sahara.
+  MDA: Excludes Transnistria.
+  PRI: Estimates are based on regression.
+  SMR: Estimates are based on regression.
+  SOM: Estimates are based on regression.
+  SSD: Estimates are based on regression.
+  SYR: Estimates are based on regression.
+  TKM: Estimates are based on regression.
+  TLS: Estimates are based on regression.
+  TZA: Covers mainland Tanzania only.
+  UZB: Estimates are based on regression.
+  XKX: Estimates are based on regression.
+id: NY.GNP.PCAP.PP.CD
+name: GNI per capita, PPP (current international $)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Comparison Program, World Bank | World Development Indicators database,
+  World Bank | Eurostat-OECD PPP Programme.
+topics:
+- id: '3'
+  value: Economy & Growth
+unit: ''

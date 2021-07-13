@@ -1,0 +1,98 @@
+Aggregationmethod: Unweighted average
+Developmentrelevance: 'The LPI measures on-the-ground trade logistics performance, helping national leaders,
+  key policymakers, and private sector traders understand the challenges they and their trading partners
+  face in reducing logistical barriers to international commerce.
+
+
+  A useful outcome measure of logistics performance is the time taken to complete trade transactions.
+  The median import lead time for port and airport supply chains, as measured for the LPI, is more than
+  3.5 times longer in low performing countries than in high-performing countries. The difference is around
+  three times for land supply chains. The association suggests that geographical hurdles, and perhaps
+  internal transport markets, still pose substantial difficulties in many countries. Besides geography
+  and speed en route, another factor in import lead times is the border process. Time can be reduced at
+  all stages of this process, but especially in the clearance of goods on arrival. Countries with low
+  logistics performance need to reform their border management so that they can reduce red tape, excessive
+  and opaque procedural requirements, and physical inspections. Although the time to clear goods through
+  customs is a fairly small fraction of total import time for all LPI quintiles, it rises sharply if goods
+  are physically inspected. Core customs procedures are similar across quintiles. But low-performing countries
+  have a far higher prevalence of physical inspection, even subjecting the same shipment to repeated inspections
+  by multiple agencies.
+
+
+  Many low-income countries have long export lead times, reducing their export competitiveness and ability
+  to participate in international trade.'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: 'The Logistics Performance Index is an interactive benchmarking tool created
+  to help countries identify the challenges and opportunities they face in their performance on trade
+  logistics and what they can do to improve their performance. Feedback from operators is supplemented
+  with quantitative data on the performance of key components of the logistics chain in the country of
+  work. Thus, the LPI consists of both qualitative and quantitative measures.
+
+
+  In addition, despite being the most comprehensive data source for country logistics and trade facilitation,
+  the LPI has two important limitations. First, the experience of international freight forwarders might
+  not represent the broader logistics environment in poor countries, which often rely on traditional operators.
+  And the international and traditional operators might differ in their interactions with government agencies
+  - and in their service levels. Second, for landlocked countries and small-island states, the LPI might
+  reflect access problems outside the country assessed, such as transit difficulties. The low rating of
+  a landlocked country might not adequately reflect its trade facilitation efforts, which depend on the
+  workings of complex international transit systems. Landlocked countries cannot eliminate transit inefficiencies
+  with domestic reforms.'
+Periodicity: Annual
+Shortdefinition: Lead time to import is the median time (the value for 50 percent of shipments) from port
+  of discharge to arrival at the consignee.
+Source: 'World Bank and Turku School of Economics, Logistic Performance Index Surveys. Data are available
+  online at : http://www.worldbank.org/lpi. Summary results are published in Arvis and others'' Connecting
+  to Compete: Trade Logistics in the Global Economy, The Logistics Performance Index and Its Indicators
+  report.'
+Statisticalconceptandmethodology: 'Data on lead time to import are from the Logistics Performance Index
+  (LPI) survey. Respondents provided separate values for the best case (10 percent of shipments) and the
+  median case (50 percent of shipments) of shipments from the port of discharge or equivalent to the buyer''s
+  warehouse.
+
+
+  The Logistics Performance Index (LPI) uses a structured online survey of logistics professionals at
+  multinational freight forwarders and at the main express carriers. The 2012 LPI data are based on the
+  2011 survey, which was administered to nearly 1,000 respondents at international logistics companies
+  in 143 countries (domestic performance indicators). The international LPI covers 155 countries. The
+  LPI assesses both large companies and small and medium enterprises. Most of the responses are from small
+  and medium enterprises, with large companies (those with 250 employees or more) accounting for roughly
+  18 percent of responses. The respondents include groups of professionals who are directly involved in
+  day-today operations, from company headquarters and from country offices such as senior executives,
+  area or country managers, and department managers. Many of the respondents are at corporate or regional
+  headquarters or at country branch offices. The rest are at local branch offices or independent firms.
+  The majority of respondents are involved in providing most logistics services as their main line of
+  work such as warehousing and distribution, customer-tailored logistics solutions, courier services,
+  bulk or break bulk cargo transport, and less-than-full container, full-container, or full-trailer load
+  transport.
+
+
+  For the lead time to import, respondents were asked for quantitative information on their countries''
+  international supply chains by picking choices from a dropdown menu. When a response indicates a single
+  value, the answer is coded as the logarithm of that value. When a response indicates a range, the answer
+  is coded as the logarithm of the midpoint of that range. Country scores are produced by exponentiating
+  the average of responses in logarithms across all respondents for a given country. This method is equivalent
+  to taking a geometric average in levels. Scores for regions, income groups, and LPI quintiles are simple
+  averages of the relevant country scores.'
+Topic: 'Private Sector & Trade: Trade facilitation'
+description: Lead time to import is the median time (the value for 50 percent of shipments) from port
+  of discharge to arrival at the consignee. Data are from the Logistics Performance Index survey. Respondents
+  provided separate values for the best case (10 percent of shipments) and the median case (50 percent
+  of shipments). The data are exponentiated averages of the logarithm of single value responses and of
+  midpoint values of range responses for the median case.
+id: LP.IMP.DURS.MD
+name: Lead time to import, median case (days)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'World Bank and Turku School of Economics, Logistic Performance Index Surveys. Data
+  are available online at : http://www.worldbank.org/lpi. Summary results are published in Arvis and others''
+  Connecting to Compete: Trade Logistics in the Global Economy, The Logistics Performance Index and Its
+  Indicators report.'
+topics:
+- id: '12'
+  value: Private Sector
+- id: '21'
+  value: Trade
+unit: ''

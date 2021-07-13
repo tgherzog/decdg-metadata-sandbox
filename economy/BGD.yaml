@@ -1,0 +1,31 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Bangladeshi taka
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Lower middle income
+Latestagriculturalcensus: '2008'
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019
+Latestindustrialdata: '2011'
+Latestpopulationcensus: '2011'
+Latesttradedata: '2015'
+Latestwaterwithdrawaldata: '2008'
+LongName: People's Republic of Bangladesh
+Nationalaccountsbaseyear: 2005/06
+PPPsurveyyear: 2017, 2011
+Region: South Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2016
+SpecialNotes: 'Fiscal year end: June 30; reporting period for national accounts data: FY.'
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: SAS
+capitalCity: Dhaka
+id: BGD
+incomelevel: LMC
+iso2Code: BD
+latitude: 23.7055
+lendingtype: IDX
+longitude: 90.4113
+name: Bangladesh
+region: SAS

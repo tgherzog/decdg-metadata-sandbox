@@ -1,0 +1,48 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: 'Modern energy services are crucial to a country''s economic development. Access
+  to modern energy is essential for the provision of clean water, sanitation and healthcare and for the
+  provision of reliable and efficient lighting, heating, cooking, mechanical power, and transport and
+  telecommunications services.
+
+
+  Governments in many countries are increasingly aware of the urgent need to make better use of the world''s
+  energy resources. Improved energy efficiency is often the most economic and readily available means
+  of improving energy security and reducing greenhouse gas emissions.'
+Generalcomments: 'Restricted use: Please contact the International Energy Agency for third-party use of
+  these data.'
+License_Type: Use and distribution of these data are subject to IEA terms and conditions.
+License_URL: http://www.iea.org/t&c/termsandconditions
+Limitationsandexceptions: The IEA makes these estimates in consultation with national statistical offices,
+  oil companies, electric utilities, and national energy experts. The IEA occasionally revises its time
+  series to reflect political changes, and energy statistics undergo continual changes in coverage or
+  methodology as more detailed energy accounts become available. Breaks in series are therefore unavoidable.
+Periodicity: Annual
+Source: "IEA Statistics \xA9 OECD/IEA 2014 (http://www.iea.org/stats/index.asp), subject to https://www.iea.org/t&c/termsandconditions/"
+Statisticalconceptandmethodology: 'Energy data are compiled by the International Energy Agency (IEA).
+  IEA data for economies that are not members of the Organisation for Economic Co-operation and Development
+  (OECD) are based on national energy data adjusted to conform to annual questionnaires completed by OECD
+  member governments.
+
+
+  A negative value in energy imports indicates that the country is a net exporter. Energy use refers to
+  use of primary energy before transformation to other end-use fuels, which is equal to indigenous production
+  plus imports and stock changes, minus exports and fuels supplied to ships and aircraft engaged in international
+  transport.'
+Topic: 'Environment: Energy production & use'
+description: Net energy imports are estimated as energy use less production, both measured in oil equivalents.
+  A negative value indicates that the country is a net exporter. Energy use refers to use of primary energy
+  before transformation to other end-use fuels, which is equal to indigenous production plus imports and
+  stock changes, minus exports and fuels supplied to ships and aircraft engaged in international transport.
+id: EG.IMP.CONS.ZS
+name: Energy imports, net (% of energy use)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: "IEA Statistics \xA9 OECD/IEA 2014 (http://www.iea.org/stats/index.asp), subject to\
+  \ https://www.iea.org/t&c/termsandconditions/"
+topics:
+- id: '5'
+  value: 'Energy & Mining '
+- id: '21'
+  value: Trade
+unit: ''

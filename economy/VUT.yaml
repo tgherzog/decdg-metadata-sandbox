@@ -1,0 +1,27 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Vanuatu vatu
+ExternaldebtReportingstatus: Estimate
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Lower middle income
+Latestagriculturalcensus: '2007'
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2007/08
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2011'
+LongName: Republic of Vanuatu
+Nationalaccountsbaseyear: '2006'
+PPPsurveyyear: 2011 (Only for individual consumption expenditure by households)
+Region: East Asia & Pacific
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2010
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+adminregion: EAP
+capitalCity: Port-Vila
+id: VUT
+incomelevel: LMC
+iso2Code: VU
+latitude: -17.7404
+lendingtype: IDX
+longitude: 168.321
+name: Vanuatu
+region: EAS

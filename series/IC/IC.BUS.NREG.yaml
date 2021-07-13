@@ -1,0 +1,69 @@
+Developmentrelevance: 'Entrepreneurship is a critical part of economic development and growth and important
+  for the continued dynamism of the modern economy. To measure entrepreneurial activity, annual data is
+  collected directly from 139 company registrars on the number of newly registered firms over the past
+  seven years. The data shows the trends in new firm creation across regions, the relationship between
+  entrepreneurship and the business environment and financial development, and the financial crisis''
+  effect on the entrepreneurial activity in the formal sector.
+
+
+  Private sector development and investment - tapping private sector initiative and investment for socially
+  useful purposes - are critical for poverty reduction. In parallel with public sector efforts, private
+  investment, especially in competitive markets, has tremendous potential to contribute to growth. Private
+  markets are the engine of productivity growth, creating productive jobs and higher incomes. And with
+  government playing a complementary role of regulation, funding, and service provision, private initiative
+  and investment can help provide the basic services and conditions that empower poor people - by improving
+  health, education, and infrastructure.'
+Generalcomments: For cross-country comparability, only limited liability corporations that operate in
+  the formal sector are included.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: 'The definition of entrepreneurship used is limited to the formal sector. Yet,
+  it should be noted that the exclusion of the informal sector is based on the difficulties of quantifying
+  the number of firms that compose it, rather than on its relevance for developing economies. The Entrepreneurship
+  Database facilitates the analysis of the growth of the formal private sector and the identification
+  of factors that encourage firms to begin operations in or transition to the formal sector. Data is collected
+  all limited liability corporations regardless of size. Partnerships and sole proprietorships are not
+  considered in the analysis due to the differences with respect to their definition and regulation worldwide.
+  Data on the number of total or closed firms are not included due to heterogeneity in how these entities
+  are defined and measured.
+
+
+  The Entrepreneurship Database is a critical source of data that facilitates the measurement of entrepreneurial
+  activity across countries and over time. The data also allows for a deeper understanding of the relationship
+  between new firm registration, the regulatory environment, and economic growth. Previous research using
+  the Entrepreneurship Database has shown a significant relationship between the level of cost, time,
+  and procedures required to start a business and new firm registration.
+
+
+  To facilitate cross-country comparability, the Entrepreneurship Database employs a consistent unit of
+  measurement, source of information, and concept of entrepreneurship that is applicable and available
+  among the diverse sample of participating economies.'
+Periodicity: Annual
+Source: World Bank's Entrepreneurship Survey and database (http://www.doingbusiness.org/data/exploretopics/entrepreneurship).
+Statisticalconceptandmethodology: 'To facilitate cross-country comparability, the Entrepreneurship Database
+  employs a consistent unit of measurement, source of information, and concept of entrepreneurship that
+  is applicable and available among the diverse sample of participating economies.
+
+
+  The data collection process involves telephone interviews and email correspondence with business registries
+  in 139 economies. The main sources of information for this study are national business registries. In
+  a limited number of cases where the business registry was unable to provide the data - most often due
+  to an absence of digitized registration systems - the Entrepreneurship Database uses other alternatives
+  sources, such as statistical agencies, tax and labor agencies, chambers of commerce, and private vendors
+  or publicly available data.
+
+
+  The units of measurement are private, formal sector companies with limited liability.'
+Topic: 'Private Sector & Trade: Business environment'
+description: New businesses registered are the number of new limited liability corporations registered
+  in the calendar year.
+id: IC.BUS.NREG
+name: New businesses registered (number)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank's Entrepreneurship Survey and database (http://www.doingbusiness.org/data/exploretopics/entrepreneurship).
+topics:
+- id: '12'
+  value: Private Sector
+unit: ''

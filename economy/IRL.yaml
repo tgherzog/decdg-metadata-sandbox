@@ -1,0 +1,35 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Euro
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: High income
+Latestagriculturalcensus: '2010'
+Latestindustrialdata: '2012'
+Latestpopulationcensus: '2016'
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2009'
+LongName: Ireland
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2015'
+Othergroups: Euro area
+PPPsurveyyear: Rolling surveys (annual estimation)
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Income survey (IS), 2015
+SpecialNotes: 'A simple multiplier is used to convert the national currencies of EMU members to euros.
+  The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro
+  = 0.787564 Irish pound. Please note that historical data before 1999 are not actual euros and are not
+  comparable or suitable for aggregation across countries.'
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Dublin
+id: IRL
+incomelevel: HIC
+iso2Code: IE
+latitude: 53.3441
+lendingtype: LNX
+longitude: -6.26749
+name: Ireland
+region: ECS

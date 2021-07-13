@@ -1,0 +1,30 @@
+Aggregationmethod: Median
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Source: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of February 2020.
+Statisticalconceptandmethodology: "General government expenditure per student in tertiary education is\
+  \ calculated by dividing total government expenditure on tertiary education by the number of students\
+  \ at tertiary level, expressed as a percentage of GDP per capita. Aggregate data are World Bank estimates.\n\
+  \nData on education are collected by the UNESCO Institute for Statistics from official responses to\
+  \ its annual education survey. All the data are mapped to the International Standard Classification\
+  \ of Education (ISCED) to ensure the comparability of education programs at the international level.\
+  \ The current version was formally adopted by UNESCO Member States in 2011. Data on GDP per capita come\
+  \ from the World Bank. \n\nThe reference years reflect the school year for which the data are presented.\
+  \ In some countries the school year spans two calendar years (for example, from September 2010 to June\
+  \ 2011); in these cases the reference year refers to the year in which the school year ended (2011 in\
+  \ the example)."
+Topic: 'Education: Inputs'
+description: Government expenditure per student is the average general government expenditure (current,
+  capital, and transfers) per student in the given level of education, expressed as a percentage of GDP
+  per capita.
+id: SE.XPD.TERT.PC.ZS
+name: Government expenditure per student, tertiary (% of GDP per capita)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of February 2020.
+topics:
+- id: '4'
+  value: 'Education '
+unit: ''

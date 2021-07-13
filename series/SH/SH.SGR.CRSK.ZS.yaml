@@ -1,0 +1,20 @@
+Aggregationmethod: Weighted average
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Source: The Program in Global Surgery and Social Change (PGSSC) at Harvard Medical School (https://www.pgssc.org/)
+Topic: 'Health: Risk factors'
+description: The proportion of population at risk of catastrophic expenditure when surgical care is required.
+  Catastrophic expenditure is defined as direct out of pocket payments for surgical and anaesthesia care
+  exceeding 10% of total income.
+id: SH.SGR.CRSK.ZS
+name: Risk of catastrophic expenditure for surgical care (% of people at risk)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: The Program in Global Surgery and Social Change (PGSSC) at Harvard Medical School
+  (https://www.pgssc.org/)
+topics:
+- id: '8'
+  value: 'Health '
+unit: ''

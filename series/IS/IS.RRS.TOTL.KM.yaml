@@ -1,0 +1,61 @@
+Developmentrelevance: 'Transport infrastructure - highways, railways, ports and waterways, and airports
+  and air traffic control systems - and the services that flow from it are crucial to the activities of
+  households, producers, and governments. Because performance indicators vary widely by transport mode
+  and focus (whether physical infrastructure or the services flowing from that infrastructure), highly
+  specialized and carefully specified indicators are required to measure a country''s transport infrastructure.
+
+
+  The railway transport industry a vital engine of global socio-economic growth. It is of vital importance
+  for economic development, creating direct and indirect employment, supporting tourism and local businesses.
+  Economic growth, technological change, and market liberalization affect road transport throughout the
+  world.
+
+
+  Railways have helped in the industrialization process of a country by easy transportation of coal and
+  raw-materials at a cheaper rate. As railways require huge capital outlay, they may give rise to monopolies
+  and work against public interest at large. Even if controlled and managed by the government, lack of
+  competition sometimes results in inefficiency and high costs. Also, many times it is not economical
+  to operate railways in sparsely settled rural areas. Thus, in many developing countries large rural
+  areas have no railway even today.
+
+
+  Rail transport is a major form of passenger and freight transport in many countries. It is ubiquitous
+  in Europe, with an integrated network covering virtually the whole continent. In India, China, South
+  Korea and Japan, many millions use trains as regular transport. In the North America, freight rail transport
+  is widespread and heavily used in for transporting gods. The western Europe region has the highest railway
+  density in the world and has many individual trains which operate through several countries despite
+  technical and organizational differences in each national network. Australia has a generally sparse
+  network, mostly along its densely populated urban centers.'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: "Unlike the road sector, where numerous qualified motor vehicle operators can\
+  \ operate anywhere on the road network, railways are a restricted transport system with vehicles confined\
+  \ to a fixed guideway. Considering the cost and service characteristics, railways generally are best\
+  \ suited to carry - and can effectively compete for - bulk commodities and containerized freight for\
+  \ distances of 500-5,000 kilometers, and passengers for distances of 50-1,000 kilometers. Below these\
+  \ limits road transport tends to be more competitive, while above these limits air transport for passengers\
+  \ and freight and sea transport for freight tend to be more competitive. \n\nData for transport sectors\
+  \ are not always internationally comparable. Unlike for demographic statistics, national income accounts,\
+  \ and international trade data, the collection of infrastructure data has not been \"internationalized\"\
+  . The data is based a reporting by the railway companies and it can show a drastic increase or decrease\
+  \ for some of the years because of no reporting by some of the companies of a country."
+Periodicity: Annual
+Source: Internation Union of Railways (UIC)
+Statisticalconceptandmethodology: Rail lines are the length of railway route available for train service,
+  irrespective of the number of parallel tracks. It includes railway routes that are open for public passenger
+  and freight servies and excludes dedicated private resource railways.
+Topic: 'Infrastructure: Transportation'
+description: Rail lines are the length of railway route available for train service, irrespective of the
+  number of parallel tracks.
+economies:
+  CAN: Data before 2005 are for Canadian National Line only.
+id: IS.RRS.TOTL.KM
+name: Rail lines (total route-km)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Internation Union of Railways (UIC)
+topics:
+- id: '9'
+  value: 'Infrastructure '
+unit: ''

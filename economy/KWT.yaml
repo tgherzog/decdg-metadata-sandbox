@@ -1,0 +1,28 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Kuwaiti dinar
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: High income
+Latesthouseholdsurvey: Family Health Survey, 1996
+Latestindustrialdata: '2013'
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2018'
+Latestwaterwithdrawaldata: '2002'
+LongName: State of Kuwait
+Nationalaccountsbaseyear: '2010'
+PPPsurveyyear: Annual estimation for 2011-2017
+Region: Middle East & North Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: Special trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Kuwait City
+id: KWT
+incomelevel: HIC
+iso2Code: KW
+latitude: 29.3721
+lendingtype: LNX
+longitude: 47.9824
+name: Kuwait
+region: MEA

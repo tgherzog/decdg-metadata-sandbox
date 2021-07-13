@@ -1,0 +1,75 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: 'Agricultural land covers more than one-third of the world''s land area. In many
+  industrialized countries, agricultural land is subject to zoning regulations. In the context of zoning,
+  agricultural land (or more properly agriculturally zoned land) refers to plots that may be used for
+  agricultural activities, regardless of the physical type or quality of land.
+
+
+  A substantial contribution to agriculture in the last century has been the escalation from manual and
+  stock-animal farm work to gas-powered farm equipment. Globally, steel plows, mowers, mechanical reapers,
+  seed drills, and threshers contributed to the development of mechanized agriculture, tractors enabled
+  the farmer to sow and harvest large agricultural lands with less manpower. In modern times, powered
+  machinery such as tractors, has replaced many jobs formerly carried out by men or animals such as oxen,
+  horses and mules. FAO estimates that most farmers in developing countries experience a greater annual
+  expenditure on farm power inputs than on fertilizer, seeds or agrochemicals.
+
+
+  Agriculture is still a major sector in many economies, and agricultural activities provide developing
+  countries with food and revenue. But agricultural activities also can degrade natural resources as poor
+  farming practices cause soil erosion and loss of soil fertility.
+
+
+  There is no single correct mix of inputs to the agricultural land, as it is dependent on local climate,
+  land quality, and economic development; appropriate levels and application rates vary by country and
+  over time and depend on the type of crops, the climate and soils, and the production process used.'
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: 'The data are collected by the Food and Agriculture Organization of the United
+  Nations (FAO) through annual questionnaires. The FAO tries to impose standard definitions and reporting
+  methods, but complete consistency across countries and over time is not possible. Thus, data on agricultural
+  land in different climates may not be comparable. For example, permanent pastures are quite different
+  in nature and intensity in African countries and dry Middle Eastern countries. Data on agricultural
+  employment, in particular, should be used with caution. In many countries much agricultural employment
+  is informal and unrecorded, including substantial work performed by women and children. To address some
+  of these concerns, this indicator is heavily footnoted in the database in sources, definition, and coverage.
+
+
+  The data collected from official national sources through the questionnaire are supplemented with information
+  from official secondary data sources. The secondary sources cover official country data from websites
+  of national ministries, national publications and related country data reported by various international
+  organizations.'
+Periodicity: Annual
+Source: Food and Agriculture Organization, electronic files and web site.
+Statisticalconceptandmethodology: 'A tractor provides the power and traction to mechanize agricultural
+  tasks, especially tillage. Agricultural implements may be towed behind or mounted on the tractor, and
+  the tractor may also provide a source of power if the implement is mechanized. The most common use of
+  the term "tractor" is for the vehicles used on farms. The farm tractor is used for pulling or pushing
+  agricultural machinery or trailers, for plowing, tilling, disking, harrowing, planting, and similar
+  tasks. Planting, tending and harvesting a crop requires both a significant amount of power and a suitable
+  range of tools and equipment. Mechanization of farming has allowed an increase to the area that can
+  be planted and has contributed towards increased yields, mainly due to the precision with which the
+  farming tasks can be accomplished.
+
+
+  Agricultural land constitutes only a part of any country''s total area, which can include areas not
+  suitable for agriculture, such as forests, mountains, and inland water bodies. Data on agricultural
+  land are valuable for conducting studies on a various perspectives concerning agricultural production,
+  food security and for deriving cropping intensity among others uses. Agricultural land indicator, along
+  with land-use indicators, can also elucidate the environmental sustainability of countries'' agricultural
+  practices.'
+Topic: 'Environment: Agricultural production'
+description: Agricultural machinery refers to the number of wheel and crawler tractors (excluding garden
+  tractors) in use in agriculture at the end of the calendar year specified or during the first quarter
+  of the following year. Arable land includes land defined by the FAO as land under temporary crops (double-cropped
+  areas are counted once), temporary meadows for mowing or for pasture, land under market or kitchen gardens,
+  and land temporarily fallow. Land abandoned as a result of shifting cultivation is excluded.
+id: AG.LND.TRAC.ZS
+name: Agricultural machinery, tractors per 100 sq. km of arable land
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Food and Agriculture Organization, electronic files and web site.
+topics:
+- id: '1'
+  value: 'Agriculture & Rural Development  '
+unit: ''

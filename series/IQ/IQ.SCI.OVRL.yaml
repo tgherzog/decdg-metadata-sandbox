@@ -1,0 +1,28 @@
+Aggregationmethod: Unweighted average
+Developmentrelevance: "Statistical Capacity is a nation\u2019s ability to collect, analyze, and disseminate\
+  \ high-quality data about its population and economy. Quality statistics are essential for all stages\
+  \ of evidence-based decision-making, including: Monitoring social and economic indicators, Allocating\
+  \ political representation and government resources, Guiding private sector investment, as well as Informing\
+  \ the international donor community for program design and policy formulation."
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Source: World Bank, Bulletin Board on Statistical Capacity (http://bbsc.worldbank.org).
+Statisticalconceptandmethodology: The Statistical Capacity Indicator score is calculated as the average
+  of the scores of the 3 dimensions, i.e. Availability, Collection, Practice.
+Topic: 'Public Sector: Policy & institutions'
+description: "The Statistical Capacity Indicator is a composite score assessing the capacity of a country\u2019\
+  s statistical system. It is based on a diagnostic framework assessing the following areas: methodology;\
+  \ data sources; and periodicity and timeliness. Countries are scored against 25 criteria in these areas,\
+  \ using publicly available information and/or country input. The overall Statistical Capacity score\
+  \ is then calculated as a simple average of all three area scores on a scale of 0-100."
+id: IQ.SCI.OVRL
+name: Overall level of statistical capacity (scale 0 - 100)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, Bulletin Board on Statistical Capacity (http://bbsc.worldbank.org).
+topics:
+- id: '13'
+  value: 'Public Sector '
+unit: ''

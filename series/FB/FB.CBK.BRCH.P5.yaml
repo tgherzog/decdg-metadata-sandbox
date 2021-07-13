@@ -1,0 +1,38 @@
+Aggregationmethod: Median
+Developmentrelevance: 'Access to finance can expand opportunities for all with higher levels of access
+  and use of banking services associated with lower financing obstacles for people and businesses. A stable
+  financial system that promotes efficient savings and investment is also crucial for a thriving democracy
+  and market economy. There are several aspects of access to financial services: availability, cost, and
+  quality of services. The development and growth of credit markets depend on access to timely, reliable,
+  and accurate data on borrowers'' credit experiences. Access to credit can be improved by making it easy
+  to create and enforce collateral agreements and by increasing information about potential borrowers''
+  creditworthiness. Lenders look at a borrower''s credit history and collateral. Where credit registries
+  and effective collateral laws are absent - as in many developing countries - banks make fewer loans.
+  Indicators that cover getting credit include the strength of legal rights index and the depth of credit
+  information index.'
+Generalcomments: "Country-specific metadata can be found on the IMF\u2019s FAS website (data.imf.org)."
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: Population-based ratios of the number of branches and ATMs assume a uniform
+  distribution of bank outlets within a country's area and across its population, while in most countries
+  bank branches and ATMs are concentrated in urban centers of the country and are accessible only to some
+  individuals.
+Periodicity: Annual
+Source: International Monetary Fund, Financial Access Survey.
+Statisticalconceptandmethodology: Data are shown as the number of branches of commercial banks for every
+  100,000 adults in the reporting country. It is calculated as (number of institutions + number of branches)*100,000/adult
+  population in the reporting country.
+Topic: 'Financial Sector: Access'
+description: Commercial bank branches are retail locations of resident commercial banks and other resident
+  banks that function as commercial banks that provide financial services to customers and are physically
+  separated from the main office but not organized as legally separated subsidiaries.
+id: FB.CBK.BRCH.P5
+name: Commercial bank branches (per 100,000 adults)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, Financial Access Survey.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+unit: ''

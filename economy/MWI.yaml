@@ -1,0 +1,32 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Malawi kwacha
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Low income
+Latestagriculturalcensus: 2006-2007
+Latesthouseholdsurvey: Fifth Integrated Household Survey 2019-2020; Multiple Indicator Cluster Survey,
+  2019/20
+Latestindustrialdata: '2012'
+Latestpopulationcensus: '2018'
+Latesttradedata: '2017'
+Latestwaterwithdrawaldata: '2005'
+LongName: Republic of Malawi
+Nationalaccountsbaseyear: '2017'
+Othergroups: HIPC
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2016
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: SSA
+capitalCity: Lilongwe
+id: MWI
+incomelevel: LIC
+iso2Code: MW
+latitude: -13.9899
+lendingtype: IDX
+longitude: 33.7703
+name: Malawi
+region: SSF

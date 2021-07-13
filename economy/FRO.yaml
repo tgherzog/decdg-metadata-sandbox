@@ -1,0 +1,20 @@
+BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
+CurrencyUnit: Danish krone
+IncomeGroup: High income
+Latestpopulationcensus: '2011'
+Latesttradedata: '2009'
+LongName: Faroe Islands
+Region: Europe & Central Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Vitalregistrationcomplete: 'Yes'
+adminregion: ''
+capitalCity: Torshavn
+id: FRO
+incomelevel: HIC
+iso2Code: FO
+latitude: 61.8926
+lendingtype: LNX
+longitude: -6.91181
+name: Faroe Islands
+region: ECS

@@ -1,0 +1,30 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Cambodian riel
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Lower middle income
+Latestagriculturalcensus: '2013'
+Latesthouseholdsurvey: Demographic and Health Survey, 2020
+Latestindustrialdata: '2000'
+Latestpopulationcensus: '2019'
+Latesttradedata: '2016'
+Latestwaterwithdrawaldata: '2006'
+LongName: Kingdom of Cambodia
+Nationalaccountsbaseyear: '2000'
+PPPsurveyyear: 2017, 2011
+Region: East Asia & Pacific
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2012
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: EAP
+capitalCity: Phnom Penh
+id: KHM
+incomelevel: LMC
+iso2Code: KH
+latitude: 11.5556
+lendingtype: IDX
+longitude: 104.874
+name: Cambodia
+region: EAS

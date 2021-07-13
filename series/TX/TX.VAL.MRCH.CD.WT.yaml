@@ -1,0 +1,52 @@
+Aggregationmethod: Gap-filled total
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: 'Exports are recorded as the cost of the goods delivered to the frontier of
+  the exporting country for shipment - the free on board (f.o.b.) value.
+
+
+  Countries may report trade according to the general or special system of trade. Under the general system
+  exports comprise outward-moving goods that are (a) goods wholly or partly produced in the country; (b)
+  foreign goods, neither transformed nor declared for domestic consumption in the country, that move outward
+  from customs storage; and (c) goods previously included as imports for domestic consumption but subsequently
+  exported without transformation. Under the special system exports comprise categories a and c. In some
+  compilations categories b and c are classified as re-exports. Because of differences in reporting practices,
+  data on exports may not be fully comparable across economies.
+
+
+  Data on exports of goods are derived from the same sources as data on imports. In principle, world exports
+  and imports should be identical. Similarly, exports from an economy should equal the sum of imports
+  by the rest of the world from that economy. But differences in timing and definitions result in discrepancies
+  in reported values at all levels.'
+Periodicity: Annual
+Source: World Trade Organization.
+Statisticalconceptandmethodology: 'Merchandise trade data are from customs reports of goods moving into
+  or out of an economy or from reports of financial transactions related to merchandise trade recorded
+  in the balance of payments. Because of differences in timing and definitions, trade flow estimates from
+  customs reports and balance of payments may differ. Several international agencies process trade data,
+  each correcting unreported or misreported data, leading to other differences.
+
+
+  The data on total exports of goods (merchandise) are from the World Trade Organization (WTO), which
+  obtains data from national statistical offices and the IMF''s International Financial Statistics, supplemented
+  by the Comtrade database and publications or databases of regional organizations, specialized agencies,
+  economic groups, and private sources (such as Eurostat, the Food and Agriculture Organization, and country
+  reports of the Economist Intelligence Unit). Country websites and email contact have improved collection
+  of up-to-date statistics, reducing the proportion of estimates. The WTO database now covers most major
+  traders in Africa, Asia, and Latin America, which together with high-income countries account for nearly
+  95 percent of world trade. Reliability of data for countries in Europe and Central Asia has also improved.'
+Topic: 'Private Sector & Trade: Exports'
+description: Merchandise exports show the f.o.b. value of goods provided to the rest of the world valued
+  in current U.S. dollars.
+id: TX.VAL.MRCH.CD.WT
+name: Merchandise exports (current US$)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Trade Organization.
+topics:
+- id: '12'
+  value: Private Sector
+- id: '21'
+  value: Trade
+unit: ''

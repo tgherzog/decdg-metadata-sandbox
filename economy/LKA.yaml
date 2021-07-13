@@ -1,0 +1,31 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Sri Lankan rupee
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
+IncomeGroup: Lower middle income
+Latestagriculturalcensus: 2013-2014
+Latesthouseholdsurvey: Demographic and Health Survey, 2006/07
+Latestindustrialdata: '2012'
+Latestpopulationcensus: '2012'
+Latesttradedata: '2017'
+Latestwaterwithdrawaldata: '2005'
+LongName: Democratic Socialist Republic of Sri Lanka
+Nationalaccountsbaseyear: '2010'
+PPPsurveyyear: 2017, 2011
+Region: South Asia
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2016
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+Vitalregistrationcomplete: 'Yes'
+adminregion: SAS
+capitalCity: Colombo
+id: LKA
+incomelevel: LMC
+iso2Code: LK
+latitude: 6.92148
+lendingtype: IBD
+longitude: 79.8528
+name: Sri Lanka
+region: SAS

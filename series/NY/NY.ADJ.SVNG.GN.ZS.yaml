@@ -1,0 +1,61 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: "How wealth changes over time is critical to understanding a country\u2019s prospects\
+  \ for sustainable development. Adjusted Net Saving (ANS) was developed as an indicator to approximate\
+  \ the change in wealth\u2014based on simple economic theory in which savings equals investment, and\
+  \ investment equals the change in wealth.  ANS measures gross national savings, adjusted for gains (spending\
+  \ on education) and losses (consumption of fixed capital, depletion of subsoil assets and forests, pollution\
+  \ damages).  When ANS is negative, it may indicate that wealth is being run down; when ANS is positive,\
+  \ it may indicate that wealth is growing."
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: 'The exercise treats public education expenditures as an addition to savings.
+  However, because of the wide variability in the effectiveness of public education expenditures, these
+  figures cannot be construed as the value of investments in human capital. A current expenditure of $1
+  on education does not necessarily yield $1 of human capital. The calculation should also consider private
+  education expenditure, but data are not available for a large number of countries.
+
+
+  While extensive, the accounting of natural resource depletion and pollution costs still has some gaps.
+  Key estimates missing on the resource side include the value of fossil water extracted from aquifers,
+  net depletion of fish stocks, and depletion and degradation of soils. Important pollutants affecting
+  human health and economic assets are also excluded.'
+Periodicity: Annual
+Source: World Bank staff estimates based on sources and methods described in the World Bank's The Changing
+  Wealth of Nations.
+Statisticalconceptandmethodology: 'Adjusted net savings are derived from standard national accounting
+  measures of gross savings by making four adjustments. First, estimates of fixed capital consumption
+  of produced assets are deducted to obtain net savings. Second, current public expenditures on education
+  are added to net savings (in standard national accounting these expenditures are treated as consumption).
+  Third, estimates of the depletion of a variety of natural resources are deducted to reflect the decline
+  in asset values associated with their extraction and harvest. And fourth, deductions are made for damages
+  from carbon dioxide emissions and local pollution.
+
+
+  Estimates of resource depletion are based on the "change in real wealth" method described in Hamilton
+  and Ruta (2008), which estimates depletion as the ratio between the total value of the resource and
+  the remaining reserve lifetime. The total value of the resource is the present value of current and
+  future rents from resource extractions. An economic rent represents an excess return to a given factor
+  of production. Natural resources give rise to rents because they are not produced; in contrast, for
+  produced goods and services competitive forces will expand supply until economic profits are driven
+  to zero. For each type of resource and each country, unit resource rents are derived by taking the difference
+  between prices and the average unit extraction or harvest costs. Unit rents are then multiplied by the
+  physical quantity extracted or harvested to arrive at total rent. To estimate the value of the resource,
+  rents are assumed to be constant over the life of the resource (the El Serafy approach), and the present
+  value of the rent flow is calculated using a 4 percent discount rate.'
+Topic: 'Economic Policy & Debt: National accounts: Adjusted savings & income'
+description: Adjusted net savings are equal to net national savings plus education expenditure and minus
+  energy depletion, mineral depletion, net forest depletion, and carbon dioxide and particulate emissions
+  damage.
+id: NY.ADJ.SVNG.GN.ZS
+name: Adjusted net savings, including particulate emission damage (% of GNI)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank staff estimates based on sources and methods described in the World Bank's
+  The Changing Wealth of Nations.
+topics:
+- id: '3'
+  value: Economy & Growth
+- id: '6'
+  value: 'Environment '
+unit: ''

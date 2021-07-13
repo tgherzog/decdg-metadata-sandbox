@@ -1,0 +1,175 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: 'Although national defense is an important function of government and security from
+  external threats that contributes to economic development, high military expenditures for defense or
+  civil conflicts burden the economy and may impede growth. Data on military expenditures as a share of
+  gross domestic product (GDP) are a rough indicator of the portion of national resources used for military
+  activities and of the burden on the economy.
+
+
+  As an "input" measure military expenditures are not directly related to the "output" of military activities,
+  capabilities, or security. Comparisons of military spending among countries should take into account
+  the many factors that influence perceptions of vulnerability and risk, including historical and cultural
+  traditions, the length of borders that need defending, the quality of relations with neighbors, and
+  the role of the armed forces in the body politic.
+
+
+  Comparisons of military spending among countries should take into account the many factors that influence
+  perceptions of vulnerability and risk, including historical and cultural traditions, the length of borders
+  that need defending, the quality of relations with neighbors, and the role of the armed forces in the
+  body politic.'
+Generalcomments: Data for some countries are based on partial or uncertain data or rough estimates.
+License_Type: Use and distribution of these data are subject to Stockholm International Peace Research
+  Institute (SIPRI) terms and conditions.
+License_URL: https://www.sipri.org/about/terms-and-conditions
+Limitationsandexceptions: 'Data on military expenditures are not compiled using standard definitions and
+  are often incomplete and unreliable due to countries'' reluctance to disclose military information.
+  Even in countries where the parliament vigilantly reviews budgets and spending, military expenditures
+  and arms transfers rarely receive close scrutiny or full, public disclosure (see Ball 1984 and Happe
+  and Wakeman-Linn 1994). However, the Stockholm International Peace Research Institute (SIPRI) has adopted
+  a definition of military expenditure derived from the North Atlantic Treaty Organization''s (NATO) former
+  definition (in use until 2002; see Definitions).
+
+
+  Data on military expenditures as a share of central government expenditures use data on central government
+  expenditures from the International Monetary Fund (IMF). Therefore the data may differ from comparable
+  data published by national governments.
+
+
+  In the many cases where SIPRI cannot make independent estimates, it uses the national data provided.
+  Because of the differences in definitions and the difficulty in verifying the accuracy and completeness
+  of data, data on military expenditures are not always comparable across countries. However, SIPRI puts
+  a high priority on ensuring that the data series for each country is comparable over time.'
+Periodicity: Annual
+Source: 'Stockholm International Peace Research Institute (SIPRI), Yearbook: Armaments, Disarmament and
+  International Security.'
+Statisticalconceptandmethodology: 'SIPRI military expenditure data includes military and civil personnel,
+  including retirement pensions and social services for military personnel; operation and maintenance;
+  procurement; military research and development; and military aid (in the military expenditures of the
+  donor country). Excluded are civil defense and current expenditures for previous military activities,
+  such as for veterans'' benefits, demobilization, and weapons conversion and destruction. This definition
+  cannot be applied for all countries, however, since that would require more detailed information than
+  is available about military budgets and off-budget military expenditures (for example, whether military
+  budgets cover civil defense, reserves and auxiliary forces, police and paramilitary forces, and military
+  pensions).
+
+
+  SIPRI data for the most recent years include two types of estimate which apply to all countries: (a)
+  figures for the most recent years are for adopted budgets, budget estimates or revised estimates, and
+  are revised, more often than not, in subsequent years; and (b) the deflator used for the latest year
+  in the series is an estimate.
+
+
+  SIPRI''s primary source of military expenditure data is official data provided by national governments.
+  These data are derived from budget documents, defense white papers, and other public documents from
+  official government agencies, including government responses to questionnaires sent by SIPRI, the UNODA,
+  or the Organization for Security and Co-operation in Europe. Secondary sources include international
+  statistics, such as those of NATO and the IMF''s Government Finance Statistics Yearbook. Other secondary
+  sources include country reports of the Economist Intelligence Unit, country reports by IMF staff, and
+  specialist journals and newspapers.
+
+
+  The SIPRI military expenditure figures are presented on a calendar-year basis. The only exception is
+  the USA, for which statistics report data on a fiscal-year basis. Calendar-year data are calculated
+  on the assumption of an even rate of expenditure throughout the fiscal year.'
+Topic: 'Public Sector: Defense & arms trade'
+description: Military expenditures data from SIPRI are derived from the NATO definition, which includes
+  all current and capital expenditures on the armed forces, including peacekeeping forces; defense ministries
+  and other government agencies engaged in defense projects; paramilitary forces, if these are judged
+  to be trained and equipped for military operations; and military space activities. Such expenditures
+  include military and civil personnel, including retirement pensions of military personnel and social
+  services for personnel; operation and maintenance; procurement; military research and development; and
+  military aid (in the military expenditures of the donor country). Excluded are civil defense and current
+  expenditures for previous military activities, such as for veterans' benefits, demobilization, conversion,
+  and destruction of weapons. This definition cannot be applied for all countries, however, since that
+  would require much more detailed information than is available about what is included in military budgets
+  and off-budget military expenditure items. (For example, military budgets might or might not cover civil
+  defense, reserves and auxiliary forces, police and paramilitary forces, dual-purpose forces such as
+  military and civilian police, military grants in kind, pensions for military personnel, and social security
+  contributions paid by one part of government to another.)
+economies:
+  AFG: 2004 SIPRI estimates.
+  ARE: 1997-2014 SIPRI estimates.
+  AUS: 1988-1999 SIPRI estimates.
+  AUT: 1998-2001 SIPRI estimates.
+  AZE: 1994-2004 SIPRI estimates.
+  BDI: 2017-2018 highly uncertain data.
+  BGD: 1988-2008 SIPRI estimates.
+  BGR: 1998-2003 SIPRI estimates.
+  BHR: 1990-2004, 2011-2012, 2014-2019 SIPRI estimates.
+  BLR: 2001-2019 highly uncertain data.
+  BOL: 1989-1998 SIPRI estimates.
+  CHN: 1989-2018 SIPRI estimates.
+  CIV: 2012 SIPRI estimates.
+  COG: 1992-1993 highly uncertain data. 2001-2007 SIPRI estimates.
+  COL: 1988-1989 SIPRI estimates.
+  CYP: 1995-2003 SIPRI estimates.
+  DJI: 1990-1998 & 2006 SIPRI estimates.
+  DZA: 2016-2018 highly uncertain data.
+  ECU: 2013 SIPRI estimates.
+  EGY: 2011-2019 SIPRI estimates.
+  ETH: 1990 & 1992 SIPRI estimates. 2016-2018 highly uncertain data.
+  FIN: 2001-2006 SIPRI estimates.
+  GAB: 2010 SIPRI estimates.
+  GBR: 2019 highly uncertain data.
+  GEO: 1997-2001, 2011-2019 SIPRI estimates.
+  GRC: 1988-2001 SIPRI estimates.
+  GUY: 2000-2007 SIPRI estimates.
+  HND: 2000-2005 & 2017-2018 SIPRI estimates.
+  HRV: 1992-2003 SIPRI estimates.
+  IDN: 1993-1994 SIPRI estimates.
+  IRL: 1988-2000 SIPRI estimates.
+  IRQ: 2004-2019 highly uncertain data.
+  ISR: 2000-2005 SIPRI estimates.
+  ITA: 2007-2009 SIPRI estimates.
+  JAM: 1990-1994 SIPRI estimates.
+  KGZ: 2017-2018 SIPRI estimates.
+  KHM: 2016-2019 highly uncertain data.
+  KOR: 1995-2004 SIPRI estimates.
+  LBN: 1990-1997, 2005-2007, 2010, 2013-2019 SIPRI estimates.
+  LKA: 1990-2003 SIPRI estimates.
+  LSO: 1988-1992 SIPRI estimates.
+  LTU: 1993-1995 SIPRI estimates.
+  LUX: 2008-2019 SIPRI estimates.
+  LVA: 2017-2018 highly uncertain data.
+  MEX: 1990-2003 SIPRI estimates.
+  MLI: 2000-2004 SIPRI estimates.
+  MMR: 2012-2018 highly uncertain data.
+  MNE: 2005-2006 SIPRI estimates.
+  MOZ: 1988-1998 SIPRI estimates.
+  NZL: 1988-2002 SIPRI estimates.
+  OMN: 1990-2019 SIPRI estimates.
+  PAK: 1993-2006 &  2011 SIPRI estimates.
+  PHL: 1989-2004, 2015 SIPRI estimates.
+  PRY: 1989-1997 SIPRI estimates.
+  QAT: 2002-2003 SIPRI estimates.
+  ROU: 1990-1998 SIPRI estimates.
+  RUS: 1998-2012 SIPRI estimates.
+  SAU: 1990-1991, 2016-2019 SIPRI estimates.
+  SDN: 1990-1993 & 1995 SIPRI estimates.
+  SLE: 2006-2011 SIPRI estimates.
+  SLV: 1990-2001 & 2017-2018 SIPRI estimates.
+  SRB: 2012-2019 SIPRI estimates.
+  SWZ: 1988-1995, 2008,  2010-2011 & 2015 SIPRI estimates. 2016-2018 highly uncertain data.
+  SYR: 1990-1992 SIPRI estimates.
+  TGO: 1991 highly uncertain data.
+  THA: 1995-1999 SIPRI estimates.
+  TLS: 2007 SIPRI estimates.
+  TZA: 1991-2002 SIPRI estimates.
+  UGA: 2015-2018 SIPRI estimates.
+  UKR: 2009-2019 SIPRI estimates.
+  UZB: 1994-1997 highly uncertain data.
+  VNM: 2012-2018 highly uncertain data.
+  YEM: 1990-1993 SIPRI estimates.
+  ZMB: 2004 SIPRI estimates.
+  ZWE: 2006 highly uncertain data.
+id: MS.MIL.XPND.ZS
+name: Military expenditure (% of general government expenditure)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'Stockholm International Peace Research Institute (SIPRI), Yearbook: Armaments, Disarmament
+  and International Security.'
+topics:
+- id: '13'
+  value: 'Public Sector '
+unit: ''

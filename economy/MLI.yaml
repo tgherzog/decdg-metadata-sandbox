@@ -1,0 +1,29 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: West African CFA franc
+ExternaldebtReportingstatus: Estimate
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Low income
+Latesthouseholdsurvey: Demographic and Health Survey, 2018
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2017'
+Latestwaterwithdrawaldata: '2006'
+LongName: Republic of Mali
+Nationalaccountsbaseyear: '1999'
+Othergroups: HIPC
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2009/10
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: SSA
+capitalCity: Bamako
+id: MLI
+incomelevel: LIC
+iso2Code: ML
+latitude: 13.5667
+lendingtype: IDX
+longitude: -7.50034
+name: Mali
+region: SSF

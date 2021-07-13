@@ -1,0 +1,30 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Lao kip
+ExternaldebtReportingstatus: Estimate
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Lower middle income
+Latestagriculturalcensus: 2010-2011
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2017
+Latestindustrialdata: '1999'
+Latestpopulationcensus: '2015'
+Latesttradedata: '2016'
+Latestwaterwithdrawaldata: '2005'
+LongName: Lao People's Democratic Republic
+Nationalaccountsbaseyear: '2012'
+PPPsurveyyear: 2017, 2011
+Region: East Asia & Pacific
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2012
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: EAP
+capitalCity: Vientiane
+id: LAO
+incomelevel: LMC
+iso2Code: LA
+latitude: 18.5826
+lendingtype: IDX
+longitude: 102.177
+name: Lao PDR
+region: EAS

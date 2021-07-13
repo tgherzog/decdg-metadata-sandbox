@@ -1,0 +1,52 @@
+Developmentrelevance: "The balance of payments records an economy\u2019s transactions with the rest of\
+  \ the world. Balance of payments accounts are divided into two groups: the current account, which records\
+  \ transactions in goods, services, primary income, and secondary income, and the capital and financial\
+  \ account, which records capital transfers, acquisition or disposal of nonproduced, nonfinancial assets,\
+  \ and transactions in financial assets and liabilities. The current account balance is one of the most\
+  \ analytically useful indicators of an external imbalance.\n\nA primary purpose of the balance of payments\
+  \ accounts is to indicate the need to adjust an external imbalance. Where to draw the line for analytical\
+  \ purposes requires a judgment concerning the imbalance that best indicates the need for adjustment.\
+  \ There are a number of definitions in common use for this and related analytical purposes. The trade\
+  \ balance is the difference between exports and imports of goods. From an analytical view it is arbitrary\
+  \ to distinguish goods from services. For example, a unit of foreign exchange earned by a freight company\
+  \ strengthens the balance of payments to the same extent as the foreign exchange earned by a goods exporter.\
+  \ Even so, the trade balance is useful because it is often the most timely indicator of trends in the\
+  \ current account balance. Customs authorities are typically able to provide data on trade in goods\
+  \ long before data on trade in services are available."
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: Discrepancies may arise in the balance of payments because there is no single
+  source for balance of payments data and therefore no way to ensure that the data are fully consistent.
+  Sources include customs data, monetary accounts of the banking system, external debt records, information
+  provided by enterprises, surveys to estimate service transactions, and foreign exchange records. Differences
+  in collection methods - such as in timing, definitions of residence and ownership, and the exchange
+  rate used to value transactions - contribute to net errors and omissions. In addition, smuggling and
+  other illegal or quasi-legal transactions may be unrecorded or misrecorded.
+Periodicity: Annual
+Source: International Monetary Fund, International Financial Statistics and data files.
+Statisticalconceptandmethodology: The balance of payments (BoP) is a double-entry accounting system that
+  shows all flows of goods and services into and out of an economy; all transfers that are the counterpart
+  of real resources or financial claims provided to or by the rest of the world without a quid pro quo,
+  such as donations and grants; and all changes in residents' claims on and liabilities to nonresidents
+  that arise from economic transactions. All transactions are recorded twice - once as a credit and once
+  as a debit. In principle the net balance should be zero, but in practice the accounts often do not balance,
+  requiring inclusion of a balancing item, net errors and omissions.
+Topic: 'Economic Policy & Debt: Balance of payments: Reserves & other items'
+description: Total reserves comprise holdings of monetary gold, special drawing rights, reserves of IMF
+  members held by the IMF, and holdings of foreign exchange under the control of monetary authorities.
+  The gold component of these reserves is valued at year-end (December 31) London prices. Data are in
+  current U.S. dollars.
+id: FI.RES.TOTL.CD
+name: Total reserves (includes gold, current US$)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, International Financial Statistics and data files.
+topics:
+- id: '3'
+  value: Economy & Growth
+- id: '7'
+  value: 'Financial Sector '
+- id: '20'
+  value: External Debt
+unit: ''

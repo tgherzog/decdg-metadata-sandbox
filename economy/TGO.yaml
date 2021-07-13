@@ -1,0 +1,30 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: West African CFA franc
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Low income
+Latestagriculturalcensus: 2011-14
+Latesthouseholdsurvey: Malaria Indicator Survey, 2017; Multiple Indicator Cluster Survey, 2017
+Latestpopulationcensus: 2020 (expected)
+Latesttradedata: '2017'
+Latestwaterwithdrawaldata: '2002'
+LongName: Republic of Togo
+Nationalaccountsbaseyear: '2016'
+Othergroups: HIPC
+PPPsurveyyear: 2017, 2011
+Region: Sub-Saharan Africa
+SNApricevaluation: Value added at producer prices (VAP)
+SourceofmostrecentIncomeandexpendituredata: Core Welfare Indicator Questionnaire Survey (CWIQ), 2015
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+Systemoftrade: General trade system
+adminregion: SSA
+capitalCity: Lome
+id: TGO
+incomelevel: LIC
+iso2Code: TG
+latitude: 6.1228
+lendingtype: IDX
+longitude: 1.2255
+name: Togo
+region: SSF

@@ -1,0 +1,52 @@
+Aggregationmethod: Weighted average
+Generalcomments: This is the Sustainable Development Goal indicator 3.7.2 [https://unstats.un.org/sdgs/metadata/].
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Source: United Nations Population Division, World Population Prospects.
+Statisticalconceptandmethodology: 'Reproductive health is a state of physical and mental well-being in
+  relation to the reproductive system and its functions and processes. Means of achieving reproductive
+  health include education and services during pregnancy and childbirth, safe and effective contraception,
+  and prevention and treatment of sexually transmitted diseases. Complications of pregnancy and childbirth
+  are the leading cause of death and disability among women of reproductive age in developing countries.
+
+
+  Adolescent fertility rates are based on data on registered live births from vital registration systems
+  or, in the absence of such systems, from censuses or sample surveys. The estimated rates are generally
+  considered reliable measures of fertility in the recent past. Where no empirical information on age-specific
+  fertility rates is available, a model is used to estimate the share of births to adolescents. For countries
+  without vital registration systems fertility rates are generally based on extrapolations from trends
+  observed in censuses or surveys from earlier years.'
+Topic: 'Health: Reproductive health'
+description: Adolescent fertility rate is the number of births per 1,000 women ages 15-19.
+economies:
+  AUS: Including Christmas Island, Cocos (Keeling) Islands and Norfolk Island.
+  AZE: Including Nagorno-Karabakh.
+  CHI: Refers to Guernsey, and Jersey.
+  CHN: The data for China do not include Hong Kong SAR, China; Macao SAR, China; and Taiwan, China.
+  CYP: Including Northern-Cyprus.
+  ESP: Including Canary Islands, Ceuta and Melilla.
+  FIN: "Including \xC5land Islands."
+  GEO: Including Abkhazia and South Ossetia.
+  MDA: Including Transnistria.
+  MKD: The former Yugoslav Republic of Macedonia.
+  MUS: Including Agalega, Rodrigues and Saint Brandon.
+  MYS: Including Sabah and Sarawak.
+  NOR: Including Svalbard and Jan Mayen Islands.
+  PSE: Including East Jerusalem.
+  SRB: Including Kosovo.
+  TZA: Including Zanzibar.
+id: SP.ADO.TFRT
+name: Adolescent fertility rate (births per 1,000 women ages 15-19)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: United Nations Population Division, World Population Prospects.
+topics:
+- id: '8'
+  value: 'Health '
+- id: '17'
+  value: Gender
+- id: '15'
+  value: 'Social Development '
+unit: ''

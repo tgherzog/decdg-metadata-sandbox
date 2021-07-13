@@ -1,0 +1,28 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: East Caribbean dollar
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Budgetary central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Upper middle income
+Latestagriculturalcensus: '2012'
+Latesthouseholdsurvey: Reproductive Health Survey, 1985
+Latestpopulationcensus: '2011'
+Latesttradedata: '2009'
+Latestwaterwithdrawaldata: '2014'
+LongName: Grenada
+Nationalaccountsbaseyear: '2006'
+PPPsurveyyear: 2017, 2011
+Region: Latin America & Caribbean
+SNApricevaluation: Value added at basic prices (VAB)
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+Vitalregistrationcomplete: 'Yes'
+adminregion: LAC
+capitalCity: Saint George's
+id: GRD
+incomelevel: UMC
+iso2Code: GD
+latitude: 12.0653
+lendingtype: IDB
+longitude: -61.7449
+name: Grenada
+region: LCN

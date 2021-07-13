@@ -1,0 +1,29 @@
+BalanceofPaymentsManualinuse: BPM6
+CurrencyUnit: Tongan pa'anga
+ExternaldebtReportingstatus: Actual
+GovernmentAccountingconcept: Consolidated central government
+IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
+IncomeGroup: Upper middle income
+Latestagriculturalcensus: '2015'
+Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019
+Latestindustrialdata: '1981'
+Latestpopulationcensus: '2016'
+Latesttradedata: '2014'
+LongName: Kingdom of Tonga
+Nationalaccountsbaseyear: '2017'
+PPPsurveyyear: 2011 (Only for individual consumption expenditure by households)
+Region: East Asia & Pacific
+SNApricevaluation: Value added at basic prices (VAB)
+SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2009
+SpecialNotes: 'Fiscal year end: June 30; reporting period for national accounts data: FY.'
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+adminregion: EAP
+capitalCity: Nuku'alofa
+id: TON
+incomelevel: UMC
+iso2Code: TO
+latitude: -21.136
+lendingtype: IDX
+longitude: -175.216
+name: Tonga
+region: EAS
