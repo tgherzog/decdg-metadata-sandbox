@@ -1,0 +1,39 @@
+Aggregationmethod: Weighted average
+Developmentrelevance: Strengthening health financing is one objective of Sustainable Development Goal
+  3 (SDG target 3.c).  The levels and trends of health expenditure data identify key issues such as weaknesses
+  and strengths and areas that need investment, for instance additional health facilities, better health
+  information systems, or better trained human resources.  Health financing is also critical for reaching
+  universal health coverage (UHC) defined as all people obtaining the quality health services they need
+  without suffering financial hardship (SDG 3.8).  The data on out-of-pocket spending is a key indicator
+  with regard to financial protection and hence of progress towards UHC.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Notesfromoriginalsource: "The World Health Organization (WHO) has revised health expenditure data using\
+  \ the new international classification for health expenditures in the revised System of Health Accounts\
+  \ (SHA 2011).  WHO\u2019s Global Health Expenditure Database in this new version is the reference source\
+  \ for health expenditure for international comparison imbedded in a standardized framework.  The SHA\
+  \ 2011 clarifies the financing mechanisms and introduces new dimensions which improve the comparability\
+  \ of health expenditures in the perspective of universal health coverage."
+Periodicity: Annual
+Source: World Health Organization Global Health Expenditure database (http://apps.who.int/nha/database).
+Statisticalconceptandmethodology: The health expenditure estimates have been prepared by the World Health
+  Organization under the framework of the System of Health Accounts 2011 (SHA 2011).  The Health SHA 2011
+  tracks all health spending in a given country over a defined period of time regardless of the entity
+  or institution that financed and managed that spending. It generates consistent and comprehensive data
+  on health spending in a country, which in turn can contribute to evidence-based policy-making.
+Topic: 'Health: Health systems'
+description: Share of current health expenditures funded from domestic public sources for health.  Domestic
+  public sources include domestic revenue as internal transfers and grants, transfers, subsidies to voluntary
+  health insurance beneficiaries, non-profit institutions serving households (NPISH) or enterprise financing
+  schemes as well as compulsory prepayment and social health insurance contributions. They do not include
+  external resources spent by governments on health.
+id: SH.XPD.GHED.CH.ZS
+name: Domestic general government health expenditure (% of current health expenditure)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Health Organization Global Health Expenditure database (http://apps.who.int/nha/database).
+topics:
+- id: '8'
+  value: 'Health '
+unit: ''

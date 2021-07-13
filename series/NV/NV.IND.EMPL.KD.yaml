@@ -1,0 +1,54 @@
+Aggregationmethod: Weighted average
+BasePeriod: '2010'
+Developmentrelevance: "Labor productivity is used to assess a country's economic ability to create and\
+  \ sustain decent employment opportunities with fair and equitable remuneration. Productivity increases\
+  \ obtained through investment, trade, technological progress, or changes in work organization can increase\
+  \ social protection and reduce poverty, which in turn reduce vulnerable employment and working poverty.\
+  \ Productivity increases do not guarantee these improvements, but without them\u2014and the economic\
+  \ growth they bring\u2014improvements are highly unlikely. Please also see GDP per person employed (constant\
+  \ 2011 PPP $) [SL.GDP.PCAP.EM.KD], which is a key measure for monitoring the Sustainable Development\
+  \ Goal 8 of promoting sustained, inclusive and sustainable economic growth, full and productive employment\
+  \ and decent work for all."
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: For comparability of individual sectors labor productivity is estimated according
+  to national accounts conventions. However, there are still significant limitations on the availability
+  of reliable data. Information on consistent series of output is not easily available, especially in
+  low- and middle-income countries, because the definition, coverage, and methodology are not always consistent
+  across countries. For more details, see Agriculture, value added (constant 2010 US$) [NV.AGR.TOTL.KD],
+  Industry, value added (constant 2010 US$) [NV.IND.TOTL.KD], and Services, etc., value added (constant
+  2010 US$) [NV.SRV.TOTL.KD].
+Othernotes: Caution should be used for aggregates (population-weighted averages); world totals can be
+  presented without a large economy such as USA.
+Periodicity: Annual
+Source: Derived using World Bank national accounts data and OECD National Accounts data files, and employment
+  data from International Labour Organization, ILOSTAT database.
+Statisticalconceptandmethodology: "Value added per worker is calculated by dividing value added of a sector\
+  \ by the number employed in the sector.  \nGross domestic product (GDP) represents the sum of value\
+  \ added by all producers. Value added is the value of the gross output of producers less the value of\
+  \ intermediate goods and services consumed in production, before accounting for consumption of fixed\
+  \ capital in production. The United Nations System of National Accounts calls for value added to be\
+  \ valued at either basic prices (excluding net taxes on products) or producer prices (including net\
+  \ taxes on products paid by producers but excluding sales or value added taxes). Both valuations exclude\
+  \ transport charges that are invoiced separately by producers. Value added by industry is normally measured\
+  \ at basic prices, while total GDP is measured at purchaser prices. \nData on employment are modeled\
+  \ estimates by the International Labour Organization (ILO) ILOSTAT database. The concept of employment\
+  \ generally refers to people above a certain age who worked, or who held a job, during a reference period.\
+  \ Employment data include both full-time and part-time workers."
+Topic: 'Economic Policy & Debt: National accounts: US$ at constant 2010 prices: Value added'
+description: "Value added per worker is a measure of labor productivity\u2014value added per unit of input.\
+  \ Value added denotes the net output of a sector after adding up all outputs and subtracting intermediate\
+  \ inputs. Data are in constant 2010 U.S. dollars. Industry corresponds to the International Standard\
+  \ Industrial Classification (ISIC) tabulation categories C-F (revision 3) or tabulation categories B-F\
+  \ (revision 4), and includes mining and quarrying (including oil production), manufacturing, construction,\
+  \ and public utilities (electricity, gas, and water)."
+id: NV.IND.EMPL.KD
+name: Industry, value added per worker (constant 2010 US$)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Derived using World Bank national accounts data and OECD National Accounts data files,
+  and employment data from International Labour Organization, ILOSTAT database.
+topics:
+- {}
+unit: ''

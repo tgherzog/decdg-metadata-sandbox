@@ -1,0 +1,29 @@
+Aggregationmethod: Weighted average
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Shortdefinition: Merchandise exports to low- and middle-income economies in Latin America and the Caribbean
+  are the sum of merchandise exports from the reporting economy to low- and middle-income economies in
+  the Latin America and the Caribbean region according to World Bank classification of economies. Data
+  are as a percentage of total merchandise exports by the economy.
+Source: World Bank staff estimates based data from International Monetary Fund's Direction of Trade database.
+Topic: 'Private Sector & Trade: Exports'
+description: Merchandise exports to low- and middle-income economies in Latin America and the Caribbean
+  are the sum of merchandise exports from the reporting economy to low- and middle-income economies in
+  the Latin America and the Caribbean region according to World Bank classification of economies. Data
+  are as a percentage of total merchandise exports by the economy. Data are computed only if at least
+  half of the economies in the partner country group had non-missing data.
+id: TX.VAL.MRCH.R3.ZS
+name: Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total
+  merchandise exports)
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank staff estimates based data from International Monetary Fund's Direction
+  of Trade database.
+topics:
+- id: '12'
+  value: Private Sector
+- id: '21'
+  value: Trade
+unit: ''
