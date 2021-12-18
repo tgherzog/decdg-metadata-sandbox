@@ -5,7 +5,7 @@
 Creates a sample metadata repository by reading current metadata from the data API
 
 Usage:
-  make.pl [--db=DBASEID] [--limit=LIMIT] [--width=WIDTH]
+  make.pl [--db=DBASEID] [--limit=LIMIT] [--width=WIDTH] [--featured] [--compatible]
 
 Options:
   --db=DBASEID:          database [default: 2]
@@ -13,12 +13,21 @@ Options:
   --limit=LIMIT:         how many elements per dimension to extract
 
   --width=WIDTH:         value width in the yaml file [default: 100]
+
+  --featured:            Extract only featured indicators (provides a shorter list)
+
+  --compatible:          be fully compatible with standard PyYAML, producing
+                         less legible YAML output; see README for details.
 '''
 
 import yaml
 import wbgapi as wb
 import os
+import sys
+import logging
 from docopt import docopt
+
+logging.basicConfig(level=logging.INFO)
 
 config = docopt(__doc__)
 config['--width'] = int(config['--width'])
@@ -30,9 +39,15 @@ elementMax = config['--limit'] # or 20
 economies = list(wb.economy.Series().index)
 time      = list(wb.time.Series().index)
 
+yaml_dump_params = {'sort_keys': False, 'width': config['--width']}
+if not config['--compatible']:
+    yaml_dump_params['strict_whitespace'] = False
+
 # extract and cleanup a selection of indicator metadata. Includes series-economy metadata where available
-# series_list = list(wb.series.Series().index)
-# series_list = [row['id'] for row in wb.fetch('indicators', {'source': wb.db, 'featured': 1})]
+if config['--featured']:
+    series_list = [row['id'] for row in wb.fetch('indicators', {'source': wb.db, 'featured': 1})]
+else:
+    series_list = list(wb.series.Series().index)
 # series_list = []
 n = 0
 for elem in series_list:
@@ -66,11 +81,12 @@ for elem in series_list:
     path = '{}/{}.yaml'.format(path, elem)
     print('Saving {}'.format(path))
     with open(path, 'w') as fd:
-        yaml.dump(meta1, fd, width=config['--width'])
+        yaml.dump(meta1, fd, **yaml_dump_params)
 
 # extract and cleanup economy metadata
 economy_list = list(wb.economy.Series().index)
 n = 0
+
 for elem in economy_list:
     if elementMax and n >= elementMax:
         break
@@ -113,4 +129,4 @@ for elem in economy_list:
     path = '{}/{}.yaml'.format(path, elem)
     print('Saving {}'.format(path))
     with open(path, 'w') as fd:
-        yaml.dump(meta1, fd, width=config['--width'])
+        yaml.dump(meta1, fd, **yaml_dump_params)
