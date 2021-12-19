@@ -1,3 +1,18 @@
+id: FR.INR.RISK
+name: Risk premium on lending (lending rate minus treasury bill rate, %)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, International Financial Statistics database.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+description: Risk premium on lending is the interest rate charged by banks on loans to private sector
+  customers minus the "risk free" treasury bill interest rate at which short-term government securities
+  are issued or traded in the market. In some countries this spread may be negative, indicating that the
+  market considers its best corporate clients to be lower risk than the government. The terms and conditions
+  attached to lending rates differ by country, however, limiting their comparability.
 Developmentrelevance: Both banking and financial systems enhance growth, the main factor in poverty reduction.
   At low levels of economic development commercial banks tend to dominate the financial system, while
   at higher levels domestic stock markets tend to become more active and efficient. The size and mobility
@@ -19,18 +34,3 @@ Statisticalconceptandmethodology: The risk premium on lending is the spread betw
   A small spread indicates that the market considers its best corporate customers to be low risk; a negative
   value indicates that the market considers its best corporate clients to be lower risk than the government.
 Topic: 'Financial Sector: Interest rates'
-description: Risk premium on lending is the interest rate charged by banks on loans to private sector
-  customers minus the "risk free" treasury bill interest rate at which short-term government securities
-  are issued or traded in the market. In some countries this spread may be negative, indicating that the
-  market considers its best corporate clients to be lower risk than the government. The terms and conditions
-  attached to lending rates differ by country, however, limiting their comparability.
-id: FR.INR.RISK
-name: Risk premium on lending (lending rate minus treasury bill rate, %)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Monetary Fund, International Financial Statistics database.
-topics:
-- id: '7'
-  value: 'Financial Sector '
-unit: ''

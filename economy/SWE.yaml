@@ -1,3 +1,13 @@
+id: SWE
+iso2Code: SE
+name: Sweden
+region: ECS
+adminregion: ''
+capitalCity: Stockholm
+longitude: 18.0645
+latitude: 59.3327
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Swedish krona
 GovernmentAccountingconcept: Consolidated central government
@@ -7,7 +17,6 @@ Latestagriculturalcensus: '2010'
 Latestindustrialdata: '2014'
 Latestpopulationcensus: 2011. Population figures compiled from administrative registers.
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2010'
 LongName: Kingdom of Sweden
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -19,13 +28,3 @@ SpecialNotes: 'Fiscal year end: June 30; reporting period for national accounts 
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Stockholm
-id: SWE
-incomelevel: HIC
-iso2Code: SE
-latitude: 59.3327
-lendingtype: LNX
-longitude: 18.0645
-name: Sweden
-region: ECS

@@ -1,16 +1,33 @@
+id: SL.EMP.VULN.MA.ZS
+name: Vulnerable employment, male (% of male employment) (modeled ILO estimate)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Derived using data from International Labour Organization, ILOSTAT database. The data
+  retrieved on January 29, 2021.
+topics:
+- id: '10'
+  value: Social Protection & Labor
+- id: '17'
+  value: Gender
+- id: '15'
+  value: 'Social Development '
+description: Vulnerable employment is contributing family workers and own-account workers as a percentage
+  of total employment.
 Aggregationmethod: Weighted average
-Developmentrelevance: "Breaking down employment information by status in employment provides a statistical\
-  \ basis for describing workers' behaviour and conditions of work, and for defining an individual's socio-economic\
-  \ group. A high proportion of wage and salaried workers in a country can signify advanced economic development.\
-  \ If the proportion of own-account workers (self-employed without hired employees) is sizeable, it may\
-  \ be an indication of a large agriculture sector and low growth in the formal economy. A high proportion\
-  \ of contributing family workers \u2014 generally unpaid, although compensation might come indirectly\
-  \ in the form of family income \u2014 may indicate weak development, little job growth, and often a\
-  \ large rural economy.\n\nEach status group faces different economic risks, and contributing family\
-  \ workers and own-account workers are the most vulnerable - and therefore the most likely to fall into\
-  \ poverty. They are the least likely to have formal work arrangements, are the least likely to have\
-  \ social protection and safety nets to guard against economic shocks, and often are incapable of generating\
-  \ sufficient savings to offset these shocks."
+Developmentrelevance: "Breaking down employment information by status in employment provides a statistical
+   basis for describing workers' behaviour and conditions of work, and for defining an individual's socio-economic
+   group. A high proportion of wage and salaried workers in a country can signify advanced economic development.
+   If the proportion of own-account workers (self-employed without hired employees) is sizeable, it may
+   be an indication of a large agriculture sector and low growth in the formal economy. A high proportion
+   of contributing family workers \u2014 generally unpaid, although compensation might come indirectly
+   in the form of family income \u2014 may indicate weak development, little job growth, and often a large
+   rural economy.\n\nEach status group faces different economic risks, and contributing family workers
+   and own-account workers are the most vulnerable - and therefore the most likely to fall into poverty.
+   They are the least likely to have formal work arrangements, are the least likely to have social protection
+   and safety nets to guard against economic shocks, and often are incapable of generating sufficient
+   savings to offset these shocks."
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
 Limitationsandexceptions: Data are drawn from labor force surveys and household surveys, supplemented
@@ -36,20 +53,3 @@ Statisticalconceptandmethodology: 'The indicator of status in employment disting
   force surveys, with other sources (population censuses and nationally reported estimates) used only
   when no survey data are available.'
 Topic: 'Social Protection & Labor: Economic activity'
-description: Vulnerable employment is contributing family workers and own-account workers as a percentage
-  of total employment.
-id: SL.EMP.VULN.MA.ZS
-name: Vulnerable employment, male (% of male employment) (modeled ILO estimate)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Derived using data from International Labour Organization, ILOSTAT database. The data
-  retrieved on January 29, 2021.
-topics:
-- id: '10'
-  value: Social Protection & Labor
-- id: '17'
-  value: Gender
-- id: '15'
-  value: 'Social Development '
-unit: ''

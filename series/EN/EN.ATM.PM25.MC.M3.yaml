@@ -1,16 +1,33 @@
+id: EN.ATM.PM25.MC.M3
+name: PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Brauer, M. et al. 2017, for the Global Burden of Disease Study 2017.
+topics:
+- id: '16'
+  value: 'Urban Development '
+- id: '6'
+  value: 'Environment '
+description: Population-weighted exposure to ambient PM2.5 pollution is defined as the average level of
+  exposure of a nation's population to concentrations of suspended particles measuring less than 2.5 microns
+  in aerodynamic diameter, which are capable of penetrating deep into the respiratory tract and causing
+  severe health damage. Exposure is calculated by weighting mean annual concentrations of PM2.5 by population
+  in both urban and rural areas.
 Aggregationmethod: Weighted average
-Developmentrelevance: "Air pollution places a major burden on world health. In many places, including\
-  \ cities but also in rural areas, exposure to air pollution is the main environmental threat to health,\
-  \ responsible for 6.5 million deaths per year, about one every 5 seconds. Around 40 percent of the world\u2019\
-  s people rely on household burning of wood, charcoal, dung, crop waste, or coal to meet basic energy\
-  \ needs. Cooking and heating with solid fuels create harmful smoke and particles that fill homes and\
-  \ the surrounding environment. Household air pollution from cooking and heating with solid fuels is\
-  \ responsible for 2.9 million deaths a year. Long-term exposure to high levels of fine particles in\
-  \ the air contributes to a range of health effects, including respiratory diseases, lung cancer, and\
-  \ heart disease, resulting in 4.2 million deaths annually. Not only does exposure to air pollution affect\
-  \ the health of the world\u2019s people, it also carries huge economic costs and represents a drag on\
-  \ development, particularly for low and middle income countries and vulnerable segments of the population\
-  \ such as children and the elderly."
+Developmentrelevance: "Air pollution places a major burden on world health. In many places, including
+   cities but also in rural areas, exposure to air pollution is the main environmental threat to health,
+   responsible for 6.5 million deaths per year, about one every 5 seconds. Around 40 percent of the world\u2019\
+  s people rely on household burning of wood, charcoal, dung, crop waste, or coal to meet basic energy
+   needs. Cooking and heating with solid fuels create harmful smoke and particles that fill homes and
+   the surrounding environment. Household air pollution from cooking and heating with solid fuels is responsible
+   for 2.9 million deaths a year. Long-term exposure to high levels of fine particles in the air contributes
+   to a range of health effects, including respiratory diseases, lung cancer, and heart disease, resulting
+   in 4.2 million deaths annually. Not only does exposure to air pollution affect the health of the world\u2019\
+  s people, it also carries huge economic costs and represents a drag on development, particularly for
+   low and middle income countries and vulnerable segments of the population such as children and the
+   elderly."
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
 Limitationsandexceptions: Pollutant concentrations are sensitive to local conditions, and even monitoring
@@ -23,39 +40,22 @@ Limitationsandexceptions: Pollutant concentrations are sensitive to local condit
   The WHO has also recommended guideline values for emissions of PM2.5 from burning fuels in households.
 Periodicity: Annual
 Source: Brauer, M. et al. 2017, for the Global Burden of Disease Study 2017.
-Statisticalconceptandmethodology: "A. van Donkelaar, R.V. Martin, M. Brauer, N.C. Hsu, R.A. Kahn, R.C.\
-  \ Levy, A. Lyapustin, A.M. Sayer, D.M. Winker, \"Global Estimates of Fine Particulate Matter using a\
-  \ Combined Geophysical-Statistical Method with Information from Satellites, Models, and Monitors,\"\
-  \ Environ. Sci. Technol 50, no. 7 (2016): 3762\u20133772; GBD 2017 Risk Factors Collaborators, \"Global,\
-  \ regional, and national comparative risk assessment of 84 behavioural, environmental and occupational,\
-  \ and metabolic risks or clusters of risks for 194 countries and territories, 1990\u20132017: a systematic\
-  \ analysis for the Global Burden of Disease Study 2017,\" Lancet 392 (2018): 1923-1994; Shaddick G,\
-  \ Thomas M, Amini H, Broday DM, Cohen A, Frostad J, Green A, Gumy S, Liu Y, Martin RV, Pr\xFCss-\xDC\
-  st\xFCn A, Simpson D, van Donkelaar A, Brauer M. Data integration for the assessment of population exposure\
-  \ to ambient air pollution for global burden of disease assessment. Environ Sci Technol. 2018 Jun 29.\
-  \ Data provided by Institute for Health Metrics and Evaluation, University of Washington, Seattle. Data\
-  \ on exposure to ambient air pollution are derived from estimates of annual concentrations of very fine\
-  \ particulates produced by the Global Burden of Disease study, an international scientific effort led\
-  \ by the Institute for Health Metrics and Evaluation at the University of Washington. Estimates of annual\
-  \ concentrations are generated by combining data from atmospheric chemistry transport models, satellite\
-  \ observations of aerosols in the atmosphere, and ground-level monitoring of particulates. Exposure\
-  \ to concentrations of PM2.5 in both urban and rural areas is weighted by population and is aggregated\
-  \ at the national level."
+Statisticalconceptandmethodology: "A. van Donkelaar, R.V. Martin, M. Brauer, N.C. Hsu, R.A. Kahn, R.C.
+   Levy, A. Lyapustin, A.M. Sayer, D.M. Winker, \"Global Estimates of Fine Particulate Matter using a
+   Combined Geophysical-Statistical Method with Information from Satellites, Models, and Monitors,\" Environ.
+   Sci. Technol 50, no. 7 (2016): 3762\u20133772; GBD 2017 Risk Factors Collaborators, \"Global, regional,
+   and national comparative risk assessment of 84 behavioural, environmental and occupational, and metabolic
+   risks or clusters of risks for 194 countries and territories, 1990\u20132017: a systematic analysis
+   for the Global Burden of Disease Study 2017,\" Lancet 392 (2018): 1923-1994; Shaddick G, Thomas M,
+   Amini H, Broday DM, Cohen A, Frostad J, Green A, Gumy S, Liu Y, Martin RV, Pr\xFCss-\xDCst\xFCn A,
+   Simpson D, van Donkelaar A, Brauer M. Data integration for the assessment of population exposure to
+   ambient air pollution for global burden of disease assessment. Environ Sci Technol. 2018 Jun 29. Data
+   provided by Institute for Health Metrics and Evaluation, University of Washington, Seattle. Data on
+   exposure to ambient air pollution are derived from estimates of annual concentrations of very fine
+   particulates produced by the Global Burden of Disease study, an international scientific effort led
+   by the Institute for Health Metrics and Evaluation at the University of Washington. Estimates of annual
+   concentrations are generated by combining data from atmospheric chemistry transport models, satellite
+   observations of aerosols in the atmosphere, and ground-level monitoring of particulates. Exposure to
+   concentrations of PM2.5 in both urban and rural areas is weighted by population and is aggregated at
+   the national level."
 Topic: 'Environment: Emissions'
-description: Population-weighted exposure to ambient PM2.5 pollution is defined as the average level of
-  exposure of a nation's population to concentrations of suspended particles measuring less than 2.5 microns
-  in aerodynamic diameter, which are capable of penetrating deep into the respiratory tract and causing
-  severe health damage. Exposure is calculated by weighting mean annual concentrations of PM2.5 by population
-  in both urban and rural areas.
-id: EN.ATM.PM25.MC.M3
-name: PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Brauer, M. et al. 2017, for the Global Burden of Disease Study 2017.
-topics:
-- id: '16'
-  value: 'Urban Development '
-- id: '6'
-  value: 'Environment '
-unit: ''

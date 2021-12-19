@@ -1,12 +1,12 @@
-LongName: Sub-Saharan Africa (IDA & IBRD)
-SpecialNotes: Sub-Saharan Africa (IDA & IBRD countries) aggregate.
-adminregion: ''
-capitalCity: ''
 id: TSS
-incomelevel: NA
 iso2Code: T6
-latitude: ''
-lendingtype: ''
-longitude: ''
 name: Sub-Saharan Africa (IDA & IBRD countries)
 region: NA
+adminregion: ''
+capitalCity: ''
+longitude: ''
+latitude: ''
+incomelevel: NA
+lendingtype: ''
+LongName: Sub-Saharan Africa (IDA & IBRD)
+SpecialNotes: Sub-Saharan Africa (IDA & IBRD countries) aggregate.

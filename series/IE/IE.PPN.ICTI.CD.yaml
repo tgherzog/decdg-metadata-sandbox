@@ -1,3 +1,25 @@
+id: IE.PPN.ICTI.CD
+name: Public private partnerships investment in ICT (current US$)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, Private Participation in Infrastructure Project Database (http://ppi.worldbank.org).
+topics:
+- id: '9'
+  value: 'Infrastructure '
+description: Public Private Partnerships in ICT (current US$) refers to commitments to projects in ICT
+  backbone infrastructure (including land based and submarine cables) that have reached financial closure
+  and directly or indirectly serve the public. Movable assets and small projects are excluded. The types
+  of projects included are management and lease contracts, operations and management contracts with major
+  capital expenditure and greenfield projects (in which a private entity or a public-private joint venture
+  builds and operates a new facility). It excludes divestitures and merchant projects. Investment commitments
+  are the sum of investments in facilities and investments in government assets. Investments in facilities
+  are the resources the project company commits to invest during the contract period either in new facilities
+  or in expansion and modernization of existing facilities. Investments in government assets are the resources
+  the project company spends on acquiring government assets such as state-owned enterprises, rights to
+  provide services in a specific area, or the use of specific radio spectrums. Data is presented based
+  on investment year. Data are in current U.S. dollars and available 2015 onwards only.
 Aggregationmethod: Sum
 Developmentrelevance: 'Investment in infrastructure projects with private participation has made important
   contributions to improving the efficiency of infrastructure services, and extending delivery to poor
@@ -60,24 +82,3 @@ Statisticalconceptandmethodology: 'The data are from the World Bank''s Private P
 
   Data are in current U.S. dollars.'
 Topic: 'Private Sector & Trade: Private infrastructure investment'
-description: Public Private Partnerships in ICT (current US$) refers to commitments to projects in ICT
-  backbone infrastructure (including land based and submarine cables) that have reached financial closure
-  and directly or indirectly serve the public. Movable assets and small projects are excluded. The types
-  of projects included are management and lease contracts, operations and management contracts with major
-  capital expenditure and greenfield projects (in which a private entity or a public-private joint venture
-  builds and operates a new facility). It excludes divestitures and merchant projects. Investment commitments
-  are the sum of investments in facilities and investments in government assets. Investments in facilities
-  are the resources the project company commits to invest during the contract period either in new facilities
-  or in expansion and modernization of existing facilities. Investments in government assets are the resources
-  the project company spends on acquiring government assets such as state-owned enterprises, rights to
-  provide services in a specific area, or the use of specific radio spectrums. Data is presented based
-  on investment year. Data are in current U.S. dollars and available 2015 onwards only.
-id: IE.PPN.ICTI.CD
-name: Public private partnerships investment in ICT (current US$)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank, Private Participation in Infrastructure Project Database (http://ppi.worldbank.org).
-topics:
-- {}
-unit: ''

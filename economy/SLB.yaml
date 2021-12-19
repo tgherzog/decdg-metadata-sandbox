@@ -1,3 +1,13 @@
+id: SLB
+iso2Code: SB
+name: Solomon Islands
+region: EAS
+adminregion: EAP
+capitalCity: Honiara
+longitude: 159.949
+latitude: -9.42676
+incomelevel: LMC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Solomon Islands dollar
 ExternaldebtReportingstatus: Actual
@@ -15,13 +25,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2012/13
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: Special trade system
-adminregion: EAP
-capitalCity: Honiara
-id: SLB
-incomelevel: LMC
-iso2Code: SB
-latitude: -9.42676
-lendingtype: IDX
-longitude: 159.949
-name: Solomon Islands
-region: EAS

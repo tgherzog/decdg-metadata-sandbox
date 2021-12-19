@@ -1,3 +1,15 @@
+id: IC.BUS.NREG
+name: New businesses registered (number)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank's Entrepreneurship Survey and database (http://www.doingbusiness.org/data/exploretopics/entrepreneurship).
+topics:
+- id: '12'
+  value: Private Sector
+description: New businesses registered are the number of new limited liability corporations registered
+  in the calendar year.
 Developmentrelevance: 'Entrepreneurship is a critical part of economic development and growth and important
   for the continued dynamism of the modern economy. To measure entrepreneurial activity, annual data is
   collected directly from 139 company registrars on the number of newly registered firms over the past
@@ -55,15 +67,3 @@ Statisticalconceptandmethodology: 'To facilitate cross-country comparability, th
 
   The units of measurement are private, formal sector companies with limited liability.'
 Topic: 'Private Sector & Trade: Business environment'
-description: New businesses registered are the number of new limited liability corporations registered
-  in the calendar year.
-id: IC.BUS.NREG
-name: New businesses registered (number)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank's Entrepreneurship Survey and database (http://www.doingbusiness.org/data/exploretopics/entrepreneurship).
-topics:
-- id: '12'
-  value: Private Sector
-unit: ''

@@ -1,12 +1,12 @@
-LongName: Heavily indebted poor countries (HIPC)
-SpecialNotes: Heavily indebted poor countries aggregate.
-adminregion: ''
-capitalCity: ''
 id: HPC
-incomelevel: NA
 iso2Code: XE
-latitude: ''
-lendingtype: ''
-longitude: ''
 name: Heavily indebted poor countries (HIPC)
 region: NA
+adminregion: ''
+capitalCity: ''
+longitude: ''
+latitude: ''
+incomelevel: NA
+lendingtype: ''
+LongName: Heavily indebted poor countries (HIPC)
+SpecialNotes: Heavily indebted poor countries aggregate.

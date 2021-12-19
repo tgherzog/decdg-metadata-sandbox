@@ -1,3 +1,13 @@
+id: SYC
+iso2Code: SC
+name: Seychelles
+region: SSF
+adminregion: ''
+capitalCity: Victoria
+longitude: 55.4466
+latitude: -4.6309
+incomelevel: HIC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Seychelles rupee
 GovernmentAccountingconcept: Consolidated central government
@@ -6,7 +16,6 @@ IncomeGroup: High income
 Latestagriculturalcensus: '2011'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2005'
 LongName: Republic of Seychelles
 Nationalaccountsbaseyear: '2006'
 PPPsurveyyear: 2017, 2011
@@ -16,13 +25,3 @@ SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Victoria
-id: SYC
-incomelevel: HIC
-iso2Code: SC
-latitude: -4.6309
-lendingtype: IBD
-longitude: 55.4466
-name: Seychelles
-region: SSF

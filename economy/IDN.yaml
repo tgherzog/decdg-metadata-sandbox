@@ -1,3 +1,13 @@
+id: IDN
+iso2Code: ID
+name: Indonesia
+region: EAS
+adminregion: EAP
+capitalCity: Jakarta
+longitude: 106.83
+latitude: -6.19752
+incomelevel: LMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Indonesian rupiah
 ExternaldebtReportingstatus: Actual
@@ -10,7 +20,6 @@ Latesthouseholdsurvey: Demographic and Health Survey, 2017; Indonesia Young Adul
 Latestindustrialdata: '2013'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2000'
 LongName: Republic of Indonesia
 Nationalaccountsbaseyear: '2010'
 PPPsurveyyear: 2017, 2011
@@ -21,13 +30,3 @@ SpecialNotes: 'Fiscal year end: March 31; reporting period for national accounts
   include Timor-Leste through 1999 unless otherwise noted.'
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: EAP
-capitalCity: Jakarta
-id: IDN
-incomelevel: LMC
-iso2Code: ID
-latitude: -6.19752
-lendingtype: IBD
-longitude: 106.83
-name: Indonesia
-region: EAS

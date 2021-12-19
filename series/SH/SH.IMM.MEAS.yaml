@@ -1,3 +1,16 @@
+id: SH.IMM.MEAS
+name: Immunization, measles (% of children ages 12-23 months)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: WHO and UNICEF (http://www.who.int/immunization/monitoring_surveillance/en/).
+topics:
+- id: '8'
+  value: 'Health '
+description: Child immunization, measles, measures the percentage of children ages 12-23 months who received
+  the measles vaccination before 12 months or at any time before the survey. A child is considered adequately
+  immunized against measles after receiving one dose of vaccine.
 Aggregationmethod: Weighted average
 Developmentrelevance: Immunization is one of the most cost-effective public health interventions, and
   is an essential component for reducing under-five mortality. Immunization coverage estimates are used
@@ -20,16 +33,3 @@ Statisticalconceptandmethodology: 'Governments in developing countries usually f
   Notes on regional and global aggregates: When the vaccine is not introduced in a national immunization
   schedule, the missing value is assumed zero (or close to zero) in the relevant groups'' averages.'
 Topic: 'Health: Disease prevention'
-description: Child immunization, measles, measures the percentage of children ages 12-23 months who received
-  the measles vaccination before 12 months or at any time before the survey. A child is considered adequately
-  immunized against measles after receiving one dose of vaccine.
-id: SH.IMM.MEAS
-name: Immunization, measles (% of children ages 12-23 months)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: WHO and UNICEF (http://www.who.int/immunization/monitoring_surveillance/en/).
-topics:
-- id: '8'
-  value: 'Health '
-unit: ''

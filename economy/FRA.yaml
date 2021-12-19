@@ -1,3 +1,13 @@
+id: FRA
+iso2Code: FR
+name: France
+region: ECS
+adminregion: ''
+capitalCity: Paris
+longitude: 2.35097
+latitude: 48.8566
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Euro
 GovernmentAccountingconcept: Consolidated central government
@@ -7,7 +17,6 @@ Latestagriculturalcensus: '2010'
 Latestindustrialdata: '2014'
 Latestpopulationcensus: '2016'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2012'
 LongName: French Republic
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -22,13 +31,3 @@ SpecialNotes: 'The following irrevocable euro conversion rate was adopted by the
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Paris
-id: FRA
-incomelevel: HIC
-iso2Code: FR
-latitude: 48.8566
-lendingtype: LNX
-longitude: 2.35097
-name: France
-region: ECS

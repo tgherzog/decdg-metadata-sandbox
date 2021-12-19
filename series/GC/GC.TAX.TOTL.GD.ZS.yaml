@@ -1,3 +1,17 @@
+id: GC.TAX.TOTL.GD.ZS
+name: Tax revenue (% of GDP)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, Government Finance Statistics Yearbook and data files,
+  and World Bank and OECD GDP estimates.
+topics:
+- id: '13'
+  value: 'Public Sector '
+description: Tax revenue refers to compulsory transfers to the central government for public purposes.
+  Certain compulsory transfers such as fines, penalties, and most social security contributions are excluded.
+  Refunds and corrections of erroneously collected tax revenue are treated as negative revenue.
 Aggregationmethod: Weighted average
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
@@ -24,17 +38,3 @@ Statisticalconceptandmethodology: 'The IMF''s Government Finance Statistics Manu
   Government finance statistics are reported in local currency. Many countries report government finance
   data by fiscal year; see country metadata for information on fiscal year end by country.'
 Topic: 'Public Sector: Government finance: Revenue'
-description: Tax revenue refers to compulsory transfers to the central government for public purposes.
-  Certain compulsory transfers such as fines, penalties, and most social security contributions are excluded.
-  Refunds and corrections of erroneously collected tax revenue are treated as negative revenue.
-id: GC.TAX.TOTL.GD.ZS
-name: Tax revenue (% of GDP)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Monetary Fund, Government Finance Statistics Yearbook and data files,
-  and World Bank and OECD GDP estimates.
-topics:
-- id: '13'
-  value: 'Public Sector '
-unit: ''

@@ -1,3 +1,19 @@
+id: SE.PRM.CMPT.FE.ZS
+name: Primary completion rate, female (% of relevant age group)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2021.
+topics:
+- id: '4'
+  value: 'Education '
+- id: '17'
+  value: Gender
+description: Primary completion rate, or gross intake ratio to the last grade of primary education, is
+  the number of new entrants (enrollments minus repeaters) in the last grade of primary education, regardless
+  of age, divided by the population at the entrance age for the last grade of primary education. Data
+  limitations preclude adjusting for students who drop out during the final year of primary education.
 Aggregationmethod: Weighted average
 Developmentrelevance: The World Bank and the UNESCO Institute for Statistics jointly developed the primary
   completion rate indicator. Increasingly used as a core indicator of an education system's performance,
@@ -6,41 +22,32 @@ Generalcomments: For aggregate data, each economy is classified based on the cla
   Group's fiscal year 2021 (July 1, 2020-June 30, 2021).
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
-Limitationsandexceptions: "Data limitations preclude adjusting for students who drop out during the final\
-  \ year of primary education. Thus this rate is a proxy that should be taken as an upper estimate of\
-  \ the actual primary completion rate.\n \nThere are many reasons why the primary completion rate can\
-  \ exceed 100 percent. The numerator may include late entrants and overage children who have repeated\
-  \ one or more grades of primary education as well as children who entered school early, while the denominator\
-  \ is the number of children at the entrance age for the last grade of primary education."
+Limitationsandexceptions: >-
+  Data limitations preclude adjusting for students who drop out during the final year of primary education.
+  Thus this rate is a proxy that should be taken as an upper estimate of the actual primary completion
+  rate.
+   
+  There are many reasons why the primary completion rate can exceed 100 percent. The numerator may include
+  late entrants and overage children who have repeated one or more grades of primary education as well
+  as children who entered school early, while the denominator is the number of children at the entrance
+  age for the last grade of primary education.
 Periodicity: Annual
-Source: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2020.
-Statisticalconceptandmethodology: "Primary completion rate is calculated by dividing the number of new\
-  \ entrants (enrollment minus repeaters) in the last grade of primary education, regardless of age, by\
-  \ the population at the entrance age for the last grade of primary education and multiplying by 100.\
-  \ \n\nData on education are collected by the UNESCO Institute for Statistics from official responses\
-  \ to its annual education survey. All the data are mapped to the International Standard Classification\
-  \ of Education (ISCED) to ensure the comparability of education programs at the international level.\
-  \ The current version was formally adopted by UNESCO Member States in 2011. Population data are drawn\
-  \ from the United Nations Population Division. Using a single source for population data standardizes\
-  \ definitions, estimations, and interpolation methods, ensuring a consistent methodology across countries\
-  \ and minimizing potential enumeration problems in national censuses.\n\nThe reference years reflect\
-  \ the school year for which the data are presented. In some countries the school year spans two calendar\
-  \ years (for example, from September 2010 to June 2011); in these cases the reference year refers to\
-  \ the year in which the school year ended (2011 in the example)."
+Source: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2021.
+Statisticalconceptandmethodology: 'Primary completion rate is calculated by dividing the number of new
+  entrants (enrollment minus repeaters) in the last grade of primary education, regardless of age, by
+  the population at the entrance age for the last grade of primary education and multiplying by 100. 
+
+
+  Data on education are collected by the UNESCO Institute for Statistics from official responses to its
+  annual education survey. All the data are mapped to the International Standard Classification of Education
+  (ISCED) to ensure the comparability of education programs at the international level. The current version
+  was formally adopted by UNESCO Member States in 2011. Population data are drawn from the United Nations
+  Population Division. Using a single source for population data standardizes definitions, estimations,
+  and interpolation methods, ensuring a consistent methodology across countries and minimizing potential
+  enumeration problems in national censuses.
+
+
+  The reference years reflect the school year for which the data are presented. In some countries the
+  school year spans two calendar years (for example, from September 2010 to June 2011); in these cases
+  the reference year refers to the year in which the school year ended (2011 in the example).'
 Topic: 'Education: Outcomes'
-description: Primary completion rate, or gross intake ratio to the last grade of primary education, is
-  the number of new entrants (enrollments minus repeaters) in the last grade of primary education, regardless
-  of age, divided by the population at the entrance age for the last grade of primary education. Data
-  limitations preclude adjusting for students who drop out during the final year of primary education.
-id: SE.PRM.CMPT.FE.ZS
-name: Primary completion rate, female (% of relevant age group)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2020.
-topics:
-- id: '4'
-  value: 'Education '
-- id: '17'
-  value: Gender
-unit: ''

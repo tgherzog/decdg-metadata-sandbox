@@ -1,3 +1,13 @@
+id: SAU
+iso2Code: SA
+name: Saudi Arabia
+region: MEA
+adminregion: ''
+capitalCity: Riyadh
+longitude: 46.6977
+latitude: 24.6748
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Saudi Arabian riyal
 GovernmentAccountingconcept: Budgetary central government
@@ -8,7 +18,6 @@ Latesthouseholdsurvey: Demographic Survey 2016
 Latestindustrialdata: '2006'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2006'
 LongName: Kingdom of Saudi Arabia
 Nationalaccountsbaseyear: '2010'
 PPPsurveyyear: Annual estimation for 2011-2017
@@ -16,13 +25,3 @@ Region: Middle East & North Africa
 SNApricevaluation: Value added at producer prices (VAP)
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: ''
-capitalCity: Riyadh
-id: SAU
-incomelevel: HIC
-iso2Code: SA
-latitude: 24.6748
-lendingtype: LNX
-longitude: 46.6977
-name: Saudi Arabia
-region: MEA

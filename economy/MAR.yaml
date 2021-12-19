@@ -1,3 +1,13 @@
+id: MAR
+iso2Code: MA
+name: Morocco
+region: MEA
+adminregion: MNA
+capitalCity: Rabat
+longitude: -6.8704
+latitude: 33.9905
+incomelevel: LMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Moroccan dirham
 ExternaldebtReportingstatus: Actual
@@ -8,7 +18,6 @@ Latesthouseholdsurvey: Morocco National Survey on Population and Family Health, 
 Latestindustrialdata: '2013'
 Latestpopulationcensus: '2014'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2010'
 LongName: Kingdom of Morocco
 Nationalaccountsbaseyear: '2007'
 PPPsurveyyear: 2011, annual estimation for 2014-2017
@@ -17,13 +26,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2013
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
-adminregion: MNA
-capitalCity: Rabat
-id: MAR
-incomelevel: LMC
-iso2Code: MA
-latitude: 33.9905
-lendingtype: IBD
-longitude: -6.8704
-name: Morocco
-region: MEA

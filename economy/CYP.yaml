@@ -1,3 +1,13 @@
+id: CYP
+iso2Code: CY
+name: Cyprus
+region: ECS
+adminregion: ''
+capitalCity: Nicosia
+longitude: 33.3736
+latitude: 35.1676
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Euro
 GovernmentAccountingconcept: Consolidated central government
@@ -7,7 +17,6 @@ Latestagriculturalcensus: '2010'
 Latestindustrialdata: '2014'
 Latestpopulationcensus: '2011'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2013'
 LongName: Republic of Cyprus
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2010'
@@ -23,13 +32,3 @@ SpecialNotes: 'A simple multiplier is used to convert the national currencies of
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Nicosia
-id: CYP
-incomelevel: HIC
-iso2Code: CY
-latitude: 35.1676
-lendingtype: LNX
-longitude: 33.3736
-name: Cyprus
-region: ECS

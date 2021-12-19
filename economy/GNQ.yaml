@@ -1,3 +1,13 @@
+id: GNQ
+iso2Code: GQ
+name: Equatorial Guinea
+region: SSF
+adminregion: SSA
+capitalCity: Malabo
+longitude: 8.7741
+latitude: 3.7523
+incomelevel: UMC
+lendingtype: IBD
 Alternativeconversionfactor: "1965\u201384"
 BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
 CurrencyUnit: Central African CFA franc
@@ -7,7 +17,6 @@ IncomeGroup: Upper middle income
 Latestagriculturalcensus: '2015'
 Latesthouseholdsurvey: Demographic and Health Survey, 2011
 Latestpopulationcensus: '2015'
-Latestwaterwithdrawaldata: '2000'
 LongName: Republic of Equatorial Guinea
 Nationalaccountsbaseyear: '2006'
 PPPsurveyyear: 2017, 2011
@@ -15,13 +24,3 @@ Region: Sub-Saharan Africa
 SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Priority survey (PS), 2006
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
-adminregion: SSA
-capitalCity: Malabo
-id: GNQ
-incomelevel: UMC
-iso2Code: GQ
-latitude: 3.7523
-lendingtype: IBD
-longitude: 8.7741
-name: Equatorial Guinea
-region: SSF

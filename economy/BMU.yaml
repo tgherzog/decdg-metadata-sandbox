@@ -1,23 +1,23 @@
+id: BMU
+iso2Code: BM
+name: Bermuda
+region: NAC
+adminregion: ''
+capitalCity: Hamilton
+longitude: -64.706
+latitude: 32.3293
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Bermuda dollar
 IncomeGroup: High income
 Latestpopulationcensus: '2016'
 Latesttradedata: '2018'
 LongName: The Bermudas
-Nationalaccountsbaseyear: '2006'
+Nationalaccountsbaseyear: '2013'
 PPPsurveyyear: 2017, 2011
 Region: North America
 SNApricevaluation: Value added at basic prices (VAB)
-SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Hamilton
-id: BMU
-incomelevel: HIC
-iso2Code: BM
-latitude: 32.3293
-lendingtype: LNX
-longitude: -64.706
-name: Bermuda
-region: NAC

@@ -1,3 +1,21 @@
+id: IC.LGL.CRED.XQ
+name: Strength of legal rights index (0=weak to 12=strong)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'World Bank, Doing Business project (http://www.doingbusiness.org/). NOTE: Doing Business
+  has been discontinued as of 9/16/2021. For more information: https://bit.ly/3CLCbme'
+topics:
+- id: '7'
+  value: 'Financial Sector '
+- id: '12'
+  value: Private Sector
+- id: '13'
+  value: 'Public Sector '
+description: Strength of legal rights index measures the degree to which collateral and bankruptcy laws
+  protect the rights of borrowers and lenders and thus facilitate lending. The index ranges from 0 to
+  12, with higher scores indicating that these laws are better designed to expand access to credit.
 Aggregationmethod: Unweighted average
 Developmentrelevance: 'Access to finance can expand opportunities for all with higher levels of access
   and use of banking services associated with lower financing obstacles for people and businesses. A stable
@@ -33,8 +51,7 @@ Developmentrelevance: 'Access to finance can expand opportunities for all with h
   workers - and those workers remain outside the protections of labor law. The indicator can help policymakers
   understand the business environment in a country and - along with information from other sources such
   as the World Bank''s Enterprise Surveys - provide insights into potential areas of reform.'
-Generalcomments: Data are presented for the survey year instead of publication year. Data before 2013
-  are not comparable with data from 2013 onward due to methodological changes.
+Generalcomments: Data are presented for the survey year instead of publication year.
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
 Limitationsandexceptions: The Doing Business methodology has limitations that should be considered when
@@ -51,7 +68,8 @@ Limitationsandexceptions: The Doing Business methodology has limitations that sh
   of the standardized case. Fifth, the methodology assumes that a business has full information on what
   is required and does not waste time when completing procedures.
 Periodicity: Annual
-Source: World Bank, Doing Business project (http://www.doingbusiness.org/).
+Source: 'World Bank, Doing Business project (http://www.doingbusiness.org/). NOTE: Doing Business has
+  been discontinued as of 9/16/2021. For more information: https://bit.ly/3CLCbme'
 Statisticalconceptandmethodology: 'Data are collected by the World Bank with a standardized survey that
   uses a simple business case to ensure comparability across economies and over time - with assumptions
   about the legal form of the business, its size, its location, and nature of its operation. Surveys are
@@ -64,22 +82,6 @@ Statisticalconceptandmethodology: 'Data are collected by the World Bank with a s
   and regulations and data on time and motion indicators that measure efficiency in achieving a regulatory
   goal. Within the time and motion indicators cost estimates are recorded from official fee schedules
   where applicable. The data from surveys are subjected to numerous tests for robustness, which lead to
-  revision or expansion of the information collected. For more information on methodology, see http://www.doingbusiness.org/Methodology/getting-credit#legalRights.'
+  revision or expansion of the information collected. Data starting in 2013 reflect the DB15-17 methodology
+  change. For more information on methodology, see http://www.doingbusiness.org/Methodology/getting-credit#legalRights.'
 Topic: 'Private Sector & Trade: Business environment'
-description: Strength of legal rights index measures the degree to which collateral and bankruptcy laws
-  protect the rights of borrowers and lenders and thus facilitate lending. The index ranges from 0 to
-  12, with higher scores indicating that these laws are better designed to expand access to credit.
-id: IC.LGL.CRED.XQ
-name: Strength of legal rights index (0=weak to 12=strong)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank, Doing Business project (http://www.doingbusiness.org/).
-topics:
-- id: '7'
-  value: 'Financial Sector '
-- id: '12'
-  value: Private Sector
-- id: '13'
-  value: 'Public Sector '
-unit: ''

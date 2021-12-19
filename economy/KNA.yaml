@@ -1,3 +1,13 @@
+id: KNA
+iso2Code: KN
+name: St. Kitts and Nevis
+region: LCN
+adminregion: ''
+capitalCity: Basseterre
+longitude: -62.7309
+latitude: 17.3
+incomelevel: HIC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: East Caribbean dollar
 GovernmentAccountingconcept: Budgetary central government
@@ -5,7 +15,6 @@ IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS
 IncomeGroup: High income
 Latestpopulationcensus: '2011'
 Latesttradedata: '2017'
-Latestwaterwithdrawaldata: '2012'
 LongName: St. Kitts and Nevis
 Nationalaccountsbaseyear: '2006'
 PPPsurveyyear: 2017, 2011
@@ -14,13 +23,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Basseterre
-id: KNA
-incomelevel: HIC
-iso2Code: KN
-latitude: 17.3
-lendingtype: IBD
-longitude: -62.7309
-name: St. Kitts and Nevis
-region: LCN

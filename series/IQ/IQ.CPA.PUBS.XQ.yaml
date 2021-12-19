@@ -1,3 +1,18 @@
+id: IQ.CPA.PUBS.XQ
+name: CPIA public sector management and institutions cluster average (1=low to 6=high)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank Group, CPIA database (http://www.worldbank.org/ida).
+topics:
+- id: '19'
+  value: Climate Change
+- id: '13'
+  value: 'Public Sector '
+description: The public sector management and institutions cluster includes property rights and rule-based
+  governance, quality of budgetary and financial management, efficiency of revenue mobilization, quality
+  of public administration, and transparency, accountability, and corruption in the public sector.
 Aggregationmethod: Unweighted average
 Developmentrelevance: 'The International Development Association (IDA) is the part of the World Bank Group
   that helps the poorest countries reduce poverty by providing concessional loans and grants for programs
@@ -49,18 +64,3 @@ Statisticalconceptandmethodology: 'All criteria within each cluster receive equa
   as guideposts. The final ratings are determined following a Bankwide review. The overall numerical IRAI
   score and the separate criteria scores were first publicly disclosed in June 2006.'
 Topic: 'Public Sector: Policy & institutions'
-description: The public sector management and institutions cluster includes property rights and rule-based
-  governance, quality of budgetary and financial management, efficiency of revenue mobilization, quality
-  of public administration, and transparency, accountability, and corruption in the public sector.
-id: IQ.CPA.PUBS.XQ
-name: CPIA public sector management and institutions cluster average (1=low to 6=high)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank Group, CPIA database (http://www.worldbank.org/ida).
-topics:
-- id: '19'
-  value: Climate Change
-- id: '13'
-  value: 'Public Sector '
-unit: ''

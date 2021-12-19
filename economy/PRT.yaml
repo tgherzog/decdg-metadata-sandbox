@@ -1,3 +1,13 @@
+id: PRT
+iso2Code: PT
+name: Portugal
+region: ECS
+adminregion: ''
+capitalCity: Lisbon
+longitude: -9.13552
+latitude: 38.7072
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Euro
 GovernmentAccountingconcept: Consolidated central government
@@ -7,7 +17,6 @@ Latestagriculturalcensus: '2009'
 Latestindustrialdata: '2014'
 Latestpopulationcensus: '2011'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2007'
 LongName: Portuguese Republic
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -22,13 +31,3 @@ SpecialNotes: 'A simple multiplier is used to convert the national currencies of
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Lisbon
-id: PRT
-incomelevel: HIC
-iso2Code: PT
-latitude: 38.7072
-lendingtype: LNX
-longitude: -9.13552
-name: Portugal
-region: ECS

@@ -1,3 +1,17 @@
+id: TM.VAL.MRCH.CD.WT
+name: Merchandise imports (current US$)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Trade Organization.
+topics:
+- id: '12'
+  value: Private Sector
+- id: '21'
+  value: Trade
+description: Merchandise imports show the c.i.f. value of goods received from the rest of the world valued
+  in current U.S. dollars.
 Aggregationmethod: Gap-filled total
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
@@ -37,17 +51,3 @@ Statisticalconceptandmethodology: 'Merchandise trade data are from customs repor
   traders in Africa, Asia, and Latin America, which together with high-income countries account for nearly
   95 percent of world trade. Reliability of data for countries in Europe and Central Asia has also improved.'
 Topic: 'Private Sector & Trade: Imports'
-description: Merchandise imports show the c.i.f. value of goods received from the rest of the world valued
-  in current U.S. dollars.
-id: TM.VAL.MRCH.CD.WT
-name: Merchandise imports (current US$)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Trade Organization.
-topics:
-- id: '12'
-  value: Private Sector
-- id: '21'
-  value: Trade
-unit: ''

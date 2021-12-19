@@ -1,3 +1,13 @@
+id: MNE
+iso2Code: ME
+name: Montenegro
+region: ECS
+adminregion: ECA
+capitalCity: Podgorica
+longitude: 19.2595
+latitude: 42.4602
+incomelevel: UMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Euro
 ExternaldebtReportingstatus: Actual
@@ -7,10 +17,9 @@ Latestagriculturalcensus: '2010'
 Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2018
 Latestpopulationcensus: '2011'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2010'
 LongName: Montenegro
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
-Nationalaccountsreferenceyear: '2006'
+Nationalaccountsreferenceyear: '2010'
 PPPsurveyyear: Rolling surveys (annual estimation)
 Region: Europe & Central Asia
 SNApricevaluation: Value added at basic prices (VAB)
@@ -21,13 +30,3 @@ SpecialNotes: Montenegro declared independence from Serbia and Montenegro on Jun
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ECA
-capitalCity: Podgorica
-id: MNE
-incomelevel: UMC
-iso2Code: ME
-latitude: 42.4602
-lendingtype: IBD
-longitude: 19.2595
-name: Montenegro
-region: ECS

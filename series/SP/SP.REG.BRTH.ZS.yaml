@@ -1,3 +1,18 @@
+id: SP.REG.BRTH.ZS
+name: Completeness of birth registration (%)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNICEF's State of the World's Children based mostly on household surveys and ministry
+  of health data.
+topics:
+- id: '8'
+  value: 'Health '
+description: Completeness of birth registration is the percentage of children under age 5 whose births
+  were registered at the time of the survey. The numerator of completeness of birth registration includes
+  children whose birth certificate was seen by the interviewer or whose mother or caretaker says the birth
+  has been registered.
 Aggregationmethod: Weighted average
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
@@ -36,18 +51,3 @@ Statisticalconceptandmethodology: 'Health systems - the combined arrangements of
 
   Completeness of birth registration indicator is related to the group of indictors of data generation.'
 Topic: 'Health: Population: Dynamics'
-description: Completeness of birth registration is the percentage of children under age 5 whose births
-  were registered at the time of the survey. The numerator of completeness of birth registration includes
-  children whose birth certificate was seen by the interviewer or whose mother or caretaker says the birth
-  has been registered.
-id: SP.REG.BRTH.ZS
-name: Completeness of birth registration (%)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: UNICEF's State of the World's Children based mostly on household surveys and ministry
-  of health data.
-topics:
-- id: '8'
-  value: 'Health '
-unit: ''

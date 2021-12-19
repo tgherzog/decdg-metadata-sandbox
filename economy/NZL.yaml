@@ -1,3 +1,13 @@
+id: NZL
+iso2Code: NZ
+name: New Zealand
+region: EAS
+adminregion: ''
+capitalCity: Wellington
+longitude: 174.776
+latitude: -41.2865
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: New Zealand dollar
 IncomeGroup: High income
@@ -5,7 +15,6 @@ Latestagriculturalcensus: '2012'
 Latestindustrialdata: '2012'
 Latestpopulationcensus: '2018'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2010'
 LongName: New Zealand
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -16,13 +25,3 @@ SpecialNotes: 'Fiscal year end: March 31; reporting period for national accounts
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Wellington
-id: NZL
-incomelevel: HIC
-iso2Code: NZ
-latitude: -41.2865
-lendingtype: LNX
-longitude: 174.776
-name: New Zealand
-region: EAS

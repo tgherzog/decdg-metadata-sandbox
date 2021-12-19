@@ -1,3 +1,25 @@
+id: DT.ODA.ODAT.CD
+name: Net official development assistance received (current US$)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'Development Assistance Committee of the Organisation for Economic Co-operation and
+  Development, Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation
+  Report, and International Development Statistics database. Data are available online at: https://stats.oecd.org/.'
+topics:
+- id: '2'
+  value: 'Aid Effectiveness '
+- id: '3'
+  value: Economy & Growth
+- id: '20'
+  value: External Debt
+description: Net official development assistance (ODA) consists of disbursements of loans made on concessional
+  terms (net of repayments of principal) and grants by official agencies of the members of the Development
+  Assistance Committee (DAC), by multilateral institutions, and by non-DAC countries to promote economic
+  development and welfare in countries and territories in the DAC list of ODA recipients. It includes
+  loans with a grant element of at least 25 percent (calculated at a rate of discount of 10 percent).
+  Data are in current U.S. dollars.
 Aggregationmethod: Sum
 Developmentrelevance: 'DAC exists to help its members coordinate their development assistance and to encourage
   the expansion and improve the effectiveness of the aggregate resources flowing to recipient economies.
@@ -59,50 +81,40 @@ Shortdefinition: Net official development assistance is disbursement flows (net 
 Source: 'Development Assistance Committee of the Organisation for Economic Co-operation and Development,
   Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation Report,
   and International Development Statistics database. Data are available online at: https://stats.oecd.org/.'
-Statisticalconceptandmethodology: "The flows of official and private financial resources from the members\
-  \ of the Development Assistance Committee (DAC) of the Organisation for Economic Co-operation and Development\
-  \ (OECD) to developing economies are compiled by DAC, based principally on donor reports on bilateral\
-  \ programs by DAC members using standard questionnaires issued by the DAC Secretariat. DAC has 24 members\
-  \ - 23 individual economies and 1 multilateral institution (European Union institutions). \n\nNet official\
-  \ development assistance (ODA) consists of disbursements of loans made on concessional terms (net of\
-  \ repayments of principal) and grants by official agencies of the members of DAC, by multilateral institutions,\
-  \ and by non-DAC countries to promote economic development and welfare in countries and territories\
-  \ in the DAC list of ODA recipients. It includes loans with a grant element of at least 25 percent (calculated\
-  \ at a rate of discount of 10 percent). Data are in current U.S. dollars.\n\nTotal net disbursements\
-  \ is the sum of grants, capital subscriptions (deposit basis), recoveries and total net loans and other\
-  \ long-term capital.\n\nThe ODA excludes nonconcessional flows from official creditors, which are classified\
-  \ as \"other official flows,\" and aid for military and anti-terrorism purposes. Transfer payments to\
-  \ private individuals, such as pensions, reparations, and insurance payouts, are in general not counted.\
-  \ In addition to financial flows, ODA includes technical cooperation, most expenditures for peacekeeping\
-  \ under UN mandates and assistance to refugees, contributions to multilateral institutions such as the\
-  \ United Nations and its specialized agencies, and concessional funding to multilateral development\
-  \ banks.\n\n\nFlows are transfers of resources, either in cash or in the form of commodities or services\
-  \ measured on a cash basis. Short-term capital transactions (with one year or less maturity) are not\
-  \ counted. Repayments of the principal (but not interest) of ODA loans are recorded as negative flows.\
-  \ Proceeds from official equity investments in a developing country are reported as ODA, while proceeds\
-  \ from their later sale are recorded as negative flows.\n\nThe official development assistance (ODA)\
-  \ estimates are published annually at the end of the calendar year in International Development Statistics\
-  \ (IDS) database."
+Statisticalconceptandmethodology: 'The flows of official and private financial resources from the members
+  of the Development Assistance Committee (DAC) of the Organisation for Economic Co-operation and Development
+  (OECD) to developing economies are compiled by DAC, based principally on donor reports on bilateral
+  programs by DAC members using standard questionnaires issued by the DAC Secretariat. DAC has 24 members
+  - 23 individual economies and 1 multilateral institution (European Union institutions). 
+
+
+  Net official development assistance (ODA) consists of disbursements of loans made on concessional terms
+  (net of repayments of principal) and grants by official agencies of the members of DAC, by multilateral
+  institutions, and by non-DAC countries to promote economic development and welfare in countries and
+  territories in the DAC list of ODA recipients. It includes loans with a grant element of at least 25
+  percent (calculated at a rate of discount of 10 percent). Data are in current U.S. dollars.
+
+
+  Total net disbursements is the sum of grants, capital subscriptions (deposit basis), recoveries and
+  total net loans and other long-term capital.
+
+
+  The ODA excludes nonconcessional flows from official creditors, which are classified as "other official
+  flows," and aid for military and anti-terrorism purposes. Transfer payments to private individuals,
+  such as pensions, reparations, and insurance payouts, are in general not counted. In addition to financial
+  flows, ODA includes technical cooperation, most expenditures for peacekeeping under UN mandates and
+  assistance to refugees, contributions to multilateral institutions such as the United Nations and its
+  specialized agencies, and concessional funding to multilateral development banks.
+
+
+
+  Flows are transfers of resources, either in cash or in the form of commodities or services measured
+  on a cash basis. Short-term capital transactions (with one year or less maturity) are not counted. Repayments
+  of the principal (but not interest) of ODA loans are recorded as negative flows. Proceeds from official
+  equity investments in a developing country are reported as ODA, while proceeds from their later sale
+  are recorded as negative flows.
+
+
+  The official development assistance (ODA) estimates are published annually at the end of the calendar
+  year in International Development Statistics (IDS) database.'
 Topic: 'Economic Policy & Debt: Official development assistance'
-description: Net official development assistance (ODA) consists of disbursements of loans made on concessional
-  terms (net of repayments of principal) and grants by official agencies of the members of the Development
-  Assistance Committee (DAC), by multilateral institutions, and by non-DAC countries to promote economic
-  development and welfare in countries and territories in the DAC list of ODA recipients. It includes
-  loans with a grant element of at least 25 percent (calculated at a rate of discount of 10 percent).
-  Data are in current U.S. dollars.
-id: DT.ODA.ODAT.CD
-name: Net official development assistance received (current US$)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: 'Development Assistance Committee of the Organisation for Economic Co-operation and
-  Development, Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation
-  Report, and International Development Statistics database. Data are available online at: https://stats.oecd.org/.'
-topics:
-- id: '2'
-  value: 'Aid Effectiveness '
-- id: '3'
-  value: Economy & Growth
-- id: '20'
-  value: External Debt
-unit: ''

@@ -1,13 +1,13 @@
+id: LIC
+iso2Code: XM
+name: Low income
+region: NA
+adminregion: ''
+capitalCity: ''
+longitude: ''
+latitude: ''
+incomelevel: NA
+lendingtype: ''
 LongName: Low income
 SpecialNotes: Low income group aggregate. Low-income economies are those in which 2020 GNI per capita
   was $1,045 or less.
-adminregion: ''
-capitalCity: ''
-id: LIC
-incomelevel: NA
-iso2Code: XM
-latitude: ''
-lendingtype: ''
-longitude: ''
-name: Low income
-region: NA

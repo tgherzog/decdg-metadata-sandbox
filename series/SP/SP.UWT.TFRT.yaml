@@ -1,3 +1,16 @@
+id: SP.UWT.TFRT
+name: Unmet need for contraception (% of married women ages 15-49)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Household surveys, including Demographic and Health Surveys and Multiple Indicator
+  Cluster Surveys. Largely compiled by United Nations Population Division.
+topics:
+- id: '8'
+  value: 'Health '
+description: Unmet need for contraception is the percentage of fertile, married women of reproductive
+  age who do not want to become pregnant and are not using contraception.
 Aggregationmethod: Weighted average
 Generalcomments: Unmet need for contraception measures the capacity women have in achieving their desired
   family size and birth spacing. Many couples in developing countries want to limit or postpone childbearing
@@ -20,16 +33,3 @@ Statisticalconceptandmethodology: 'Reproductive health is a state of physical an
   about contraceptive methods and concerns about possible side effects. This indicator excludes women
   not exposed to the risk of unintended pregnancy because of menopause, infertility, or postpartum anovulation.'
 Topic: 'Health: Reproductive health'
-description: Unmet need for contraception is the percentage of fertile, married women of reproductive
-  age who do not want to become pregnant and are not using contraception.
-id: SP.UWT.TFRT
-name: Unmet need for contraception (% of married women ages 15-49)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Household surveys, including Demographic and Health Surveys and Multiple Indicator
-  Cluster Surveys. Largely compiled by United Nations Population Division.
-topics:
-- id: '8'
-  value: 'Health '
-unit: ''

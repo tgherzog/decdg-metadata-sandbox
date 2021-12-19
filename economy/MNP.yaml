@@ -1,20 +1,20 @@
+id: MNP
+iso2Code: MP
+name: Northern Mariana Islands
+region: EAS
+adminregion: ''
+capitalCity: Saipan
+longitude: 145.765
+latitude: 15.1935
+incomelevel: HIC
+lendingtype: LNX
 CurrencyUnit: U.S. dollar
 IncomeGroup: High income
 Latestagriculturalcensus: '2007'
 Latestpopulationcensus: 2020 (expected)
 LongName: Commonwealth of the Northern Mariana Islands
-Nationalaccountsreferenceyear: '2012'
+Nationalaccountsbaseyear: '2012'
 PPPsurveyyear: 2011 (Only for individual consumption expenditure by households)
 Region: East Asia & Pacific
-SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+SystemofNationalAccounts: Country uses the 1968 System of National Accounts methodology
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Saipan
-id: MNP
-incomelevel: HIC
-iso2Code: MP
-latitude: 15.1935
-lendingtype: LNX
-longitude: 145.765
-name: Northern Mariana Islands
-region: EAS

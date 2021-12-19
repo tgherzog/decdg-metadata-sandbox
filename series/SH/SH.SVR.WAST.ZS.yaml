@@ -1,3 +1,17 @@
+id: SH.SVR.WAST.ZS
+name: Prevalence of severe wasting, weight for height (% of children under 5)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'UNICEF, WHO, World Bank: Joint child malnutrition estimates (JME). Aggregation is
+  based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology.'
+topics:
+- id: '8'
+  value: 'Health '
+description: Prevalence of severe wasting is the proportion of children under age 5 whose weight for height
+  is more than three standard deviations below the median for the international reference population ages
+  0-59.
 Aggregationmethod: Linear mixed-effect model estimates
 Generalcomments: Undernourished children have lower resistance to infection and are more likely to die
   from common childhood ailments such as diarrheal diseases and respiratory infections. Frequent illness
@@ -13,17 +27,3 @@ Periodicity: Annual
 Source: 'UNICEF, WHO, World Bank: Joint child malnutrition estimates (JME). Aggregation is based on UNICEF,
   WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology.'
 Topic: 'Health: Nutrition'
-description: Prevalence of severe wasting is the proportion of children under age 5 whose weight for height
-  is more than three standard deviations below the median for the international reference population ages
-  0-59.
-id: SH.SVR.WAST.ZS
-name: Prevalence of severe wasting, weight for height (% of children under 5)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: 'UNICEF, WHO, World Bank: Joint child malnutrition estimates (JME). Aggregation is
-  based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology.'
-topics:
-- id: '8'
-  value: 'Health '
-unit: ''

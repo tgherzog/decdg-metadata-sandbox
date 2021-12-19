@@ -1,3 +1,13 @@
+id: HND
+iso2Code: HN
+name: Honduras
+region: LCN
+adminregion: LAC
+capitalCity: Tegucigalpa
+longitude: -87.4667
+latitude: 15.1333
+incomelevel: LMC
+lendingtype: IDX
 Alternativeconversionfactor: "1988\u201389"
 BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
 CurrencyUnit: Honduran lempira
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019
 Latestindustrialdata: '1996'
 Latestpopulationcensus: '2013'
 Latesttradedata: '2017'
-Latestwaterwithdrawaldata: '2003'
 LongName: Republic of Honduras
 Nationalaccountsbaseyear: '2000'
 Othergroups: HIPC
@@ -19,13 +28,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2017
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: Special trade system
-adminregion: LAC
-capitalCity: Tegucigalpa
-id: HND
-incomelevel: LMC
-iso2Code: HN
-latitude: 15.1333
-lendingtype: IDX
-longitude: -87.4667
-name: Honduras
-region: LCN

@@ -1,3 +1,13 @@
+id: SMR
+iso2Code: SM
+name: San Marino
+region: ECS
+adminregion: ''
+capitalCity: San Marino
+longitude: 12.4486
+latitude: 43.9322
+incomelevel: HIC
+lendingtype: LNX
 CurrencyUnit: Euro
 GovernmentAccountingconcept: Consolidated central government
 IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
@@ -10,13 +20,3 @@ Region: Europe & Central Asia
 SNApricevaluation: Value added at basic prices (VAB)
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: San Marino
-id: SMR
-incomelevel: HIC
-iso2Code: SM
-latitude: 43.9322
-lendingtype: LNX
-longitude: 12.4486
-name: San Marino
-region: ECS

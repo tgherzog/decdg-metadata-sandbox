@@ -1,3 +1,20 @@
+id: AG.LND.FRST.K2
+name: Forest area (sq. km)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Food and Agriculture Organization, electronic files and web site.
+topics:
+- id: '1'
+  value: 'Agriculture & Rural Development  '
+- id: '19'
+  value: Climate Change
+- id: '6'
+  value: 'Environment '
+description: Forest area is land under natural or planted stands of trees of at least 5 meters in situ,
+  whether productive or not, and excludes tree stands in agricultural production systems (for example,
+  in fruit plantations and agroforestry systems) and trees in urban parks and gardens.
 Aggregationmethod: Sum
 Developmentrelevance: 'As threats to biodiversity mount, the international community is increasingly focusing
   on conserving diversity. Deforestation is a major cause of loss of biodiversity, and habitat conservation
@@ -64,20 +81,3 @@ Statisticalconceptandmethodology: 'Forest is determined both by the presence of 
   Thus the deforestation data may underestimate the rate at which natural forest is disappearing in some
   countries.'
 Topic: 'Environment: Land use'
-description: Forest area is land under natural or planted stands of trees of at least 5 meters in situ,
-  whether productive or not, and excludes tree stands in agricultural production systems (for example,
-  in fruit plantations and agroforestry systems) and trees in urban parks and gardens.
-id: AG.LND.FRST.K2
-name: Forest area (sq. km)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Food and Agriculture Organization, electronic files and web site.
-topics:
-- id: '1'
-  value: 'Agriculture & Rural Development  '
-- id: '19'
-  value: Climate Change
-- id: '6'
-  value: 'Environment '
-unit: ''

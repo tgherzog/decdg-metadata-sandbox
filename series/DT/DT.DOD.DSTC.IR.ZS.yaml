@@ -1,19 +1,48 @@
+id: DT.DOD.DSTC.IR.ZS
+name: Short-term debt (% of total reserves)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, International Debt Statistics.
+topics:
+- id: '3'
+  value: Economy & Growth
+- id: '20'
+  value: External Debt
+description: Short-term debt includes all debt having an original maturity of one year or less and interest
+  in arrears on long-term debt. Total reserves includes gold.
 Aggregationmethod: Weighted average
-Developmentrelevance: "External debt is that part of the total debt in a country that is owed to creditors\
-  \ outside the country. The debtors can be the government, corporations or private households. The debt\
-  \ includes money owed to private commercial banks, other governments, or international financial institutions.\n\
-  \nExternal indebtedness affects a country's creditworthiness and investor perceptions. Nonreporting\
-  \ countries might have outstanding debt with the World Bank, other international financial institutions,\
-  \ or private creditors. Total debt service is contrasted with countries' ability to obtain foreign exchange\
-  \ through exports of goods, services, primary income, and workers' remittances.\n\nDebt ratios are used\
-  \ to assess the sustainability of a country's debt service obligations, but no absolute rules determine\
-  \ what values are too high. Empirical analysis of developing countries' experience and debt service\
-  \ performance shows that debt service difficulties become increasingly likely when the present value\
-  \ of debt reaches 200 percent of exports. Still, what constitutes a sustainable debt burden varies by\
-  \ country. Countries with fast-growing economies and exports are likely to be able to sustain higher\
-  \ debt levels. Various indicators determine a sustainable level of external debt, including:\n\na) debt\
-  \ to GDP ratio\nb) foreign debt to exports ratio\nc) government debt to current fiscal revenue ratio\
-  \ \nd) share of foreign debt\ne) short-term debt\nf) concessional debt in the total debt stock"
+Developmentrelevance: 'External debt is that part of the total debt in a country that is owed to creditors
+  outside the country. The debtors can be the government, corporations or private households. The debt
+  includes money owed to private commercial banks, other governments, or international financial institutions.
+
+
+  External indebtedness affects a country''s creditworthiness and investor perceptions. Nonreporting countries
+  might have outstanding debt with the World Bank, other international financial institutions, or private
+  creditors. Total debt service is contrasted with countries'' ability to obtain foreign exchange through
+  exports of goods, services, primary income, and workers'' remittances.
+
+
+  Debt ratios are used to assess the sustainability of a country''s debt service obligations, but no absolute
+  rules determine what values are too high. Empirical analysis of developing countries'' experience and
+  debt service performance shows that debt service difficulties become increasingly likely when the present
+  value of debt reaches 200 percent of exports. Still, what constitutes a sustainable debt burden varies
+  by country. Countries with fast-growing economies and exports are likely to be able to sustain higher
+  debt levels. Various indicators determine a sustainable level of external debt, including:
+
+
+  a) debt to GDP ratio
+
+  b) foreign debt to exports ratio
+
+  c) government debt to current fiscal revenue ratio 
+
+  d) share of foreign debt
+
+  e) short-term debt
+
+  f) concessional debt in the total debt stock'
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
 Limitationsandexceptions: 'The DRS encourages debtor countries to voluntarily provide information on their
@@ -52,17 +81,3 @@ Statisticalconceptandmethodology: Data on external debt are gathered through the
   Debt repayable in multiple currencies, goods, or services and debt with a provision for maintenance
   of the value of the currency of repayment are shown at book value.
 Topic: 'Economic Policy & Debt: External debt: Debt ratios & other items'
-description: Short-term debt includes all debt having an original maturity of one year or less and interest
-  in arrears on long-term debt. Total reserves includes gold.
-id: DT.DOD.DSTC.IR.ZS
-name: Short-term debt (% of total reserves)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank, International Debt Statistics.
-topics:
-- id: '3'
-  value: Economy & Growth
-- id: '20'
-  value: External Debt
-unit: ''

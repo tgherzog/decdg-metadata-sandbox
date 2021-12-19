@@ -1,3 +1,20 @@
+id: AG.LND.ARBL.ZS
+name: Arable land (% of land area)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Food and Agriculture Organization, electronic files and web site.
+topics:
+- id: '1'
+  value: 'Agriculture & Rural Development  '
+- id: '19'
+  value: Climate Change
+- id: '6'
+  value: 'Environment '
+description: Arable land includes land defined by the FAO as land under temporary crops (double-cropped
+  areas are counted once), temporary meadows for mowing or for pasture, land under market or kitchen gardens,
+  and land temporarily fallow. Land abandoned as a result of shifting cultivation is excluded.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Agricultural land covers more than one-third of the world''s land area. Agricultural
   land constitutes only a part of any country''s total area, which can include areas not suitable for
@@ -79,20 +96,3 @@ Statisticalconceptandmethodology: Temporary fallow land refers to land left fall
   sources cover official country data from websites of national ministries, national publications and
   related country data reported by various international organizations.
 Topic: 'Environment: Land use'
-description: Arable land includes land defined by the FAO as land under temporary crops (double-cropped
-  areas are counted once), temporary meadows for mowing or for pasture, land under market or kitchen gardens,
-  and land temporarily fallow. Land abandoned as a result of shifting cultivation is excluded.
-id: AG.LND.ARBL.ZS
-name: Arable land (% of land area)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Food and Agriculture Organization, electronic files and web site.
-topics:
-- id: '1'
-  value: 'Agriculture & Rural Development  '
-- id: '19'
-  value: Climate Change
-- id: '6'
-  value: 'Environment '
-unit: ''

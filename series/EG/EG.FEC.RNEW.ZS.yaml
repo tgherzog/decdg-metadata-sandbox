@@ -1,3 +1,20 @@
+id: EG.FEC.RNEW.ZS
+name: Renewable energy consumption (% of total final energy consumption)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking
+  Framework led jointly by the World Bank, International Energy Agency, and the Energy Sector Management
+  Assistance Program.
+topics:
+- id: '5'
+  value: 'Energy & Mining '
+- id: '19'
+  value: Climate Change
+- id: '6'
+  value: 'Environment '
+description: Renewable energy consumption is the share of renewables energy in total final energy consumption.
 Aggregationmethod: Weighted average
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
@@ -6,7 +23,6 @@ Source: World Bank, Sustainable Energy for All (SE4ALL) database from the SE4ALL
   led jointly by the World Bank, International Energy Agency, and the Energy Sector Management Assistance
   Program.
 Topic: 'Environment: Energy production & use'
-description: Renewable energy consumption is the share of renewables energy in total final energy consumption.
 economies:
   ABW: 'Sources: UN Energy Statistics (2014)'
   AFG: 'Sources: UN Energy Statistics (2014)'
@@ -204,19 +220,3 @@ economies:
   ZAF: 'Sources: World Energy Statistics and Balances, IEA (2014)'
   ZMB: 'Sources: World Energy Statistics and Balances, IEA (2014)'
   ZWE: 'Sources: World Energy Statistics and Balances, IEA (2014)'
-id: EG.FEC.RNEW.ZS
-name: Renewable energy consumption (% of total final energy consumption)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank, Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking
-  Framework led jointly by the World Bank, International Energy Agency, and the Energy Sector Management
-  Assistance Program.
-topics:
-- id: '5'
-  value: 'Energy & Mining '
-- id: '19'
-  value: Climate Change
-- id: '6'
-  value: 'Environment '
-unit: ''

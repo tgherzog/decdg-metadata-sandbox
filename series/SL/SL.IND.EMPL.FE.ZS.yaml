@@ -1,3 +1,21 @@
+id: SL.IND.EMPL.FE.ZS
+name: Employment in industry, female (% of female employment) (modeled ILO estimate)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Labour Organization, ILOSTAT database. Data retrieved on January 29,
+  2021.
+topics:
+- id: '10'
+  value: Social Protection & Labor
+- id: '17'
+  value: Gender
+description: Employment is defined as persons of working age who were engaged in any activity to produce
+  goods or provide services for pay or profit, whether at work during the reference period or not at work
+  due to temporary absence from a job, or to working-time arrangement. The industry sector consists of
+  mining and quarrying, manufacturing, construction, and public utilities (electricity, gas, and water),
+  in accordance with divisions 2-5 (ISIC 2) or categories C-F (ISIC 3) or categories B-F (ISIC 4).
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Sectoral information is particularly useful in identifying broad shifts in employment
   and stages of development. In the textbook case of economic development, labour flows from agriculture
@@ -58,21 +76,3 @@ Statisticalconceptandmethodology: 'The International Labour Organization (ILO) c
   factors. The estimates are based mainly on nationally representative labor force surveys, with other
   sources (population censuses and nationally reported estimates) used only when no survey data are available.'
 Topic: 'Social Protection & Labor: Economic activity'
-description: Employment is defined as persons of working age who were engaged in any activity to produce
-  goods or provide services for pay or profit, whether at work during the reference period or not at work
-  due to temporary absence from a job, or to working-time arrangement. The industry sector consists of
-  mining and quarrying, manufacturing, construction, and public utilities (electricity, gas, and water),
-  in accordance with divisions 2-5 (ISIC 2) or categories C-F (ISIC 3) or categories B-F (ISIC 4).
-id: SL.IND.EMPL.FE.ZS
-name: Employment in industry, female (% of female employment) (modeled ILO estimate)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Labour Organization, ILOSTAT database. Data retrieved on January 29,
-  2021.
-topics:
-- id: '10'
-  value: Social Protection & Labor
-- id: '17'
-  value: Gender
-unit: ''

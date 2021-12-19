@@ -1,3 +1,13 @@
+id: BFA
+iso2Code: BF
+name: Burkina Faso
+region: SSF
+adminregion: SSA
+capitalCity: Ouagadougou
+longitude: -1.53395
+latitude: 12.3605
+incomelevel: LIC
+lendingtype: IDX
 Alternativeconversionfactor: "1992\u201393"
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: West African CFA franc
@@ -10,7 +20,6 @@ Latesthouseholdsurvey: Malaria Indicator Survey, 2017/18
 Latestindustrialdata: '1983'
 Latestpopulationcensus: '2019'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2005'
 LongName: Burkina Faso
 Nationalaccountsbaseyear: '2015'
 Othergroups: HIPC
@@ -20,13 +29,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Core Welfare Indicator Questionnaire Survey (CWIQ), 2014
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SSA
-capitalCity: Ouagadougou
-id: BFA
-incomelevel: LIC
-iso2Code: BF
-latitude: 12.3605
-lendingtype: IDX
-longitude: -1.53395
-name: Burkina Faso
-region: SSF

@@ -1,3 +1,13 @@
+id: MLT
+iso2Code: MT
+name: Malta
+region: MEA
+adminregion: ''
+capitalCity: Valletta
+longitude: 14.5189
+latitude: 35.9042
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Euro
 GovernmentAccountingconcept: Consolidated central government
@@ -7,7 +17,6 @@ Latestagriculturalcensus: '2010'
 Latestindustrialdata: '2009'
 Latestpopulationcensus: '2011'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2013'
 LongName: Republic of Malta
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -24,13 +33,3 @@ SpecialNotes: 'A simple multiplier is used to convert the national currencies of
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Valletta
-id: MLT
-incomelevel: HIC
-iso2Code: MT
-latitude: 35.9042
-lendingtype: LNX
-longitude: 14.5189
-name: Malta
-region: MEA

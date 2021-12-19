@@ -1,3 +1,13 @@
+id: NIC
+iso2Code: NI
+name: Nicaragua
+region: LCN
+adminregion: LAC
+capitalCity: Managua
+longitude: -86.2734
+latitude: 12.1475
+incomelevel: LMC
+lendingtype: IDX
 Alternativeconversionfactor: "1965\u201395"
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Nicaraguan gold cordoba
@@ -10,7 +20,6 @@ Latesthouseholdsurvey: Reproductive Health Survey, 2006/2007
 Latestindustrialdata: '1985'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2011'
 LongName: Republic of Nicaragua
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2006'
@@ -21,13 +30,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Living Standards Measurement Study Survey (LSMS), 2016
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: LAC
-capitalCity: Managua
-id: NIC
-incomelevel: LMC
-iso2Code: NI
-latitude: 12.1475
-lendingtype: IDX
-longitude: -86.2734
-name: Nicaragua
-region: LCN

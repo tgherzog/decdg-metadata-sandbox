@@ -1,3 +1,13 @@
+id: ALB
+iso2Code: AL
+name: Albania
+region: ECS
+adminregion: ECA
+capitalCity: Tirane
+longitude: 19.8172
+latitude: 41.3317
+incomelevel: UMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Albanian lek
 ExternaldebtReportingstatus: Actual
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Demographic and Health Survey, 2017/18
 Latestindustrialdata: '2013'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2006'
 LongName: Republic of Albania
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2010'
@@ -20,13 +29,3 @@ SourceofmostrecentIncomeandexpendituredata: Living Standards Measurement Study S
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ECA
-capitalCity: Tirane
-id: ALB
-incomelevel: UMC
-iso2Code: AL
-latitude: 41.3317
-lendingtype: IBD
-longitude: 19.8172
-name: Albania
-region: ECS

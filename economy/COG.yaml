@@ -1,3 +1,13 @@
+id: COG
+iso2Code: CG
+name: Congo, Rep.
+region: SSF
+adminregion: SSA
+capitalCity: Brazzaville
+longitude: 15.2662
+latitude: -4.2767
+incomelevel: LMC
+lendingtype: IDB
 Alternativeconversionfactor: '1993'
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Central African CFA franc
@@ -10,24 +20,13 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2014/15
 Latestindustrialdata: '2009'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2017'
-Latestwaterwithdrawaldata: '2002'
 LongName: Republic of Congo
 Nationalaccountsbaseyear: '2005'
 Othergroups: HIPC
 PPPsurveyyear: 2017, 2011
 Region: Sub-Saharan Africa
-SNApricevaluation: Value added at producer prices (VAP)
+SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Core Welfare Indicator Questionnaire Survey (CWIQ)/Priority
   survey (PS), 2011
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SSA
-capitalCity: Brazzaville
-id: COG
-incomelevel: LMC
-iso2Code: CG
-latitude: -4.2767
-lendingtype: IDB
-longitude: 15.2662
-name: Congo, Rep.
-region: SSF

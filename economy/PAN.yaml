@@ -1,5 +1,16 @@
+id: PAN
+iso2Code: PA
+name: Panama
+region: LCN
+adminregion: LAC
+capitalCity: Panama City
+longitude: -79.5188
+latitude: 8.99427
+incomelevel: UMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Panamanian balboa
+ExternaldebtReportingstatus: Actual
 IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
 IncomeGroup: Upper middle income
 Latestagriculturalcensus: '2011'
@@ -7,7 +18,6 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2013
 Latestindustrialdata: '2001'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2016'
-Latestwaterwithdrawaldata: '2010'
 LongName: Republic of Panama
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2007'
@@ -18,13 +28,3 @@ SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: LAC
-capitalCity: Panama City
-id: PAN
-incomelevel: UMC
-iso2Code: PA
-latitude: 8.99427
-lendingtype: IBD
-longitude: -79.5188
-name: Panama
-region: LCN

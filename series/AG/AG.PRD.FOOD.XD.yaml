@@ -1,3 +1,15 @@
+id: AG.PRD.FOOD.XD
+name: Food production index (2014-2016 = 100)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Food and Agriculture Organization, electronic files and web site.
+topics:
+- id: '1'
+  value: 'Agriculture & Rural Development  '
+description: Food production index covers food crops that are considered edible and that contain nutrients.
+  Coffee and tea are excluded because, although edible, they have no nutritive value.
 Aggregationmethod: Weighted average
 BasePeriod: 2014-16
 Developmentrelevance: 'The commodities covered in the computation of indices of agricultural production
@@ -33,55 +45,46 @@ Limitationsandexceptions: Agricultural data are collected by the Food and Agricu
   concerns, this indicator is heavily footnoted in the database in sources, definition, and coverage.
 Periodicity: Annual
 Source: Food and Agriculture Organization, electronic files and web site.
-Statisticalconceptandmethodology: "The agricultural production index is prepared by the Food and Agriculture\
-  \ Organization of the United Nations (FAO). The FAO indices of agricultural production show the relative\
-  \ level of the aggregate volume of agricultural production for each year in comparison with the base\
-  \ period 2014-2016. They are based on the sum of price-weighted quantities of different agricultural\
-  \ commodities produced after deductions of quantities used as seed and feed weighted in a similar manner.\
-  \ The resulting aggregate represents, therefore, disposable production for any use except as seed and\
-  \ feed. All the indices at the country, regional and world levels are calculated by the Laspeyres formula*.\
-  \ Production quantities of each commodity are weighted by 2014-2016 average international commodity\
-  \ prices and summed for each year. To obtain the index, the aggregate for a given year is divided by\
-  \ the average aggregate for the base period 2014-2016. Since the FAO indices are based on the concept\
-  \ of agriculture as a single enterprise, amounts of seed and feed are subtracted from the production\
-  \ data to avoid double counting, once in the production data and once with the crops or livestock produced\
-  \ from them. Deductions for seed (in the case of eggs, for hatching) and for livestock and poultry feed\
-  \ apply to both domestically produced and imported commodities. They cover only primary agricultural\
-  \ products destined to animal feed (e.g. maize, potatoes, milk, etc.). Processed and semi-processed\
-  \ feed items such as bran, oilcakes, meals and molasses have been completely excluded from the calculations\
-  \ at all stages. It should be noted that when calculating indices of agricultural, food and nonfood\
-  \ production, all intermediate primary inputs of agricultural origin are deducted. However, for indices\
-  \ of any other commodity group, only inputs originating from within the same group are deducted; thus,\
-  \ only seed is removed from the group \"crops\" and from all crop subgroups, such as cereals, oil crops,\
-  \ etc.; and both feed and seed originating from within the livestock sector (e.g. milk feed, hatching\
-  \ eggs) are removed from the group \"livestock products\". For the main two livestock subgroups, namely,\
-  \ meat and milk, only feed originating from the respective subgroup is removed. Indices which take into\
-  \ account deductions for feed and seed are referred to as ''net''. Indices calculated without any deductions\
-  \ for feed and seed are referred to as ''gross\". The \"international commodity prices\" are used in\
-  \ order to avoid the use of exchange rates for obtaining continental and world aggregates, and also\
-  \ to improve and facilitate international comparative analysis of productivity at the national level.\
-  \ These\" international prices,\" expressed in so-called \"international dollars,\" are derived using\
-  \ a Geary-Khamis formula** for the agricultural sector. This method assigns a single \"price\" to each\
-  \ commodity. For example, one metric ton of wheat has the same price regardless of the country where\
-  \ it was produced. The currency unit in which the prices are expressed has no influence on the indices\
-  \ published. The commodities covered in the computation of indices of agricultural production are all\
-  \ crops and livestock products originating in each country. Practically all products are covered, with\
-  \ the main exception of fodder crops. \n\n* A Laspeyres Index is known as a \"base-weighted\" or \"\
-  fixed-weighted\" index because the price increases are weighted by the quantities in the base period.\
-  \ The Consumer Price Index is an example of a Laspeyres Index. http://www.usna.edu/Users/econ/rbrady/312%20Materials/LaspeyresCalc.pdf\n\
-  ** Geary-Khamis formula is an aggregation method in which category \"international prices\" (reflecting\
-  \ relative category values) and country purchasing power parities (PPPs), (depicting relative country\
-  \ price levels) are estimated simultaneously from a system of linear equations. http://stats.oecd.org/glossary/detail.asp?ID=5528"
+Statisticalconceptandmethodology: 'The agricultural production index is prepared by the Food and Agriculture
+  Organization of the United Nations (FAO). The FAO indices of agricultural production show the relative
+  level of the aggregate volume of agricultural production for each year in comparison with the base period
+  2014-2016. They are based on the sum of price-weighted quantities of different agricultural commodities
+  produced after deductions of quantities used as seed and feed weighted in a similar manner. The resulting
+  aggregate represents, therefore, disposable production for any use except as seed and feed. All the
+  indices at the country, regional and world levels are calculated by the Laspeyres formula*. Production
+  quantities of each commodity are weighted by 2014-2016 average international commodity prices and summed
+  for each year. To obtain the index, the aggregate for a given year is divided by the average aggregate
+  for the base period 2014-2016. Since the FAO indices are based on the concept of agriculture as a single
+  enterprise, amounts of seed and feed are subtracted from the production data to avoid double counting,
+  once in the production data and once with the crops or livestock produced from them. Deductions for
+  seed (in the case of eggs, for hatching) and for livestock and poultry feed apply to both domestically
+  produced and imported commodities. They cover only primary agricultural products destined to animal
+  feed (e.g. maize, potatoes, milk, etc.). Processed and semi-processed feed items such as bran, oilcakes,
+  meals and molasses have been completely excluded from the calculations at all stages. It should be noted
+  that when calculating indices of agricultural, food and nonfood production, all intermediate primary
+  inputs of agricultural origin are deducted. However, for indices of any other commodity group, only
+  inputs originating from within the same group are deducted; thus, only seed is removed from the group
+  "crops" and from all crop subgroups, such as cereals, oil crops, etc.; and both feed and seed originating
+  from within the livestock sector (e.g. milk feed, hatching eggs) are removed from the group "livestock
+  products". For the main two livestock subgroups, namely, meat and milk, only feed originating from the
+  respective subgroup is removed. Indices which take into account deductions for feed and seed are referred
+  to as ''''net''''. Indices calculated without any deductions for feed and seed are referred to as ''''gross".
+  The "international commodity prices" are used in order to avoid the use of exchange rates for obtaining
+  continental and world aggregates, and also to improve and facilitate international comparative analysis
+  of productivity at the national level. These" international prices," expressed in so-called "international
+  dollars," are derived using a Geary-Khamis formula** for the agricultural sector. This method assigns
+  a single "price" to each commodity. For example, one metric ton of wheat has the same price regardless
+  of the country where it was produced. The currency unit in which the prices are expressed has no influence
+  on the indices published. The commodities covered in the computation of indices of agricultural production
+  are all crops and livestock products originating in each country. Practically all products are covered,
+  with the main exception of fodder crops. 
+
+
+  * A Laspeyres Index is known as a "base-weighted" or "fixed-weighted" index because the price increases
+  are weighted by the quantities in the base period. The Consumer Price Index is an example of a Laspeyres
+  Index. http://www.usna.edu/Users/econ/rbrady/312%20Materials/LaspeyresCalc.pdf
+
+  ** Geary-Khamis formula is an aggregation method in which category "international prices" (reflecting
+  relative category values) and country purchasing power parities (PPPs), (depicting relative country
+  price levels) are estimated simultaneously from a system of linear equations. http://stats.oecd.org/glossary/detail.asp?ID=5528'
 Topic: 'Environment: Agricultural production'
-description: Food production index covers food crops that are considered edible and that contain nutrients.
-  Coffee and tea are excluded because, although edible, they have no nutritive value.
-id: AG.PRD.FOOD.XD
-name: Food production index (2014-2016 = 100)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Food and Agriculture Organization, electronic files and web site.
-topics:
-- id: '1'
-  value: 'Agriculture & Rural Development  '
-unit: ''

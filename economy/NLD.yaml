@@ -1,3 +1,13 @@
+id: NLD
+iso2Code: NL
+name: Netherlands
+region: ECS
+adminregion: ''
+capitalCity: Amsterdam
+longitude: 4.89095
+latitude: 52.3738
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Euro
 GovernmentAccountingconcept: Consolidated central government
@@ -8,7 +18,6 @@ Latestindustrialdata: '2014'
 Latestpopulationcensus: 2011. Population figures compiled from administrative registers in combination
   with other sources of data, such as sample surveys.
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2012'
 LongName: Kingdom of the Netherlands
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -24,13 +33,3 @@ SpecialNotes: 'A simple multiplier is used to convert the national currencies of
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Amsterdam
-id: NLD
-incomelevel: HIC
-iso2Code: NL
-latitude: 52.3738
-lendingtype: LNX
-longitude: 4.89095
-name: Netherlands
-region: ECS

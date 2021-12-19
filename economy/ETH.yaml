@@ -1,3 +1,13 @@
+id: ETH
+iso2Code: ET
+name: Ethiopia
+region: SSF
+adminregion: SSA
+capitalCity: Addis Ababa
+longitude: 38.7468
+latitude: 9.02274
+incomelevel: LIC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
 CurrencyUnit: Ethiopian birr
 ExternaldebtReportingstatus: Actual
@@ -8,7 +18,6 @@ Latesthouseholdsurvey: Socioeconomic Survey 2018-2019, Interim Demographic and H
 Latestindustrialdata: '2014'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2016'
-Latestwaterwithdrawaldata: '2016'
 LongName: Federal Democratic Republic of Ethiopia
 Nationalaccountsbaseyear: 2015/2016
 Othergroups: HIPC
@@ -19,13 +28,3 @@ SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES
 SpecialNotes: 'Fiscal year end: July 7; reporting period for national accounts data: FY.'
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SSA
-capitalCity: Addis Ababa
-id: ETH
-incomelevel: LIC
-iso2Code: ET
-latitude: 9.02274
-lendingtype: IDX
-longitude: 38.7468
-name: Ethiopia
-region: SSF

@@ -1,3 +1,20 @@
+id: SG.TIM.UWRK.FE
+name: Proportion of time spent on unpaid domestic and care work, female (% of 24 hour day)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'National statistical offices or national database and publications compiled by United
+  Nations Statistics Division.  The data were downloaded on December 3 from the Global SDG Indicators
+  Database:  https://unstats.un.org/sdgs/indicators/database/'
+topics:
+- id: '17'
+  value: Gender
+description: The average time women spend on household provision of services for own consumption. Data
+  are expressed as a proportion of time in a day. Domestic and care work includes food preparation, dishwashing,
+  cleaning and upkeep of a dwelling, laundry, ironing, gardening, caring for pets, shopping, installation,
+  servicing and repair of personal and household goods, childcare, and care of the sick, elderly or disabled
+  household members, among others.
 Developmentrelevance: Women often spend disproportionately more time on unpaid domestic and care work
   than men.  This unequal division of responsibilities is correlated with gender differences in economic
   opportunities, includign low female labor force participation, occupational sex segregation, and earnings
@@ -9,28 +26,13 @@ License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
 Limitationsandexceptions: Data may not be strictly comparable across countries as the methods and sampling
   involved for data collection may differ.
 Periodicity: Annual
-Source: "National statistical offices or national database and publications compiled by United Nations\
-  \ Statistics Division.  The data were downloaded on December 3 from the Global SDG Indicators Database:\
-  \ \nhttps://unstats.un.org/sdgs/indicators/database/"
+Source: 'National statistical offices or national database and publications compiled by United Nations
+  Statistics Division.  The data were downloaded on December 3 from the Global SDG Indicators Database:
+  
+
+  https://unstats.un.org/sdgs/indicators/database/'
 Statisticalconceptandmethodology: Proportion of time spent on unpaid domestic and care work is calculated
   by dividing the daily average number of hours spent on unpaid domestic and care work by 24 hours.  Data
   presented for this indicator are expressed as a proportion of time in a day. Weekly data is averaged
   over seven days of the week to obtain the daily average time.
 Topic: 'Gender: Participation & access'
-description: The average time women spend on household provision of services for own consumption. Data
-  are expressed as a proportion of time in a day. Domestic and care work includes food preparation, dishwashing,
-  cleaning and upkeep of a dwelling, laundry, ironing, gardening, caring for pets, shopping, installation,
-  servicing and repair of personal and household goods, childcare, and care of the sick, elderly or disabled
-  household members, among others.
-id: SG.TIM.UWRK.FE
-name: Proportion of time spent on unpaid domestic and care work, female (% of 24 hour day)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: 'National statistical offices or national database and publications compiled by United
-  Nations Statistics Division.  The data were downloaded on December 3 from the Global SDG Indicators
-  Database:  https://unstats.un.org/sdgs/indicators/database/'
-topics:
-- id: '17'
-  value: Gender
-unit: ''

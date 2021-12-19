@@ -1,37 +1,52 @@
-Aggregationmethod: Weighted average
-Developmentrelevance: Reproductive health is a state of physical and mental well-being in relation to
-  the reproductive system and its functions and processes. Means of achieving reproductive health include
-  education and services during pregnancy and childbirth, safe and effective contraception, and prevention
-  and treatment of sexually transmitted diseases. Complications of pregnancy and childbirth are the leading
-  cause of death and disability among women of reproductive age in developing countries.
-Generalcomments: Contraceptive prevalence amongst women of reproductive age is an indicator of women's
-  empowerment and is related to maternal health, HIV/AIDS, and gender equality.
-License_Type: CC BY-4.0
-License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
-Periodicity: Annual
-Source: UNICEF's State of the World's Children and Childinfo, United Nations Population Division's World
-  Contraceptive Use, household surveys including Demographic and Health Surveys and Multiple Indicator
-  Cluster Surveys.
-Statisticalconceptandmethodology: Contraceptive prevalence reflects all methods - ineffective traditional
-  methods as well as highly effective modern methods. Contraceptive prevalence rates are obtained mainly
-  from household surveys, including Demographic and Health Surveys, Multiple Indicator Cluster Surveys,
-  and contraceptive prevalence surveys. Unmarried women are often excluded from such surveys, which may
-  bias the estimates.
-Topic: 'Health: Reproductive health'
-description: Contraceptive prevalence rate is the percentage of women who are practicing, or whose sexual
-  partners are practicing, any form of contraception. It is usually measured for women ages 15-49 who
-  are married or in union.
 id: SP.DYN.CONU.ZS
-name: Contraceptive prevalence, any methods (% of women ages 15-49)
+name: Contraceptive prevalence, any method (% of married women ages 15-49)
+unit: ''
 source:
   id: '2'
   value: World Development Indicators
-sourceOrganization: UNICEF's State of the World's Children and Childinfo, United Nations Population Division's
-  World Contraceptive Use, household surveys including Demographic and Health Surveys and Multiple Indicator
-  Cluster Surveys.
+sourceOrganization: Household surveys, including Demographic and Health Surveys and Multiple Indicator
+  Cluster Surveys. Largely compiled by United Nations Population Division.
 topics:
 - id: '8'
   value: 'Health '
 - id: '17'
   value: Gender
-unit: ''
+description: Contraceptive prevalence, any method is the percentage of married women ages 15-49 who are
+  practicing, or whose sexual partners are practicing, any method of contraception (modern or traditional).
+  Modern methods of contraception include female and male sterilization, oral hormonal pills, the intra-uterine
+  device (IUD), the male condom, injectables, the implant (including Norplant), vaginal barrier methods,
+  the female condom and emergency contraception. Traditional methods of contraception include rhythm (e.g.,
+  fertility awareness based methods, periodic abstinence), withdrawal and other traditional methods.
+Aggregationmethod: Weighted average
+Developmentrelevance: "Contraceptive prevalence among women of reproductive age is related to maternal
+   and child health, as well as gender equality and HIV/AIDS.   Contraceptives enable women and men to
+   make informed decisions on family planning \u2013 whether, when, and how many children they would have.
+   \n\nPreventing unwanted pregnancies is essential to reducing maternal deaths, especially in low- and
+   middle- income countries where maternal mortality rate is high.  With effective contraception, life-threatening
+   pregnancy complications can be reduced, and thus maternal deaths can be averted.  \n\nUsing condoms
+   (one of the modern contraceptive methods) can prevent pregnancy as well as sexually transmitted diseases,
+   including HIV."
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Limitationsandexceptions: "While the data availability on contraceptive use has increased, in many countries
+   the contraceptive use data are available only for married women. \n\nThe time frame used to assess
+   contraceptive prevalence may vary. In many surveys, it is left to the respondent to determine what
+   is meant by \u201Ccurrently using\u201D a method of contraception."
+Othernotes: 'As of December 2021, for better consistency the contraceptive prevalence data only for currently
+  married women or in union are included in this indicator. It means the data for the following categories
+  are excluded from this indicator: ever-married women; all women; sexually active women; which data may
+  have been included in this indicator before December 2021. In response to this, two new contraceptive
+  prevalence indicators (any method and any modern method) for sexually active unmarried women 15-49 are
+  added to the WDI.'
+Periodicity: Annual
+Source: Household surveys, including Demographic and Health Surveys and Multiple Indicator Cluster Surveys.
+  Largely compiled by United Nations Population Division.
+Statisticalconceptandmethodology: "Contraceptive prevalence rates are obtained mainly from nationally
+   representative household surveys, including: Demographic and Health Surveys; Multiple Indicator Cluster
+   Surveys; Contraceptive Prevalence Surveys; Gender and Generations Survey; Reproductive Health Surveys;
+   and World Fertility Surveys.  Additional information was provided by other international survey programs
+   and national surveys.  \n\nMarried women refer to women who are married (defined in relation to the
+   marriage laws or customs of a country) and to women in a union, which refers to women living with their
+   partner in the same household (also referred to as cohabiting unions, consensual unions, unmarried
+   unions, or \u201Cliving together\u201D)."
+Topic: 'Health: Reproductive health'

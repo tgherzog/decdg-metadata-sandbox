@@ -1,3 +1,13 @@
+id: DNK
+iso2Code: DK
+name: Denmark
+region: ECS
+adminregion: ''
+capitalCity: Copenhagen
+longitude: 12.5681
+latitude: 55.6763
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Danish krone
 GovernmentAccountingconcept: Consolidated central government
@@ -7,7 +17,6 @@ Latestagriculturalcensus: '2010'
 Latestindustrialdata: '2014'
 Latestpopulationcensus: 2011. Population figures compiled from administrative registers.
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2012'
 LongName: Kingdom of Denmark
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -18,13 +27,3 @@ SourceofmostrecentIncomeandexpendituredata: Income survey (IS), 2015
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Copenhagen
-id: DNK
-incomelevel: HIC
-iso2Code: DK
-latitude: 55.6763
-lendingtype: LNX
-longitude: 12.5681
-name: Denmark
-region: ECS

@@ -1,21 +1,6 @@
-License_Type: CC BY-4.0
-License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
-Periodicity: Annual
-Source: International Comparison Program, World Bank | World Development Indicators database, World Bank
-  | Eurostat-OECD PPP Programme.
-Statisticalconceptandmethodology: "For more information on underlying GDP in current international dollar,\
-  \ please refer to the metadata for \"GDP, PPP (current international $)\" [NY.GDP.MKTP.PP.CD]. For more\
-  \ information on market exchange reate, please refer to the metadata for \"DEC alternative conversion\
-  \ factor (LCU per US$)\" [PA.NUS.ATLS].\nFor the concept and methodology of PPP, please refer to the\
-  \ International Comparison Program (ICP)\u2019s website (https://www.worldbank.org/en/programs/icp)."
-Topic: 'Economic Policy & Debt: Purchasing power parity'
-description: Price level ratio is the ratio of a purchasing power parity (PPP) conversion factor to an
-  exchange rate. It provides a measure of the differences in price levels between countries by indicating
-  the number of units of the common currency needed to buy the same volume of the aggregation level in
-  each country. At the level of GDP, they provide a measure of the differences in the general price levels
-  of countries.
 id: PA.NUS.PPPC.RF
 name: Price level ratio of PPP conversion factor (GDP) to market exchange rate
+unit: ''
 source:
   id: '2'
   value: World Development Indicators
@@ -24,4 +9,19 @@ sourceOrganization: International Comparison Program, World Bank | World Develop
 topics:
 - id: '3'
   value: Economy & Growth
-unit: ''
+description: Price level ratio is the ratio of a purchasing power parity (PPP) conversion factor to an
+  exchange rate. It provides a measure of the differences in price levels between countries by indicating
+  the number of units of the common currency needed to buy the same volume of the aggregation level in
+  each country. At the level of GDP, they provide a measure of the differences in the general price levels
+  of countries.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Source: International Comparison Program, World Bank | World Development Indicators database, World Bank
+  | Eurostat-OECD PPP Programme.
+Statisticalconceptandmethodology: "For more information on underlying GDP in current international dollar,
+   please refer to the metadata for \"GDP, PPP (current international $)\" [NY.GDP.MKTP.PP.CD]. For more
+   information on market exchange reate, please refer to the metadata for \"DEC alternative conversion
+   factor (LCU per US$)\" [PA.NUS.ATLS].\nFor the concept and methodology of PPP, please refer to the
+   International Comparison Program (ICP)\u2019s website (https://www.worldbank.org/en/programs/icp)."
+Topic: 'Economic Policy & Debt: Purchasing power parity'

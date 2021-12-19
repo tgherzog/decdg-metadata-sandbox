@@ -1,3 +1,13 @@
+id: LVA
+iso2Code: LV
+name: Latvia
+region: ECS
+adminregion: ''
+capitalCity: Riga
+longitude: 24.1048
+latitude: 56.9465
+incomelevel: HIC
+lendingtype: LNX
 Alternativeconversionfactor: "1987\u201395"
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Euro
@@ -10,7 +20,6 @@ Latestindustrialdata: '2013'
 Latestpopulationcensus: 2011. Population figures compiled from administrative registers in combination
   with other sources of data, such as sample surveys.
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2013'
 LongName: Republic of Latvia
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -26,13 +35,3 @@ SpecialNotes: 'A simple multiplier is used to convert the national currencies of
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Riga
-id: LVA
-incomelevel: HIC
-iso2Code: LV
-latitude: 56.9465
-lendingtype: LNX
-longitude: 24.1048
-name: Latvia
-region: ECS

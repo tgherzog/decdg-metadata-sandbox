@@ -1,3 +1,13 @@
+id: ISR
+iso2Code: IL
+name: Israel
+region: MEA
+adminregion: ''
+capitalCity: ''
+longitude: 35.2035
+latitude: 31.7717
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Israeli new shekel
 GovernmentAccountingconcept: Consolidated central government
@@ -7,7 +17,6 @@ Latestindustrialdata: '2014'
 Latestpopulationcensus: 2020 (expected). Population figures compiled from administrative registers in
   combination with other sources of data, such as sample surveys.
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2004'
 LongName: State of Israel
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -18,13 +27,3 @@ SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: ''
-id: ISR
-incomelevel: HIC
-iso2Code: IL
-latitude: 31.7717
-lendingtype: LNX
-longitude: 35.2035
-name: Israel
-region: MEA

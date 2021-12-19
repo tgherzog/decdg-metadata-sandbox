@@ -1,3 +1,17 @@
+id: SE.PRM.ENRR
+name: School enrollment, primary (% gross)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2021.
+topics:
+- id: '4'
+  value: 'Education '
+description: Gross enrollment ratio is the ratio of total enrollment, regardless of age, to the population
+  of the age group that officially corresponds to the level of education shown. Primary education provides
+  children with basic reading, writing, and mathematics skills along with an elementary understanding
+  of such subjects as history, geography, natural science, social science, art, and music.
 Aggregationmethod: Weighted average
 Developmentrelevance: Gross enrollment ratios indicate the capacity of each level of the education system,
   but a high ratio may reflect a substantial number of overage children enrolled in each grade because
@@ -17,32 +31,22 @@ Limitationsandexceptions: Enrollment indicators are based on annual school surve
   risk of dropping out). Moreover, age at enrollment may be inaccurately estimated or misstated, especially
   in communities where registration of births is not strictly enforced.
 Periodicity: Annual
-Source: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2020.
-Statisticalconceptandmethodology: "Gross enrollment ratio for primary school is calculated by dividing\
-  \ the number of students enrolled in primary education regardless of age by the population of the age\
-  \ group which officially corresponds to primary education, and multiplying by 100. \n\nData on education\
-  \ are collected by the UNESCO Institute for Statistics from official responses to its annual education\
-  \ survey. All the data are mapped to the International Standard Classification of Education (ISCED)\
-  \ to ensure the comparability of education programs at the international level. The current version\
-  \ was formally adopted by UNESCO Member States in 2011. Population data are drawn from the United Nations\
-  \ Population Division. Using a single source for population data standardizes definitions, estimations,\
-  \ and interpolation methods, ensuring a consistent methodology across countries and minimizing potential\
-  \ enumeration problems in national censuses.\n\nThe reference years reflect the school year for which\
-  \ the data are presented. In some countries the school year spans two calendar years (for example, from\
-  \ September 2010 to June 2011); in these cases the reference year refers to the year in which the school\
-  \ year ended (2011 in the example)."
+Source: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2021.
+Statisticalconceptandmethodology: 'Gross enrollment ratio for primary school is calculated by dividing
+  the number of students enrolled in primary education regardless of age by the population of the age
+  group which officially corresponds to primary education, and multiplying by 100. 
+
+
+  Data on education are collected by the UNESCO Institute for Statistics from official responses to its
+  annual education survey. All the data are mapped to the International Standard Classification of Education
+  (ISCED) to ensure the comparability of education programs at the international level. The current version
+  was formally adopted by UNESCO Member States in 2011. Population data are drawn from the United Nations
+  Population Division. Using a single source for population data standardizes definitions, estimations,
+  and interpolation methods, ensuring a consistent methodology across countries and minimizing potential
+  enumeration problems in national censuses.
+
+
+  The reference years reflect the school year for which the data are presented. In some countries the
+  school year spans two calendar years (for example, from September 2010 to June 2011); in these cases
+  the reference year refers to the year in which the school year ended (2011 in the example).'
 Topic: 'Education: Participation'
-description: Gross enrollment ratio is the ratio of total enrollment, regardless of age, to the population
-  of the age group that officially corresponds to the level of education shown. Primary education provides
-  children with basic reading, writing, and mathematics skills along with an elementary understanding
-  of such subjects as history, geography, natural science, social science, art, and music.
-id: SE.PRM.ENRR
-name: School enrollment, primary (% gross)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2020.
-topics:
-- id: '4'
-  value: 'Education '
-unit: ''

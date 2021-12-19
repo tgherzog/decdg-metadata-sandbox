@@ -1,3 +1,13 @@
+id: CAN
+iso2Code: CA
+name: Canada
+region: NAC
+adminregion: ''
+capitalCity: Ottawa
+longitude: -75.6919
+latitude: 45.4215
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Canadian dollar
 GovernmentAccountingconcept: Consolidated central government
@@ -7,7 +17,6 @@ Latestagriculturalcensus: '2016'
 Latestindustrialdata: '2014'
 Latestpopulationcensus: '2016'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2009'
 LongName: Canada
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -19,13 +28,3 @@ SpecialNotes: 'Fiscal year end: March 31; reporting period for national accounts
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Ottawa
-id: CAN
-incomelevel: HIC
-iso2Code: CA
-latitude: 45.4215
-lendingtype: LNX
-longitude: -75.6919
-name: Canada
-region: NAC

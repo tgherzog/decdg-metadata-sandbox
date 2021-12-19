@@ -1,3 +1,18 @@
+id: SP.POP.0014.TO.ZS
+name: Population ages 0-14 (% of total population)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'World Bank staff estimates based on age/sex distributions of United Nations Population
+  Division''s World Population Prospects: 2019 Revision.'
+topics:
+- id: '4'
+  value: 'Education '
+- id: '8'
+  value: 'Health '
+description: Population between the ages 0 to 14 as a percentage of the total population. Population is
+  based on the de facto definition of population.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Patterns of development in a country are partly determined by the age composition
   of its population. Different age groups have different impacts on both the environment and on infrastructure
@@ -28,24 +43,9 @@ Statisticalconceptandmethodology: 'Age structure in the World Bank''s population
   or citizenship. The values shown are midyear estimates. For more information see metadata for total
   population (SP.POP.TOTL).'
 Topic: 'Health: Population: Structure'
-description: Population between the ages 0 to 14 as a percentage of the total population. Population is
-  based on the de facto definition of population.
 economies:
   AUS: 'Including Other Territories comprising Jervis Bay Territory, Christmas Island and the Cocos (Keeling)
     Islands. '
   CHI: Refers to Guernsey, and Jersey.
   CHN: Excluding Hong Kong SAR, China; Macao SAR, China; Taiwan, China.
   CYP: Including Northern-Cyprus.
-id: SP.POP.0014.TO.ZS
-name: Population ages 0-14 (% of total population)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: 'World Bank staff estimates based on age/sex distributions of United Nations Population
-  Division''s World Population Prospects: 2019 Revision.'
-topics:
-- id: '4'
-  value: 'Education '
-- id: '8'
-  value: 'Health '
-unit: ''

@@ -1,3 +1,13 @@
+id: AUT
+iso2Code: AT
+name: Austria
+region: ECS
+adminregion: ''
+capitalCity: Vienna
+longitude: 16.3798
+latitude: 48.2201
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Euro
 GovernmentAccountingconcept: Consolidated central government
@@ -7,7 +17,6 @@ Latestagriculturalcensus: '2010'
 Latestindustrialdata: '2014'
 Latestpopulationcensus: 2011. Population figures compiled from administrative registers.
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2010'
 LongName: Republic of Austria
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -23,13 +32,3 @@ SpecialNotes: 'A simple multiplier is used to convert the national currencies of
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Vienna
-id: AUT
-incomelevel: HIC
-iso2Code: AT
-latitude: 48.2201
-lendingtype: LNX
-longitude: 16.3798
-name: Austria
-region: ECS

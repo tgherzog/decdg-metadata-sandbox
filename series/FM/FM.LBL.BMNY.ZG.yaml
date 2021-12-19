@@ -1,3 +1,17 @@
+id: FM.LBL.BMNY.ZG
+name: Broad money growth (annual %)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, International Financial Statistics and data files.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+description: "Broad money (IFS line 35L..ZK) is the sum of currency outside banks; demand deposits other
+   than those of the central government; the time, savings, and foreign currency deposits of resident
+   sectors other than the central government; bank and traveler\u2019s checks; and other securities such
+   as certificates of deposit and commercial paper."
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
 Limitationsandexceptions: Monetary accounts are derived from the balance sheets of financial institutions
@@ -14,27 +28,13 @@ Limitationsandexceptions: Monetary accounts are derived from the balance sheets 
   be even more serious for nonbank financial intermediaries.
 Periodicity: Annual
 Source: International Monetary Fund, International Financial Statistics and data files.
-Statisticalconceptandmethodology: "Money and the financial accounts that record the supply of money lie\
-  \ at the heart of a country\u2019s financial system. There are several commonly used definitions of\
-  \ the money supply. The narrowest, M1, encompasses currency held by the public and demand deposits with\
-  \ banks. M2 includes M1 plus time and savings deposits with banks that require prior notice for withdrawal.\
-  \ M3 includes M2 as well as various money market instruments, such as certificates of deposit issued\
-  \ by banks, bank deposits denominated in foreign currency, and deposits with financial institutions\
-  \ other than banks. However defined, money is a liability of the banking system, distinguished from\
-  \ other bank liabilities by the special role it plays as a medium of exchange, a unit of account, and\
-  \ a store of value."
+Statisticalconceptandmethodology: "Money and the financial accounts that record the supply of money lie
+   at the heart of a country\u2019s financial system. There are several commonly used definitions of the
+   money supply. The narrowest, M1, encompasses currency held by the public and demand deposits with banks.
+   M2 includes M1 plus time and savings deposits with banks that require prior notice for withdrawal.
+   M3 includes M2 as well as various money market instruments, such as certificates of deposit issued
+   by banks, bank deposits denominated in foreign currency, and deposits with financial institutions other
+   than banks. However defined, money is a liability of the banking system, distinguished from other bank
+   liabilities by the special role it plays as a medium of exchange, a unit of account, and a store of
+   value."
 Topic: 'Financial Sector: Monetary holdings (liabilities)'
-description: "Broad money (IFS line 35L..ZK) is the sum of currency outside banks; demand deposits other\
-  \ than those of the central government; the time, savings, and foreign currency deposits of resident\
-  \ sectors other than the central government; bank and traveler\u2019s checks; and other securities such\
-  \ as certificates of deposit and commercial paper."
-id: FM.LBL.BMNY.ZG
-name: Broad money growth (annual %)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Monetary Fund, International Financial Statistics and data files.
-topics:
-- id: '7'
-  value: 'Financial Sector '
-unit: ''

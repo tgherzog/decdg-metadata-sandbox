@@ -1,3 +1,13 @@
+id: SDN
+iso2Code: SD
+name: Sudan
+region: SSF
+adminregion: SSA
+capitalCity: Khartoum
+longitude: 32.5363
+latitude: 15.5932
+incomelevel: LIC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Sudanese pound
 ExternaldebtReportingstatus: Preliminary
@@ -7,7 +17,6 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2014
 Latestindustrialdata: '2001'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2017'
-Latestwaterwithdrawaldata: '2011'
 LongName: Republic of the Sudan
 Nationalaccountsbaseyear: '1996'
 Othergroups: HIPC
@@ -17,13 +26,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2009
 SystemofNationalAccounts: Country uses the 1968 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SSA
-capitalCity: Khartoum
-id: SDN
-incomelevel: LIC
-iso2Code: SD
-latitude: 15.5932
-lendingtype: IDX
-longitude: 32.5363
-name: Sudan
-region: SSF

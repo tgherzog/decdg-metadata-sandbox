@@ -1,3 +1,13 @@
+id: JOR
+iso2Code: JO
+name: Jordan
+region: MEA
+adminregion: MNA
+capitalCity: Amman
+longitude: 35.9263
+latitude: 31.9497
+incomelevel: UMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Jordanian dinar
 ExternaldebtReportingstatus: Actual
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Demographic and Health Survey, 2017/18
 Latestindustrialdata: '2013'
 Latestpopulationcensus: '2015'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2005'
 LongName: Hashemite Kingdom of Jordan
 Nationalaccountsbaseyear: '2016'
 PPPsurveyyear: Annual estimation for 2011-2017
@@ -18,13 +27,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2010
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
-adminregion: MNA
-capitalCity: Amman
-id: JOR
-incomelevel: UMC
-iso2Code: JO
-latitude: 31.9497
-lendingtype: IBD
-longitude: 35.9263
-name: Jordan
-region: MEA

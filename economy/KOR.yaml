@@ -1,3 +1,13 @@
+id: KOR
+iso2Code: KR
+name: Korea, Rep.
+region: EAS
+adminregion: ''
+capitalCity: Seoul
+longitude: 126.957
+latitude: 37.5323
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Korean won
 GovernmentAccountingconcept: Budgetary central government
@@ -7,7 +17,6 @@ Latestagriculturalcensus: 2010, 2015
 Latestindustrialdata: '2014'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2005'
 LongName: Republic of Korea
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -18,13 +27,3 @@ SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Seoul
-id: KOR
-incomelevel: HIC
-iso2Code: KR
-latitude: 37.5323
-lendingtype: LNX
-longitude: 126.957
-name: Korea, Rep.
-region: EAS

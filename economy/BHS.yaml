@@ -1,3 +1,13 @@
+id: BHS
+iso2Code: BS
+name: Bahamas, The
+region: LCN
+adminregion: ''
+capitalCity: Nassau
+longitude: -77.339
+latitude: 25.0661
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
 CurrencyUnit: Bahamian dollar
 GovernmentAccountingconcept: Consolidated central government
@@ -13,13 +23,3 @@ Region: Latin America & Caribbean
 SNApricevaluation: Value added at basic prices (VAB)
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: ''
-capitalCity: Nassau
-id: BHS
-incomelevel: HIC
-iso2Code: BS
-latitude: 25.0661
-lendingtype: LNX
-longitude: -77.339
-name: Bahamas, The
-region: LCN

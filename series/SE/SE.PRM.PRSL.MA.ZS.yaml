@@ -1,3 +1,18 @@
+id: SE.PRM.PRSL.MA.ZS
+name: Persistence to last grade of primary, male (% of cohort)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2021.
+topics:
+- id: '4'
+  value: 'Education '
+- id: '17'
+  value: Gender
+description: Persistence to last grade of primary is the percentage of children enrolled in the first
+  grade of primary school who eventually reach the last grade of primary education. The estimate is based
+  on the reconstructed cohort method.
 Aggregationmethod: Weighted average
 Developmentrelevance: The cohort survival rate measures an education system's holding power and internal
   efficiency. Rates approaching 100 percent indicate high retention and low dropout levels.
@@ -10,33 +25,22 @@ Limitationsandexceptions: The estimates have limitations in capturing real trend
   cohort life, and re-entrants, grade skipping, migration or transfers during a school year are not adequately
   captured.
 Periodicity: Annual
-Source: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2020.
-Statisticalconceptandmethodology: "Cohort survival rate is calculated by dividing the total number of\
-  \ children belonging to a cohort who reached each successive grade of the specified level of education\
-  \ by the number of children in the same cohort; those originally enrolled in the first grade of primary\
-  \ education, and multiplying by 100. To reflect current patterns of grade transition, it is calculated\
-  \ based on the reconstructed cohort method, which uses data on enrollment by grade for the two most\
-  \ recent years and data on repeaters by grade for the most recent of those two years. \n\nData on education\
-  \ are collected by the UNESCO Institute for Statistics from official responses to its annual education\
-  \ survey. All the data are mapped to the International Standard Classification of Education (ISCED)\
-  \ to ensure the comparability of education programs at the international level. The current version\
-  \ was formally adopted by UNESCO Member States in 2011. \n\nThe reference years reflect the school year\
-  \ for which the data are presented. In some countries the school year spans two calendar years (for\
-  \ example, from September 2010 to June 2011); in these cases the reference year refers to the year in\
-  \ which the school year ended (2011 in the example)."
+Source: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2021.
+Statisticalconceptandmethodology: 'Cohort survival rate is calculated by dividing the total number of
+  children belonging to a cohort who reached each successive grade of the specified level of education
+  by the number of children in the same cohort; those originally enrolled in the first grade of primary
+  education, and multiplying by 100. To reflect current patterns of grade transition, it is calculated
+  based on the reconstructed cohort method, which uses data on enrollment by grade for the two most recent
+  years and data on repeaters by grade for the most recent of those two years. 
+
+
+  Data on education are collected by the UNESCO Institute for Statistics from official responses to its
+  annual education survey. All the data are mapped to the International Standard Classification of Education
+  (ISCED) to ensure the comparability of education programs at the international level. The current version
+  was formally adopted by UNESCO Member States in 2011. 
+
+
+  The reference years reflect the school year for which the data are presented. In some countries the
+  school year spans two calendar years (for example, from September 2010 to June 2011); in these cases
+  the reference year refers to the year in which the school year ended (2011 in the example).'
 Topic: 'Education: Efficiency'
-description: Persistence to last grade of primary is the percentage of children enrolled in the first
-  grade of primary school who eventually reach the last grade of primary education. The estimate is based
-  on the reconstructed cohort method.
-id: SE.PRM.PRSL.MA.ZS
-name: Persistence to last grade of primary, male (% of cohort)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2020.
-topics:
-- id: '4'
-  value: 'Education '
-- id: '17'
-  value: Gender
-unit: ''

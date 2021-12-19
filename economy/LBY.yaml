@@ -1,3 +1,13 @@
+id: LBY
+iso2Code: LY
+name: Libya
+region: MEA
+adminregion: MNA
+capitalCity: Tripoli
+longitude: 13.1072
+latitude: 32.8578
+incomelevel: UMC
+lendingtype: IBD
 Alternativeconversionfactor: '1986'
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Libyan dinar
@@ -7,20 +17,9 @@ Latesthouseholdsurvey: STEPS Risk Factor Survey, 2010
 Latestindustrialdata: '1980'
 Latestpopulationcensus: '2006'
 Latesttradedata: '2010'
-Latestwaterwithdrawaldata: '2012'
 LongName: Socialist People's Libyan Arab Jamahiriya
 Nationalaccountsbaseyear: '2003'
 PPPsurveyyear: PPPs are imputed for 2011 and 2017 based on a regression model
 Region: Middle East & North Africa
 SNApricevaluation: Value added at basic prices (VAB)
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
-adminregion: MNA
-capitalCity: Tripoli
-id: LBY
-incomelevel: UMC
-iso2Code: LY
-latitude: 32.8578
-lendingtype: IBD
-longitude: 13.1072
-name: Libya
-region: MEA

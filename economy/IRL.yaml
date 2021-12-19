@@ -1,3 +1,13 @@
+id: IRL
+iso2Code: IE
+name: Ireland
+region: ECS
+adminregion: ''
+capitalCity: Dublin
+longitude: -6.26749
+latitude: 53.3441
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Euro
 GovernmentAccountingconcept: Consolidated central government
@@ -7,7 +17,6 @@ Latestagriculturalcensus: '2010'
 Latestindustrialdata: '2012'
 Latestpopulationcensus: '2016'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2009'
 LongName: Ireland
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -23,13 +32,3 @@ SpecialNotes: 'A simple multiplier is used to convert the national currencies of
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Dublin
-id: IRL
-incomelevel: HIC
-iso2Code: IE
-latitude: 53.3441
-lendingtype: LNX
-longitude: -6.26749
-name: Ireland
-region: ECS

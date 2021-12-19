@@ -1,3 +1,13 @@
+id: ABW
+iso2Code: AW
+name: Aruba
+region: LCN
+adminregion: ''
+capitalCity: Oranjestad
+longitude: -70.0167
+latitude: 12.5167
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Aruban florin
 IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
@@ -11,13 +21,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Oranjestad
-id: ABW
-incomelevel: HIC
-iso2Code: AW
-latitude: 12.5167
-lendingtype: LNX
-longitude: -70.0167
-name: Aruba
-region: LCN

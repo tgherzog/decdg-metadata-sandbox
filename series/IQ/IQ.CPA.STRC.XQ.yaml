@@ -1,3 +1,15 @@
+id: IQ.CPA.STRC.XQ
+name: CPIA structural policies cluster average (1=low to 6=high)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank Group, CPIA database (http://www.worldbank.org/ida).
+topics:
+- id: '13'
+  value: 'Public Sector '
+description: The structural policies cluster includes trade, financial sector, and business regulatory
+  environment.
 Aggregationmethod: Unweighted average
 Developmentrelevance: 'The International Development Association (IDA) is the part of the World Bank Group
   that helps the poorest countries reduce poverty by providing concessional loans and grants for programs
@@ -49,15 +61,3 @@ Statisticalconceptandmethodology: 'All criteria within each cluster receive equa
   as guideposts. The final ratings are determined following a Bankwide review. The overall numerical IRAI
   score and the separate criteria scores were first publicly disclosed in June 2006.'
 Topic: 'Public Sector: Policy & institutions'
-description: The structural policies cluster includes trade, financial sector, and business regulatory
-  environment.
-id: IQ.CPA.STRC.XQ
-name: CPIA structural policies cluster average (1=low to 6=high)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank Group, CPIA database (http://www.worldbank.org/ida).
-topics:
-- id: '13'
-  value: 'Public Sector '
-unit: ''

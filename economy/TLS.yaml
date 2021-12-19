@@ -1,10 +1,20 @@
+id: TLS
+iso2Code: TL
+name: Timor-Leste
+region: EAS
+adminregion: EAP
+capitalCity: Dili
+longitude: 125.567
+latitude: -8.56667
+incomelevel: LMC
+lendingtype: IDB
 CurrencyUnit: U.S. dollar
+ExternaldebtReportingstatus: Actual
 IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
 IncomeGroup: Lower middle income
 Latesthouseholdsurvey: Demographic and Health Survey, 2016
 Latestpopulationcensus: '2015'
 Latesttradedata: '2017'
-Latestwaterwithdrawaldata: '2004'
 LongName: Democratic Republic of Timor-Leste
 Nationalaccountsbaseyear: '2015'
 PPPsurveyyear: PPPs are imputed for 2011 and 2017 based on a regression model
@@ -13,13 +23,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Living Standards Measurement Study Survey (LSMS), 2014/15
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: EAP
-capitalCity: Dili
-id: TLS
-incomelevel: LMC
-iso2Code: TL
-latitude: -8.56667
-lendingtype: IDB
-longitude: 125.567
-name: Timor-Leste
-region: EAS

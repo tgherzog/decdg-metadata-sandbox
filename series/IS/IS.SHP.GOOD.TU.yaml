@@ -1,3 +1,17 @@
+id: IS.SHP.GOOD.TU
+name: 'Container port traffic (TEU: 20 foot equivalent units)'
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNCTAD (http://unctad.org/en/Pages/statistics.aspx)
+topics:
+- id: '9'
+  value: 'Infrastructure '
+description: Port container traffic measures the flow of containers from land to sea transport modes.,
+  and vice versa, in twenty-foot equivalent units (TEUs), a standard-size container. Data refer to coastal
+  shipping as well as international journeys. Transshipment traffic is counted as two lifts at the intermediate
+  port (once to off-load and again as an outbound lift) and includes empty units.
 Aggregationmethod: Sum
 Developmentrelevance: 'Transport infrastructure - highways, railways, ports and waterways, and airports
   and air traffic control systems - and the services that flow from it are crucial to the activities of
@@ -34,17 +48,3 @@ Statisticalconceptandmethodology: TEU is the standard unit, referring to 20-foot
   were not available. In these cases, estimates include averages and extrapolations from previous years'
   data.
 Topic: 'Infrastructure: Transportation'
-description: Port container traffic measures the flow of containers from land to sea transport modes.,
-  and vice versa, in twenty-foot equivalent units (TEUs), a standard-size container. Data refer to coastal
-  shipping as well as international journeys. Transshipment traffic is counted as two lifts at the intermediate
-  port (once to off-load and again as an outbound lift) and includes empty units.
-id: IS.SHP.GOOD.TU
-name: 'Container port traffic (TEU: 20 foot equivalent units)'
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: UNCTAD (http://unctad.org/en/Pages/statistics.aspx)
-topics:
-- id: '9'
-  value: 'Infrastructure '
-unit: ''

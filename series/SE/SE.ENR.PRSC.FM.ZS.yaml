@@ -1,32 +1,10 @@
-Aggregationmethod: Weighted average
-Developmentrelevance: The Gender Parity Index (GPI) indicates parity between girls and boys. A GPI of
-  less than 1 suggests girls are more disadvantaged than boys in learning opportunities and a GPI of greater
-  than 1 suggests the other way around. Eliminating gender disparities in education would help increase
-  the status and capabilities of women.
-Generalcomments: For aggregate data, each economy is classified based on the classification of World Bank
-  Group's fiscal year 2021 (July 1, 2020-June 30, 2021).
-License_Type: CC BY-4.0
-License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
-Periodicity: Annual
-Source: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2020.
-Statisticalconceptandmethodology: "This indicator is calculated by dividing female gross enrollment ratio\
-  \ in primary and secondary education by male gross enrollment ratio in primary and secondary education.\
-  \ \n\nData on education are collected by the UNESCO Institute for Statistics from official responses\
-  \ to its annual education survey. All the data are mapped to the International Standard Classification\
-  \ of Education (ISCED) to ensure the comparability of education programs at the international level.\
-  \ The current version was formally adopted by UNESCO Member States in 2011. \n\nThe reference years\
-  \ reflect the school year for which the data are presented. In some countries the school year spans\
-  \ two calendar years (for example, from September 2010 to June 2011); in these cases the reference year\
-  \ refers to the year in which the school year ended (2011 in the example)."
-Topic: 'Education: Participation'
-description: Gender parity index for gross enrollment ratio in primary and secondary education is the
-  ratio of girls to boys enrolled at primary and secondary levels in public and private schools.
 id: SE.ENR.PRSC.FM.ZS
 name: School enrollment, primary and secondary (gross), gender parity index (GPI)
+unit: ''
 source:
   id: '2'
   value: World Development Indicators
-sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2020.
+sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2021.
 topics:
 - id: '2'
   value: 'Aid Effectiveness '
@@ -38,4 +16,31 @@ topics:
   value: Gender
 - id: '15'
   value: 'Social Development '
-unit: ''
+description: Gender parity index for gross enrollment ratio in primary and secondary education is the
+  ratio of girls to boys enrolled at primary and secondary levels in public and private schools.
+Aggregationmethod: Weighted average
+Developmentrelevance: The Gender Parity Index (GPI) indicates parity between girls and boys. A GPI of
+  less than 1 suggests girls are more disadvantaged than boys in learning opportunities and a GPI of greater
+  than 1 suggests the other way around. Eliminating gender disparities in education would help increase
+  the status and capabilities of women.
+Generalcomments: For aggregate data, each economy is classified based on the classification of World Bank
+  Group's fiscal year 2021 (July 1, 2020-June 30, 2021).
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Source: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2021.
+Statisticalconceptandmethodology: 'This indicator is calculated by dividing female gross enrollment ratio
+  in primary and secondary education by male gross enrollment ratio in primary and secondary education.
+  
+
+
+  Data on education are collected by the UNESCO Institute for Statistics from official responses to its
+  annual education survey. All the data are mapped to the International Standard Classification of Education
+  (ISCED) to ensure the comparability of education programs at the international level. The current version
+  was formally adopted by UNESCO Member States in 2011. 
+
+
+  The reference years reflect the school year for which the data are presented. In some countries the
+  school year spans two calendar years (for example, from September 2010 to June 2011); in these cases
+  the reference year refers to the year in which the school year ended (2011 in the example).'
+Topic: 'Education: Participation'

@@ -1,3 +1,13 @@
+id: QAT
+iso2Code: QA
+name: Qatar
+region: MEA
+adminregion: ''
+capitalCity: Doha
+longitude: 51.5082
+latitude: 25.2948
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
 CurrencyUnit: Qatari riyal
 GovernmentAccountingconcept: Budgetary central government
@@ -7,7 +17,6 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2012
 Latestindustrialdata: '2013'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2005'
 LongName: State of Qatar
 Nationalaccountsbaseyear: '2018'
 PPPsurveyyear: Annual estimation for 2011-2017
@@ -16,13 +25,3 @@ SNApricevaluation: Value added at producer prices (VAP)
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Doha
-id: QAT
-incomelevel: HIC
-iso2Code: QA
-latitude: 25.2948
-lendingtype: LNX
-longitude: 51.5082
-name: Qatar
-region: MEA

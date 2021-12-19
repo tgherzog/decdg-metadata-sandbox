@@ -1,3 +1,13 @@
+id: MRT
+iso2Code: MR
+name: Mauritania
+region: SSF
+adminregion: SSA
+capitalCity: Nouakchott
+longitude: -15.9824
+latitude: 18.2367
+incomelevel: LMC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Mauritanian ouguiya
 ExternaldebtReportingstatus: Actual
@@ -6,7 +16,6 @@ IncomeGroup: Lower middle income
 Latesthouseholdsurvey: Demographic and Health Survey, 2019/20
 Latestpopulationcensus: '2013'
 Latesttradedata: '2017'
-Latestwaterwithdrawaldata: '2005'
 LongName: Islamic Republic of Mauritania
 Nationalaccountsbaseyear: '2014'
 Othergroups: HIPC
@@ -14,17 +23,7 @@ PPPsurveyyear: 2017, 2011
 Region: Sub-Saharan Africa
 SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2014
-SpecialNotes: "National account data\_were adjusted to reflect the\_new banknote (1 new ouguiya = 10 old\
-  \ ouguiya)"
-SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+SpecialNotes: "National account data\_were adjusted to reflect the\_new banknote (1 new ouguiya = 10 old
+   ouguiya)"
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SSA
-capitalCity: Nouakchott
-id: MRT
-incomelevel: LMC
-iso2Code: MR
-latitude: 18.2367
-lendingtype: IDX
-longitude: -15.9824
-name: Mauritania
-region: SSF

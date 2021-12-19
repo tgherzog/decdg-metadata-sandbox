@@ -1,11 +1,30 @@
+id: SP.DYN.TFRT.IN
+name: Fertility rate, total (births per woman)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: '(1) United Nations Population Division. World Population Prospects: 2019 Revision.
+  (2) Census reports and other statistical publications from national statistical offices, (3) Eurostat:
+  Demographic Statistics, (4) United Nations Statistical Division. Population and Vital Statistics Reprot
+  (various years), (5) U.S. Census Bureau: International Database, and (6) Secretariat of the Pacific
+  Community: Statistics and Demography Programme.'
+topics:
+- id: '8'
+  value: 'Health '
+- id: '17'
+  value: Gender
+description: Total fertility rate represents the number of children that would be born to a woman if she
+  were to live to the end of her childbearing years and bear children in accordance with age-specific
+  fertility rates of the specified year.
 Aggregationmethod: Weighted average
 Developmentrelevance: Reproductive health is a state of physical and mental well-being in relation to
   the reproductive system and its functions and processes. Means of achieving reproductive health include
   education and services during pregnancy and childbirth, safe and effective contraception, and prevention
   and treatment of sexually transmitted diseases. Complications of pregnancy and childbirth are the leading
   cause of death and disability among women of reproductive age in developing countries.
-Generalcomments: "Relevance to gender indicator: it can indicate the status of women within households\
-  \ and a woman\u2019s decision about the number and spacing of children."
+Generalcomments: "Relevance to gender indicator: it can indicate the status of women within households
+   and a woman\u2019s decision about the number and spacing of children."
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
 Limitationsandexceptions: Annual data series from United Nations Population Division's World Population
@@ -24,9 +43,6 @@ Statisticalconceptandmethodology: Total fertility rates are based on data on reg
   share of births to adolescents. For countries without vital registration systems fertility rates are
   generally based on extrapolations from trends observed in censuses or surveys from earlier years.
 Topic: 'Health: Reproductive health'
-description: Total fertility rate represents the number of children that would be born to a woman if she
-  were to live to the end of her childbearing years and bear children in accordance with age-specific
-  fertility rates of the specified year.
 economies:
   ABW: 'Data source: United Nations World Population Prospects'
   AFG: 'Data source: United Nations World Population Prospects'
@@ -92,9 +108,9 @@ economies:
   ETH: 'Data source: United Nations World Population Prospects'
   FIN: 'Data source: Eurostat, Statistics Finland'
   FJI: 'Data source: United Nations World Population Prospects'
-  FRA: "Data source and note: Eurostat, United Nations World Population Prospects, Institut National de\
-    \ la Statistique et des \xC9tudes \xC9conomiques. Including the French overseas departments of French\
-    \ Guiana, Guadeloupe, Martinique, R\xE9union."
+  FRA: "Data source and note: Eurostat, United Nations World Population Prospects, Institut National de
+     la Statistique et des \xC9tudes \xC9conomiques. Including the French overseas departments of French
+     Guiana, Guadeloupe, Martinique, R\xE9union."
   FRO: 'Data source: Statistics Faroe Islands'
   FSM: 'Data source: United Nations World Population Prospects'
   GAB: 'Data source: United Nations World Population Prospects'
@@ -244,19 +260,3 @@ economies:
   ZAF: 'Data source: United Nations World Population Prospects'
   ZMB: 'Data source: United Nations World Population Prospects'
   ZWE: 'Data source: United Nations World Population Prospects'
-id: SP.DYN.TFRT.IN
-name: Fertility rate, total (births per woman)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: '(1) United Nations Population Division. World Population Prospects: 2019 Revision.
-  (2) Census reports and other statistical publications from national statistical offices, (3) Eurostat:
-  Demographic Statistics, (4) United Nations Statistical Division. Population and Vital Statistics Reprot
-  (various years), (5) U.S. Census Bureau: International Database, and (6) Secretariat of the Pacific
-  Community: Statistics and Demography Programme.'
-topics:
-- id: '8'
-  value: 'Health '
-- id: '17'
-  value: Gender
-unit: ''

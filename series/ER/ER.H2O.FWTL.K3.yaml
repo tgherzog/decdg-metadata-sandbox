@@ -1,3 +1,25 @@
+id: ER.H2O.FWTL.K3
+name: Annual freshwater withdrawals, total (billion cubic meters)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Food and Agriculture Organization, AQUASTAT data.
+topics:
+- id: '19'
+  value: Climate Change
+- id: '9'
+  value: 'Infrastructure '
+- id: '6'
+  value: 'Environment '
+description: Annual freshwater withdrawals refer to total water withdrawals, not counting evaporation
+  losses from storage basins. Withdrawals also include water from desalination plants in countries where
+  they are a significant source. Withdrawals can exceed 100 percent of total renewable resources where
+  extraction from nonrenewable aquifers or desalination plants is considerable or where there is significant
+  water reuse. Withdrawals for agriculture and industry are total withdrawals for irrigation and livestock
+  production and for direct industrial use (including withdrawals for cooling thermoelectric plants).
+  Withdrawals for domestic uses include drinking water, municipal use or supply, and use for public services,
+  commercial establishments, and homes. Data are for the most recent year available for 1987-2002.
 Aggregationmethod: Sum
 Developmentrelevance: 'While some countries have an abundant supply of fresh water, others do not have
   as much. UN estimates that many areas of the world are already experiencing stress on water availability.
@@ -58,25 +80,3 @@ Statisticalconceptandmethodology: Annual freshwater withdrawals are total water 
   for domestic uses include drinking water, municipal use or supply, and use for public services, commercial
   establishments, and homes.
 Topic: 'Environment: Freshwater'
-description: Annual freshwater withdrawals refer to total water withdrawals, not counting evaporation
-  losses from storage basins. Withdrawals also include water from desalination plants in countries where
-  they are a significant source. Withdrawals can exceed 100 percent of total renewable resources where
-  extraction from nonrenewable aquifers or desalination plants is considerable or where there is significant
-  water reuse. Withdrawals for agriculture and industry are total withdrawals for irrigation and livestock
-  production and for direct industrial use (including withdrawals for cooling thermoelectric plants).
-  Withdrawals for domestic uses include drinking water, municipal use or supply, and use for public services,
-  commercial establishments, and homes. Data are for the most recent year available for 1987-2002.
-id: ER.H2O.FWTL.K3
-name: Annual freshwater withdrawals, total (billion cubic meters)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Food and Agriculture Organization, AQUASTAT data.
-topics:
-- id: '19'
-  value: Climate Change
-- id: '9'
-  value: 'Infrastructure '
-- id: '6'
-  value: 'Environment '
-unit: ''

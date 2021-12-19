@@ -1,3 +1,13 @@
+id: SWZ
+iso2Code: SZ
+name: Eswatini
+region: SSF
+adminregion: SSA
+capitalCity: Mbabane
+longitude: 31.4659
+latitude: -26.5225
+incomelevel: LMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Swazi lilangeni
 ExternaldebtReportingstatus: Actual
@@ -8,7 +18,6 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2014
 Latestindustrialdata: '2011'
 Latestpopulationcensus: '2017'
 Latesttradedata: '2017'
-Latestwaterwithdrawaldata: '2000'
 LongName: Kingdom of Eswatini
 Nationalaccountsbaseyear: '2011'
 PPPsurveyyear: 2017, 2011
@@ -19,13 +28,3 @@ SpecialNotes: 'Fiscal year end: March 31; reporting period for national accounts
   revised national accounts from 1999 to 2015.'
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SSA
-capitalCity: Mbabane
-id: SWZ
-incomelevel: LMC
-iso2Code: SZ
-latitude: -26.5225
-lendingtype: IBD
-longitude: 31.4659
-name: Eswatini
-region: SSF

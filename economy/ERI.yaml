@@ -1,3 +1,13 @@
+id: ERI
+iso2Code: ER
+name: Eritrea
+region: SSF
+adminregion: SSA
+capitalCity: Asmara
+longitude: 38.9183
+latitude: 15.3315
+incomelevel: LIC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
 CurrencyUnit: Eritrean nakfa
 ExternaldebtReportingstatus: Estimate
@@ -5,7 +15,6 @@ IncomeGroup: Low income
 Latesthouseholdsurvey: Demographic and Health Survey, 2002
 Latestindustrialdata: '2012'
 Latesttradedata: '2003'
-Latestwaterwithdrawaldata: '2004'
 LongName: State of Eritrea
 Nationalaccountsbaseyear: '2011'
 Othergroups: HIPC
@@ -14,13 +23,3 @@ Region: Sub-Saharan Africa
 SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Priority survey (PS), 1993
 SystemofNationalAccounts: Country uses the 1968 System of National Accounts methodology
-adminregion: SSA
-capitalCity: Asmara
-id: ERI
-incomelevel: LIC
-iso2Code: ER
-latitude: 15.3315
-lendingtype: IDX
-longitude: 38.9183
-name: Eritrea
-region: SSF

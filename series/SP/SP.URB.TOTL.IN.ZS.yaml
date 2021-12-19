@@ -1,3 +1,17 @@
+id: SP.URB.TOTL.IN.ZS
+name: Urban population (% of total population)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'United Nations Population Division. World Urbanization Prospects: 2018 Revision.'
+topics:
+- id: '19'
+  value: Climate Change
+- id: '16'
+  value: 'Urban Development '
+description: Urban population refers to people living in urban areas as defined by national statistical
+  offices. The data are collected and smoothed by United Nations Population Division.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Explosive growth of cities globally signifies the demographic transition from rural
   to urban, and is associated with shifts from an agriculture-based economy to mass industry, technology,
@@ -9,18 +23,24 @@ Developmentrelevance: 'Explosive growth of cities globally signifies the demogra
   Cities also present opportunities for social mobilization and women''s empowerment.'
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
-Limitationsandexceptions: "Aggregation of urban and rural population may not add up to total population\
-  \ because of different country coverage. There is no consistent and universally accepted standard for\
-  \ distinguishing urban from rural areas, in part because of the wide variety of situations across countries.\n\
-  \nMost countries use an urban classification related to the size or characteristics of settlements.\
-  \ Some define urban areas based on the presence of certain infrastructure and services. And other countries\
-  \ designate urban areas based on administrative arrangements. Because of national differences in the\
-  \ characteristics that distinguish urban from rural areas, the distinction between urban and rural population\
-  \ is not amenable to a single definition that would be applicable to all countries.\n\nEstimates of\
-  \ the world's urban population would change significantly if China, India, and a few other populous\
-  \ nations were to change their definition of urban centers. \n\nBecause the estimates of city and metropolitan\
-  \ area are based on national definitions of what constitutes a city or metropolitan area, cross-country\
-  \ comparisons should be made with caution."
+Limitationsandexceptions: 'Aggregation of urban and rural population may not add up to total population
+  because of different country coverage. There is no consistent and universally accepted standard for
+  distinguishing urban from rural areas, in part because of the wide variety of situations across countries.
+
+
+  Most countries use an urban classification related to the size or characteristics of settlements. Some
+  define urban areas based on the presence of certain infrastructure and services. And other countries
+  designate urban areas based on administrative arrangements. Because of national differences in the characteristics
+  that distinguish urban from rural areas, the distinction between urban and rural population is not amenable
+  to a single definition that would be applicable to all countries.
+
+
+  Estimates of the world''s urban population would change significantly if China, India, and a few other
+  populous nations were to change their definition of urban centers. 
+
+
+  Because the estimates of city and metropolitan area are based on national definitions of what constitutes
+  a city or metropolitan area, cross-country comparisons should be made with caution.'
 Periodicity: Annual
 Source: 'United Nations Population Division. World Urbanization Prospects: 2018 Revision.'
 Statisticalconceptandmethodology: 'Urban population refers to people living in urban areas as defined
@@ -37,17 +57,3 @@ Statisticalconceptandmethodology: 'Urban population refers to people living in u
   Countries differ in the way they classify population as "urban" or "rural." The population of a city
   or metropolitan area depends on the boundaries chosen.'
 Topic: 'Environment: Density & urbanization'
-description: Urban population refers to people living in urban areas as defined by national statistical
-  offices. The data are collected and smoothed by United Nations Population Division.
-id: SP.URB.TOTL.IN.ZS
-name: Urban population (% of total population)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: 'United Nations Population Division. World Urbanization Prospects: 2018 Revision.'
-topics:
-- id: '19'
-  value: Climate Change
-- id: '16'
-  value: 'Urban Development '
-unit: ''

@@ -1,3 +1,20 @@
+id: SH.DYN.MORT
+name: Mortality rate, under-5 (per 1,000 live births)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF,
+  WHO, World Bank, UN DESA Population Division) at www.childmortality.org.
+topics:
+- id: '8'
+  value: 'Health '
+- id: '2'
+  value: 'Aid Effectiveness '
+- id: '19'
+  value: Climate Change
+description: Under-five mortality rate is the probability per 1,000 that a newborn baby will die before
+  reaching age five, if subject to age-specific mortality rates of the specified year.
 Aggregationmethod: Weighted average
 Developmentrelevance: Mortality rates for different age groups (infants, children, and adults) and overall
   mortality indicators (life expectancy at birth or survival to a given age) are important indicators
@@ -46,20 +63,3 @@ Statisticalconceptandmethodology: 'The main sources of mortality data are vital 
   to reconcile differences. The method uses statistical models to obtain a best estimate trend line by
   fitting a country-specific regression model of mortality rates against their reference dates.'
 Topic: 'Health: Mortality'
-description: Under-five mortality rate is the probability per 1,000 that a newborn baby will die before
-  reaching age five, if subject to age-specific mortality rates of the specified year.
-id: SH.DYN.MORT
-name: Mortality rate, under-5 (per 1,000 live births)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF,
-  WHO, World Bank, UN DESA Population Division) at www.childmortality.org.
-topics:
-- id: '8'
-  value: 'Health '
-- id: '2'
-  value: 'Aid Effectiveness '
-- id: '19'
-  value: Climate Change
-unit: ''

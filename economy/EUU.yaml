@@ -1,12 +1,12 @@
-LongName: European Union
-SpecialNotes: European Union aggregate.
-adminregion: ''
-capitalCity: ''
 id: EUU
-incomelevel: NA
 iso2Code: EU
-latitude: ''
-lendingtype: ''
-longitude: ''
 name: European Union
 region: NA
+adminregion: ''
+capitalCity: ''
+longitude: ''
+latitude: ''
+incomelevel: NA
+lendingtype: ''
+LongName: European Union
+SpecialNotes: European Union aggregate.

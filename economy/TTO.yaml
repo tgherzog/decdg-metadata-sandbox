@@ -1,3 +1,13 @@
+id: TTO
+iso2Code: TT
+name: Trinidad and Tobago
+region: LCN
+adminregion: ''
+capitalCity: Port-of-Spain
+longitude: -61.4789
+latitude: 10.6596
+incomelevel: HIC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Trinidad and Tobago dollar
 IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
@@ -6,7 +16,6 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2011
 Latestindustrialdata: '2006'
 Latestpopulationcensus: '2011'
 Latesttradedata: '2015'
-Latestwaterwithdrawaldata: '2011'
 LongName: Republic of Trinidad and Tobago
 Nationalaccountsbaseyear: '2012'
 PPPsurveyyear: 2017, 2011
@@ -16,13 +25,3 @@ SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 1
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Port-of-Spain
-id: TTO
-incomelevel: HIC
-iso2Code: TT
-latitude: 10.6596
-lendingtype: IBD
-longitude: -61.4789
-name: Trinidad and Tobago
-region: LCN

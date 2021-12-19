@@ -1,4 +1,15 @@
+id: UZB
+iso2Code: UZ
+name: Uzbekistan
+region: ECS
+adminregion: ECA
+capitalCity: Tashkent
+longitude: 69.269
+latitude: 41.3052
+incomelevel: LMC
+lendingtype: IDB
 Alternativeconversionfactor: "1990\u201395"
+BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Uzbek som
 ExternaldebtReportingstatus: Actual
 GovernmentAccountingconcept: Consolidated central government
@@ -7,7 +18,6 @@ IncomeGroup: Lower middle income
 Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2006
 Latestpopulationcensus: '1989'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2005'
 LongName: Republic of Uzbekistan
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2010'
@@ -19,13 +29,3 @@ SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ECA
-capitalCity: Tashkent
-id: UZB
-incomelevel: LMC
-iso2Code: UZ
-latitude: 41.3052
-lendingtype: IDB
-longitude: 69.269
-name: Uzbekistan
-region: ECS

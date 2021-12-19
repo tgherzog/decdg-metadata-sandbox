@@ -1,3 +1,20 @@
+id: EG.IMP.CONS.ZS
+name: Energy imports, net (% of energy use)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: "IEA Statistics \xA9 OECD/IEA 2014 (http://www.iea.org/stats/index.asp), subject to
+   https://www.iea.org/t&c/termsandconditions/"
+topics:
+- id: '5'
+  value: 'Energy & Mining '
+- id: '21'
+  value: Trade
+description: Net energy imports are estimated as energy use less production, both measured in oil equivalents.
+  A negative value indicates that the country is a net exporter. Energy use refers to use of primary energy
+  before transformation to other end-use fuels, which is equal to indigenous production plus imports and
+  stock changes, minus exports and fuels supplied to ships and aircraft engaged in international transport.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Modern energy services are crucial to a country''s economic development. Access
   to modern energy is essential for the provision of clean water, sanitation and healthcare and for the
@@ -29,20 +46,3 @@ Statisticalconceptandmethodology: 'Energy data are compiled by the International
   plus imports and stock changes, minus exports and fuels supplied to ships and aircraft engaged in international
   transport.'
 Topic: 'Environment: Energy production & use'
-description: Net energy imports are estimated as energy use less production, both measured in oil equivalents.
-  A negative value indicates that the country is a net exporter. Energy use refers to use of primary energy
-  before transformation to other end-use fuels, which is equal to indigenous production plus imports and
-  stock changes, minus exports and fuels supplied to ships and aircraft engaged in international transport.
-id: EG.IMP.CONS.ZS
-name: Energy imports, net (% of energy use)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: "IEA Statistics \xA9 OECD/IEA 2014 (http://www.iea.org/stats/index.asp), subject to\
-  \ https://www.iea.org/t&c/termsandconditions/"
-topics:
-- id: '5'
-  value: 'Energy & Mining '
-- id: '21'
-  value: Trade
-unit: ''

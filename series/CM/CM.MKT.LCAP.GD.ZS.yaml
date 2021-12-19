@@ -1,3 +1,17 @@
+id: CM.MKT.LCAP.GD.ZS
+name: Market capitalization of listed domestic companies (% of GDP)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Federation of Exchanges database.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+description: Market capitalization (also known as market value) is the share price times the number of
+  shares outstanding (including their several classes) for listed domestic companies. Investment funds,
+  unit trusts, and companies whose only business goal is to hold shares of other listed companies are
+  excluded. Data are end of year values.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Stock market size can be measured in various ways, and each may produce a different
   ranking of countries.
@@ -41,17 +55,3 @@ Statisticalconceptandmethodology: 'Market capitalization figures include: shares
   companies and investment companies, regardless of their legal status; and companies admitted to trading
   (i.e., companies whose shares are traded at the exchange but not listed at the exchange).'
 Topic: 'Financial Sector: Capital markets'
-description: Market capitalization (also known as market value) is the share price times the number of
-  shares outstanding (including their several classes) for listed domestic companies. Investment funds,
-  unit trusts, and companies whose only business goal is to hold shares of other listed companies are
-  excluded. Data are end of year values.
-id: CM.MKT.LCAP.GD.ZS
-name: Market capitalization of listed domestic companies (% of GDP)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Federation of Exchanges database.
-topics:
-- id: '7'
-  value: 'Financial Sector '
-unit: ''

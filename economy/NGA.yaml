@@ -1,3 +1,13 @@
+id: NGA
+iso2Code: NG
+name: Nigeria
+region: SSF
+adminregion: SSA
+capitalCity: Abuja
+longitude: 7.48906
+latitude: 9.05804
+incomelevel: LMC
+lendingtype: IDB
 Alternativeconversionfactor: "1971\u201398"
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Nigerian naira
@@ -11,7 +21,6 @@ Latesthouseholdsurvey: Living Standards Survey 2018-2019; General Household Surv
 Latestindustrialdata: '1996'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2005'
 LongName: Federal Republic of Nigeria
 Nationalaccountsbaseyear: '2010'
 PPPsurveyyear: 2017, 2011
@@ -20,13 +29,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2009/10
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SSA
-capitalCity: Abuja
-id: NGA
-incomelevel: LMC
-iso2Code: NG
-latitude: 9.05804
-lendingtype: IDB
-longitude: 7.48906
-name: Nigeria
-region: SSF

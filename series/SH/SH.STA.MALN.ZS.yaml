@@ -1,3 +1,19 @@
+id: SH.STA.MALN.ZS
+name: Prevalence of underweight, weight for age (% of children under 5)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'UNICEF, WHO, World Bank: Joint child malnutrition estimates (JME). Aggregation is
+  based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology.'
+topics:
+- id: '8'
+  value: 'Health '
+- id: '19'
+  value: Climate Change
+description: Prevalence of underweight children is the percentage of children under age 5 whose weight
+  for age is more than two standard deviations below the median for the international reference population
+  ages 0-59 months. The data are based on the WHO's child growth standards released in 2006.
 Aggregationmethod: Linear mixed-effect model estimates
 Generalcomments: Undernourished children have lower resistance to infection and are more likely to die
   from common childhood ailments such as diarrheal diseases and respiratory infections. Frequent illness
@@ -13,19 +29,3 @@ Periodicity: Annual
 Source: 'UNICEF, WHO, World Bank: Joint child malnutrition estimates (JME). Aggregation is based on UNICEF,
   WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology.'
 Topic: 'Health: Nutrition'
-description: Prevalence of underweight children is the percentage of children under age 5 whose weight
-  for age is more than two standard deviations below the median for the international reference population
-  ages 0-59 months. The data are based on the WHO's child growth standards released in 2006.
-id: SH.STA.MALN.ZS
-name: Prevalence of underweight, weight for age (% of children under 5)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: 'UNICEF, WHO, World Bank: Joint child malnutrition estimates (JME). Aggregation is
-  based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology.'
-topics:
-- id: '8'
-  value: 'Health '
-- id: '19'
-  value: Climate Change
-unit: ''

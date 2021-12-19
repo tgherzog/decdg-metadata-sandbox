@@ -1,12 +1,13 @@
-Aggregationmethod: Weighted average
-License_Type: CC BY-4.0
-License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
-Periodicity: Annual
-Source: World Bank national accounts data, and OECD National Accounts data files.
-Statisticalconceptandmethodology: The World Bank uses Atlas method GNI per capita in U.S. dollars to classify
-  countries for analytical purposes and to determine borrowing eligibility. For more information, see
-  the metadata for Atlas method GNI in current U.S. dollars (NY.GNP.ATLS.CD) and total population (SP.POP.TOTL).
-Topic: 'Economic Policy & Debt: National accounts: Atlas GNI & GNI per capita'
+id: NY.GNP.PCAP.CD
+name: GNI per capita, Atlas method (current US$)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank national accounts data, and OECD National Accounts data files.
+topics:
+- id: '3'
+  value: Economy & Growth
 description: GNI per capita (formerly GNP per capita) is the gross national income, converted to U.S.
   dollars using the World Bank Atlas method, divided by the midyear population. GNI is the sum of value
   added by all resident producers plus any product taxes (less subsidies) not included in the valuation
@@ -19,6 +20,15 @@ description: GNI per capita (formerly GNP per capita) is the gross national inco
   year and the two preceding years, adjusted for differences in rates of inflation between the country,
   and through 2000, the G-5 countries (France, Germany, Japan, the United Kingdom, and the United States).
   From 2001, these countries include the Euro area, Japan, the United Kingdom, and the United States.
+Aggregationmethod: Weighted average
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Source: World Bank national accounts data, and OECD National Accounts data files.
+Statisticalconceptandmethodology: The World Bank uses Atlas method GNI per capita in U.S. dollars to classify
+  countries for analytical purposes and to determine borrowing eligibility. For more information, see
+  the metadata for Atlas method GNI in current U.S. dollars (NY.GNP.ATLS.CD) and total population (SP.POP.TOTL).
+Topic: 'Economic Policy & Debt: National accounts: Atlas GNI & GNI per capita'
 economies:
   CYP: Data are for areas under the effective control of the Government of the Republic of Cyprus.
   GEO: Excludes Abkhazia and South Ossetia.
@@ -26,13 +36,3 @@ economies:
   MDA: Excludes Transnistria.
   TZA: Covers mainland Tanzania only.
   VEN: Based on official exchange rates.
-id: NY.GNP.PCAP.CD
-name: GNI per capita, Atlas method (current US$)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank national accounts data, and OECD National Accounts data files.
-topics:
-- id: '3'
-  value: Economy & Growth
-unit: ''

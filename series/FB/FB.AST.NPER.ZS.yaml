@@ -1,3 +1,17 @@
+id: FB.AST.NPER.ZS
+name: Bank nonperforming loans to total gross loans (%)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, Financial Soundness Indicators.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+description: Bank nonperforming loans to total gross loans are the value of nonperforming loans divided
+  by the total value of the loan portfolio (including nonperforming loans before the deduction of specific
+  loan-loss provisions). The loan amount recorded as nonperforming should be the gross value of the loan
+  as recorded on the balance sheet, not just the amount that is overdue.
 Developmentrelevance: The size and mobility of international capital flows make it increasingly important
   to monitor the strength of financial systems. Robust financial systems can increase economic activity
   and welfare, but instability can disrupt financial activity and impose widespread costs on the economy.
@@ -22,17 +36,3 @@ Statisticalconceptandmethodology: 'The ratio of bank nonperforming loans to tota
   (FSI) Compilation Guide. For country specific metadata, including reporting period, please refer to
   the GFSR FSI Tables and the Data and Metadata Tables available through FSIs website: http://data.imf.org/.'
 Topic: 'Financial Sector: Assets'
-description: Bank nonperforming loans to total gross loans are the value of nonperforming loans divided
-  by the total value of the loan portfolio (including nonperforming loans before the deduction of specific
-  loan-loss provisions). The loan amount recorded as nonperforming should be the gross value of the loan
-  as recorded on the balance sheet, not just the amount that is overdue.
-id: FB.AST.NPER.ZS
-name: Bank nonperforming loans to total gross loans (%)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Monetary Fund, Financial Soundness Indicators.
-topics:
-- id: '7'
-  value: 'Financial Sector '
-unit: ''

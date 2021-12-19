@@ -1,3 +1,15 @@
+id: SH.MED.BEDS.ZS
+name: Hospital beds (per 1,000 people)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Data are from the World Health Organization, supplemented by country data.
+topics:
+- id: '8'
+  value: 'Health '
+description: Hospital beds include inpatient beds available in public, private, general, and specialized
+  hospitals and rehabilitation centers. In most cases beds for both acute and chronic care are included.
 Aggregationmethod: Weighted average
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
@@ -25,15 +37,3 @@ Statisticalconceptandmethodology: 'Health systems - the combined arrangements of
   and supply-side factors. In the absence of a consistent definition this is a crude indicator of the
   extent of physical, financial, and other barriers to health care.'
 Topic: 'Health: Health systems'
-description: Hospital beds include inpatient beds available in public, private, general, and specialized
-  hospitals and rehabilitation centers. In most cases beds for both acute and chronic care are included.
-id: SH.MED.BEDS.ZS
-name: Hospital beds (per 1,000 people)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Data are from the World Health Organization, supplemented by country data.
-topics:
-- id: '8'
-  value: 'Health '
-unit: ''

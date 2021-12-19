@@ -1,3 +1,13 @@
+id: VNM
+iso2Code: VN
+name: Vietnam
+region: EAS
+adminregion: EAP
+capitalCity: Hanoi
+longitude: 105.825
+latitude: 21.0069
+incomelevel: LMC
+lendingtype: IBD
 Alternativeconversionfactor: '1991'
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Vietnamese dong
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2020/21
 Latestindustrialdata: '2013'
 Latestpopulationcensus: '2019'
 Latesttradedata: '2017'
-Latestwaterwithdrawaldata: '2005'
 LongName: Socialist Republic of Vietnam
 Nationalaccountsbaseyear: '2010'
 PPPsurveyyear: 2017, 2011
@@ -19,13 +28,3 @@ SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: EAP
-capitalCity: Hanoi
-id: VNM
-incomelevel: LMC
-iso2Code: VN
-latitude: 21.0069
-lendingtype: IBD
-longitude: 105.825
-name: Vietnam
-region: EAS

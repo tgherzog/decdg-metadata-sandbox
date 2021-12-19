@@ -1,3 +1,13 @@
+id: GRC
+iso2Code: GR
+name: Greece
+region: ECS
+adminregion: ''
+capitalCity: Athens
+longitude: 23.7166
+latitude: 37.9792
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Euro
 GovernmentAccountingconcept: Consolidated central government
@@ -7,7 +17,6 @@ Latestagriculturalcensus: '2009'
 Latestindustrialdata: '2013'
 Latestpopulationcensus: '2011'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2007'
 LongName: Hellenic Republic
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -23,13 +32,3 @@ SpecialNotes: 'A simple multiplier is used to convert the national currencies of
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Athens
-id: GRC
-incomelevel: HIC
-iso2Code: GR
-latitude: 37.9792
-lendingtype: LNX
-longitude: 23.7166
-name: Greece
-region: ECS

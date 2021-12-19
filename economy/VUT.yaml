@@ -1,3 +1,13 @@
+id: VUT
+iso2Code: VU
+name: Vanuatu
+region: EAS
+adminregion: EAP
+capitalCity: Port-Vila
+longitude: 168.321
+latitude: -17.7404
+incomelevel: LMC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Vanuatu vatu
 ExternaldebtReportingstatus: Estimate
@@ -15,13 +25,3 @@ Region: East Asia & Pacific
 SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2010
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
-adminregion: EAP
-capitalCity: Port-Vila
-id: VUT
-incomelevel: LMC
-iso2Code: VU
-latitude: -17.7404
-lendingtype: IDX
-longitude: 168.321
-name: Vanuatu
-region: EAS

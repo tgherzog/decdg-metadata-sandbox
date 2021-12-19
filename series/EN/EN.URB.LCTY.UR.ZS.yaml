@@ -1,3 +1,15 @@
+id: EN.URB.LCTY.UR.ZS
+name: Population in the largest city (% of urban population)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: United Nations, World Urbanization Prospects.
+topics:
+- id: '16'
+  value: 'Urban Development '
+description: Population in largest city is the percentage of a country's urban population living in that
+  country's largest metropolitan area.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'A metropolitan area includes the urban area, and its satellite cities plus intervening
   rural land that is socio-economically connected to the urban core city, typically by employment ties
@@ -37,28 +49,33 @@ Developmentrelevance: 'A metropolitan area includes the urban area, and its sate
   typically overcrowded, polluted and dangerous, and lack basic services such as clean water and sanitation.'
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
-Limitationsandexceptions: "Aggregation of urban and rural population may not add up to total population\
-  \ because of different country coverage. There is no consistent and universally accepted standard for\
-  \ distinguishing urban from rural areas, in part because of the wide variety of situations across countries.\n\
-  \n Most countries use an urban classification related to the size or characteristics of settlements.\
-  \ Some define urban areas based on the presence of certain infrastructure and services. And other countries\
-  \ designate urban areas based on administrative arrangements. Because of national differences in the\
-  \ characteristics that distinguish urban from rural areas, the distinction between urban and rural population\
-  \ is not amenable to a single definition that would be applicable to all countries. For example, in\
-  \ Botswana, agglomeration of 5,000 or more inhabitants where 75 per cent of the economic activity is\
-  \ non-agricultural is considered \"urban\" while in Iceland localities of 200 or more inhabitants, and\
-  \ in Peru population centers with 100 or more dwellings, are considered \"urban.\" In the United States\
-  \ places of 2,500 or more inhabitants, generally having population densities of 1,000 persons per square\
-  \ mile or more are considered \"urban\".\n\nEstimates of the world's urban population would change significantly\
-  \ if China, India, and a few other populous nations were to change their definition of urban centers.\
-  \ According to China's State Statistical Bureau, by the end of 1996 urban residents accounted for about\
-  \ 43 percent of China's population, more than double the 20 percent considered urban in 1994. In addition\
-  \ to the continuous migration of people from rural to urban areas, one of the main reasons for this\
-  \ shift was the rapid growth in the hundreds of towns reclassified as cities in recent years.\n\nBecause\
-  \ the estimates of city and metropolitan area are based on national definitions of what constitutes\
-  \ a city or metropolitan area, cross-country comparisons should be made with caution. To estimate urban\
-  \ populations, UN ratios of urban to total population were applied to the World Bank's estimates of\
-  \ total population."
+Limitationsandexceptions: >-
+  Aggregation of urban and rural population may not add up to total population because of different country
+  coverage. There is no consistent and universally accepted standard for distinguishing urban from rural
+  areas, in part because of the wide variety of situations across countries.
+
+   Most countries use an urban classification related to the size or characteristics of settlements. Some
+  define urban areas based on the presence of certain infrastructure and services. And other countries
+  designate urban areas based on administrative arrangements. Because of national differences in the characteristics
+  that distinguish urban from rural areas, the distinction between urban and rural population is not amenable
+  to a single definition that would be applicable to all countries. For example, in Botswana, agglomeration
+  of 5,000 or more inhabitants where 75 per cent of the economic activity is non-agricultural is considered
+  "urban" while in Iceland localities of 200 or more inhabitants, and in Peru population centers with
+  100 or more dwellings, are considered "urban." In the United States places of 2,500 or more inhabitants,
+  generally having population densities of 1,000 persons per square mile or more are considered "urban".
+
+  Estimates of the world's urban population would change significantly if China, India, and a few other
+  populous nations were to change their definition of urban centers. According to China's State Statistical
+  Bureau, by the end of 1996 urban residents accounted for about 43 percent of China's population, more
+  than double the 20 percent considered urban in 1994. In addition to the continuous migration of people
+  from rural to urban areas, one of the main reasons for this shift was the rapid growth in the hundreds
+  of towns reclassified as cities in recent years.
+
+
+  Because the estimates of city and metropolitan area are based on national definitions of what constitutes
+  a city or metropolitan area, cross-country comparisons should be made with caution. To estimate urban
+  populations, UN ratios of urban to total population were applied to the World Bank's estimates of total
+  population.
 Periodicity: Annual
 Source: United Nations, World Urbanization Prospects.
 Statisticalconceptandmethodology: 'Urban population refers to people living in urban areas as defined
@@ -88,15 +105,3 @@ Statisticalconceptandmethodology: 'Urban population refers to people living in u
   was 6.3 million and that of "inner city, inner and outer suburban districts, and inner and outer counties"
   was 10.8 million. (Most countries use the last definition.)'
 Topic: 'Environment: Density & urbanization'
-description: Population in largest city is the percentage of a country's urban population living in that
-  country's largest metropolitan area.
-id: EN.URB.LCTY.UR.ZS
-name: Population in the largest city (% of urban population)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: United Nations, World Urbanization Prospects.
-topics:
-- id: '16'
-  value: 'Urban Development '
-unit: ''

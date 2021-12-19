@@ -1,3 +1,19 @@
+id: EG.USE.PCAP.KG.OE
+name: Energy use (kg of oil equivalent per capita)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: "IEA Statistics \xA9 OECD/IEA 2014 (http://www.iea.org/stats/index.asp), subject to
+   https://www.iea.org/t&c/termsandconditions/"
+topics:
+- id: '5'
+  value: 'Energy & Mining '
+- id: '19'
+  value: Climate Change
+description: Energy use refers to use of primary energy before transformation to other end-use fuels,
+  which is equal to indigenous production plus imports and stock changes, minus exports and fuels supplied
+  to ships and aircraft engaged in international transport.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'In developing economies growth in energy use is closely related to growth in the
   modern sectors - industry, motorized transport, and urban areas - but energy use also reflects climatic,
@@ -38,19 +54,3 @@ Statisticalconceptandmethodology: 'Total energy use refers to the use of primary
   of 33 percent is assumed for converting nuclear electricity into oil equivalents and 100 percent efficiency
   for converting hydroelectric power.'
 Topic: 'Environment: Energy production & use'
-description: Energy use refers to use of primary energy before transformation to other end-use fuels,
-  which is equal to indigenous production plus imports and stock changes, minus exports and fuels supplied
-  to ships and aircraft engaged in international transport.
-id: EG.USE.PCAP.KG.OE
-name: Energy use (kg of oil equivalent per capita)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: "IEA Statistics \xA9 OECD/IEA 2014 (http://www.iea.org/stats/index.asp), subject to\
-  \ https://www.iea.org/t&c/termsandconditions/"
-topics:
-- id: '5'
-  value: 'Energy & Mining '
-- id: '19'
-  value: Climate Change
-unit: ''

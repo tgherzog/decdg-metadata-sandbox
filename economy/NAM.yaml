@@ -1,3 +1,13 @@
+id: NAM
+iso2Code: NA
+name: Namibia
+region: SSF
+adminregion: SSA
+capitalCity: Windhoek
+longitude: 17.0931
+latitude: -22.5648
+incomelevel: UMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Namibian dollar
 GovernmentAccountingconcept: Budgetary central government
@@ -8,7 +18,6 @@ Latesthouseholdsurvey: Demographic and Health Survey, 2013
 Latestindustrialdata: '2013'
 Latestpopulationcensus: '2011'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2002'
 LongName: Republic of Namibia
 Nationalaccountsbaseyear: '2015'
 PPPsurveyyear: 2017, 2011
@@ -16,15 +25,5 @@ Region: Sub-Saharan Africa
 SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2015
 SpecialNotes: 'Fiscal year end: March 31; reporting period for national accounts data: CY.'
-SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
+SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SSA
-capitalCity: Windhoek
-id: NAM
-incomelevel: UMC
-iso2Code: NA
-latitude: -22.5648
-lendingtype: IBD
-longitude: 17.0931
-name: Namibia
-region: SSF

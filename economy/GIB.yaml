@@ -1,16 +1,16 @@
+id: GIB
+iso2Code: GI
+name: Gibraltar
+region: ECS
+adminregion: ''
+capitalCity: ''
+longitude: ''
+latitude: ''
+incomelevel: HIC
+lendingtype: LNX
 CurrencyUnit: Gibraltar pound
 IncomeGroup: High income
 Latestpopulationcensus: '2012'
 LongName: Gibraltar
 Region: Europe & Central Asia
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: ''
-id: GIB
-incomelevel: HIC
-iso2Code: GI
-latitude: ''
-lendingtype: LNX
-longitude: ''
-name: Gibraltar
-region: ECS

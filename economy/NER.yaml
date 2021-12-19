@@ -1,3 +1,13 @@
+id: NER
+iso2Code: NE
+name: Niger
+region: SSF
+adminregion: SSA
+capitalCity: Niamey
+longitude: 2.1073
+latitude: 13.514
+incomelevel: LIC
+lendingtype: IDX
 Alternativeconversionfactor: '1993'
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: West African CFA franc
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Demographic and Health Survey, 2017
 Latestindustrialdata: '2002'
 Latestpopulationcensus: '2012'
 Latesttradedata: '2016'
-Latestwaterwithdrawaldata: '2005'
 LongName: Republic of Niger
 Nationalaccountsbaseyear: '2015'
 Othergroups: HIPC
@@ -20,13 +29,3 @@ SourceofmostrecentIncomeandexpendituredata: Core Welfare Indicator Questionnaire
   survey (PS), 2014
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SSA
-capitalCity: Niamey
-id: NER
-incomelevel: LIC
-iso2Code: NE
-latitude: 13.514
-lendingtype: IDX
-longitude: 2.1073
-name: Niger
-region: SSF

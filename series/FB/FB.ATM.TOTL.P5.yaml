@@ -1,3 +1,15 @@
+id: FB.ATM.TOTL.P5
+name: Automated teller machines (ATMs) (per 100,000 adults)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, Financial Access Survey.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+description: Automated teller machines are computerized telecommunications devices that provide clients
+  of a financial institution with access to financial transactions in a public place.
 Aggregationmethod: Median
 Developmentrelevance: 'Access to finance can expand opportunities for all with higher levels of access
   and use of banking services associated with lower financing obstacles for people and businesses. A stable
@@ -22,15 +34,3 @@ Source: International Monetary Fund, Financial Access Survey.
 Statisticalconceptandmethodology: Data are shown as the total number of ATMs for every 100,000 adults
   in the reporting country. Calculated as (number of ATMs)*100,000/adult population in the reporting country.
 Topic: 'Financial Sector: Access'
-description: Automated teller machines are computerized telecommunications devices that provide clients
-  of a financial institution with access to financial transactions in a public place.
-id: FB.ATM.TOTL.P5
-name: Automated teller machines (ATMs) (per 100,000 adults)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Monetary Fund, Financial Access Survey.
-topics:
-- id: '7'
-  value: 'Financial Sector '
-unit: ''

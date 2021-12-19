@@ -1,3 +1,13 @@
+id: TUR
+iso2Code: TR
+name: Turkey
+region: ECS
+adminregion: ECA
+capitalCity: Ankara
+longitude: 32.3606
+latitude: 39.7153
+incomelevel: UMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: New Turkish lira
 ExternaldebtReportingstatus: Actual
@@ -9,7 +19,6 @@ Latestindustrialdata: '2014'
 Latestpopulationcensus: 2011. Population figures compiled from administrative registers in combination
   with other sources of data, such as sample surveys.
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2008'
 LongName: Republic of Turkey
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2009'
@@ -20,13 +29,3 @@ SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ECA
-capitalCity: Ankara
-id: TUR
-incomelevel: UMC
-iso2Code: TR
-latitude: 39.7153
-lendingtype: IBD
-longitude: 32.3606
-name: Turkey
-region: ECS

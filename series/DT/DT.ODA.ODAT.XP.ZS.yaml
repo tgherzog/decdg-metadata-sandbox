@@ -1,3 +1,21 @@
+id: DT.ODA.ODAT.XP.ZS
+name: Net ODA received (% of central government expense)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'Development Assistance Committee of the Organisation for Economic Co-operation and
+  Development, Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation
+  Report, and International Development Statistics database. Data are available online at: www.oecd.org/dac/stats/idsonline.
+  IMF central government expense estimates are used for the denominator.'
+topics:
+- id: '2'
+  value: 'Aid Effectiveness '
+description: Net official development assistance (ODA) consists of disbursements of loans made on concessional
+  terms (net of repayments of principal) and grants by official agencies of the members of the Development
+  Assistance Committee (DAC), by multilateral institutions, and by non-DAC countries to promote economic
+  development and welfare in countries and territories in the DAC list of ODA recipients. It includes
+  loans with a grant element of at least 25 percent (calculated at a rate of discount of 10 percent).
 Developmentrelevance: 'Ratio of aid to central government expense provides measures of recipient country''s
   dependency on aid. Ratios of aid are generally much higher in Sub-Saharan Africa than in other regions,
   and they increased in the 1980s. High ratios are due only in part to aid flows. Many African countries
@@ -112,21 +130,3 @@ Statisticalconceptandmethodology: 'Net official development assistance (ODA) per
   expense is calculated using values in U.S. dollars converted using the DEC alternative conversion factor
   which is the underlying annual exchange rate used for the World Bank Atlas method.'
 Topic: 'Economic Policy & Debt: Official development assistance'
-description: Net official development assistance (ODA) consists of disbursements of loans made on concessional
-  terms (net of repayments of principal) and grants by official agencies of the members of the Development
-  Assistance Committee (DAC), by multilateral institutions, and by non-DAC countries to promote economic
-  development and welfare in countries and territories in the DAC list of ODA recipients. It includes
-  loans with a grant element of at least 25 percent (calculated at a rate of discount of 10 percent).
-id: DT.ODA.ODAT.XP.ZS
-name: Net ODA received (% of central government expense)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: 'Development Assistance Committee of the Organisation for Economic Co-operation and
-  Development, Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation
-  Report, and International Development Statistics database. Data are available online at: www.oecd.org/dac/stats/idsonline.
-  IMF central government expense estimates are used for the denominator.'
-topics:
-- id: '2'
-  value: 'Aid Effectiveness '
-unit: ''

@@ -1,12 +1,12 @@
-LongName: IDA total
-SpecialNotes: IDA total group aggregate (includes IDA only and IDA blend).
-adminregion: ''
-capitalCity: ''
 id: IDA
-incomelevel: NA
 iso2Code: XG
-latitude: ''
-lendingtype: ''
-longitude: ''
 name: IDA total
 region: NA
+adminregion: ''
+capitalCity: ''
+longitude: ''
+latitude: ''
+incomelevel: NA
+lendingtype: ''
+LongName: IDA total
+SpecialNotes: IDA total group aggregate (includes IDA only and IDA blend).

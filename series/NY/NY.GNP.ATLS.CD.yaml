@@ -1,35 +1,13 @@
-Aggregationmethod: Gap-filled total
-Developmentrelevance: Because development encompasses many factors - economic, environmental, cultural,
-  educational, and institutional - no single measure gives a complete picture. However, the total earnings
-  of the residents of an economy, measured by its gross national income (GNI), is a good measure of its
-  capacity to provide for the well-being of its people.
-License_Type: CC BY-4.0
-License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
-Periodicity: Annual
-Source: World Bank national accounts data, and OECD National Accounts data files.
-Statisticalconceptandmethodology: "In calculating GNI and GNI per capita in U.S. dollars for certain operational\
-  \ purposes, the World Bank uses the Atlas conversion factor. The purpose of the Atlas conversion factor\
-  \ is to reduce the impact of exchange rate fluctuations in the cross-country comparison of national\
-  \ incomes.\n\nThe Atlas conversion factor for any year is the average of a country's exchange rate (or\
-  \ alternative conversion factor) for that year and its exchange rates for the two preceding years, adjusted\
-  \ for the difference between the rate of inflation in the country and that in Japan, the United Kingdom,\
-  \ the United States, and the Euro area. A country's inflation rate is measured by the change in its\
-  \ GDP deflator.\n \nThe inflation rate for Japan, the United Kingdom, the United States, and the Euro\
-  \ area, representing international inflation, is measured by the change in the SDR deflator. (Special\
-  \ drawing rights, or SDRs, are the International Monetary Fund's unit of account.) The SDR deflator\
-  \ is calculated as a weighted average of these countries' GDP deflators in SDR terms, the weights being\
-  \ the amount of each country's currency in one SDR unit. Weights vary over time because both the composition\
-  \ of the SDR and the relative exchange rates for each currency change. The SDR deflator is calculated\
-  \ in SDR terms first and then converted to U.S. dollars using the SDR to dollar Atlas conversion factor.\
-  \ The Atlas conversion factor is then applied to a country's GNI. The resulting GNI in U.S. dollars\
-  \ is divided by the midyear population to derive GNI per capita.\n \nThe World Bank systematically assesses\
-  \ the appropriateness of official exchange rates as conversion factors. An alternative conversion factor\
-  \ is used in the Atlas formula when the official exchange rate is judged to diverge by an exceptionally\
-  \ large margin from the rate effectively applied to domestic transactions of foreign currencies and\
-  \ traded products. This applies to only a small number of countries, as shown in the country-level metadata.\
-  \ Alternative conversion factors are used in the Atlas methodology and elsewhere in World Development\
-  \ Indicators as single-year conversion factors."
-Topic: 'Economic Policy & Debt: National accounts: Atlas GNI & GNI per capita'
+id: NY.GNP.ATLS.CD
+name: GNI, Atlas method (current US$)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank national accounts data, and OECD National Accounts data files.
+topics:
+- id: '3'
+  value: Economy & Growth
 description: GNI (formerly GNP) is the sum of value added by all resident producers plus any product taxes
   (less subsidies) not included in the valuation of output plus net receipts of primary income (compensation
   of employees and property income) from abroad. Data are in current U.S. dollars. GNI, calculated in
@@ -41,13 +19,40 @@ description: GNI (formerly GNP) is the sum of value added by all resident produc
   preceding years, adjusted for differences in rates of inflation between the country, and through 2000,
   the G-5 countries (France, Germany, Japan, the United Kingdom, and the United States). From 2001, these
   countries include the Euro area, Japan, the United Kingdom, and the United States.
-id: NY.GNP.ATLS.CD
-name: GNI, Atlas method (current US$)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank national accounts data, and OECD National Accounts data files.
-topics:
-- id: '3'
-  value: Economy & Growth
-unit: ''
+Aggregationmethod: Gap-filled total
+Developmentrelevance: Because development encompasses many factors - economic, environmental, cultural,
+  educational, and institutional - no single measure gives a complete picture. However, the total earnings
+  of the residents of an economy, measured by its gross national income (GNI), is a good measure of its
+  capacity to provide for the well-being of its people.
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Source: World Bank national accounts data, and OECD National Accounts data files.
+Statisticalconceptandmethodology: >-
+  In calculating GNI and GNI per capita in U.S. dollars for certain operational purposes, the World Bank
+  uses the Atlas conversion factor. The purpose of the Atlas conversion factor is to reduce the impact
+  of exchange rate fluctuations in the cross-country comparison of national incomes.
+
+
+  The Atlas conversion factor for any year is the average of a country's exchange rate (or alternative
+  conversion factor) for that year and its exchange rates for the two preceding years, adjusted for the
+  difference between the rate of inflation in the country and that in Japan, the United Kingdom, the United
+  States, and the Euro area. A country's inflation rate is measured by the change in its GDP deflator.
+   
+  The inflation rate for Japan, the United Kingdom, the United States, and the Euro area, representing
+  international inflation, is measured by the change in the SDR deflator. (Special drawing rights, or
+  SDRs, are the International Monetary Fund's unit of account.) The SDR deflator is calculated as a weighted
+  average of these countries' GDP deflators in SDR terms, the weights being the amount of each country's
+  currency in one SDR unit. Weights vary over time because both the composition of the SDR and the relative
+  exchange rates for each currency change. The SDR deflator is calculated in SDR terms first and then
+  converted to U.S. dollars using the SDR to dollar Atlas conversion factor. The Atlas conversion factor
+  is then applied to a country's GNI. The resulting GNI in U.S. dollars is divided by the midyear population
+  to derive GNI per capita.
+   
+  The World Bank systematically assesses the appropriateness of official exchange rates as conversion
+  factors. An alternative conversion factor is used in the Atlas formula when the official exchange rate
+  is judged to diverge by an exceptionally large margin from the rate effectively applied to domestic
+  transactions of foreign currencies and traded products. This applies to only a small number of countries,
+  as shown in the country-level metadata. Alternative conversion factors are used in the Atlas methodology
+  and elsewhere in World Development Indicators as single-year conversion factors.
+Topic: 'Economic Policy & Debt: National accounts: Atlas GNI & GNI per capita'

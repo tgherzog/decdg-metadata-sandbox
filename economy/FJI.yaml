@@ -1,3 +1,13 @@
+id: FJI
+iso2Code: FJ
+name: Fiji
+region: EAS
+adminregion: EAP
+capitalCity: Suva
+longitude: 178.399
+latitude: -18.1149
+incomelevel: UMC
+lendingtype: IDB
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Fijian dollar
 ExternaldebtReportingstatus: Actual
@@ -8,7 +18,6 @@ Latestagriculturalcensus: '2009'
 Latestindustrialdata: '2011'
 Latestpopulationcensus: '2017'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2005'
 LongName: Republic of Fiji
 Nationalaccountsbaseyear: '2014'
 PPPsurveyyear: 2017, 2011
@@ -18,13 +27,3 @@ SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: EAP
-capitalCity: Suva
-id: FJI
-incomelevel: UMC
-iso2Code: FJ
-latitude: -18.1149
-lendingtype: IDB
-longitude: 178.399
-name: Fiji
-region: EAS

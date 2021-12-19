@@ -1,3 +1,18 @@
+id: SE.PRM.GINT.FE.ZS
+name: Gross intake ratio in first grade of primary education, female (% of relevant age group)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of February 2020.
+topics:
+- id: '4'
+  value: 'Education '
+- id: '17'
+  value: Gender
+description: Gross intake ratio in first grade of primary education is the number of new entrants in the
+  first grade of primary education regardless of age, expressed as a percentage of the population of the
+  official primary entrance age.
 Aggregationmethod: Weighted average
 Developmentrelevance: The gross intake ratio in the first grade of primary education indicates the level
   of access to primary education and the education system's capacity to provide access to primary education.
@@ -35,18 +50,3 @@ Statisticalconceptandmethodology: 'Gross intake ratio in the first grade of prim
   school year spans two calendar years (for example, from September 2010 to June 2011); in these cases
   the reference year refers to the year in which the school year ended (2011 in the example).'
 Topic: 'Education: Efficiency'
-description: Gross intake ratio in first grade of primary education is the number of new entrants in the
-  first grade of primary education regardless of age, expressed as a percentage of the population of the
-  official primary entrance age.
-id: SE.PRM.GINT.FE.ZS
-name: Gross intake ratio in first grade of primary education, female (% of relevant age group)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of February 2020.
-topics:
-- id: '4'
-  value: 'Education '
-- id: '17'
-  value: Gender
-unit: ''

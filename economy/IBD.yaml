@@ -1,12 +1,12 @@
-LongName: IBRD only
-SpecialNotes: IBRD only group aggregate.
-adminregion: ''
-capitalCity: ''
 id: IBD
-incomelevel: NA
 iso2Code: XF
-latitude: ''
-lendingtype: ''
-longitude: ''
 name: IBRD only
 region: NA
+adminregion: ''
+capitalCity: ''
+longitude: ''
+latitude: ''
+incomelevel: NA
+lendingtype: ''
+LongName: IBRD only
+SpecialNotes: IBRD only group aggregate.

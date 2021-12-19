@@ -1,3 +1,13 @@
+id: KIR
+iso2Code: KI
+name: Kiribati
+region: EAS
+adminregion: EAP
+capitalCity: Tarawa
+longitude: 172.979
+latitude: 1.32905
+incomelevel: LMC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Australian dollar
 GovernmentAccountingconcept: Consolidated central government
@@ -14,13 +24,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2006
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: Special trade system
-adminregion: EAP
-capitalCity: Tarawa
-id: KIR
-incomelevel: LMC
-iso2Code: KI
-latitude: 1.32905
-lendingtype: IDX
-longitude: 172.979
-name: Kiribati
-region: EAS

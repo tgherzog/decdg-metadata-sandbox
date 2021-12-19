@@ -1,3 +1,13 @@
+id: CUW
+iso2Code: CW
+name: Curacao
+region: LCN
+adminregion: ''
+capitalCity: Willemstad
+longitude: ''
+latitude: ''
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Netherlands Antillean guilder
 IncomeGroup: High income
@@ -9,13 +19,3 @@ Region: Latin America & Caribbean
 SNApricevaluation: Value added at basic prices (VAB)
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Willemstad
-id: CUW
-incomelevel: HIC
-iso2Code: CW
-latitude: ''
-lendingtype: LNX
-longitude: ''
-name: Curacao
-region: LCN

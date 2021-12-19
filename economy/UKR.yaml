@@ -1,3 +1,13 @@
+id: UKR
+iso2Code: UA
+name: Ukraine
+region: ECS
+adminregion: ECA
+capitalCity: Kiev
+longitude: 30.5038
+latitude: 50.4536
+incomelevel: LMC
+lendingtype: IBD
 Alternativeconversionfactor: "1987\u201395"
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Ukrainian hryvnia
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2012
 Latestindustrialdata: '2014'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2010'
 LongName: Ukraine
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2016'
@@ -20,13 +29,3 @@ SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ECA
-capitalCity: Kiev
-id: UKR
-incomelevel: LMC
-iso2Code: UA
-latitude: 50.4536
-lendingtype: IBD
-longitude: 30.5038
-name: Ukraine
-region: ECS

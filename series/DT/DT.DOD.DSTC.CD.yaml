@@ -1,3 +1,16 @@
+id: DT.DOD.DSTC.CD
+name: External debt stocks, short-term (DOD, current US$)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, International Debt Statistics.
+topics:
+- id: '20'
+  value: External Debt
+description: Short-term external debt is defined as debt that has an original maturity of one year or
+  less. Available data permit no distinction between public and private nonguaranteed short-term debt.
+  Data are in current U.S. dollars.
 Aggregationmethod: Sum
 Dataset: International Debt Statistics
 Developmentrelevance: 'External indebtedness affects a country''s creditworthiness and investor perceptions.
@@ -32,9 +45,6 @@ Statisticalconceptandmethodology: Data on external debt are gathered through the
   Debt repayable in multiple currencies, goods, or services and debt with a provision for maintenance
   of the value of the currency of repayment are shown at book value.
 Topic: 'Economic Policy & Debt: External debt: Debt outstanding'
-description: Short-term external debt is defined as debt that has an original maturity of one year or
-  less. Available data permit no distinction between public and private nonguaranteed short-term debt.
-  Data are in current U.S. dollars.
 economies:
   CHL: Data on short-term debt on original maturity basis are based on reports provided by the country.
   KNA: Data on short-term debt on original maturity basis are not available.
@@ -49,13 +59,3 @@ economies:
     located in the country. '
   WSM: 'Short-term debt data are excluded since BIS data include debt liabilities of offshore centers
     located in the country. '
-id: DT.DOD.DSTC.CD
-name: External debt stocks, short-term (DOD, current US$)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank, International Debt Statistics.
-topics:
-- id: '20'
-  value: External Debt
-unit: ''

@@ -1,3 +1,21 @@
+id: DT.ODA.ODAT.MP.ZS
+name: Net ODA received (% of imports of goods, services and primary income)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'Development Assistance Committee of the Organisation for Economic Co-operation and
+  Development, Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation
+  Report, and International Development Statistics database. Data are available online at: www.oecd.org/dac/stats/idsonline.
+  World Bank imports of good and services estimates are used for the denominator.'
+topics:
+- id: '2'
+  value: 'Aid Effectiveness '
+description: Net official development assistance (ODA) consists of disbursements of loans made on concessional
+  terms (net of repayments of principal) and grants by official agencies of the members of the Development
+  Assistance Committee (DAC), by multilateral institutions, and by non-DAC countries to promote economic
+  development and welfare in countries and territories in the DAC list of ODA recipients. It includes
+  loans with a grant element of at least 25 percent (calculated at a rate of discount of 10 percent).
 Aggregationmethod: Weighted average
 Developmentrelevance: 'The ratio of aid to imports of goods and services provides a measure of recipient
   country''s dependency on aid. Ratios of aid are generally much higher in Sub-Saharan Africa than in
@@ -112,21 +130,3 @@ Statisticalconceptandmethodology: 'Net official development assistance (ODA) per
   in International Development Statistics (IDS) database. Net ODA received as a percent of imports of
   goods and services is calculated using values in U.S. dollars converted at official exchange rates.'
 Topic: 'Economic Policy & Debt: Official development assistance'
-description: Net official development assistance (ODA) consists of disbursements of loans made on concessional
-  terms (net of repayments of principal) and grants by official agencies of the members of the Development
-  Assistance Committee (DAC), by multilateral institutions, and by non-DAC countries to promote economic
-  development and welfare in countries and territories in the DAC list of ODA recipients. It includes
-  loans with a grant element of at least 25 percent (calculated at a rate of discount of 10 percent).
-id: DT.ODA.ODAT.MP.ZS
-name: Net ODA received (% of imports of goods, services and primary income)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: 'Development Assistance Committee of the Organisation for Economic Co-operation and
-  Development, Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation
-  Report, and International Development Statistics database. Data are available online at: www.oecd.org/dac/stats/idsonline.
-  World Bank imports of good and services estimates are used for the denominator.'
-topics:
-- id: '2'
-  value: 'Aid Effectiveness '
-unit: ''

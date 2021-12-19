@@ -1,3 +1,13 @@
+id: BGD
+iso2Code: BD
+name: Bangladesh
+region: SAS
+adminregion: SAS
+capitalCity: Dhaka
+longitude: 90.4113
+latitude: 23.7055
+incomelevel: LMC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Bangladeshi taka
 ExternaldebtReportingstatus: Actual
@@ -9,9 +19,8 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019
 Latestindustrialdata: '2011'
 Latestpopulationcensus: '2011'
 Latesttradedata: '2015'
-Latestwaterwithdrawaldata: '2008'
 LongName: People's Republic of Bangladesh
-Nationalaccountsbaseyear: 2005/06
+Nationalaccountsbaseyear: '2006'
 PPPsurveyyear: 2017, 2011
 Region: South Asia
 SNApricevaluation: Value added at basic prices (VAB)
@@ -19,13 +28,3 @@ SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2
 SpecialNotes: 'Fiscal year end: June 30; reporting period for national accounts data: FY.'
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SAS
-capitalCity: Dhaka
-id: BGD
-incomelevel: LMC
-iso2Code: BD
-latitude: 23.7055
-lendingtype: IDX
-longitude: 90.4113
-name: Bangladesh
-region: SAS

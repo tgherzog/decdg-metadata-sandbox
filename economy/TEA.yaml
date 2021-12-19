@@ -1,12 +1,12 @@
-LongName: East Asia & Pacific (IDA & IBRD)
-SpecialNotes: East Asia & Pacific (IDA & IBRD countries) aggregate.
-adminregion: ''
-capitalCity: ''
 id: TEA
-incomelevel: NA
 iso2Code: T4
-latitude: ''
-lendingtype: ''
-longitude: ''
 name: East Asia & Pacific (IDA & IBRD countries)
 region: NA
+adminregion: ''
+capitalCity: ''
+longitude: ''
+latitude: ''
+incomelevel: NA
+lendingtype: ''
+LongName: East Asia & Pacific (IDA & IBRD)
+SpecialNotes: East Asia & Pacific (IDA & IBRD countries) aggregate.

@@ -1,3 +1,18 @@
+id: NY.GDP.MKTP.KD.ZG
+name: GDP growth (annual %)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank national accounts data, and OECD National Accounts data files.
+topics:
+- id: '3'
+  value: Economy & Growth
+description: Annual percentage growth rate of GDP at market prices based on constant local currency. Aggregates
+  are based on constant 2015 prices, expressed in U.S. dollars. GDP is the sum of gross value added by
+  all resident producers in the economy plus any product taxes and minus any subsidies not included in
+  the value of the products. It is calculated without making deductions for depreciation of fabricated
+  assets or for depletion and degradation of natural resources.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'An economy''s growth is measured by the change in the volume of its output or in
   the real incomes of its residents. The 2008 United Nations System of National Accounts (2008 SNA) offers
@@ -65,22 +80,7 @@ Statisticalconceptandmethodology: 'Gross domestic product (GDP) represents the s
 
 
   Growth rates of GDP and its components are calculated using the least squares method and constant price
-  data in the local currency. Constant price U.S. dollar series are used to calculate regional and income
-  group growth rates. Local currency series are converted to constant U.S. dollars using an exchange rate
-  in the common reference year.'
+  data in the local currency. Constant price in U.S. dollar series are used to calculate regional and
+  income group growth rates. Local currency series are converted to constant U.S. dollars using an exchange
+  rate in the common reference year.'
 Topic: 'Economic Policy & Debt: National accounts: Growth rates'
-description: Annual percentage growth rate of GDP at market prices based on constant local currency. Aggregates
-  are based on constant 2010 U.S. dollars. GDP is the sum of gross value added by all resident producers
-  in the economy plus any product taxes and minus any subsidies not included in the value of the products.
-  It is calculated without making deductions for depreciation of fabricated assets or for depletion and
-  degradation of natural resources.
-id: NY.GDP.MKTP.KD.ZG
-name: GDP growth (annual %)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank national accounts data, and OECD National Accounts data files.
-topics:
-- id: '3'
-  value: Economy & Growth
-unit: ''

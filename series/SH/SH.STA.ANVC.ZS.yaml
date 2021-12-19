@@ -1,3 +1,19 @@
+id: SH.STA.ANVC.ZS
+name: Pregnant women receiving prenatal care (%)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys.
+topics:
+- id: '8'
+  value: 'Health '
+- id: '17'
+  value: Gender
+- id: '2'
+  value: 'Aid Effectiveness '
+description: Pregnant women receiving prenatal care are the percentage of women attended at least once
+  during pregnancy by skilled health personnel for reasons related to pregnancy.
 Aggregationmethod: Weighted average
 Generalcomments: Good prenatal and postnatal care improve maternal health and reduce maternal and infant
   mortality.
@@ -19,19 +35,3 @@ Statisticalconceptandmethodology: 'Reproductive health is a state of physical an
   of the services. Data on antenatal care are obtained mostly from household surveys, which ask women
   who have had a live birth whether and from whom they received antenatal care.'
 Topic: 'Health: Reproductive health'
-description: Pregnant women receiving prenatal care are the percentage of women attended at least once
-  during pregnancy by skilled health personnel for reasons related to pregnancy.
-id: SH.STA.ANVC.ZS
-name: Pregnant women receiving prenatal care (%)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys.
-topics:
-- id: '8'
-  value: 'Health '
-- id: '17'
-  value: Gender
-- id: '2'
-  value: 'Aid Effectiveness '
-unit: ''

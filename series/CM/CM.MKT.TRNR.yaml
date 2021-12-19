@@ -1,3 +1,15 @@
+id: CM.MKT.TRNR
+name: Stocks traded, turnover ratio of domestic shares (%)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Federation of Exchanges database.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+description: Turnover ratio is the value of domestic shares traded divided by their market capitalization.
+  The value is annualized by multiplying the monthly average by 12.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Stock market size can be measured in various ways, and each may produce a different
   ranking of countries.
@@ -38,27 +50,15 @@ Statisticalconceptandmethodology: 'Turnover ratio is the value of electronic ord
   average by 12, according to the following formula: (Monthly EOB domestic shares traded / Month-end domestic
   market capitalization) x 12.'
 Topic: 'Financial Sector: Capital markets'
-description: Turnover ratio is the value of domestic shares traded divided by their market capitalization.
-  The value is annualized by multiplying the monthly average by 12.
 economies:
   ARE: 'Method of calculation: Total domestic value of share trading of Abu Dhabi Serurities Market and
     Dubai Financial Market divided by total domestic market capitalization of the two exchanges.'
-  CAN: "Method of calculation: Before 2000, total domestic value of share trading of TMX Group and Bourse\
-    \ de Montr\xC3\xA9al divided by total domestic market capitalization of the two exchanges. After 2000,\
-    \ Bourse de Montr\xC3\xA9al does not have a cash market and is thus excluded."
+  CAN: "Method of calculation: Before 2000, total domestic value of share trading of TMX Group and Bourse
+     de Montr\xC3\xA9al divided by total domestic market capitalization of the two exchanges. After 2000,
+     Bourse de Montr\xC3\xA9al does not have a cash market and is thus excluded."
   CHN: 'Method of calculation: Total domestic value of share trading of Shanghai Stock Exchange and Shenzhen
     Stock Exchange divided by the total domestic market capitalization of the two exchanges.'
   ESP: 'Method of calculation: Before 2000, total domestic value of share trading of BME Spanish Exchanges
     Barcelona, BME Spanish Exchanges Bilbao, BME Spanish Exchanges Madrid divided by total domestic market
     capitalization of the three exchanges.  After 2000, data is taken from BME Spanish Exchanges.'
   IND: 'Source: BSE India: https://www.bseindia.com/markets/equity/EQReports/allindiamktcap.aspx'
-id: CM.MKT.TRNR
-name: Stocks traded, turnover ratio of domestic shares (%)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Federation of Exchanges database.
-topics:
-- id: '7'
-  value: 'Financial Sector '
-unit: ''

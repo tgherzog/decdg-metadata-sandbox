@@ -1,3 +1,13 @@
+id: MAC
+iso2Code: MO
+name: Macao SAR, China
+region: EAS
+adminregion: ''
+capitalCity: ''
+longitude: 113.55
+latitude: 22.1667
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Macao pataca
 GovernmentAccountingconcept: Consolidated central government
@@ -8,7 +18,7 @@ Latestpopulationcensus: '2016'
 Latesttradedata: '2016'
 LongName: Macao Special Administrative Region of the People's Republic of China
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
-Nationalaccountsreferenceyear: '2016'
+Nationalaccountsreferenceyear: '2019'
 PPPsurveyyear: '2011'
 Region: East Asia & Pacific
 SNApricevaluation: Value added at producer prices (VAP)
@@ -17,13 +27,3 @@ SpecialNotes: On 20 December 1999 China resumed its exercise of sovereignty over
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: ''
-id: MAC
-incomelevel: HIC
-iso2Code: MO
-latitude: 22.1667
-lendingtype: LNX
-longitude: 113.55
-name: Macao SAR, China
-region: EAS

@@ -1,3 +1,22 @@
+id: SL.SRV.EMPL.MA.ZS
+name: Employment in services, male (% of male employment) (modeled ILO estimate)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Labour Organization, ILOSTAT database. Data retrieved on January 29,
+  2021.
+topics:
+- id: '10'
+  value: Social Protection & Labor
+- id: '17'
+  value: Gender
+description: Employment is defined as persons of working age who were engaged in any activity to produce
+  goods or provide services for pay or profit, whether at work during the reference period or not at work
+  due to temporary absence from a job, or to working-time arrangement. The services sector consists of
+  wholesale and retail trade and restaurants and hotels; transport, storage, and communications; financing,
+  insurance, real estate, and business services; and community, social, and personal services, in accordance
+  with divisions 6-9 (ISIC 2) or categories G-Q (ISIC 3) or categories G-U (ISIC 4).
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Sectoral information is particularly useful in identifying broad shifts in employment
   and stages of development. In the textbook case of economic development, labour flows from agriculture
@@ -58,22 +77,3 @@ Statisticalconceptandmethodology: 'The International Labour Organization (ILO) c
   factors. The estimates are based mainly on nationally representative labor force surveys, with other
   sources (population censuses and nationally reported estimates) used only when no survey data are available.'
 Topic: 'Social Protection & Labor: Economic activity'
-description: Employment is defined as persons of working age who were engaged in any activity to produce
-  goods or provide services for pay or profit, whether at work during the reference period or not at work
-  due to temporary absence from a job, or to working-time arrangement. The services sector consists of
-  wholesale and retail trade and restaurants and hotels; transport, storage, and communications; financing,
-  insurance, real estate, and business services; and community, social, and personal services, in accordance
-  with divisions 6-9 (ISIC 2) or categories G-Q (ISIC 3) or categories G-U (ISIC 4).
-id: SL.SRV.EMPL.MA.ZS
-name: Employment in services, male (% of male employment) (modeled ILO estimate)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Labour Organization, ILOSTAT database. Data retrieved on January 29,
-  2021.
-topics:
-- id: '10'
-  value: Social Protection & Labor
-- id: '17'
-  value: Gender
-unit: ''

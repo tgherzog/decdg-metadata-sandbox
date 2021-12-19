@@ -1,3 +1,14 @@
+id: CYM
+iso2Code: KY
+name: Cayman Islands
+region: LCN
+adminregion: ''
+capitalCity: George Town
+longitude: -81.3857
+latitude: 19.3022
+incomelevel: HIC
+lendingtype: LNX
+BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Cayman Islands dollar
 IncomeGroup: High income
 Latestpopulationcensus: 2020 (expected)
@@ -9,13 +20,3 @@ Region: Latin America & Caribbean
 SNApricevaluation: Value added at basic prices (VAB)
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: George Town
-id: CYM
-incomelevel: HIC
-iso2Code: KY
-latitude: 19.3022
-lendingtype: LNX
-longitude: -81.3857
-name: Cayman Islands
-region: LCN

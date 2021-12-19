@@ -1,13 +1,13 @@
+id: LMC
+iso2Code: XN
+name: Lower middle income
+region: NA
+adminregion: ''
+capitalCity: ''
+longitude: ''
+latitude: ''
+incomelevel: NA
+lendingtype: ''
 LongName: Lower middle income
 SpecialNotes: Lower middle income group aggregate. Lower-middle-income economies are those in which 2020
   GNI per capita was between $1,046 and $4,095.
-adminregion: ''
-capitalCity: ''
-id: LMC
-incomelevel: NA
-iso2Code: XN
-latitude: ''
-lendingtype: ''
-longitude: ''
-name: Lower middle income
-region: NA

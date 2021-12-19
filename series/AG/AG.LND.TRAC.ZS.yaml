@@ -1,3 +1,18 @@
+id: AG.LND.TRAC.ZS
+name: Agricultural machinery, tractors per 100 sq. km of arable land
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Food and Agriculture Organization, electronic files and web site.
+topics:
+- id: '1'
+  value: 'Agriculture & Rural Development  '
+description: Agricultural machinery refers to the number of wheel and crawler tractors (excluding garden
+  tractors) in use in agriculture at the end of the calendar year specified or during the first quarter
+  of the following year. Arable land includes land defined by the FAO as land under temporary crops (double-cropped
+  areas are counted once), temporary meadows for mowing or for pasture, land under market or kitchen gardens,
+  and land temporarily fallow. Land abandoned as a result of shifting cultivation is excluded.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Agricultural land covers more than one-third of the world''s land area. In many
   industrialized countries, agricultural land is subject to zoning regulations. In the context of zoning,
@@ -58,18 +73,3 @@ Statisticalconceptandmethodology: 'A tractor provides the power and traction to 
   with land-use indicators, can also elucidate the environmental sustainability of countries'' agricultural
   practices.'
 Topic: 'Environment: Agricultural production'
-description: Agricultural machinery refers to the number of wheel and crawler tractors (excluding garden
-  tractors) in use in agriculture at the end of the calendar year specified or during the first quarter
-  of the following year. Arable land includes land defined by the FAO as land under temporary crops (double-cropped
-  areas are counted once), temporary meadows for mowing or for pasture, land under market or kitchen gardens,
-  and land temporarily fallow. Land abandoned as a result of shifting cultivation is excluded.
-id: AG.LND.TRAC.ZS
-name: Agricultural machinery, tractors per 100 sq. km of arable land
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Food and Agriculture Organization, electronic files and web site.
-topics:
-- id: '1'
-  value: 'Agriculture & Rural Development  '
-unit: ''

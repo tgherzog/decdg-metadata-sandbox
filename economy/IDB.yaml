@@ -1,12 +1,12 @@
-LongName: IDA blend
-SpecialNotes: IDA blend group aggregate.
-adminregion: ''
-capitalCity: ''
 id: IDB
-incomelevel: NA
 iso2Code: XH
-latitude: ''
-lendingtype: ''
-longitude: ''
 name: IDA blend
 region: NA
+adminregion: ''
+capitalCity: ''
+longitude: ''
+latitude: ''
+incomelevel: NA
+lendingtype: ''
+LongName: IDA blend
+SpecialNotes: IDA blend group aggregate.

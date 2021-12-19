@@ -1,3 +1,16 @@
+id: FR.INR.LNDP
+name: Interest rate spread (lending rate minus deposit rate, %)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, International Financial Statistics and data files.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+description: Interest rate spread is the interest rate charged by banks on loans to private sector customers
+  minus the interest rate paid by commercial or similar banks for demand, time, or savings deposits. The
+  terms and conditions attached to these rates differ by country, however, limiting their comparability.
 Aggregationmethod: Median
 Developmentrelevance: Both banking and financial systems enhance growth, the main factor in poverty reduction.
   At low levels of economic development commercial banks tend to dominate the financial system, while
@@ -20,16 +33,3 @@ Statisticalconceptandmethodology: The interest rate spread - the margin between 
   spread means low transaction costs, which reduces the cost of funds for investment, crucial to economic
   growth.
 Topic: 'Financial Sector: Interest rates'
-description: Interest rate spread is the interest rate charged by banks on loans to private sector customers
-  minus the interest rate paid by commercial or similar banks for demand, time, or savings deposits. The
-  terms and conditions attached to these rates differ by country, however, limiting their comparability.
-id: FR.INR.LNDP
-name: Interest rate spread (lending rate minus deposit rate, %)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Monetary Fund, International Financial Statistics and data files.
-topics:
-- id: '7'
-  value: 'Financial Sector '
-unit: ''

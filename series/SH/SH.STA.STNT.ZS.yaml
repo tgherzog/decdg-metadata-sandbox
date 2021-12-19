@@ -1,4 +1,22 @@
-Aggregationmethod: See SH.STA.OWGH.ME.ZS for aggregation
+id: SH.STA.STNT.ZS
+name: Prevalence of stunting, height for age (% of children under 5)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'UNICEF, WHO, World Bank: Joint child malnutrition estimates (JME). Aggregation is
+  based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology.'
+topics:
+- id: '8'
+  value: 'Health '
+- id: '2'
+  value: 'Aid Effectiveness '
+description: Prevalence of stunting is the percentage of children under age 5 whose height for age is
+  more than two standard deviations below the median for the international reference population ages 0-59
+  months. For children up to two years old height is measured by recumbent length. For older children
+  height is measured by stature while standing. The data are based on the WHO's new child growth standards
+  released in 2006.
+Aggregationmethod: See SH.STA.STNT.ME.ZS for aggregation
 Generalcomments: Undernourished children have lower resistance to infection and are more likely to die
   from common childhood ailments such as diarrheal diseases and respiratory infections. Frequent illness
   saps the nutritional status of those who survive, locking them into a vicious cycle of recurring sickness
@@ -13,21 +31,3 @@ Periodicity: Annual
 Source: 'UNICEF, WHO, World Bank: Joint child malnutrition estimates (JME). Aggregation is based on UNICEF,
   WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology.'
 Topic: 'Health: Nutrition'
-description: Prevalence of stunting is the percentage of children under age 5 whose height for age is
-  more than two standard deviations below the median for the international reference population ages 0-59
-  months. For children up to two years old height is measured by recumbent length. For older children
-  height is measured by stature while standing. The data are based on the WHO's new child growth standards
-  released in 2006.
-id: SH.STA.STNT.ZS
-name: Prevalence of stunting, height for age (% of children under 5)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: 'UNICEF, WHO, World Bank: Joint child malnutrition estimates (JME). Aggregation is
-  based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology.'
-topics:
-- id: '8'
-  value: 'Health '
-- id: '2'
-  value: 'Aid Effectiveness '
-unit: ''

@@ -1,3 +1,18 @@
+id: SL.GDP.PCAP.EM.KD
+name: GDP per person employed (constant 2017 PPP $)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Derived using data from International Labour Organization, ILOSTAT database. The data
+  retrieved on June 15, 2021.
+topics:
+- id: '10'
+  value: Social Protection & Labor
+description: GDP per person employed is gross domestic product (GDP) divided by total employment in the
+  economy. Purchasing power parity (PPP) GDP is GDP converted to 2017 constant international dollars using
+  PPP rates. An international dollar has the same purchasing power over GDP that a U.S. dollar has in
+  the United States.
 Aggregationmethod: Weighted average
 BasePeriod: '2017'
 Developmentrelevance: 'Labor productivity is used to assess a country''s economic ability to create and
@@ -22,24 +37,9 @@ Limitationsandexceptions: For comparability of individual sectors labor producti
   different definitions of the informal sector.
 Periodicity: Annual
 Source: Derived using data from International Labour Organization, ILOSTAT database. The data retrieved
-  on January 29, 2021.
-Statisticalconceptandmethodology: "GDP per person employed represents labor productivity \u2014 output\
-  \ per unit of labor input. To compare labor productivity levels across countries, GDP is converted to\
-  \ international dollars using purchasing power parity rates which take account of differences in relative\
-  \ prices between countries."
+  on June 15, 2021.
+Statisticalconceptandmethodology: "GDP per person employed represents labor productivity \u2014 output
+   per unit of labor input. To compare labor productivity levels across countries, GDP is converted to
+   international dollars using purchasing power parity rates which take account of differences in relative
+   prices between countries."
 Topic: 'Social Protection & Labor: Economic activity'
-description: GDP per person employed is gross domestic product (GDP) divided by total employment in the
-  economy. Purchasing power parity (PPP) GDP is GDP converted to 2017 constant international dollars using
-  PPP rates. An international dollar has the same purchasing power over GDP that a U.S. dollar has in
-  the United States.
-id: SL.GDP.PCAP.EM.KD
-name: GDP per person employed (constant 2017 PPP $)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Derived using data from International Labour Organization, ILOSTAT database. The data
-  retrieved on January 29, 2021.
-topics:
-- id: '10'
-  value: Social Protection & Labor
-unit: ''

@@ -1,3 +1,20 @@
+id: NV.IND.TOTL.ZS
+name: Industry (including construction), value added (% of GDP)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank national accounts data, and OECD National Accounts data files.
+topics:
+- id: '3'
+  value: Economy & Growth
+description: 'Industry (including construction) corresponds to ISIC divisions 05-43 and includes manufacturing
+  (ISIC divisions 10-33). It comprises value added in mining, manufacturing (also reported as a separate
+  subgroup), construction, electricity, water, and gas. Value added is the net output of a sector after
+  adding up all outputs and subtracting intermediate inputs. It is calculated without making deductions
+  for depreciation of fabricated assets or depletion and degradation of natural resources. The origin
+  of value added is determined by the International Standard Industrial Classification (ISIC), revision
+  4. Note: For VAB countries, gross value added at factor cost is used as the denominator.'
 Aggregationmethod: Weighted average
 Generalcomments: 'Note: Data for OECD countries are based on ISIC, revision 4.'
 License_Type: CC BY-4.0
@@ -26,20 +43,3 @@ Statisticalconceptandmethodology: Gross domestic product (GDP) represents the su
   separately by producers. Total GDP is measured at purchaser prices. Value added by industry is normally
   measured at basic prices.
 Topic: 'Economic Policy & Debt: National accounts: Shares of GDP & other'
-description: 'Industry corresponds to ISIC divisions 10-45 and includes manufacturing (ISIC divisions
-  15-37). It comprises value added in mining, manufacturing (also reported as a separate subgroup), construction,
-  electricity, water, and gas. Value added is the net output of a sector after adding up all outputs and
-  subtracting intermediate inputs. It is calculated without making deductions for depreciation of fabricated
-  assets or depletion and degradation of natural resources. The origin of value added is determined by
-  the International Standard Industrial Classification (ISIC), revision 3. Note: For VAB countries, gross
-  value added at factor cost is used as the denominator.'
-id: NV.IND.TOTL.ZS
-name: Industry, value added (% of GDP)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank national accounts data, and OECD National Accounts data files.
-topics:
-- id: '3'
-  value: Economy & Growth
-unit: ''

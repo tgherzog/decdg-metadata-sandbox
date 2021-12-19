@@ -1,14 +1,6 @@
-Aggregationmethod: Median
-License_Type: CC BY-4.0
-License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
-Periodicity: Annual
-Source: World Bank national accounts data, and OECD National Accounts data files.
-Topic: 'Financial Sector: Exchange rates & prices'
-description: Inflation as measured by the annual growth rate of the GDP implicit deflator shows the rate
-  of price change in the economy as a whole. The GDP implicit deflator is the ratio of GDP in current
-  local currency to GDP in constant local currency.
 id: NY.GDP.DEFL.KD.ZG
 name: Inflation, GDP deflator (annual %)
+unit: ''
 source:
   id: '2'
   value: World Development Indicators
@@ -16,4 +8,12 @@ sourceOrganization: World Bank national accounts data, and OECD National Account
 topics:
 - id: '3'
   value: Economy & Growth
-unit: ''
+description: Inflation as measured by the annual growth rate of the GDP implicit deflator shows the rate
+  of price change in the economy as a whole. The GDP implicit deflator is the ratio of GDP in current
+  local currency to GDP in constant local currency.
+Aggregationmethod: Median
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Source: World Bank national accounts data, and OECD National Accounts data files.
+Topic: 'Financial Sector: Exchange rates & prices'

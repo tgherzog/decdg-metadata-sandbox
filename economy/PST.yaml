@@ -1,13 +1,13 @@
+id: PST
+iso2Code: V4
+name: Post-demographic dividend
+region: NA
+adminregion: ''
+capitalCity: ''
+longitude: ''
+latitude: ''
+incomelevel: NA
+lendingtype: ''
 LongName: Post-demographic dividend
 SpecialNotes: Post-dividend countries are mostly high-income countries where fertility has transitioned
   below replacement levels.
-adminregion: ''
-capitalCity: ''
-id: PST
-incomelevel: NA
-iso2Code: V4
-latitude: ''
-lendingtype: ''
-longitude: ''
-name: Post-demographic dividend
-region: NA

@@ -1,3 +1,20 @@
+id: IP.PAT.RESD
+name: Patent applications, residents
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'World Intellectual Property Organization (WIPO), WIPO Patent Report: Statistics on
+  Worldwide Patent Activity. The International Bureau of WIPO assumes no responsibility with respect to
+  the transformation of these data.'
+topics:
+- id: '14'
+  value: 'Science & Technology '
+description: Patent applications are worldwide patent applications filed through the Patent Cooperation
+  Treaty procedure or with a national patent office for exclusive rights for an invention--a product or
+  process that provides a new way of doing something or offers a new technical solution to a problem.
+  A patent provides protection for the invention to the owner of the patent for a limited period, generally
+  20 years.
 Aggregationmethod: Sum
 Developmentrelevance: 'The Patent Cooperation Treaty (www.wipo.int/pct) provides a two phase system for
   filing patent. International applications under the treaty provide for a national patent grant only
@@ -52,20 +69,3 @@ Statisticalconceptandmethodology: 'Resident patent applications are those for wh
   or with a national patent office for exclusive rights for an invention - a product or process that provides
   a new way of doing something or offers a new technical solution to a problem.'
 Topic: 'Infrastructure: Technology'
-description: Patent applications are worldwide patent applications filed through the Patent Cooperation
-  Treaty procedure or with a national patent office for exclusive rights for an invention--a product or
-  process that provides a new way of doing something or offers a new technical solution to a problem.
-  A patent provides protection for the invention to the owner of the patent for a limited period, generally
-  20 years.
-id: IP.PAT.RESD
-name: Patent applications, residents
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: 'World Intellectual Property Organization (WIPO), WIPO Patent Report: Statistics on
-  Worldwide Patent Activity. The International Bureau of WIPO assumes no responsibility with respect to
-  the transformation of these data.'
-topics:
-- id: '14'
-  value: 'Science & Technology '
-unit: ''

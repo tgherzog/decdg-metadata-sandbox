@@ -1,3 +1,17 @@
+id: EN.HPT.THRD.NO
+name: Plant species (higher), threatened
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: United Nations Environmental Program and the World Conservation Monitoring Centre,
+  and International Union for Conservation of Nature, Red List of Threatened Species.
+topics:
+- id: '6'
+  value: 'Environment '
+description: Higher plants are native vascular plant species. Threatened species are the number of species
+  classified by the IUCN as endangered, vulnerable, rare, indeterminate, out of danger, or insufficiently
+  known.
 Aggregationmethod: Sum
 Developmentrelevance: 'The number of threatened species is an important measure of the immediate need
   for conservation in an area. Global analyses of the status of threatened species have been carried out
@@ -96,17 +110,3 @@ Statisticalconceptandmethodology: 'Species assessed as Critically Endangered (CR
   Additional information on ecology and habitat preferences, threats, and conservation action are also
   collated and assessed as part of Red List process.'
 Topic: 'Environment: Biodiversity & protected areas'
-description: Higher plants are native vascular plant species. Threatened species are the number of species
-  classified by the IUCN as endangered, vulnerable, rare, indeterminate, out of danger, or insufficiently
-  known.
-id: EN.HPT.THRD.NO
-name: Plant species (higher), threatened
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: United Nations Environmental Program and the World Conservation Monitoring Centre,
-  and International Union for Conservation of Nature, Red List of Threatened Species.
-topics:
-- id: '6'
-  value: 'Environment '
-unit: ''

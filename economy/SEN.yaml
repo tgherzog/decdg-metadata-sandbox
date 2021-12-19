@@ -1,3 +1,13 @@
+id: SEN
+iso2Code: SN
+name: Senegal
+region: SSF
+adminregion: SSA
+capitalCity: Dakar
+longitude: -17.4734
+latitude: 14.7247
+incomelevel: LMC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: West African CFA franc
 ExternaldebtReportingstatus: Actual
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Continuous Demographic and Health Survey, 2017
 Latestindustrialdata: '2012'
 Latestpopulationcensus: '2013'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2002'
 LongName: Republic of Senegal
 Nationalaccountsbaseyear: '2014'
 Othergroups: HIPC
@@ -19,13 +28,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Priority survey (PS), 2011/12
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SSA
-capitalCity: Dakar
-id: SEN
-incomelevel: LMC
-iso2Code: SN
-latitude: 14.7247
-lendingtype: IDX
-longitude: -17.4734
-name: Senegal
-region: SSF

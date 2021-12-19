@@ -1,14 +1,14 @@
+id: PRE
+iso2Code: V1
+name: Pre-demographic dividend
+region: NA
+adminregion: ''
+capitalCity: ''
+longitude: ''
+latitude: ''
+incomelevel: NA
+lendingtype: ''
 LongName: Pre-demographic dividend
 SpecialNotes: Pre-dividend countries are mostly low-income countries, lagging in key human development
   indicators and with current fertility levels above four births per woman. They face very rapid population
   growth.
-adminregion: ''
-capitalCity: ''
-id: PRE
-incomelevel: NA
-iso2Code: V1
-latitude: ''
-lendingtype: ''
-longitude: ''
-name: Pre-demographic dividend
-region: NA

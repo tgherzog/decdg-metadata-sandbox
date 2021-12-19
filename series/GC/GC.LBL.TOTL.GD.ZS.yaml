@@ -1,3 +1,17 @@
+id: GC.LBL.TOTL.GD.ZS
+name: Net incurrence of liabilities, total (% of GDP)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, Government Finance Statistics Yearbook and data files.
+topics:
+- id: '13'
+  value: 'Public Sector '
+description: Net incurrence of government liabilities includes foreign financing (obtained from nonresidents)
+  and domestic financing (obtained from residents), or the means by which a government provides financial
+  resources to cover a budget deficit or allocates financial resources arising from a budget surplus.
+  The net incurrence of liabilities should be offset by the net acquisition of financial assets.
 Aggregationmethod: Weighted average
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
@@ -23,17 +37,3 @@ Statisticalconceptandmethodology: 'The IMF''s Government Finance Statistics Manu
   Government finance statistics are reported in local currency. Many countries report government finance
   data by fiscal year; see country metadata for information on fiscal year end by country.'
 Topic: 'Public Sector: Government finance: Deficit & financing'
-description: Net incurrence of government liabilities includes foreign financing (obtained from nonresidents)
-  and domestic financing (obtained from residents), or the means by which a government provides financial
-  resources to cover a budget deficit or allocates financial resources arising from a budget surplus.
-  The net incurrence of liabilities should be offset by the net acquisition of financial assets.
-id: GC.LBL.TOTL.GD.ZS
-name: Net incurrence of liabilities, total (% of GDP)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Monetary Fund, Government Finance Statistics Yearbook and data files.
-topics:
-- id: '13'
-  value: 'Public Sector '
-unit: ''

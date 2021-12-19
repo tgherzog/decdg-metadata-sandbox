@@ -1,23 +1,23 @@
+id: PYF
+iso2Code: PF
+name: French Polynesia
+region: EAS
+adminregion: ''
+capitalCity: Papeete
+longitude: -149.57
+latitude: -17.535
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: CFP franc
 IncomeGroup: High income
 Latestpopulationcensus: '2017'
 Latesttradedata: '2015'
 LongName: French Polynesia
-Nationalaccountsbaseyear: '1990'
+Nationalaccountsbaseyear: '2005'
 PPPsurveyyear: 2011 (Only for individual consumption expenditure by households)
 Region: East Asia & Pacific
 SNApricevaluation: Value added at basic prices (VAB)
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Papeete
-id: PYF
-incomelevel: HIC
-iso2Code: PF
-latitude: -17.535
-lendingtype: LNX
-longitude: -149.57
-name: French Polynesia
-region: EAS

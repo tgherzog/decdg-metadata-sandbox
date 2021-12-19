@@ -1,12 +1,12 @@
-LongName: IDA & IBRD total
-SpecialNotes: IDA and IBRD total group aggregate (includes IDA only, IDA blend, and IBRD only).
-adminregion: ''
-capitalCity: ''
 id: IBT
-incomelevel: NA
 iso2Code: ZT
-latitude: ''
-lendingtype: ''
-longitude: ''
 name: IDA & IBRD total
 region: NA
+adminregion: ''
+capitalCity: ''
+longitude: ''
+latitude: ''
+incomelevel: NA
+lendingtype: ''
+LongName: IDA & IBRD total
+SpecialNotes: IDA and IBRD total group aggregate (includes IDA only, IDA blend, and IBRD only).

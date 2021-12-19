@@ -1,3 +1,17 @@
+id: AG.LND.ARBL.HA.PC
+name: Arable land (hectares per person)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Food and Agriculture Organization, electronic files and web site.
+topics:
+- id: '1'
+  value: 'Agriculture & Rural Development  '
+description: Arable land (hectares per person) includes land defined by the FAO as land under temporary
+  crops (double-cropped areas are counted once), temporary meadows for mowing or for pasture, land under
+  market or kitchen gardens, and land temporarily fallow. Land abandoned as a result of shifting cultivation
+  is excluded.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Agricultural land covers about one-third of the world''s land area, with arable
   land representing less than one-third of agricultural land (about 10 percent of the world''s land area).
@@ -68,17 +82,3 @@ Statisticalconceptandmethodology: Temporary fallow land refers to land left fall
   The secondary sources cover official country data from websites of national ministries, national publications
   and related country data reported by various international organizations.
 Topic: 'Environment: Land use'
-description: Arable land (hectares per person) includes land defined by the FAO as land under temporary
-  crops (double-cropped areas are counted once), temporary meadows for mowing or for pasture, land under
-  market or kitchen gardens, and land temporarily fallow. Land abandoned as a result of shifting cultivation
-  is excluded.
-id: AG.LND.ARBL.HA.PC
-name: Arable land (hectares per person)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Food and Agriculture Organization, electronic files and web site.
-topics:
-- id: '1'
-  value: 'Agriculture & Rural Development  '
-unit: ''

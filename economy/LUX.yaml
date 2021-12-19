@@ -1,3 +1,13 @@
+id: LUX
+iso2Code: LU
+name: Luxembourg
+region: ECS
+adminregion: ''
+capitalCity: Luxembourg
+longitude: 6.1296
+latitude: 49.61
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Euro
 GovernmentAccountingconcept: Consolidated central government
@@ -7,7 +17,6 @@ Latestagriculturalcensus: '2010'
 Latestindustrialdata: '2013'
 Latestpopulationcensus: '2011'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2013'
 LongName: Grand Duchy of Luxembourg
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -23,13 +32,3 @@ SpecialNotes: 'A simple multiplier is used to convert the national currencies of
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Luxembourg
-id: LUX
-incomelevel: HIC
-iso2Code: LU
-latitude: 49.61
-lendingtype: LNX
-longitude: 6.1296
-name: Luxembourg
-region: ECS

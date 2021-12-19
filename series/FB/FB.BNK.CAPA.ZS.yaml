@@ -1,3 +1,20 @@
+id: FB.BNK.CAPA.ZS
+name: Bank capital to assets ratio (%)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, Financial Soundness Indicators.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+description: Bank capital to assets is the ratio of bank capital and reserves to total assets. Capital
+  and reserves include funds contributed by owners, retained earnings, general and special reserves, provisions,
+  and valuation adjustments. Capital includes tier 1 capital (paid-up shares and common stock), which
+  is a common feature in all countries' banking systems, and total regulatory capital, which includes
+  several specified types of subordinated debt instruments that need not be repaid if the funds are required
+  to maintain minimum capital levels (these comprise tier 2 and tier 3 capital). Total assets include
+  all nonfinancial and financial assets.
 Developmentrelevance: The size and mobility of international capital flows make it increasingly important
   to monitor the strength of financial systems. Robust financial systems can increase economic activity
   and welfare, but instability can disrupt financial activity and impose widespread costs on the economy.
@@ -25,20 +42,3 @@ Statisticalconceptandmethodology: 'The ratio of capital to total assets, without
   Indicators (FSI) Compilation Guide. For country specific metadata, including reporting period, please
   refer to the GFSR FSI Tables and the Data and Metadata Tables available through FSIs website: http://data.imf.org/.'
 Topic: 'Financial Sector: Assets'
-description: Bank capital to assets is the ratio of bank capital and reserves to total assets. Capital
-  and reserves include funds contributed by owners, retained earnings, general and special reserves, provisions,
-  and valuation adjustments. Capital includes tier 1 capital (paid-up shares and common stock), which
-  is a common feature in all countries' banking systems, and total regulatory capital, which includes
-  several specified types of subordinated debt instruments that need not be repaid if the funds are required
-  to maintain minimum capital levels (these comprise tier 2 and tier 3 capital). Total assets include
-  all nonfinancial and financial assets.
-id: FB.BNK.CAPA.ZS
-name: Bank capital to assets ratio (%)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Monetary Fund, Financial Soundness Indicators.
-topics:
-- id: '7'
-  value: 'Financial Sector '
-unit: ''

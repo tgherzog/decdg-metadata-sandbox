@@ -1,3 +1,13 @@
+id: LIE
+iso2Code: LI
+name: Liechtenstein
+region: ECS
+adminregion: ''
+capitalCity: Vaduz
+longitude: 9.52148
+latitude: 47.1411
+incomelevel: HIC
+lendingtype: LNX
 CurrencyUnit: Swiss franc
 IncomeGroup: High income
 Latestpopulationcensus: 2020 (expected). Population figures compiled from administrative registers in
@@ -9,13 +19,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Vaduz
-id: LIE
-incomelevel: HIC
-iso2Code: LI
-latitude: 47.1411
-lendingtype: LNX
-longitude: 9.52148
-name: Liechtenstein
-region: ECS

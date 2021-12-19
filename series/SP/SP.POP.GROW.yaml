@@ -1,3 +1,22 @@
+id: SP.POP.GROW
+name: Population growth (annual %)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'Derived from total population. Population source: (1) United Nations Population Division.
+  World Population Prospects: 2019 Revision, (2) Census reports and other statistical publications from
+  national statistical offices, (3) Eurostat: Demographic Statistics, (4) United Nations Statistical Division.
+  Population and Vital Statistics Reprot (various years), (5) U.S. Census Bureau: International Database,
+  and (6) Secretariat of the Pacific Community: Statistics and Demography Programme.'
+topics:
+- id: '19'
+  value: Climate Change
+- id: '8'
+  value: 'Health '
+description: Annual population growth rate for year t is the exponential rate of growth of midyear population
+  from year t-1 to t, expressed as a percentage . Population is based on the de facto definition of population,
+  which counts all residents regardless of legal status or citizenship.
 Aggregationmethod: Weighted average
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
@@ -9,17 +28,22 @@ Source: 'Derived from total population. Population source: (1) United Nations Po
   statistical offices, (3) Eurostat: Demographic Statistics, (4) United Nations Statistical Division.
   Population and Vital Statistics Reprot (various years), (5) U.S. Census Bureau: International Database,
   and (6) Secretariat of the Pacific Community: Statistics and Demography Programme.'
-Statisticalconceptandmethodology: "Total population growth rates are calculated on the assumption that\
-  \ rate of growth is constant between two points in time. The growth rate is computed using the exponential\
-  \ growth formula:\n\nr = ln(pn/p0)/n, \n\nwhere r is the exponential rate of growth, ln() is the natural\
-  \ logarithm, pn is the end period population, p0 is the beginning period population, and n is the number\
-  \ of years in between. Note that this is not the geometric growth rate used to compute compound growth\
-  \ over discrete periods.\n\nFor information on total population from which the growth rates are calculated,\
-  \ see total population (SP.POP.TOTL)."
+Statisticalconceptandmethodology: 'Total population growth rates are calculated on the assumption that
+  rate of growth is constant between two points in time. The growth rate is computed using the exponential
+  growth formula:
+
+
+  r = ln(pn/p0)/n, 
+
+
+  where r is the exponential rate of growth, ln() is the natural logarithm, pn is the end period population,
+  p0 is the beginning period population, and n is the number of years in between. Note that this is not
+  the geometric growth rate used to compute compound growth over discrete periods.
+
+
+  For information on total population from which the growth rates are calculated, see total population
+  (SP.POP.TOTL).'
 Topic: 'Health: Population: Dynamics'
-description: Annual population growth rate for year t is the exponential rate of growth of midyear population
-  from year t-1 to t, expressed as a percentage . Population is based on the de facto definition of population,
-  which counts all residents regardless of legal status or citizenship.
 economies:
   ABW: 'Data source: United Nations World Population Prospects'
   AFG: 'Data source: United Nations World Population Prospects'
@@ -86,8 +110,8 @@ economies:
   ETH: 'Data source: United Nations World Population Prospects'
   FIN: 'Data source: Eurostat, Statistics Finland'
   FJI: 'Data source: United Nations World Population Prospects'
-  FRA: "Data source: Eurostat, United Nations World Population Prospects. Including the French overseas\
-    \ departments of French Guiana, Guadeloupe, Martinique, Mayotte, and R\xE9union."
+  FRA: "Data source: Eurostat, United Nations World Population Prospects. Including the French overseas
+     departments of French Guiana, Guadeloupe, Martinique, Mayotte, and R\xE9union."
   FRO: 'Data source: United Nations World Population Prospects'
   FSM: 'Data source: United Nations World Population Prospects'
   GAB: 'Data source: United Nations World Population Prospects'
@@ -148,12 +172,12 @@ economies:
   MAR: 'Data source: United Nations World Population Prospects'
   MCO: 'Data source: United Nations World Population Prospects'
   MDA: 'Data source: National Bureau of Statistics. Excluding Transnistria. For 1950-94, World Bank estimates
-    using UN World Population Prospects 2010 Revision''s growth rates of whole Moldova.'
+    using UN World Population Prospects'' growth rates of whole Moldova.'
   MDG: 'Data source: United Nations World Population Prospects'
   MDV: 'Data source: United Nations World Population Prospects'
   MEX: 'Data source: United Nations World Population Prospects'
   MHL: 'Data source: United Nations World Population Prospects'
-  MKD: 'Data source: United Nations World Population Prospects'
+  MKD: 'Data source: State Statistical Office, United Nations World Population Prospects'
   MLI: 'Data source: United Nations World Population Prospects'
   MLT: 'Data source: Eurostat'
   MMR: 'Data source: United Nations World Population Prospects'
@@ -254,19 +278,3 @@ economies:
   ZAF: 'Data source: United Nations World Population Prospects'
   ZMB: 'Data source: United Nations World Population Prospects'
   ZWE: 'Data source: United Nations World Population Prospects'
-id: SP.POP.GROW
-name: Population growth (annual %)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: 'Derived from total population. Population source: (1) United Nations Population Division.
-  World Population Prospects: 2019 Revision, (2) Census reports and other statistical publications from
-  national statistical offices, (3) Eurostat: Demographic Statistics, (4) United Nations Statistical Division.
-  Population and Vital Statistics Reprot (various years), (5) U.S. Census Bureau: International Database,
-  and (6) Secretariat of the Pacific Community: Statistics and Demography Programme.'
-topics:
-- id: '19'
-  value: Climate Change
-- id: '8'
-  value: 'Health '
-unit: ''

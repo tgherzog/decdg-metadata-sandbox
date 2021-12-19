@@ -1,3 +1,16 @@
+id: SH.DYN.AIDS.ZS
+name: Prevalence of HIV, total (% of population ages 15-49)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNAIDS estimates.
+topics:
+- id: '8'
+  value: 'Health '
+- id: '2'
+  value: 'Aid Effectiveness '
+description: Prevalence of HIV refers to the percentage of people ages 15-49 who are infected with HIV.
 Aggregationmethod: Weighted average
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
@@ -24,16 +37,3 @@ Statisticalconceptandmethodology: 'HIV prevalence rates reflect the rate of HIV 
   longer) and allow for changes in urbanization over time in generalized epidemics. The estimates include
   plausibility bounds, which reflect the certainty associated with each of the estimates.'
 Topic: 'Health: Risk factors'
-description: Prevalence of HIV refers to the percentage of people ages 15-49 who are infected with HIV.
-id: SH.DYN.AIDS.ZS
-name: Prevalence of HIV, total (% of population ages 15-49)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: UNAIDS estimates.
-topics:
-- id: '8'
-  value: 'Health '
-- id: '2'
-  value: 'Aid Effectiveness '
-unit: ''

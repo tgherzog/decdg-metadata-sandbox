@@ -1,13 +1,13 @@
+id: EMU
+iso2Code: XC
+name: Euro area
+region: NA
+adminregion: ''
+capitalCity: ''
+longitude: ''
+latitude: ''
+incomelevel: NA
+lendingtype: ''
 IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
 LongName: Euro area
 SpecialNotes: Euro area aggregate.
-adminregion: ''
-capitalCity: ''
-id: EMU
-incomelevel: NA
-iso2Code: XC
-latitude: ''
-lendingtype: ''
-longitude: ''
-name: Euro area
-region: NA

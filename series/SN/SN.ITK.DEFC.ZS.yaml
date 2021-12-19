@@ -1,3 +1,16 @@
+id: SN.ITK.DEFC.ZS
+name: Prevalence of undernourishment (% of population)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Food and Agriculture Organization (http://www.fao.org/faostat/en/#home).
+topics:
+- id: '8'
+  value: 'Health '
+description: Prevalence of undernourishments is the percentage of the population whose habitual food consumption
+  is insufficient to provide the dietary energy levels that are required to maintain a normal active and
+  healthy life. Data showing as 2.5 may signify a prevalence of undernourishment below 2.5%.
 Aggregationmethod: Weighted average
 Developmentrelevance: Good nutrition is the cornerstone for survival, health and development. Well-nourished
   children perform better in school, grow into healthy adults and in turn give their children a better
@@ -14,23 +27,9 @@ Limitationsandexceptions: From a policy and program standpoint, this measure has
   security but also by the quality of care of mothers and children and the quality of the household's
   health environment (Smith and Haddad 2000).
 Periodicity: Annual
-Source: Food and Agriculture Organization (http://www.fao.org/publications/en/).
+Source: Food and Agriculture Organization (http://www.fao.org/faostat/en/#home).
 Statisticalconceptandmethodology: Data on undernourishment are from the Food and Agriculture Organization
   (FAO) of the United Nations and measure food deprivation based on average food available for human consumption
   per person, the level of inequality in access to food, and the minimum calories required for an average
   person.
 Topic: 'Health: Nutrition'
-description: Population below minimum level of dietary energy consumption (also referred to as prevalence
-  of undernourishment) shows the percentage of the population whose food intake is insufficient to meet
-  dietary energy requirements continuously. Data showing as 5 may signify a prevalence of undernourishment
-  below 5%.
-id: SN.ITK.DEFC.ZS
-name: Prevalence of undernourishment (% of population)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Food and Agriculture Organization (http://www.fao.org/publications/en/).
-topics:
-- id: '8'
-  value: 'Health '
-unit: ''

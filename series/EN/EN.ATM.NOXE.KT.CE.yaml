@@ -1,3 +1,21 @@
+id: EN.ATM.NOXE.KT.CE
+name: Total nitrous oxide emissions (thousand metric tons of CO2 equivalent excluding Land-Use Change
+  and Forestry)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: "Data for up to 1990 are sourced from Carbon Dioxide Information Analysis Center,
+   Environmental Sciences Division, Oak Ridge National Laboratory, Tennessee, United States. Data from
+   1990 are CAIT data: Climate Watch. 2020. GHG Emissions. Washington, DC: World Resources Institute.
+   Available at:\_https://www.climatewatchdata.org/ghg-emissions."
+topics:
+- id: '19'
+  value: Climate Change
+- id: '6'
+  value: 'Environment '
+description: Nitrous oxide emissions are emissions from agricultural biomass burning, industrial activities,
+  and livestock management.
 Aggregationmethod: Sum
 Developmentrelevance: 'The addition of man-made greenhouse gases to the Atmosphere disturbs the earth''s
   radiative balance. This is leading to an increase in the earth''s surface temperature and to related
@@ -21,8 +39,8 @@ Developmentrelevance: 'The addition of man-made greenhouse gases to the Atmosphe
   them and to determine their individual and total contributions to global warming. The Kyoto Protocol,
   an environmental agreement adopted in 1997 by many of the parties to the United Nations Framework Convention
   on Climate Change (UNFCCC), is working towards curbing CO2 emissions globally.'
-License_Type: CC BY-4.0
-License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+License_Type: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+License_URL: https://creativecommons.org/licenses/by-nc/4.0/
 Limitationsandexceptions: National reporting to the United Nations Framework Convention on Climate Change
   that follows the Intergovernmental Panel on Climate Change guidelines is based on national emission
   inventories and covers all sources of anthropogenic carbon dioxide emissions as well as carbon sinks
@@ -30,8 +48,10 @@ Limitationsandexceptions: National reporting to the United Nations Framework Con
   (UNFCCC) use complex, state-of-the-art methodologies recommended by the Intergovernmental Panel on Climate
   Change (IPCC).
 Periodicity: Annual
-Source: "CAIT data: Climate Watch. 2020. GHG Emissions. Washington, DC: World Resources Institute. Available\
-  \ at:\_https://www.climatewatchdata.org/ghg-emissions."
+Source: "Data for up to 1990 are sourced from Carbon Dioxide Information Analysis Center, Environmental
+   Sciences Division, Oak Ridge National Laboratory, Tennessee, United States. Data from 1990 are CAIT
+   data: Climate Watch. 2020. GHG Emissions. Washington, DC: World Resources Institute. Available at:\_\
+  https://www.climatewatchdata.org/ghg-emissions."
 Statisticalconceptandmethodology: Nitrous oxide emissions are mainly from fossil fuel combustion, fertilizers,
   rainforest fires, and animal waste. Nitrous oxide is a powerful greenhouse gas, with an estimated atmospheric
   lifetime of 114 years, compared with 12 years for methane. The per kilogram global warming potential
@@ -39,19 +59,3 @@ Statisticalconceptandmethodology: Nitrous oxide emissions are mainly from fossil
   expressed in carbon dioxide equivalents using the global warming potential, which allows the effective
   contributions of different gases to be compared.
 Topic: 'Environment: Emissions'
-description: Nitrous oxide emissions are emissions from agricultural biomass burning, industrial activities,
-  and livestock management.
-id: EN.ATM.NOXE.KT.CE
-name: Total nitrous oxide emissions (thousand metric tons of CO2 equivalent excluding Land-Use Change
-  and Forestry)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: "CAIT data: Climate Watch. 2020. GHG Emissions. Washington, DC: World Resources Institute.\
-  \ Available at:\_https://www.climatewatchdata.org/ghg-emissions."
-topics:
-- id: '19'
-  value: Climate Change
-- id: '6'
-  value: 'Environment '
-unit: ''

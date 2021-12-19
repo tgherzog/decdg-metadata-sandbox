@@ -1,3 +1,13 @@
+id: MYS
+iso2Code: MY
+name: Malaysia
+region: EAS
+adminregion: EAP
+capitalCity: Kuala Lumpur
+longitude: 101.684
+latitude: 3.12433
+incomelevel: UMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Malaysian ringgit
 GovernmentAccountingconcept: Budgetary central government
@@ -9,23 +19,12 @@ Latesthouseholdsurvey: World Health Survey, 2003
 Latestindustrialdata: '2012'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2005'
 LongName: Malaysia
 Nationalaccountsbaseyear: '2015'
 PPPsurveyyear: 2017, 2011
 Region: East Asia & Pacific
-SNApricevaluation: Value added at producer prices (VAP)
+SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Income survey (IS), 2015
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: EAP
-capitalCity: Kuala Lumpur
-id: MYS
-incomelevel: UMC
-iso2Code: MY
-latitude: 3.12433
-lendingtype: IBD
-longitude: 101.684
-name: Malaysia
-region: EAS

@@ -1,3 +1,17 @@
+id: AG.LND.CROP.ZS
+name: Permanent cropland (% of land area)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Food and Agriculture Organization, electronic files and web site.
+topics:
+- id: '1'
+  value: 'Agriculture & Rural Development  '
+description: Permanent cropland is land cultivated with crops that occupy the land for long periods and
+  need not be replanted after each harvest, such as cocoa, coffee, and rubber. This category includes
+  land under flowering shrubs, fruit trees, nut trees, and vines, but excludes land under trees grown
+  for wood or timber.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Agricultural land covers more than one-third of the world''s land area. Agricultural
   land constitutes only a part of any country''s total area, which can include areas not suitable for
@@ -68,17 +82,3 @@ Statisticalconceptandmethodology: The data on Permanent cropland and land area a
   sources cover official country data from websites of national ministries, national publications and
   related country data reported by various international organizations.
 Topic: 'Environment: Land use'
-description: Permanent cropland is land cultivated with crops that occupy the land for long periods and
-  need not be replanted after each harvest, such as cocoa, coffee, and rubber. This category includes
-  land under flowering shrubs, fruit trees, nut trees, and vines, but excludes land under trees grown
-  for wood or timber.
-id: AG.LND.CROP.ZS
-name: Permanent cropland (% of land area)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Food and Agriculture Organization, electronic files and web site.
-topics:
-- id: '1'
-  value: 'Agriculture & Rural Development  '
-unit: ''

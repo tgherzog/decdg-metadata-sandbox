@@ -1,3 +1,13 @@
+id: BLR
+iso2Code: BY
+name: Belarus
+region: ECS
+adminregion: ECA
+capitalCity: Minsk
+longitude: 27.5766
+latitude: 53.9678
+incomelevel: UMC
+lendingtype: IBD
 Alternativeconversionfactor: "1990\u201395"
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Belarusian rubel
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019
 Latestindustrialdata: '2014'
 Latestpopulationcensus: '2019'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2013'
 LongName: Republic of Belarus
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2014'
@@ -17,18 +26,8 @@ PPPsurveyyear: 2017, 2014, 2011
 Region: Europe & Central Asia
 SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2017
-SpecialNotes: "Data before 2015\_were adjusted to reflect the\_new denomination effective from July 1,\
-  \ 2016 (BYN), a decrease of 10,000 times (1 BYN = 10,000 BYR)"
+SpecialNotes: "Data before 2015\_were adjusted to reflect the\_new denomination effective from July 1,
+   2016 (BYN), a decrease of 10,000 times (1 BYN = 10,000 BYR)"
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ECA
-capitalCity: Minsk
-id: BLR
-incomelevel: UMC
-iso2Code: BY
-latitude: 53.9678
-lendingtype: IBD
-longitude: 27.5766
-name: Belarus
-region: ECS

@@ -1,3 +1,26 @@
+id: DT.ODA.ODAT.PC.ZS
+name: Net ODA received per capita (current US$)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'Development Assistance Committee of the Organisation for Economic Co-operation and
+  Development, Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation
+  Report, and International Development Statistics database. Data are available online at: www.oecd.org/dac/stats/idsonline.
+  World Bank population estimates are used for the denominator.'
+topics:
+- id: '2'
+  value: 'Aid Effectiveness '
+- id: '3'
+  value: Economy & Growth
+- id: '20'
+  value: External Debt
+description: Net official development assistance (ODA) per capita consists of disbursements of loans made
+  on concessional terms (net of repayments of principal) and grants by official agencies of the members
+  of the Development Assistance Committee (DAC), by multilateral institutions, and by non-DAC countries
+  to promote economic development and welfare in countries and territories in the DAC list of ODA recipients;
+  and is calculated by dividing net ODA received by the midyear population estimate. It includes loans
+  with a grant element of at least 25 percent (calculated at a rate of discount of 10 percent).
 Aggregationmethod: Weighted average
 Developmentrelevance: 'The ratio of aid per capita provides a measure of recipient country''s dependency
   on aid. DAC exists to help its members coordinate their development assistance and to encourage the
@@ -91,26 +114,3 @@ Statisticalconceptandmethodology: 'Net official development assistance (ODA) per
   The official development assistance (ODA) estimates are published annually at the end of the calendar
   year in International Development Statistics (IDS) database.'
 Topic: 'Economic Policy & Debt: Official development assistance'
-description: Net official development assistance (ODA) per capita consists of disbursements of loans made
-  on concessional terms (net of repayments of principal) and grants by official agencies of the members
-  of the Development Assistance Committee (DAC), by multilateral institutions, and by non-DAC countries
-  to promote economic development and welfare in countries and territories in the DAC list of ODA recipients;
-  and is calculated by dividing net ODA received by the midyear population estimate. It includes loans
-  with a grant element of at least 25 percent (calculated at a rate of discount of 10 percent).
-id: DT.ODA.ODAT.PC.ZS
-name: Net ODA received per capita (current US$)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: 'Development Assistance Committee of the Organisation for Economic Co-operation and
-  Development, Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation
-  Report, and International Development Statistics database. Data are available online at: www.oecd.org/dac/stats/idsonline.
-  World Bank population estimates are used for the denominator.'
-topics:
-- id: '2'
-  value: 'Aid Effectiveness '
-- id: '3'
-  value: Economy & Growth
-- id: '20'
-  value: External Debt
-unit: ''

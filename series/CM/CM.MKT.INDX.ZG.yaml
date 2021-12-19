@@ -1,28 +1,40 @@
-Developmentrelevance: "Stock market size can be measured in various ways, and each may produce a different\
-  \ ranking of countries.\n\nThe development of an economy's financial markets is closely related to its\
-  \ overall development. Well-functioning financial systems provide good and easily accessible information.\
-  \ That lowers transaction costs, which in turn improves resource allocation and boosts economic growth.\
-  \ Both banking systems and stock markets enhance growth, the main factor in poverty reduction. At low\
-  \ levels of economic development commercial banks tend to dominate the financial system, while at higher\
-  \ levels domestic stock markets tend to become more active and efficient relative to domestic banks.\n\
-  \nOpen economies with sound macroeconomic policies, good legal systems, and shareholder protection attract\
-  \ capital and therefore have larger financial markets. Recent research on stock market development shows\
-  \ that modern communications technology and increased financial integration have resulted in more cross-border\
-  \ capital flows, a stronger presence of financial firms around the world, and the migration of stock\
-  \ exchange activities to international exchanges. Many firms in emerging markets now cross-list on international\
-  \ exchanges, which provides them with lower cost capital and more liquidity-traded shares. However,\
-  \ this also means that exchanges in emerging markets may not have enough financial activity to sustain\
-  \ them, putting pressure on them to rethink their operations.\n\nThe S&P Global Equity Index Series\
-  \ covers approximately 11,000 securities from over 80 countries. It includes the S&P Global Broad Market\
-  \ Index (BMI), S&P Global 1200, S&P/IFCI, and S&P Frontier BMI. All indices are float-adjusted, market\
-  \ capitalization-weighted indices and include security classifications for country, size, style and\
-  \ industry.\n\nThe S&P Global Broad Market Index (BMI) is a global index suite with a transparent, modular\
-  \ structure that has been fully float adjusted since 1989. This index series employs a transparent and\
-  \ consistent methodology across all countries and includes approximately 10,000 stocks from 26 developed\
-  \ and 20 emerging markets.\n\nThe S&P Global 1200, a real-time, tradable global equity index covers\
-  \ approximately 70 percent of the world's market capitalization, giving a detail view of the world economy.\
-  \ It is a composite of seven headline regional indices: S&P 500\xAE, S&P Europe 350, S&P TOPIX 150,\
-  \ S&P/TSX 60, S&P/ASX All Australian 50, S&P Asia 50 and S&P Latin America 40."
+id: CM.MKT.INDX.ZG
+name: S&P Global Equity Indices (annual % change)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Standard & Poor's, Global Stock Markets Factbook and supplemental S&P data.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+description: S&P Global Equity Indices measure the U.S. dollar price change in the stock markets covered
+  by the S&P/IFCI and S&P/Frontier BMI country indices.
+Developmentrelevance: "Stock market size can be measured in various ways, and each may produce a different
+   ranking of countries.\n\nThe development of an economy's financial markets is closely related to its
+   overall development. Well-functioning financial systems provide good and easily accessible information.
+   That lowers transaction costs, which in turn improves resource allocation and boosts economic growth.
+   Both banking systems and stock markets enhance growth, the main factor in poverty reduction. At low
+   levels of economic development commercial banks tend to dominate the financial system, while at higher
+   levels domestic stock markets tend to become more active and efficient relative to domestic banks.\n\
+  \nOpen economies with sound macroeconomic policies, good legal systems, and shareholder protection attract
+   capital and therefore have larger financial markets. Recent research on stock market development shows
+   that modern communications technology and increased financial integration have resulted in more cross-border
+   capital flows, a stronger presence of financial firms around the world, and the migration of stock
+   exchange activities to international exchanges. Many firms in emerging markets now cross-list on international
+   exchanges, which provides them with lower cost capital and more liquidity-traded shares. However, this
+   also means that exchanges in emerging markets may not have enough financial activity to sustain them,
+   putting pressure on them to rethink their operations.\n\nThe S&P Global Equity Index Series covers
+   approximately 11,000 securities from over 80 countries. It includes the S&P Global Broad Market Index
+   (BMI), S&P Global 1200, S&P/IFCI, and S&P Frontier BMI. All indices are float-adjusted, market capitalization-weighted
+   indices and include security classifications for country, size, style and industry.\n\nThe S&P Global
+   Broad Market Index (BMI) is a global index suite with a transparent, modular structure that has been
+   fully float adjusted since 1989. This index series employs a transparent and consistent methodology
+   across all countries and includes approximately 10,000 stocks from 26 developed and 20 emerging markets.\n\
+  \nThe S&P Global 1200, a real-time, tradable global equity index covers approximately 70 percent of
+   the world's market capitalization, giving a detail view of the world economy. It is a composite of
+   seven headline regional indices: S&P 500\xAE, S&P Europe 350, S&P TOPIX 150, S&P/TSX 60, S&P/ASX All
+   Australian 50, S&P Asia 50 and S&P Latin America 40."
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
 Limitationsandexceptions: 'The percentage change in stock market prices in U.S. dollars for developing
@@ -47,15 +59,3 @@ Statisticalconceptandmethodology: Ratios of end-of-period levels in U.S. dollars
   values in U.S. dollars times 100. These indexes are widely used benchmarks for international portfolio
   management.
 Topic: 'Financial Sector: Capital markets'
-description: S&P Global Equity Indices measure the U.S. dollar price change in the stock markets covered
-  by the S&P/IFCI and S&P/Frontier BMI country indices.
-id: CM.MKT.INDX.ZG
-name: S&P Global Equity Indices (annual % change)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Standard & Poor's, Global Stock Markets Factbook and supplemental S&P data.
-topics:
-- id: '7'
-  value: 'Financial Sector '
-unit: ''

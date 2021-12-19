@@ -1,21 +1,22 @@
+id: ASM
+iso2Code: AS
+name: American Samoa
+region: EAS
+adminregion: EAP
+capitalCity: Pago Pago
+longitude: -170.691
+latitude: -14.2846
+incomelevel: UMC
+lendingtype: LNX
 CurrencyUnit: U.S. dollar
 IncomeGroup: Upper middle income
 Latestagriculturalcensus: '2008'
 Latestpopulationcensus: 2020 (expected)
 LongName: American Samoa
-Nationalaccountsbaseyear: '2012'
+Nationalaccountsbaseyear: Original chained constant price data are rescaled.
+Nationalaccountsreferenceyear: '2012'
 PPPsurveyyear: 2011 (Only for individual consumption expenditure by households)
 Region: East Asia & Pacific
 SNApricevaluation: Value added at basic prices (VAB)
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Vitalregistrationcomplete: 'Yes'
-adminregion: EAP
-capitalCity: Pago Pago
-id: ASM
-incomelevel: UMC
-iso2Code: AS
-latitude: -14.2846
-lendingtype: LNX
-longitude: -170.691
-name: American Samoa
-region: EAS

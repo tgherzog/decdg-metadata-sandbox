@@ -1,3 +1,23 @@
+id: EN.ATM.GHGT.KT.CE
+name: Total greenhouse gas emissions (thousand metric tons of CO2 equivalent excluding Land-Use Change
+  and Forestry)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: "Data for up to 1990 are sourced from Carbon Dioxide Information Analysis Center,
+   Environmental Sciences Division, Oak Ridge National Laboratory, Tennessee, United States. Data from
+   1990 are CAIT data: Climate Watch. 2020. GHG Emissions. Washington, DC: World Resources Institute.
+   Available at:\_https://www.climatewatchdata.org/ghg-emissions."
+topics:
+- id: '19'
+  value: Climate Change
+- id: '6'
+  value: 'Environment '
+description: Total greenhouse gas emissions in kt of CO2 equivalent are composed of CO2 totals excluding
+  short-cycle biomass burning (such as agricultural waste burning and savanna burning) but including other
+  biomass burning (such as forest fires, post-burn decay, peat fires and decay of drained peatlands),
+  all anthropogenic CH4 sources, N2O sources and F-gases (HFCs, PFCs and SF6).
 Aggregationmethod: Sum
 Developmentrelevance: 'The addition of man-made greenhouse gases to the Atmosphere disturbs the earth''s
   radiative balance. This is leading to an increase in the earth''s surface temperature and to related
@@ -21,8 +41,8 @@ Developmentrelevance: 'The addition of man-made greenhouse gases to the Atmosphe
   them and to determine their individual and total contributions to global warming. The Kyoto Protocol,
   an environmental agreement adopted in 1997 by many of the parties to the United Nations Framework Convention
   on Climate Change (UNFCCC), is working towards curbing CO2 emissions globally.'
-License_Type: CC BY-4.0
-License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+License_Type: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+License_URL: https://creativecommons.org/licenses/by-nc/4.0/
 Limitationsandexceptions: National reporting to the United Nations Framework Convention on Climate Change
   that follows the Intergovernmental Panel on Climate Change guidelines is based on national emission
   inventories and covers all sources of anthropogenic carbon dioxide emissions as well as carbon sinks
@@ -30,8 +50,10 @@ Limitationsandexceptions: National reporting to the United Nations Framework Con
   (UNFCCC) use complex, state-of-the-art methodologies recommended by the Intergovernmental Panel on Climate
   Change (IPCC).
 Periodicity: Annual
-Source: "CAIT data: Climate Watch. 2020. GHG Emissions. Washington, DC: World Resources Institute. Available\
-  \ at:\_https://www.climatewatchdata.org/ghg-emissions."
+Source: "Data for up to 1990 are sourced from Carbon Dioxide Information Analysis Center, Environmental
+   Sciences Division, Oak Ridge National Laboratory, Tennessee, United States. Data from 1990 are CAIT
+   data: Climate Watch. 2020. GHG Emissions. Washington, DC: World Resources Institute. Available at:\_\
+  https://www.climatewatchdata.org/ghg-emissions."
 Statisticalconceptandmethodology: The GHG totals are expressed in CO2 equivalent using the GWP100 metric
   of the Second Assessment Report of IPCC and include CO2 (GWP100=1), CH4 (GWP100=21), N2O (GWP100=310)
   and F-gases (c-C4F8 GWP=8700, C2F6 GWP=9200, C3F8 GWP=7000, C4F10 GWP=7000, C5F12 GWP=7500, C6F14 GWP=7400,
@@ -39,21 +61,3 @@ Statisticalconceptandmethodology: The GHG totals are expressed in CO2 equivalent
   HFC-227ea GWP=2900, HFC-23 GWP=11700, HFC-236fa GWP=6300, HFC-245fa GWP=858, HFC-32 GWP=650, HFC-365mfc
   GWP=804, HFC-43-10-mee GWP=1300, SF6 GWP=23900).
 Topic: 'Environment: Emissions'
-description: Total greenhouse gas emissions in kt of CO2 equivalent are composed of CO2 totals excluding
-  short-cycle biomass burning (such as agricultural waste burning and savanna burning) but including other
-  biomass burning (such as forest fires, post-burn decay, peat fires and decay of drained peatlands),
-  all anthropogenic CH4 sources, N2O sources and F-gases (HFCs, PFCs and SF6).
-id: EN.ATM.GHGT.KT.CE
-name: Total greenhouse gas emissions (thousand metric tons of CO2 equivalent excluding Land-Use Change
-  and Forestry)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: "CAIT data: Climate Watch. 2020. GHG Emissions. Washington, DC: World Resources Institute.\
-  \ Available at:\_https://www.climatewatchdata.org/ghg-emissions."
-topics:
-- id: '19'
-  value: Climate Change
-- id: '6'
-  value: 'Environment '
-unit: ''

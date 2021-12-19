@@ -1,3 +1,18 @@
+id: DT.DOD.DPPG.CD
+name: External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, International Debt Statistics.
+topics:
+- id: '20'
+  value: External Debt
+description: Public and publicly guaranteed debt comprises long-term external obligations of public debtors,
+  including the national government,  Public Corporations, State Owned Enterprises, Development Banks
+  and Other Mixed Enterprises, political subdivisions (or an agency of either), autonomous public bodies,
+  and external obligations of private debtors that are guaranteed for repayment by a public entity. Data
+  are in current U.S. dollars.
 Aggregationmethod: Sum
 Dataset: International Debt Statistics
 Developmentrelevance: 'External indebtedness affects a country''s creditworthiness and investor perceptions.
@@ -34,20 +49,5 @@ Statisticalconceptandmethodology: Data on external debt are gathered through the
   Debt repayable in multiple currencies, goods, or services and debt with a provision for maintenance
   of the value of the currency of repayment are shown at book value.
 Topic: 'Economic Policy & Debt: External debt: Debt outstanding'
-description: Public and publicly guaranteed debt comprises long-term external obligations of public debtors,
-  including the national government,  Public Corporations, State Owned Enterprises, Development Banks
-  and Other Mixed Enterprises, political subdivisions (or an agency of either), autonomous public bodies,
-  and external obligations of private debtors that are guaranteed for repayment by a public entity. Data
-  are in current U.S. dollars.
 economies:
   BIH: Prior to 1999 data on long-term public and publicly guaranteed debt include only IBRD and IMF loans.
-id: DT.DOD.DPPG.CD
-name: External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank, International Debt Statistics.
-topics:
-- id: '20'
-  value: External Debt
-unit: ''

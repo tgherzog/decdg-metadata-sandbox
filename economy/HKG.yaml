@@ -1,3 +1,13 @@
+id: HKG
+iso2Code: HK
+name: Hong Kong SAR, China
+region: EAS
+adminregion: ''
+capitalCity: ''
+longitude: 114.109
+latitude: 22.3964
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Hong Kong dollar
 IMFdatadisseminationstandard: Special Data Dissemination Standard (SDDS)
@@ -18,13 +28,3 @@ SpecialNotes: On 1 July 1997 China resumed its exercise of sovereignty over Hong
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: ''
-id: HKG
-incomelevel: HIC
-iso2Code: HK
-latitude: 22.3964
-lendingtype: LNX
-longitude: 114.109
-name: Hong Kong SAR, China
-region: EAS

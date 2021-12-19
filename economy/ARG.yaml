@@ -1,3 +1,13 @@
+id: ARG
+iso2Code: AR
+name: Argentina
+region: LCN
+adminregion: LAC
+capitalCity: Buenos Aires
+longitude: -58.4173
+latitude: -34.6118
+incomelevel: UMC
+lendingtype: IBD
 Alternativeconversionfactor: "1971\u201384; 2012-15"
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Argentine peso
@@ -10,7 +20,6 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019/20
 Latestindustrialdata: '2002'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2011'
 LongName: Argentine Republic
 Nationalaccountsbaseyear: '2004'
 PPPsurveyyear: '2017'
@@ -20,13 +29,3 @@ SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: LAC
-capitalCity: Buenos Aires
-id: ARG
-incomelevel: UMC
-iso2Code: AR
-latitude: -34.6118
-lendingtype: IBD
-longitude: -58.4173
-name: Argentina
-region: LCN

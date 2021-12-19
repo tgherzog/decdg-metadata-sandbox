@@ -1,3 +1,16 @@
+id: EN.FSH.THRD.NO
+name: Fish species, threatened
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Froese, R. and Pauly, D. (eds). 2008. FishBase database, www.fishbase.org.
+topics:
+- id: '6'
+  value: 'Environment '
+description: Fish species are based on Froese, R. and Pauly, D. (eds). 2008. Threatened species are the
+  number of species classified by the IUCN as endangered, vulnerable, rare, indeterminate, out of danger,
+  or insufficiently known.
 Aggregationmethod: Sum
 Developmentrelevance: 'As threats to biodiversity mount, the international community is increasingly focusing
   on conserving diversity. The Red List Index for the world''s birds shows that there has been a steady
@@ -99,16 +112,3 @@ Statisticalconceptandmethodology: 'Species assessed as Critically Endangered (CR
   Additional information on ecology and habitat preferences, threats, and conservation action are also
   collated and assessed as part of Red List process.'
 Topic: 'Environment: Biodiversity & protected areas'
-description: Fish species are based on Froese, R. and Pauly, D. (eds). 2008. Threatened species are the
-  number of species classified by the IUCN as endangered, vulnerable, rare, indeterminate, out of danger,
-  or insufficiently known.
-id: EN.FSH.THRD.NO
-name: Fish species, threatened
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Froese, R. and Pauly, D. (eds). 2008. FishBase database, www.fishbase.org.
-topics:
-- id: '6'
-  value: 'Environment '
-unit: ''

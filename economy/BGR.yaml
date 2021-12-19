@@ -1,3 +1,13 @@
+id: BGR
+iso2Code: BG
+name: Bulgaria
+region: ECS
+adminregion: ECA
+capitalCity: Sofia
+longitude: 23.3238
+latitude: 42.7105
+incomelevel: UMC
+lendingtype: IBD
 Alternativeconversionfactor: "1978\u201389, 1991\u201392"
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Bulgarian lev
@@ -10,7 +20,6 @@ Latesthouseholdsurvey: Multitopic Household Survey 2007
 Latestindustrialdata: '2014'
 Latestpopulationcensus: '2011'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2013'
 LongName: Republic of Bulgaria
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -21,13 +30,3 @@ SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ECA
-capitalCity: Sofia
-id: BGR
-incomelevel: UMC
-iso2Code: BG
-latitude: 42.7105
-lendingtype: IBD
-longitude: 23.3238
-name: Bulgaria
-region: ECS

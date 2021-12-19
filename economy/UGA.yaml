@@ -1,3 +1,13 @@
+id: UGA
+iso2Code: UG
+name: Uganda
+region: SSF
+adminregion: SSA
+capitalCity: Kampala
+longitude: 32.5729
+latitude: 0.314269
+incomelevel: LIC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Ugandan shilling
 ExternaldebtReportingstatus: Actual
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Malaria Indicator Survey, 2018/19; National Panel Survey 
 Latestindustrialdata: '2000'
 Latestpopulationcensus: '2014'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2008'
 LongName: Republic of Uganda
 Nationalaccountsbaseyear: 2016/2017
 Othergroups: HIPC
@@ -20,13 +29,3 @@ SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2
 SpecialNotes: 'Fiscal year end: June 30; reporting period for national accounts data: FY.'
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SSA
-capitalCity: Kampala
-id: UGA
-incomelevel: LIC
-iso2Code: UG
-latitude: 0.314269
-lendingtype: IDX
-longitude: 32.5729
-name: Uganda
-region: SSF

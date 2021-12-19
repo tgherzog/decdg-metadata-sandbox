@@ -1,3 +1,19 @@
+id: TX.VAL.FUEL.ZS.UN
+name: Fuel exports (% of merchandise exports)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank staff estimates through the WITS platform from the Comtrade database maintained
+  by the United Nations Statistics Division.
+topics:
+- id: '5'
+  value: 'Energy & Mining '
+- id: '12'
+  value: Private Sector
+- id: '21'
+  value: Trade
+description: Fuels comprise the commodities in SITC section 3 (mineral fuels, lubricants and related materials).
 Aggregationmethod: Weighted average
 Generalcomments: Merchandise export shares may not sum to 100 percent because of unclassified trade.
 License_Type: CC BY-4.0
@@ -11,19 +27,3 @@ Source: World Bank staff estimates through the WITS platform from the Comtrade d
 Statisticalconceptandmethodology: The classification of commodity groups is based on the Standard International
   Trade Classification (SITC) revision 3.
 Topic: 'Private Sector & Trade: Exports'
-description: Fuels comprise the commodities in SITC section 3 (mineral fuels, lubricants and related materials).
-id: TX.VAL.FUEL.ZS.UN
-name: Fuel exports (% of merchandise exports)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank staff estimates through the WITS platform from the Comtrade database maintained
-  by the United Nations Statistics Division.
-topics:
-- id: '5'
-  value: 'Energy & Mining '
-- id: '12'
-  value: Private Sector
-- id: '21'
-  value: Trade
-unit: ''

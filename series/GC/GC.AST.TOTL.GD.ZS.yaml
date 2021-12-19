@@ -1,3 +1,16 @@
+id: GC.AST.TOTL.GD.ZS
+name: Net acquisition of financial assets (% of GDP)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, Government Finance Statistics Yearbook and data files.
+topics:
+- id: '13'
+  value: 'Public Sector '
+description: Net acquisition of government financial assets includes domestic and foreign financial claims,
+  SDRs, and gold bullion held by monetary authorities as a reserve asset. The net acquisition of financial
+  assets should be offset by the net incurrence of liabilities.
 Aggregationmethod: Weighted average
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
@@ -23,16 +36,3 @@ Statisticalconceptandmethodology: 'The IMF''s Government Finance Statistics Manu
   Government finance statistics are reported in local currency. Many countries report government finance
   data by fiscal year; see country metadata for information on fiscal year end by country.'
 Topic: 'Public Sector: Government finance: Deficit & financing'
-description: Net acquisition of government financial assets includes domestic and foreign financial claims,
-  SDRs, and gold bullion held by monetary authorities as a reserve asset. The net acquisition of financial
-  assets should be offset by the net incurrence of liabilities.
-id: GC.AST.TOTL.GD.ZS
-name: Net acquisition of financial assets (% of GDP)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Monetary Fund, Government Finance Statistics Yearbook and data files.
-topics:
-- id: '13'
-  value: 'Public Sector '
-unit: ''

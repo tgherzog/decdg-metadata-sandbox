@@ -1,3 +1,19 @@
+id: SG.TIM.UWRK.MA
+name: Proportion of time spent on unpaid domestic and care work, male (% of 24 hour day)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: National statistical offices or national database and publications compiled by United
+  Nations Statistics Division
+topics:
+- id: '17'
+  value: Gender
+description: The average time men spend on household provision of services for own consumption.  Data
+  are expressed as a proportion of time in a day. Domestic and care work includes food preparation, dishwashing,
+  cleaning and upkeep of a dwelling, laundry, ironing, gardening, caring for pets, shopping, installation,
+  servicing and repair of personal and household goods, childcare, and care of the sick, elderly or disabled
+  household members, among others.
 Developmentrelevance: Women often spend disproportionately more time on unpaid domestic and care work
   than men.  This unequal division of responsibilities is correlated with gender differences in economic
   opportunities, includign low female labor force participation, occupational sex segregation, and earnings
@@ -16,19 +32,3 @@ Statisticalconceptandmethodology: Proportion of time spent on unpaid domestic an
   presented for this indicator are expressed as a proportion of time in a day. Weekly data is averaged
   over seven days of the week to obtain the daily average time.
 Topic: 'Gender: Participation & access'
-description: The average time men spend on household provision of services for own consumption.  Data
-  are expressed as a proportion of time in a day. Domestic and care work includes food preparation, dishwashing,
-  cleaning and upkeep of a dwelling, laundry, ironing, gardening, caring for pets, shopping, installation,
-  servicing and repair of personal and household goods, childcare, and care of the sick, elderly or disabled
-  household members, among others.
-id: SG.TIM.UWRK.MA
-name: Proportion of time spent on unpaid domestic and care work, male (% of 24 hour day)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: National statistical offices or national database and publications compiled by United
-  Nations Statistics Division
-topics:
-- id: '17'
-  value: Gender
-unit: ''

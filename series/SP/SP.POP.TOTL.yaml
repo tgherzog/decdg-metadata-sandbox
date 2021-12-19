@@ -1,3 +1,21 @@
+id: SP.POP.TOTL
+name: Population, total
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: '(1) United Nations Population Division. World Population Prospects: 2019 Revision.
+  (2) Census reports and other statistical publications from national statistical offices, (3) Eurostat:
+  Demographic Statistics, (4) United Nations Statistical Division. Population and Vital Statistics Reprot
+  (various years), (5) U.S. Census Bureau: International Database, and (6) Secretariat of the Pacific
+  Community: Statistics and Demography Programme.'
+topics:
+- id: '19'
+  value: Climate Change
+- id: '8'
+  value: 'Health '
+description: Total population is based on the de facto definition of population, which counts all residents
+  regardless of legal status or citizenship. The values shown are midyear estimates.
 Aggregationmethod: Sum
 Developmentrelevance: Increases in human population, whether as a result of immigration or more births
   than deaths, can impact natural resources and social infrastructure.  This can place pressure on a country's
@@ -9,16 +27,20 @@ Generalcomments: 'Relevance to gender indicator: disaggregating the population c
   help a country in projecting its demand for social services on a gender basis.'
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
-Limitationsandexceptions: "Current population estimates for developing countries that lack (i) reliable\
-  \ recent census data, and (ii) pre- and post-census estimates for countries with census data, are provided\
-  \ by the United Nations Population Division and other agencies. \n\nThe cohort component method - a\
-  \ standard method for estimating and projecting population - requires fertility, mortality, and net\
-  \ migration data, often collected from sample surveys, which can be small or limited in coverage. Population\
-  \ estimates are from demographic modeling and so are susceptible to biases and errors from shortcomings\
-  \ in both the model and the data. In the UN estimates the five-year age group is the cohort unit and\
-  \ five-year period data are used; therefore interpolations to obtain annual data or single age structure\
-  \ may not reflect actual events or age composition.\n\nBecause future trends cannot be known with certainty,\
-  \ population projections have a wide range of uncertainty."
+Limitationsandexceptions: 'Current population estimates for developing countries that lack (i) reliable
+  recent census data, and (ii) pre- and post-census estimates for countries with census data, are provided
+  by the United Nations Population Division and other agencies. 
+
+
+  The cohort component method - a standard method for estimating and projecting population - requires
+  fertility, mortality, and net migration data, often collected from sample surveys, which can be small
+  or limited in coverage. Population estimates are from demographic modeling and so are susceptible to
+  biases and errors from shortcomings in both the model and the data. In the UN estimates the five-year
+  age group is the cohort unit and five-year period data are used; therefore interpolations to obtain
+  annual data or single age structure may not reflect actual events or age composition.
+
+
+  Because future trends cannot be known with certainty, population projections have a wide range of uncertainty.'
 Periodicity: Annual
 Source: '(1) United Nations Population Division. World Population Prospects: 2019 Revision. (2) Census
   reports and other statistical publications from national statistical offices, (3) Eurostat: Demographic
@@ -64,8 +86,6 @@ Statisticalconceptandmethodology: 'Population estimates are usually based on nat
   fertility, and migration by age and sex through 2050, based on the UN Population Division''s World Population
   Prospects database medium variant.'
 Topic: 'Health: Population: Structure'
-description: Total population is based on the de facto definition of population, which counts all residents
-  regardless of legal status or citizenship. The values shown are midyear estimates.
 economies:
   ABW: 'Data source: United Nations World Population Prospects'
   AFG: 'Data source: United Nations World Population Prospects'
@@ -135,8 +155,8 @@ economies:
   ETH: 'Data source: United Nations World Population Prospects'
   FIN: 'Data source: Eurostat, Statistics Finland'
   FJI: 'Data source: United Nations World Population Prospects'
-  FRA: "Data source: Eurostat, United Nations World Population Prospects. Including the French overseas\
-    \ departments of French Guiana, Guadeloupe, Martinique, Mayotte, and R\xE9union."
+  FRA: "Data source: Eurostat, United Nations World Population Prospects. Including the French overseas
+     departments of French Guiana, Guadeloupe, Martinique, Mayotte, and R\xE9union."
   FRO: 'Data source: United Nations World Population Prospects'
   FSM: 'Data source: United Nations World Population Prospects'
   GAB: 'Data source: United Nations World Population Prospects'
@@ -202,7 +222,7 @@ economies:
   MDV: 'Data source: United Nations World Population Prospects'
   MEX: 'Data source: United Nations World Population Prospects'
   MHL: 'Data source: United Nations World Population Prospects'
-  MKD: 'Data source: United Nations World Population Prospects'
+  MKD: 'Data source: State Statistical Office, United Nations World Population Prospects'
   MLI: 'Data source: United Nations World Population Prospects'
   MLT: 'Data source: Eurostat'
   MMR: 'Data source: United Nations World Population Prospects'
@@ -302,19 +322,3 @@ economies:
   ZAF: 'Data source: United Nations World Population Prospects'
   ZMB: 'Data source: United Nations World Population Prospects'
   ZWE: 'Data source: United Nations World Population Prospects'
-id: SP.POP.TOTL
-name: Population, total
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: '(1) United Nations Population Division. World Population Prospects: 2019 Revision.
-  (2) Census reports and other statistical publications from national statistical offices, (3) Eurostat:
-  Demographic Statistics, (4) United Nations Statistical Division. Population and Vital Statistics Reprot
-  (various years), (5) U.S. Census Bureau: International Database, and (6) Secretariat of the Pacific
-  Community: Statistics and Demography Programme.'
-topics:
-- id: '19'
-  value: Climate Change
-- id: '8'
-  value: 'Health '
-unit: ''

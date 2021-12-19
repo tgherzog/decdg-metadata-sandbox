@@ -1,3 +1,24 @@
+id: FS.AST.PRVT.GD.ZS
+name: Domestic credit to private sector (% of GDP)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, International Financial Statistics and data files, and
+  World Bank and OECD GDP estimates.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+- id: '12'
+  value: Private Sector
+description: Domestic credit to private sector refers to financial resources provided to the private sector
+  by financial corporations, such as through loans, purchases of nonequity securities, and trade credits
+  and other accounts receivable, that establish a claim for repayment. For some countries these claims
+  include credit to public enterprises. The financial corporations include monetary authorities and deposit
+  money banks, as well as other financial corporations where data are available (including corporations
+  that do not accept transferable deposits but do incur such liabilities as time and savings deposits).
+  Examples of other financial corporations are finance and leasing companies, money lenders, insurance
+  corporations, pension funds, and foreign exchange companies.
 Aggregationmethod: Weighted average
 Developmentrelevance: Private sector development and investment - tapping private sector initiative and
   investment for socially useful purposes - are critical for poverty reduction. In parallel with public
@@ -23,24 +44,3 @@ Statisticalconceptandmethodology: Credit is an important link in money transmiss
   other financial corporations are finance and leasing companies, money lenders, insurance corporations,
   pension funds, and foreign exchange companies.
 Topic: 'Financial Sector: Assets'
-description: Domestic credit to private sector refers to financial resources provided to the private sector
-  by financial corporations, such as through loans, purchases of nonequity securities, and trade credits
-  and other accounts receivable, that establish a claim for repayment. For some countries these claims
-  include credit to public enterprises. The financial corporations include monetary authorities and deposit
-  money banks, as well as other financial corporations where data are available (including corporations
-  that do not accept transferable deposits but do incur such liabilities as time and savings deposits).
-  Examples of other financial corporations are finance and leasing companies, money lenders, insurance
-  corporations, pension funds, and foreign exchange companies.
-id: FS.AST.PRVT.GD.ZS
-name: Domestic credit to private sector (% of GDP)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Monetary Fund, International Financial Statistics and data files, and
-  World Bank and OECD GDP estimates.
-topics:
-- id: '7'
-  value: 'Financial Sector '
-- id: '12'
-  value: Private Sector
-unit: ''

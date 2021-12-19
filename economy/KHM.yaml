@@ -1,3 +1,13 @@
+id: KHM
+iso2Code: KH
+name: Cambodia
+region: EAS
+adminregion: EAP
+capitalCity: Phnom Penh
+longitude: 104.874
+latitude: 11.5556
+incomelevel: LMC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Cambodian riel
 ExternaldebtReportingstatus: Actual
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Demographic and Health Survey, 2020
 Latestindustrialdata: '2000'
 Latestpopulationcensus: '2019'
 Latesttradedata: '2016'
-Latestwaterwithdrawaldata: '2006'
 LongName: Kingdom of Cambodia
 Nationalaccountsbaseyear: '2000'
 PPPsurveyyear: 2017, 2011
@@ -18,13 +27,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2012
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: EAP
-capitalCity: Phnom Penh
-id: KHM
-incomelevel: LMC
-iso2Code: KH
-latitude: 11.5556
-lendingtype: IDX
-longitude: 104.874
-name: Cambodia
-region: EAS

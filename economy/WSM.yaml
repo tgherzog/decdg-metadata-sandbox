@@ -1,3 +1,13 @@
+id: WSM
+iso2Code: WS
+name: Samoa
+region: EAS
+adminregion: EAP
+capitalCity: Apia
+longitude: -171.752
+latitude: -13.8314
+incomelevel: LMC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Samoan tala
 ExternaldebtReportingstatus: Actual
@@ -9,7 +19,7 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019/20
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
 LongName: Samoa
-Nationalaccountsbaseyear: '2009'
+Nationalaccountsbaseyear: '2013'
 PPPsurveyyear: 2011 (Only for individual consumption expenditure by households)
 Region: East Asia & Pacific
 SNApricevaluation: Value added at producer prices (VAP)
@@ -17,13 +27,3 @@ SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES
 SpecialNotes: 'Fiscal year ends on June 30; reporting period for national accounts data: FY.'
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: EAP
-capitalCity: Apia
-id: WSM
-incomelevel: LMC
-iso2Code: WS
-latitude: -13.8314
-lendingtype: IDX
-longitude: -171.752
-name: Samoa
-region: EAS

@@ -1,3 +1,13 @@
+id: MDV
+iso2Code: MV
+name: Maldives
+region: SAS
+adminregion: SAS
+capitalCity: Male
+longitude: 73.5109
+latitude: 4.1742
+incomelevel: UMC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Maldivian rufiyaa
 ExternaldebtReportingstatus: Actual
@@ -7,7 +17,6 @@ IncomeGroup: Upper middle income
 Latesthouseholdsurvey: Demographic and Health Survey, 2016/17
 Latestpopulationcensus: '2014'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2008'
 LongName: Republic of Maldives
 Nationalaccountsbaseyear: '2014'
 PPPsurveyyear: 2017, 2011
@@ -17,13 +26,3 @@ SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: SAS
-capitalCity: Male
-id: MDV
-incomelevel: UMC
-iso2Code: MV
-latitude: 4.1742
-lendingtype: IDX
-longitude: 73.5109
-name: Maldives
-region: SAS

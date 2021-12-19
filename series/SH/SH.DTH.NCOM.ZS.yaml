@@ -1,3 +1,17 @@
+id: SH.DTH.NCOM.ZS
+name: Cause of death, by non-communicable diseases (% of total)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'Derived based on the data from Global Health Estimates 2020: Deaths by Cause, Age,
+  Sex, by Country and by Region, 2000-2019. Geneva, World Health Organization; 2020. Link: https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death'
+topics:
+- id: '8'
+  value: 'Health '
+description: Cause of death refers to the share of all deaths for all ages by underlying causes. Non-communicable
+  diseases include cancer, diabetes mellitus, cardiovascular diseases, digestive diseases, skin diseases,
+  musculoskeletal diseases, and congenital anomalies.
 Aggregationmethod: Weighted average
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
@@ -21,17 +35,3 @@ Statisticalconceptandmethodology: Data on cause of death are compiled by the WHO
   cancer, injuries, and general ill-defined categories. For further information, consult the original
   source.
 Topic: 'Health: Risk factors'
-description: Cause of death refers to the share of all deaths for all ages by underlying causes. Non-communicable
-  diseases include cancer, diabetes mellitus, cardiovascular diseases, digestive diseases, skin diseases,
-  musculoskeletal diseases, and congenital anomalies.
-id: SH.DTH.NCOM.ZS
-name: Cause of death, by non-communicable diseases (% of total)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: 'Derived based on the data from Global Health Estimates 2020: Deaths by Cause, Age,
-  Sex, by Country and by Region, 2000-2019. Geneva, World Health Organization; 2020. Link: https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death'
-topics:
-- id: '8'
-  value: 'Health '
-unit: ''

@@ -1,3 +1,13 @@
+id: ISL
+iso2Code: IS
+name: Iceland
+region: ECS
+adminregion: ''
+capitalCity: Reykjavik
+longitude: -21.8952
+latitude: 64.1353
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Iceland krona
 GovernmentAccountingconcept: Consolidated central government
@@ -8,7 +18,6 @@ Latestindustrialdata: '2005'
 Latestpopulationcensus: 2011. Population figures compiled from administrative registers in combination
   with other sources of data, such as sample surveys.
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2014'
 LongName: Republic of Iceland
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -19,13 +28,3 @@ SourceofmostrecentIncomeandexpendituredata: Income survey (IS), 2014
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Reykjavik
-id: ISL
-incomelevel: HIC
-iso2Code: IS
-latitude: 64.1353
-lendingtype: LNX
-longitude: -21.8952
-name: Iceland
-region: ECS

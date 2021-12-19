@@ -1,3 +1,13 @@
+id: JAM
+iso2Code: JM
+name: Jamaica
+region: LCN
+adminregion: LAC
+capitalCity: Kingston
+longitude: -76.792
+latitude: 17.9927
+incomelevel: UMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Jamaican dollar
 ExternaldebtReportingstatus: Actual
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2011
 Latestindustrialdata: '1996'
 Latestpopulationcensus: '2011'
 Latesttradedata: '2017'
-Latestwaterwithdrawaldata: '2007'
 LongName: Jamaica
 Nationalaccountsbaseyear: '2007'
 PPPsurveyyear: 2017, 2011
@@ -18,13 +27,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Living Standards Measurement Study Survey (LSMS), 2012
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: Special trade system
-adminregion: LAC
-capitalCity: Kingston
-id: JAM
-incomelevel: UMC
-iso2Code: JM
-latitude: 17.9927
-lendingtype: IBD
-longitude: -76.792
-name: Jamaica
-region: LCN

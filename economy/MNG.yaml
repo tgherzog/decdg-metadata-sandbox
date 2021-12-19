@@ -1,3 +1,13 @@
+id: MNG
+iso2Code: MN
+name: Mongolia
+region: EAS
+adminregion: EAP
+capitalCity: Ulaanbaatar
+longitude: 106.937
+latitude: 47.9129
+incomelevel: LMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Mongolian tugrik
 ExternaldebtReportingstatus: Actual
@@ -9,9 +19,8 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2018
 Latestindustrialdata: '2011'
 Latestpopulationcensus: '2020'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2009'
 LongName: Mongolia
-Nationalaccountsbaseyear: '2010'
+Nationalaccountsbaseyear: '2015'
 PPPsurveyyear: 2017, 2011
 Region: East Asia & Pacific
 SNApricevaluation: Value added at basic prices (VAB)
@@ -19,13 +28,3 @@ SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: EAP
-capitalCity: Ulaanbaatar
-id: MNG
-incomelevel: LMC
-iso2Code: MN
-latitude: 47.9129
-lendingtype: IBD
-longitude: 106.937
-name: Mongolia
-region: EAS

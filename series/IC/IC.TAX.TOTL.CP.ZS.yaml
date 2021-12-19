@@ -1,3 +1,20 @@
+id: IC.TAX.TOTL.CP.ZS
+name: Total tax and contribution rate (% of profit)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'World Bank, Doing Business project (http://www.doingbusiness.org/). NOTE: Doing Business
+  has been discontinued as of 9/16/2021. For more information: https://bit.ly/3CLCbme'
+topics:
+- id: '12'
+  value: Private Sector
+- id: '13'
+  value: 'Public Sector '
+description: Total tax rate measures the amount of taxes and mandatory contributions payable by businesses
+  after accounting for allowable deductions and exemptions as a share of commercial profits. Taxes withheld
+  (such as personal income tax) or collected and remitted to tax authorities (such as value added taxes,
+  sales taxes or goods and service taxes) are excluded.
 Aggregationmethod: Unweighted average
 Developmentrelevance: 'The total tax rate payable by businesses provides a comprehensive measure of the
   cost of all the taxes a business bears. It differs from the statutory tax rate, which is the factor
@@ -14,16 +31,19 @@ Developmentrelevance: 'The total tax rate payable by businesses provides a compr
 Generalcomments: Data are presented for the survey year instead of publication year.
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
-Limitationsandexceptions: "To make the data comparable across countries, several assumptions are made\
-  \ about businesses. The main assumptions are that they are limited liability companies, they operate\
-  \ in the country's most populous city, they are domestically owned, they perform general industrial\
-  \ or commercial activities, and they have certain levels of start-up capital, employees, and turnover.\
-  \ \n\nThe Doing Business methodology on business taxes is consistent with the Total Tax Contribution\
-  \ framework developed by PricewaterhouseCoopers (now PwC), which measures the taxes that are borne by\
-  \ companies and that affect their income statements. However, PwC bases its calculation on data from\
-  \ the largest companies in the economy, while Doing Business focuses on a standardized medium-size company."
+Limitationsandexceptions: 'To make the data comparable across countries, several assumptions are made
+  about businesses. The main assumptions are that they are limited liability companies, they operate in
+  the country''s most populous city, they are domestically owned, they perform general industrial or commercial
+  activities, and they have certain levels of start-up capital, employees, and turnover. 
+
+
+  The Doing Business methodology on business taxes is consistent with the Total Tax Contribution framework
+  developed by PricewaterhouseCoopers (now PwC), which measures the taxes that are borne by companies
+  and that affect their income statements. However, PwC bases its calculation on data from the largest
+  companies in the economy, while Doing Business focuses on a standardized medium-size company.'
 Periodicity: Annual
-Source: World Bank, Doing Business project (http://www.doingbusiness.org/).
+Source: 'World Bank, Doing Business project (http://www.doingbusiness.org/). NOTE: Doing Business has
+  been discontinued as of 9/16/2021. For more information: https://bit.ly/3CLCbme'
 Statisticalconceptandmethodology: 'The data covering taxes payable by businesses, measure all taxes and
   contributions that are government mandated (at any level - federal, state, or local), apply to standardized
   businesses, and have an impact in their income statements. The taxes covered go beyond the definition
@@ -36,19 +56,3 @@ Statisticalconceptandmethodology: 'The data covering taxes payable by businesses
   fund or workers insurance fund but exclude value added taxes because they do not affect the accounting
   profits of the business - that is, they are not reflected in the income statement.'
 Topic: 'Private Sector & Trade: Business environment'
-description: Total tax rate measures the amount of taxes and mandatory contributions payable by businesses
-  after accounting for allowable deductions and exemptions as a share of commercial profits. Taxes withheld
-  (such as personal income tax) or collected and remitted to tax authorities (such as value added taxes,
-  sales taxes or goods and service taxes) are excluded.
-id: IC.TAX.TOTL.CP.ZS
-name: Total tax rate (% of commercial profits)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank, Doing Business project (http://www.doingbusiness.org/).
-topics:
-- id: '12'
-  value: Private Sector
-- id: '13'
-  value: 'Public Sector '
-unit: ''

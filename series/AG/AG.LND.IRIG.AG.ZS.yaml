@@ -1,3 +1,17 @@
+id: AG.LND.IRIG.AG.ZS
+name: Agricultural irrigated land (% of total agricultural land)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Food and Agriculture Organization, electronic files and web site.
+topics:
+- id: '1'
+  value: 'Agriculture & Rural Development  '
+- id: '19'
+  value: Climate Change
+description: Agricultural irrigated land refers to agricultural areas purposely provided with water, including
+  land irrigated by controlled flooding.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Worldwide, irrigated agriculture accounts for about four-fifths of global water
   withdrawals. The share of irrigated land ranges widely, from 4 percent of the total area cropped in
@@ -51,25 +65,13 @@ Limitationsandexceptions: The data are collected by the Food and Agriculture Org
   nature and intensity in African countries and dry Middle Eastern countries.
 Periodicity: Annual
 Source: Food and Agriculture Organization, electronic files and web site.
-Statisticalconceptandmethodology: "Irrigated agricultural area refers to area equipped to provide water\
-  \ (via artificial means of irrigation such as by diverting streams, flooding, or spraying) to the crops.\
-  \ In non-irrigated agricultural areas, production of crops is dependent on rain-fed irrigation. \n\n\
-  Agricultural land constitutes only a part of any country's total area, which can include areas not suitable\
-  \ for agriculture, such as forests, mountains, and inland water bodies. Agricultural land can also be\
-  \ classified as irrigated and non-irrigated land. In arid and semi-arid countries agriculture is often\
-  \ confined to irrigated land, with very little farming possible in non-irrigated areas."
+Statisticalconceptandmethodology: 'Irrigated agricultural area refers to area equipped to provide water
+  (via artificial means of irrigation such as by diverting streams, flooding, or spraying) to the crops.
+  In non-irrigated agricultural areas, production of crops is dependent on rain-fed irrigation. 
+
+
+  Agricultural land constitutes only a part of any country''s total area, which can include areas not
+  suitable for agriculture, such as forests, mountains, and inland water bodies. Agricultural land can
+  also be classified as irrigated and non-irrigated land. In arid and semi-arid countries agriculture
+  is often confined to irrigated land, with very little farming possible in non-irrigated areas.'
 Topic: 'Environment: Land use'
-description: Agricultural irrigated land refers to agricultural areas purposely provided with water, including
-  land irrigated by controlled flooding.
-id: AG.LND.IRIG.AG.ZS
-name: Agricultural irrigated land (% of total agricultural land)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Food and Agriculture Organization, electronic files and web site.
-topics:
-- id: '1'
-  value: 'Agriculture & Rural Development  '
-- id: '19'
-  value: Climate Change
-unit: ''

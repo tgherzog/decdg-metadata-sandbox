@@ -1,3 +1,13 @@
+id: GAB
+iso2Code: GA
+name: Gabon
+region: SSF
+adminregion: SSA
+capitalCity: Libreville
+longitude: 9.45162
+latitude: 0.38832
+incomelevel: UMC
+lendingtype: IBD
 Alternativeconversionfactor: '1993'
 BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
 CurrencyUnit: Central African CFA franc
@@ -8,7 +18,6 @@ Latesthouseholdsurvey: Demographic and Health Survey, 2019/20
 Latestindustrialdata: '1995'
 Latestpopulationcensus: '2013'
 Latesttradedata: '2009'
-Latestwaterwithdrawaldata: '2005'
 LongName: Gabonese Republic
 Nationalaccountsbaseyear: '2001'
 PPPsurveyyear: 2017, 2011
@@ -17,13 +26,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Living Standards Measurement Study Survey (LSMS)/Integrated
   household survey (IHS), 2017
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
-adminregion: SSA
-capitalCity: Libreville
-id: GAB
-incomelevel: UMC
-iso2Code: GA
-latitude: 0.38832
-lendingtype: IBD
-longitude: 9.45162
-name: Gabon
-region: SSF

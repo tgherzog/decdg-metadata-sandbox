@@ -1,3 +1,13 @@
+id: KWT
+iso2Code: KW
+name: Kuwait
+region: MEA
+adminregion: ''
+capitalCity: Kuwait City
+longitude: 47.9824
+latitude: 29.3721
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Kuwaiti dinar
 GovernmentAccountingconcept: Consolidated central government
@@ -7,7 +17,6 @@ Latesthouseholdsurvey: Family Health Survey, 1996
 Latestindustrialdata: '2013'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2002'
 LongName: State of Kuwait
 Nationalaccountsbaseyear: '2010'
 PPPsurveyyear: Annual estimation for 2011-2017
@@ -16,13 +25,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Kuwait City
-id: KWT
-incomelevel: HIC
-iso2Code: KW
-latitude: 29.3721
-lendingtype: LNX
-longitude: 47.9824
-name: Kuwait
-region: MEA

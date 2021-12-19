@@ -1,3 +1,13 @@
+id: NOR
+iso2Code: 'NO'
+name: Norway
+region: ECS
+adminregion: ''
+capitalCity: Oslo
+longitude: 10.7387
+latitude: 59.9138
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Norwegian krone
 GovernmentAccountingconcept: Consolidated central government
@@ -7,7 +17,6 @@ Latestagriculturalcensus: '2010'
 Latestindustrialdata: '2014'
 Latestpopulationcensus: 2011. Population figures compiled from administrative registers.
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2007'
 LongName: Kingdom of Norway
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -18,13 +27,3 @@ SourceofmostrecentIncomeandexpendituredata: Income survey (IS), 2014
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Oslo
-id: NOR
-incomelevel: HIC
-iso2Code: 'NO'
-latitude: 59.9138
-lendingtype: LNX
-longitude: 10.7387
-name: Norway
-region: ECS

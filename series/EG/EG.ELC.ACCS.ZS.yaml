@@ -1,3 +1,22 @@
+id: EG.ELC.ACCS.ZS
+name: Access to electricity (% of population)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'World Bank Global Electrification Database from "Tracking SDG 7: The Energy Progress
+  Report" led jointly by the custodian agencies: the International Energy Agency (IEA), the International
+  Renewable Energy Agency (IRENA), the United Nations Statistics Division (UNSD), the World Bank and the
+  World Health Organization (WHO).'
+topics:
+- id: '5'
+  value: 'Energy & Mining '
+- id: '19'
+  value: Climate Change
+- id: '6'
+  value: 'Environment '
+description: Access to electricity is the percentage of population with access to electricity. Electrification
+  data are collected from industry, national surveys and international sources.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Maintaining reliable and secure electricity services while seeking to rapidly decarbonize
   power systems is a key challenge for countries throughout the world. More and more countries are becoming
@@ -27,9 +46,10 @@ Developmentrelevance: 'Maintaining reliable and secure electricity services whil
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
 Periodicity: Annual
-Source: World Bank, Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking Framework
-  led jointly by the World Bank, International Energy Agency, and the Energy Sector Management Assistance
-  Program.
+Source: 'World Bank Global Electrification Database from "Tracking SDG 7: The Energy Progress Report"
+  led jointly by the custodian agencies: the International Energy Agency (IEA), the International Renewable
+  Energy Agency (IRENA), the United Nations Statistics Division (UNSD), the World Bank and the World Health
+  Organization (WHO).'
 Statisticalconceptandmethodology: 'Data for access to electricity are collected among different sources:
   mostly data from nationally representative household surveys (including national censuses) were used.
   Survey sources include Demographic and Health Surveys (DHS) and Living Standards Measurement Surveys
@@ -47,21 +67,3 @@ Statisticalconceptandmethodology: 'Data for access to electricity are collected 
   refers to the assumption of universal access in countries classified as developed by the United Nations.
   Data begins from the year in which the first survey data is available for each country.'
 Topic: 'Environment: Energy production & use'
-description: Access to electricity is the percentage of population with access to electricity. Electrification
-  data are collected from industry, national surveys and international sources.
-id: EG.ELC.ACCS.ZS
-name: Access to electricity (% of population)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank, Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking
-  Framework led jointly by the World Bank, International Energy Agency, and the Energy Sector Management
-  Assistance Program.
-topics:
-- id: '5'
-  value: 'Energy & Mining '
-- id: '19'
-  value: Climate Change
-- id: '6'
-  value: 'Environment '
-unit: ''

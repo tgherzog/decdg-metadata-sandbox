@@ -1,3 +1,13 @@
+id: CHN
+iso2Code: CN
+name: China
+region: EAS
+adminregion: EAP
+capitalCity: Beijing
+longitude: 116.286
+latitude: 40.0495
+incomelevel: UMC
+lendingtype: IBD
 Alternativeconversionfactor: "1978\u201393"
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Chinese yuan
@@ -10,7 +20,6 @@ Latesthouseholdsurvey: National Sample Survey on Population Changes, 2014
 Latestindustrialdata: '2007'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2013'
 LongName: People's Republic of China
 Nationalaccountsbaseyear: '2015'
 PPPsurveyyear: 2017, 2011
@@ -22,13 +31,3 @@ SpecialNotes: On 1 July 1997 China resumed its exercise of sovereignty over Hong
   not include data for Hong Kong SAR, China; Macao SAR, China; or Taiwan, China.
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: EAP
-capitalCity: Beijing
-id: CHN
-incomelevel: UMC
-iso2Code: CN
-latitude: 40.0495
-lendingtype: IBD
-longitude: 116.286
-name: China
-region: EAS

@@ -1,3 +1,20 @@
+id: SP.DYN.CDRT.IN
+name: Death rate, crude (per 1,000 people)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: '(1) United Nations Population Division. World Population Prospects: 2019 Revision.
+  (2) Census reports and other statistical publications from national statistical offices, (3) Eurostat:
+  Demographic Statistics, (4) United Nations Statistical Division. Population and Vital Statistics Reprot
+  (various years), (5) U.S. Census Bureau: International Database, and (6) Secretariat of the Pacific
+  Community: Statistics and Demography Programme.'
+topics:
+- id: '8'
+  value: 'Health '
+description: Crude death rate indicates the number of deaths occurring during the year, per 1,000 population
+  estimated at midyear. Subtracting the crude death rate from the crude birth rate provides the rate of
+  natural increase, which is equal to the rate of population change in the absence of migration.
 Aggregationmethod: Weighted average
 Developmentrelevance: The crude mortality rate is a good indicator of the general health status of a geographic
   area or population. The crude death rate is not appropriate for comparison of different populations
@@ -33,9 +50,6 @@ Statisticalconceptandmethodology: 'The crude death rate is calculated as the num
   for many countries are projections based on extrapolations of levels and trends from earlier years or
   interpolations of population estimates and projections from the United Nations Population Division.'
 Topic: 'Health: Population: Dynamics'
-description: Crude death rate indicates the number of deaths occurring during the year, per 1,000 population
-  estimated at midyear. Subtracting the crude death rate from the crude birth rate provides the rate of
-  natural increase, which is equal to the rate of population change in the absence of migration.
 economies:
   ABW: 'Data source: United Nations World Population Prospects'
   AFG: 'Data source: United Nations World Population Prospects'
@@ -103,8 +117,8 @@ economies:
   ETH: 'Data source: United Nations World Population Prospects'
   FIN: 'Data source: Eurostat'
   FJI: 'Data source: United Nations World Population Prospects'
-  FRA: "Data source and note: Eurostat, United Nations World Population Prospects. Including the French\
-    \ overseas departments of French Guiana, Guadeloupe, Martinique, R\xE9union."
+  FRA: "Data source and note: Eurostat, United Nations World Population Prospects. Including the French
+     overseas departments of French Guiana, Guadeloupe, Martinique, R\xE9union."
   FRO: 'Data source: Statistics Faroe Islands'
   FSM: 'Data source: United Nations World Population Prospects'
   GAB: 'Data source: United Nations World Population Prospects'
@@ -260,17 +274,3 @@ economies:
   ZAF: 'Data source: United Nations World Population Prospects'
   ZMB: 'Data source: United Nations World Population Prospects'
   ZWE: 'Data source: United Nations World Population Prospects'
-id: SP.DYN.CDRT.IN
-name: Death rate, crude (per 1,000 people)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: '(1) United Nations Population Division. World Population Prospects: 2019 Revision.
-  (2) Census reports and other statistical publications from national statistical offices, (3) Eurostat:
-  Demographic Statistics, (4) United Nations Statistical Division. Population and Vital Statistics Reprot
-  (various years), (5) U.S. Census Bureau: International Database, and (6) Secretariat of the Pacific
-  Community: Statistics and Demography Programme.'
-topics:
-- id: '8'
-  value: 'Health '
-unit: ''

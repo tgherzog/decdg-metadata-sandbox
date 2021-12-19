@@ -1,3 +1,17 @@
+id: AG.LND.CREL.HA
+name: Land under cereal production (hectares)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Food and Agriculture Organization, electronic files and web site.
+topics:
+- id: '1'
+  value: 'Agriculture & Rural Development  '
+description: Land under cereal production refers to harvested area, although some countries report only
+  sown or cultivated area. Cereals include wheat, rice, maize, barley, oats, rye, millet, sorghum, buckwheat,
+  and mixed grains. Production data on cereals relate to crops harvested for dry grain only. Cereal crops
+  harvested for hay or harvested green for food, feed, or silage and those used for grazing are excluded.
 Aggregationmethod: Sum
 Developmentrelevance: 'The cultivation of cereals varies widely in different countries and depends partly
   upon the development of the economy. Production depends on the nature of the soil, the amount of rainfall,
@@ -60,17 +74,3 @@ Statisticalconceptandmethodology: 'Cereals production includes wheat, rice, maiz
   germ, and bran. Cereal grains are grown in greater quantities and provide more food energy worldwide
   than any other type of crop; cereal crops therefore can also be called staple crops.'
 Topic: 'Environment: Agricultural production'
-description: Land under cereal production refers to harvested area, although some countries report only
-  sown or cultivated area. Cereals include wheat, rice, maize, barley, oats, rye, millet, sorghum, buckwheat,
-  and mixed grains. Production data on cereals relate to crops harvested for dry grain only. Cereal crops
-  harvested for hay or harvested green for food, feed, or silage and those used for grazing are excluded.
-id: AG.LND.CREL.HA
-name: Land under cereal production (hectares)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Food and Agriculture Organization, electronic files and web site.
-topics:
-- id: '1'
-  value: 'Agriculture & Rural Development  '
-unit: ''

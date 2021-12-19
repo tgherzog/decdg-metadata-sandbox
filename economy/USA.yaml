@@ -1,3 +1,13 @@
+id: USA
+iso2Code: US
+name: United States
+region: NAC
+adminregion: ''
+capitalCity: Washington D.C.
+longitude: -77.032
+latitude: 38.8895
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: U.S. dollar
 GovernmentAccountingconcept: Consolidated central government
@@ -7,7 +17,6 @@ Latestagriculturalcensus: '2012'
 Latestindustrialdata: '2011'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2010'
 LongName: United States of America
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -18,13 +27,3 @@ SourceofmostrecentIncomeandexpendituredata: Labor force survey (LFS), 2016
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Washington D.C.
-id: USA
-incomelevel: HIC
-iso2Code: US
-latitude: 38.8895
-lendingtype: LNX
-longitude: -77.032
-name: United States
-region: NAC

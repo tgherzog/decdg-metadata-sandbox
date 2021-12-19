@@ -1,3 +1,13 @@
+id: PER
+iso2Code: PE
+name: Peru
+region: LCN
+adminregion: LAC
+capitalCity: Lima
+longitude: -77.0465
+latitude: -12.0931
+incomelevel: UMC
+lendingtype: IBD
 Alternativeconversionfactor: "1985\u201390"
 BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
 CurrencyUnit: Peruvian new sol
@@ -10,7 +20,6 @@ Latesthouseholdsurvey: Continuous Demographic and Health Survey, 2014
 Latestindustrialdata: '2011'
 Latestpopulationcensus: '2017'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2008'
 LongName: Republic of Peru
 Nationalaccountsbaseyear: '2007'
 PPPsurveyyear: 2017, 2011
@@ -19,13 +28,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2017
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
-adminregion: LAC
-capitalCity: Lima
-id: PER
-incomelevel: UMC
-iso2Code: PE
-latitude: -12.0931
-lendingtype: IBD
-longitude: -77.0465
-name: Peru
-region: LCN

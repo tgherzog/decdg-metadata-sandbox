@@ -1,3 +1,13 @@
+id: CZE
+iso2Code: CZ
+name: Czech Republic
+region: ECS
+adminregion: ''
+capitalCity: Prague
+longitude: 14.4205
+latitude: 50.0878
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Czech koruna
 GovernmentAccountingconcept: Consolidated central government
@@ -9,7 +19,6 @@ Latestindustrialdata: '2013'
 Latestpopulationcensus: 2011. Population figures compiled from administrative registers in combination
   with other sources of data, such as sample surveys.
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2013'
 LongName: Czech Republic
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -20,13 +29,3 @@ SourceofmostrecentIncomeandexpendituredata: Income survey (IS), 2015
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Prague
-id: CZE
-incomelevel: HIC
-iso2Code: CZ
-latitude: 50.0878
-lendingtype: LNX
-longitude: 14.4205
-name: Czech Republic
-region: ECS

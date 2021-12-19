@@ -1,3 +1,13 @@
+id: VGB
+iso2Code: VG
+name: British Virgin Islands
+region: LCN
+adminregion: ''
+capitalCity: Road Town
+longitude: -64.623056
+latitude: 18.431389
+incomelevel: HIC
+lendingtype: LNX
 CurrencyUnit: U.S. dollar
 IncomeGroup: High income
 Latesthouseholdsurvey: STEPS Risk Factor Survey, 2010
@@ -6,13 +16,3 @@ LongName: British Virgin Islands
 PPPsurveyyear: 2017, 2011
 Region: Latin America & Caribbean
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Road Town
-id: VGB
-incomelevel: HIC
-iso2Code: VG
-latitude: 18.431389
-lendingtype: LNX
-longitude: -64.623056
-name: British Virgin Islands
-region: LCN

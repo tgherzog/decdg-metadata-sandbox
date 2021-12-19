@@ -1,11 +1,11 @@
-LongName: Middle East & North Africa (excluding high income)
-adminregion: ''
-capitalCity: ''
 id: MNA
-incomelevel: NA
 iso2Code: XQ
-latitude: ''
-lendingtype: ''
-longitude: ''
 name: Middle East & North Africa (excluding high income)
 region: NA
+adminregion: ''
+capitalCity: ''
+longitude: ''
+latitude: ''
+incomelevel: NA
+lendingtype: ''
+LongName: Middle East & North Africa (excluding high income)

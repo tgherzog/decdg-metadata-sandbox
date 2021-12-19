@@ -1,10 +1,19 @@
+id: CUB
+iso2Code: CU
+name: Cuba
+region: LCN
+adminregion: LAC
+capitalCity: Havana
+longitude: -82.3667
+latitude: 23.1333
+incomelevel: UMC
+lendingtype: LNX
 CurrencyUnit: Cuban peso
 IncomeGroup: Upper middle income
 Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019
 Latestindustrialdata: '1989'
 Latestpopulationcensus: '2012'
 Latesttradedata: '2006'
-Latestwaterwithdrawaldata: '2013'
 LongName: Republic of Cuba
 Nationalaccountsbaseyear: '1997'
 PPPsurveyyear: '2011'
@@ -12,13 +21,3 @@ Region: Latin America & Caribbean
 SNApricevaluation: Value added at basic prices (VAB)
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Vitalregistrationcomplete: 'Yes'
-adminregion: LAC
-capitalCity: Havana
-id: CUB
-incomelevel: UMC
-iso2Code: CU
-latitude: 23.1333
-lendingtype: LNX
-longitude: -82.3667
-name: Cuba
-region: LCN

@@ -1,3 +1,18 @@
+id: SH.STA.BRTC.ZS
+name: Births attended by skilled health staff (% of total)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys.
+topics:
+- id: '8'
+  value: 'Health '
+- id: '17'
+  value: Gender
+description: Births attended by skilled health staff are the percentage of deliveries attended by personnel
+  trained to give the necessary supervision, care, and advice to women during pregnancy, labor, and the
+  postpartum period; to conduct deliveries on their own; and to care for newborns.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Reproductive health is a state of physical and mental well-being in relation to
   the reproductive system and its functions and processes. Means of achieving reproductive health include
@@ -8,10 +23,10 @@ Developmentrelevance: 'Reproductive health is a state of physical and mental wel
 
   The share of births attended by skilled health staff is an indicator of a health system''s ability to
   provide adequate care for pregnant women.'
-Generalcomments: "Assistance by trained professionals during birth reduces the incidence of maternal deaths\
-  \ during childbirth. The share of births attended by skilled health staff is an indicator of a health\
-  \ system\u2019s ability to provide adequate care for pregnant women.\n\nThis is the Sustainable Development\
-  \ Goal indicator 3.1.2[https://unstats.un.org/sdgs/metadata/]."
+Generalcomments: "Assistance by trained professionals during birth reduces the incidence of maternal deaths
+   during childbirth. The share of births attended by skilled health staff is an indicator of a health
+   system\u2019s ability to provide adequate care for pregnant women.\n\nThis is the Sustainable Development
+   Goal indicator 3.1.2[https://unstats.un.org/sdgs/metadata/]."
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
 Limitationsandexceptions: For the indicators that are from household surveys, the year refers to the survey
@@ -19,18 +34,3 @@ Limitationsandexceptions: For the indicators that are from household surveys, th
 Periodicity: Annual
 Source: UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys.
 Topic: 'Health: Reproductive health'
-description: Births attended by skilled health staff are the percentage of deliveries attended by personnel
-  trained to give the necessary supervision, care, and advice to women during pregnancy, labor, and the
-  postpartum period; to conduct deliveries on their own; and to care for newborns.
-id: SH.STA.BRTC.ZS
-name: Births attended by skilled health staff (% of total)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys.
-topics:
-- id: '8'
-  value: 'Health '
-- id: '17'
-  value: Gender
-unit: ''

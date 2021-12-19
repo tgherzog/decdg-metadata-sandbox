@@ -1,3 +1,13 @@
+id: FIN
+iso2Code: FI
+name: Finland
+region: ECS
+adminregion: ''
+capitalCity: Helsinki
+longitude: 24.9525
+latitude: 60.1608
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Euro
 GovernmentAccountingconcept: Consolidated central government
@@ -7,7 +17,6 @@ Latestagriculturalcensus: '2010'
 Latestindustrialdata: '2014'
 Latestpopulationcensus: 2020 (expected). Population figures compiled from administrative registers.
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2006'
 LongName: Republic of Finland
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -23,13 +32,3 @@ SpecialNotes: 'A simple multiplier is used to convert the national currencies of
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Helsinki
-id: FIN
-incomelevel: HIC
-iso2Code: FI
-latitude: 60.1608
-lendingtype: LNX
-longitude: 24.9525
-name: Finland
-region: ECS

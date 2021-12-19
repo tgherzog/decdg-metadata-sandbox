@@ -1,3 +1,13 @@
+id: GUY
+iso2Code: GY
+name: Guyana
+region: LCN
+adminregion: LAC
+capitalCity: Georgetown
+longitude: -58.1548
+latitude: 6.80461
+incomelevel: UMC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Guyana dollar
 ExternaldebtReportingstatus: Actual
@@ -6,7 +16,6 @@ IncomeGroup: Upper middle income
 Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019/20
 Latestpopulationcensus: '2012'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2010'
 LongName: Co-operative Republic of Guyana
 Nationalaccountsbaseyear: '2012'
 Othergroups: HIPC
@@ -16,13 +25,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 1998
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
-adminregion: LAC
-capitalCity: Georgetown
-id: GUY
-incomelevel: UMC
-iso2Code: GY
-latitude: 6.80461
-lendingtype: IDX
-longitude: -58.1548
-name: Guyana
-region: LCN

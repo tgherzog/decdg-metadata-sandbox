@@ -1,3 +1,13 @@
+id: MDA
+iso2Code: MD
+name: Moldova
+region: ECS
+adminregion: ECA
+capitalCity: Chisinau
+longitude: 28.8497
+latitude: 47.0167
+incomelevel: UMC
+lendingtype: IBD
 Alternativeconversionfactor: "1990\u201395"
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Moldovan leu
@@ -10,7 +20,6 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2012
 Latestindustrialdata: '2012'
 Latestpopulationcensus: '2014'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2007'
 LongName: Republic of Moldova
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2010'
@@ -23,13 +32,3 @@ SpecialNotes: Excluding Transnistria. For 1950-94, World Bank estimates using UN
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ECA
-capitalCity: Chisinau
-id: MDA
-incomelevel: UMC
-iso2Code: MD
-latitude: 47.0167
-lendingtype: IBD
-longitude: 28.8497
-name: Moldova
-region: ECS

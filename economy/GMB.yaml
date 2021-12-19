@@ -1,3 +1,13 @@
+id: GMB
+iso2Code: GM
+name: Gambia, The
+region: SSF
+adminregion: SSA
+capitalCity: Banjul
+longitude: -16.5885
+latitude: 13.4495
+incomelevel: LIC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Gambian dalasi
 ExternaldebtReportingstatus: Actual
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Demographic and Health Survey, 2019/20
 Latestindustrialdata: '2004'
 Latestpopulationcensus: '2013'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2000'
 LongName: Republic of The Gambia
 Nationalaccountsbaseyear: '2013'
 Othergroups: HIPC
@@ -19,13 +28,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2015
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SSA
-capitalCity: Banjul
-id: GMB
-incomelevel: LIC
-iso2Code: GM
-latitude: 13.4495
-lendingtype: IDX
-longitude: -16.5885
-name: Gambia, The
-region: SSF

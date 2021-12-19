@@ -1,3 +1,13 @@
+id: LBR
+iso2Code: LR
+name: Liberia
+region: SSF
+adminregion: SSA
+capitalCity: Monrovia
+longitude: -10.7957
+latitude: 6.30039
+incomelevel: LIC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: U.S. dollar
 ExternaldebtReportingstatus: Actual
@@ -6,23 +16,11 @@ IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS
 IncomeGroup: Low income
 Latesthouseholdsurvey: Demographic and Health Survey, 2019/20
 Latestpopulationcensus: 2020 (expected)
-Latestwaterwithdrawaldata: '2000'
 LongName: Republic of Liberia
-Nationalaccountsbaseyear: '1992'
+Nationalaccountsbaseyear: '2016'
 Othergroups: HIPC
 PPPsurveyyear: 2017, 2011
 Region: Sub-Saharan Africa
 SNApricevaluation: Value added at producer prices (VAP)
 SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2014
-SpecialNotes: Pre-2000 data will be revised further for consistency and quality purpose.
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
-adminregion: SSA
-capitalCity: Monrovia
-id: LBR
-incomelevel: LIC
-iso2Code: LR
-latitude: 6.30039
-lendingtype: IDX
-longitude: -10.7957
-name: Liberia
-region: SSF

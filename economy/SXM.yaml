@@ -1,3 +1,13 @@
+id: SXM
+iso2Code: SX
+name: Sint Maarten (Dutch part)
+region: LCN
+adminregion: ''
+capitalCity: Philipsburg
+longitude: ''
+latitude: ''
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Netherlands Antillean guilder
 IncomeGroup: High income
@@ -7,13 +17,3 @@ PPPsurveyyear: 2017, 2011
 Region: Latin America & Caribbean
 SNApricevaluation: Value added at basic prices (VAB)
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Philipsburg
-id: SXM
-incomelevel: HIC
-iso2Code: SX
-latitude: ''
-lendingtype: LNX
-longitude: ''
-name: Sint Maarten (Dutch part)
-region: LCN

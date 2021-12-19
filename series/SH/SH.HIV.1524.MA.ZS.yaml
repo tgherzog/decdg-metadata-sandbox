@@ -1,3 +1,19 @@
+id: SH.HIV.1524.MA.ZS
+name: Prevalence of HIV, male (% ages 15-24)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNAIDS estimates.
+topics:
+- id: '8'
+  value: 'Health '
+- id: '17'
+  value: Gender
+- id: '15'
+  value: 'Social Development '
+description: Prevalence of HIV, male is the percentage of males who are infected with HIV. Youth rates
+  are as a percentage of the relevant age group.
 Aggregationmethod: Weighted average
 Generalcomments: In many developing countries most new infections occur in young adults, with young women
   being especially vulnerable.
@@ -26,19 +42,3 @@ Statisticalconceptandmethodology: 'HIV prevalence rates reflect the rate of HIV 
   longer) and allow for changes in urbanization over time in generalized epidemics. The estimates include
   plausibility bounds, which reflect the certainty associated with each of the estimates.'
 Topic: 'Health: Risk factors'
-description: Prevalence of HIV, male is the percentage of males who are infected with HIV. Youth rates
-  are as a percentage of the relevant age group.
-id: SH.HIV.1524.MA.ZS
-name: Prevalence of HIV, male (% ages 15-24)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: UNAIDS estimates.
-topics:
-- id: '8'
-  value: 'Health '
-- id: '17'
-  value: Gender
-- id: '15'
-  value: 'Social Development '
-unit: ''

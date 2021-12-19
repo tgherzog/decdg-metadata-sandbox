@@ -1,3 +1,20 @@
+id: SM.POP.NETM
+name: Net migration
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'United Nations Population Division. World Population Prospects: 2019 Revision.'
+topics:
+- id: '7'
+  value: 'Financial Sector '
+- id: '8'
+  value: 'Health '
+- id: '2'
+  value: 'Aid Effectiveness '
+description: Net migration is the net total of migrants during the period, that is, the total number of
+  immigrants less the annual number of emigrants, including both citizens and noncitizens. Data are five-year
+  estimates.
 Aggregationmethod: Sum
 Developmentrelevance: 'Movement of people, most often through migration, is a significant part of global
   integration. Migrants contribute to the economies of both their host country and their country of origin.
@@ -44,9 +61,6 @@ Statisticalconceptandmethodology: 'The United Nations Population Division provid
   data on foreign population - that is, people who are citizens of a country other than the country in
   which they reside - are used as estimates.'
 Topic: 'Social Protection & Labor: Migration'
-description: Net migration is the net total of migrants during the period, that is, the total number of
-  immigrants less the annual number of emigrants, including both citizens and noncitizens. Data are five-year
-  estimates.
 economies:
   ABW: 'Data source: United Nations World Population Prospects'
   AFG: 'Data source: United Nations World Population Prospects'
@@ -239,17 +253,3 @@ economies:
   ZAF: 'Data source: United Nations World Population Prospects'
   ZMB: 'Data source: United Nations World Population Prospects'
   ZWE: 'Data source: United Nations World Population Prospects'
-id: SM.POP.NETM
-name: Net migration
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: 'United Nations Population Division. World Population Prospects: 2019 Revision.'
-topics:
-- id: '7'
-  value: 'Financial Sector '
-- id: '8'
-  value: 'Health '
-- id: '2'
-  value: 'Aid Effectiveness '
-unit: ''

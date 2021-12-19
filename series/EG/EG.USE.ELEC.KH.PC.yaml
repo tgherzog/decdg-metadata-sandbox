@@ -1,3 +1,21 @@
+id: EG.USE.ELEC.KH.PC
+name: Electric power consumption (kWh per capita)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: "IEA Statistics \xA9 OECD/IEA 2014 (http://www.iea.org/stats/index.asp), subject to
+   https://www.iea.org/t&c/termsandconditions/"
+topics:
+- id: '5'
+  value: 'Energy & Mining '
+- id: '19'
+  value: Climate Change
+- id: '9'
+  value: 'Infrastructure '
+description: Electric power consumption measures the production of power plants and combined heat and
+  power plants less transmission, distribution, and transformation losses and own use by heat and power
+  plants.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'An economy''s production and consumption of electricity are basic indicators of
   its size and level of development. Although a few countries export electric power, most production is
@@ -53,21 +71,3 @@ Statisticalconceptandmethodology: Electric power consumption per capita (kWh ) i
   hydro, geothermal, wind, tide and wave, and combustible renewables. Neither production nor consumption
   data capture the reliability of supplies, including breakdowns, load factors, and frequency of outages.
 Topic: 'Environment: Energy production & use'
-description: Electric power consumption measures the production of power plants and combined heat and
-  power plants less transmission, distribution, and transformation losses and own use by heat and power
-  plants.
-id: EG.USE.ELEC.KH.PC
-name: Electric power consumption (kWh per capita)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: "IEA Statistics \xA9 OECD/IEA 2014 (http://www.iea.org/stats/index.asp), subject to\
-  \ https://www.iea.org/t&c/termsandconditions/"
-topics:
-- id: '5'
-  value: 'Energy & Mining '
-- id: '19'
-  value: Climate Change
-- id: '9'
-  value: 'Infrastructure '
-unit: ''

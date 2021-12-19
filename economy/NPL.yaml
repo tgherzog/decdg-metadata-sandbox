@@ -1,3 +1,13 @@
+id: NPL
+iso2Code: NP
+name: Nepal
+region: SAS
+adminregion: SAS
+capitalCity: Kathmandu
+longitude: 85.3157
+latitude: 27.6939
+incomelevel: LMC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
 CurrencyUnit: Nepalese rupee
 ExternaldebtReportingstatus: Actual
@@ -9,23 +19,12 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019
 Latestindustrialdata: '2011'
 Latestpopulationcensus: '2011'
 Latesttradedata: '2017'
-Latestwaterwithdrawaldata: '2006'
 LongName: Nepal
-Nationalaccountsbaseyear: 2011/12
+Nationalaccountsbaseyear: 2010/11
 PPPsurveyyear: 2017, 2011
 Region: South Asia
 SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Living Standards Measurement Study Survey (LSMS), 2010/11
 SpecialNotes: 'Fiscal year end: July 14; reporting period for national accounts data: FY.'
-SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SAS
-capitalCity: Kathmandu
-id: NPL
-incomelevel: LMC
-iso2Code: NP
-latitude: 27.6939
-lendingtype: IDX
-longitude: 85.3157
-name: Nepal
-region: SAS

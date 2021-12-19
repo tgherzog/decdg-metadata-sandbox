@@ -1,3 +1,13 @@
+id: OMN
+iso2Code: OM
+name: Oman
+region: MEA
+adminregion: ''
+capitalCity: Muscat
+longitude: 58.5874
+latitude: 23.6105
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
 CurrencyUnit: Omani rial
 GovernmentAccountingconcept: Budgetary central government
@@ -8,7 +18,6 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2014
 Latestindustrialdata: '2014'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2003'
 LongName: Sultanate of Oman
 Nationalaccountsbaseyear: '2010'
 PPPsurveyyear: Annual estimation for 2011-2017
@@ -16,13 +25,3 @@ Region: Middle East & North Africa
 SNApricevaluation: Value added at basic prices (VAB)
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: ''
-capitalCity: Muscat
-id: OMN
-incomelevel: HIC
-iso2Code: OM
-latitude: 23.6105
-lendingtype: LNX
-longitude: 58.5874
-name: Oman
-region: MEA

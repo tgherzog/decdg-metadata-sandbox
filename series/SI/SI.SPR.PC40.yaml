@@ -1,3 +1,15 @@
+id: SI.SPR.PC40
+name: Survey mean consumption or income per capita, bottom 40% of population (2011 PPP $ per day)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, Global Database of Shared Prosperity (GDSP) circa 2011-2016 (http://www.worldbank.org/en/topic/poverty/brief/global-database-of-shared-prosperity).
+topics:
+- id: '11'
+  value: 'Poverty '
+description: Mean consumption or income per capita (2011 PPP $ per day) used in calculating the growth
+  rate in the welfare aggregate of the bottom 40% of the population in the income distribution in a country.
 Generalcomments: The choice of consumption or income for a country is made according to which welfare
   aggregate is used to estimate extreme poverty in PovcalNet. The practice adopted by the World Bank for
   estimating global and regional poverty is, in principle, to use per capita consumption expenditure as
@@ -16,15 +28,3 @@ Relatedsourcelinks: 'World Bank, PovcalNet: an online poverty analysis tool, htt
 Source: World Bank, Global Database of Shared Prosperity (GDSP) circa 2011-2016 (http://www.worldbank.org/en/topic/poverty/brief/global-database-of-shared-prosperity).
 Topic: 'Poverty: Shared prosperity'
 Unitofmeasure: 2011 PPP $
-description: Mean consumption or income per capita (2011 PPP $ per day) used in calculating the growth
-  rate in the welfare aggregate of the bottom 40% of the population in the income distribution in a country.
-id: SI.SPR.PC40
-name: Survey mean consumption or income per capita, bottom 40% of population (2011 PPP $ per day)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank, Global Database of Shared Prosperity (GDSP) circa 2011-2016 (http://www.worldbank.org/en/topic/poverty/brief/global-database-of-shared-prosperity).
-topics:
-- id: '11'
-  value: 'Poverty '
-unit: ''

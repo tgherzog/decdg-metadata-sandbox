@@ -1,3 +1,23 @@
+id: LP.IMP.DURS.MD
+name: Lead time to import, median case (days)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'World Bank and Turku School of Economics, Logistic Performance Index Surveys. Data
+  are available online at : http://www.worldbank.org/lpi. Summary results are published in Arvis and others''
+  Connecting to Compete: Trade Logistics in the Global Economy, The Logistics Performance Index and Its
+  Indicators report.'
+topics:
+- id: '12'
+  value: Private Sector
+- id: '21'
+  value: Trade
+description: Lead time to import is the median time (the value for 50 percent of shipments) from port
+  of discharge to arrival at the consignee. Data are from the Logistics Performance Index survey. Respondents
+  provided separate values for the best case (10 percent of shipments) and the median case (50 percent
+  of shipments). The data are exponentiated averages of the logarithm of single value responses and of
+  midpoint values of range responses for the median case.
 Aggregationmethod: Unweighted average
 Developmentrelevance: 'The LPI measures on-the-ground trade logistics performance, helping national leaders,
   key policymakers, and private sector traders understand the challenges they and their trading partners
@@ -76,23 +96,3 @@ Statisticalconceptandmethodology: 'Data on lead time to import are from the Logi
   to taking a geometric average in levels. Scores for regions, income groups, and LPI quintiles are simple
   averages of the relevant country scores.'
 Topic: 'Private Sector & Trade: Trade facilitation'
-description: Lead time to import is the median time (the value for 50 percent of shipments) from port
-  of discharge to arrival at the consignee. Data are from the Logistics Performance Index survey. Respondents
-  provided separate values for the best case (10 percent of shipments) and the median case (50 percent
-  of shipments). The data are exponentiated averages of the logarithm of single value responses and of
-  midpoint values of range responses for the median case.
-id: LP.IMP.DURS.MD
-name: Lead time to import, median case (days)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: 'World Bank and Turku School of Economics, Logistic Performance Index Surveys. Data
-  are available online at : http://www.worldbank.org/lpi. Summary results are published in Arvis and others''
-  Connecting to Compete: Trade Logistics in the Global Economy, The Logistics Performance Index and Its
-  Indicators report.'
-topics:
-- id: '12'
-  value: Private Sector
-- id: '21'
-  value: Trade
-unit: ''

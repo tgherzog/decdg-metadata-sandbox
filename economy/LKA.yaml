@@ -1,3 +1,13 @@
+id: LKA
+iso2Code: LK
+name: Sri Lanka
+region: SAS
+adminregion: SAS
+capitalCity: Colombo
+longitude: 79.8528
+latitude: 6.92148
+incomelevel: LMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Sri Lankan rupee
 ExternaldebtReportingstatus: Actual
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Demographic and Health Survey, 2006/07
 Latestindustrialdata: '2012'
 Latestpopulationcensus: '2012'
 Latesttradedata: '2017'
-Latestwaterwithdrawaldata: '2005'
 LongName: Democratic Socialist Republic of Sri Lanka
 Nationalaccountsbaseyear: '2010'
 PPPsurveyyear: 2017, 2011
@@ -19,13 +28,3 @@ SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: SAS
-capitalCity: Colombo
-id: LKA
-incomelevel: LMC
-iso2Code: LK
-latitude: 6.92148
-lendingtype: IBD
-longitude: 79.8528
-name: Sri Lanka
-region: SAS

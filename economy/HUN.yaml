@@ -1,3 +1,13 @@
+id: HUN
+iso2Code: HU
+name: Hungary
+region: ECS
+adminregion: ''
+capitalCity: Budapest
+longitude: 19.0408
+latitude: 47.4984
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Hungarian forint
 GovernmentAccountingconcept: Consolidated central government
@@ -8,7 +18,6 @@ Latesthouseholdsurvey: World Health Survey, 2003
 Latestindustrialdata: '2013'
 Latestpopulationcensus: '2011'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2012'
 LongName: Hungary
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -19,13 +28,3 @@ SourceofmostrecentIncomeandexpendituredata: Income survey (IS), 2014
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Budapest
-id: HUN
-incomelevel: HIC
-iso2Code: HU
-latitude: 47.4984
-lendingtype: LNX
-longitude: 19.0408
-name: Hungary
-region: ECS

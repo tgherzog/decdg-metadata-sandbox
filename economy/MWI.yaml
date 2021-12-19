@@ -1,3 +1,13 @@
+id: MWI
+iso2Code: MW
+name: Malawi
+region: SSF
+adminregion: SSA
+capitalCity: Lilongwe
+longitude: 33.7703
+latitude: -13.9899
+incomelevel: LIC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Malawi kwacha
 ExternaldebtReportingstatus: Actual
@@ -10,7 +20,6 @@ Latesthouseholdsurvey: Fifth Integrated Household Survey 2019-2020; Multiple Ind
 Latestindustrialdata: '2012'
 Latestpopulationcensus: '2018'
 Latesttradedata: '2017'
-Latestwaterwithdrawaldata: '2005'
 LongName: Republic of Malawi
 Nationalaccountsbaseyear: '2017'
 Othergroups: HIPC
@@ -20,13 +29,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2016
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SSA
-capitalCity: Lilongwe
-id: MWI
-incomelevel: LIC
-iso2Code: MW
-latitude: -13.9899
-lendingtype: IDX
-longitude: 33.7703
-name: Malawi
-region: SSF

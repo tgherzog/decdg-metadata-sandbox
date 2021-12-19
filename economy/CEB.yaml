@@ -1,12 +1,12 @@
-LongName: Central Europe and the Baltics
-SpecialNotes: Central Europe and the Baltics aggregate.
-adminregion: ''
-capitalCity: ''
 id: CEB
-incomelevel: NA
 iso2Code: B8
-latitude: ''
-lendingtype: ''
-longitude: ''
 name: Central Europe and the Baltics
 region: NA
+adminregion: ''
+capitalCity: ''
+longitude: ''
+latitude: ''
+incomelevel: NA
+lendingtype: ''
+LongName: Central Europe and the Baltics
+SpecialNotes: Central Europe and the Baltics aggregate.

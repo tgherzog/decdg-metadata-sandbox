@@ -1,3 +1,17 @@
+id: SH.STA.TRAF.P5
+name: Mortality caused by road traffic injury (per 100,000 population)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Health Organization, Global Health Observatory Data Repository (http://apps.who.int/ghodata/).
+topics:
+- id: '8'
+  value: 'Health '
+- id: '16'
+  value: 'Urban Development '
+description: Mortality caused by road traffic injury is estimated road traffic fatal injury deaths per
+  100,000 population.
 Aggregationmethod: Weighted average
 Developmentrelevance: Road traffic injuries and deaths is a major global public health problem. Road traffic
   crashes are currently the leading cause of death for children and young adults in the world.  There
@@ -9,17 +23,3 @@ License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
 Periodicity: Annual
 Source: World Health Organization, Global Health Observatory Data Repository (http://apps.who.int/ghodata/).
 Topic: 'Health: Mortality'
-description: Mortality caused by road traffic injury is estimated road traffic fatal injury deaths per
-  100,000 population.
-id: SH.STA.TRAF.P5
-name: Mortality caused by road traffic injury (per 100,000 population)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Health Organization, Global Health Observatory Data Repository (http://apps.who.int/ghodata/).
-topics:
-- id: '8'
-  value: 'Health '
-- id: '16'
-  value: 'Urban Development '
-unit: ''

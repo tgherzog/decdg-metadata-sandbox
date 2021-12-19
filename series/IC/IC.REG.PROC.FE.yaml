@@ -1,3 +1,18 @@
+id: IC.REG.PROC.FE
+name: Start-up procedures to register a business, female (number)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'World Bank, Doing Business project (http://www.doingbusiness.org/). NOTE: Doing Business
+  has been discontinued as of 9/16/2021. For more information: https://bit.ly/3CLCbme'
+topics:
+- id: '12'
+  value: Private Sector
+description: Start-up procedures are those required to start a business, including interactions to obtain
+  necessary permits and licenses and to complete all inscriptions, verifications, and notifications to
+  start operations. Data are for businesses with specific characteristics of ownership, size, and type
+  of production.
 Aggregationmethod: Unweighted average
 Developmentrelevance: 'The economic health of a country is measured not only in macroeconomic terms but
   also by other factors that shape daily economic activity such as laws, regulations, and institutional
@@ -21,9 +36,9 @@ Developmentrelevance: 'The economic health of a country is measured not only in 
 Generalcomments: Data are presented for the survey year instead of publication year.
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
-Limitationsandexceptions: The Doing Business methodology has limitations that should be considered when
-  interpreting the data. First, the data collected refer to businesses in the economy's largest city and
-  may not represent regulations in other locations of the economy. To address this limitation, subnational
+Limitationsandexceptions: 'The Doing Business methodology has limitations that should be considered when
+  interpreting the data. First, the data collected refer to businesses in the economy''s largest city
+  and may not represent regulations in other locations of the economy. To address this limitation, subnational
   indicators are being collected for selected economies. These subnational studies point to significant
   differences in the speed of reform and the ease of doing business across cities in the same economy.
   Second, the data often focus on a specific business form - generally a limited liability company of
@@ -33,39 +48,27 @@ Limitationsandexceptions: The Doing Business methodology has limitations that sh
   element of judgment by the expert respondents. When sources indicate different estimates, the Doing
   Business time indicators represent the median values of several responses given under the assumptions
   of the standardized case. Fifth, the methodology assumes that a business has full information on what
-  is required and does not waste time when completing procedures.
+  is required and does not waste time when completing procedures. Please also see: https://www.doingbusiness.org/en/about-us/faq'
 Periodicity: Annual
-Source: World Bank, Doing Business project (http://www.doingbusiness.org/).
-Statisticalconceptandmethodology: 'Data are collected by the World Bank with a standardized survey that
-  uses a simple business case to ensure comparability across economies and over time - with assumptions
-  about the legal form of the business, its size, its location, and nature of its operation. Surveys are
-  administered through more than 9,000 local experts, including lawyers, business consultants, accountants,
-  freight forwarders, government officials, and other professionals who routinely administer or advise
-  on legal and regulatory requirements.
-
-
-  Entrepreneurs around the world face a range of challenges. One of them is inefficient regulation. The
-  indicator measures the procedures, time, cost and paid-in minimum capital required for a small or medium-size
-  limited liability company to start up and formally operate.
-
-
-  The Doing Business project of the World Bank encompasses two types of data: data from readings of laws
-  and regulations and data on time and motion indicators that measure efficiency in achieving a regulatory
-  goal. Within the time and motion indicators cost estimates are recorded from official fee schedules
-  where applicable. The data from surveys are subjected to numerous tests for robustness, which lead to
-  revision or expansion of the information collected.'
+Source: 'World Bank, Doing Business project (http://www.doingbusiness.org/). NOTE: Doing Business has
+  been discontinued as of 9/16/2021. For more information: https://bit.ly/3CLCbme'
+Statisticalconceptandmethodology: "Data are collected by the World Bank with a standardized survey that
+   uses a simple business case to ensure comparability across economies and over time - with assumptions
+   about the legal form of the business, its size, its location, and nature of its operation. Surveys
+   are administered through more than 9,000 local experts, including lawyers, business consultants, accountants,
+   freight forwarders, government officials, and other professionals who routinely administer or advise
+   on legal and regulatory requirements.\n\nEntrepreneurs around the world face a range of challenges.
+   One of them is inefficient regulation. This indicator measures the number of procedure for a small-
+   to medium-size limited liability company to start up and formally operate in each economy\u2019s largest
+   business city.  To make the data comparable across 190 economies, Doing Business uses a standardized
+   business that is 100% domestically owned, has a start-up capital equivalent to 10 times the income
+   per capita, engages in general industrial or commercial activities and employs between 10 and 50 people
+   one month after the commencement of operations, all of whom are domestic nationals.  The starting a
+   business indicators consider two cases of local limited liability companies that are identical in all
+   aspects, except that one company is owned by five married women and the other by five married men.
+    \n\nThe Doing Business project of the World Bank encompasses two types of data: data from readings
+   of laws and regulations and data on time and motion indicators that measure efficiency in achieving
+   a regulatory goal. Within the time and motion indicators cost estimates are recorded from official
+   fee schedules where applicable. The data from surveys are subjected to numerous tests for robustness,
+   which lead to revision or expansion of the information collected."
 Topic: 'Private Sector & Trade: Business environment'
-description: Start-up procedures are those required to start a business, including interactions to obtain
-  necessary permits and licenses and to complete all inscriptions, verifications, and notifications to
-  start operations. Data are for businesses with specific characteristics of ownership, size, and type
-  of production.
-id: IC.REG.PROC.FE
-name: Start-up procedures to register a business, female (number)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank, Doing Business project (http://www.doingbusiness.org/).
-topics:
-- id: '12'
-  value: Private Sector
-unit: ''

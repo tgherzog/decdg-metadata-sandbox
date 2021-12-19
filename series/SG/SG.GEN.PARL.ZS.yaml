@@ -1,3 +1,20 @@
+id: SG.GEN.PARL.ZS
+name: Proportion of seats held by women in national parliaments (%)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Inter-Parliamentary Union (IPU) (www.ipu.org).  For the year of 1998, the data is
+  as of August 10, 1998.
+topics:
+- id: '13'
+  value: 'Public Sector '
+- id: '17'
+  value: Gender
+- id: '15'
+  value: 'Social Development '
+description: Women in parliaments are the percentage of parliamentary seats in a single or lower chamber
+  held by women.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Despite much progress in recent decades, gender inequalities remain pervasive in
   many dimensions of life - worldwide. But while disparities exist throughout the world, they are most
@@ -55,15 +72,16 @@ Statisticalconceptandmethodology: 'The proportion of seats held by women in nati
   filled by nomination, appointment, indirect election, rotation of members and by-election. Seats refer
   to the number of parliamentary mandates, or the number of members of parliament.'
 Topic: 'Gender: Public life & decision making'
-description: Women in parliaments are the percentage of parliamentary seats in a single or lower chamber
-  held by women.
 economies:
-  BGD: "In 2004, the number of seats in parliament was raised from 300 to 345, with the addition of 45\
-    \ reserved seats for women. These reserved seats were filled in September and October 2005, being\
-    \ allocated to political parties in proportion to their share of the national vote received in the\
-    \ 2001 election. \nThe parliament was dissolved on 27 October 2006, in view of elections that are\
-    \ yet to take place. Women held 52 of the 345 seats (15%) in the outgoing parliament. \n45 reserved\
-    \ seats reserved for women are yet to be filled in 2008."
+  BGD: 'In 2004, the number of seats in parliament was raised from 300 to 345, with the addition of 45
+    reserved seats for women. These reserved seats were filled in September and October 2005, being allocated
+    to political parties in proportion to their share of the national vote received in the 2001 election.
+    
+
+    The parliament was dissolved on 27 October 2006, in view of elections that are yet to take place.
+    Women held 52 of the 345 seats (15%) in the outgoing parliament. 
+
+    45 reserved seats reserved for women are yet to be filled in 2008.'
   EGY: Figures correspond to the results of elections to the Lower House completed in January 2012. Elections
     to the Upper House will be completed in early 2012.
   GEO: Elections were held in November 2003. However, on 25 November 2003, the election results were annuled
@@ -93,18 +111,3 @@ economies:
   ZAF: The figures for 1999-2017 on the distribution of seats do not include the 36 special rotating delegates
     appointed on an ad hoc basis, and all percentages given are therefore calculated on the basis of the
     54 permanent seats.
-id: SG.GEN.PARL.ZS
-name: Proportion of seats held by women in national parliaments (%)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Inter-Parliamentary Union (IPU) (www.ipu.org).  For the year of 1998, the data is
-  as of August 10, 1998.
-topics:
-- id: '13'
-  value: 'Public Sector '
-- id: '17'
-  value: Gender
-- id: '15'
-  value: 'Social Development '
-unit: ''

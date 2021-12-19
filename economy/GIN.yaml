@@ -1,3 +1,13 @@
+id: GIN
+iso2Code: GN
+name: Guinea
+region: SSF
+adminregion: SSA
+capitalCity: Conakry
+longitude: -13.7
+latitude: 9.51667
+incomelevel: LIC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Guinean franc
 ExternaldebtReportingstatus: Actual
@@ -6,7 +16,6 @@ IncomeGroup: Low income
 Latesthouseholdsurvey: Malaria Indicator Survey, 2021
 Latestpopulationcensus: '2014'
 Latesttradedata: '2015'
-Latestwaterwithdrawaldata: '2001'
 LongName: Republic of Guinea
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2010'
@@ -17,13 +26,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Core Welfare Indicator Questionnaire Survey (CWIQ), 2012
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
-adminregion: SSA
-capitalCity: Conakry
-id: GIN
-incomelevel: LIC
-iso2Code: GN
-latitude: 9.51667
-lendingtype: IDX
-longitude: -13.7
-name: Guinea
-region: SSF

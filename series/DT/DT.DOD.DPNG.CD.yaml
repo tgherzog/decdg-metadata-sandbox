@@ -1,3 +1,15 @@
+id: DT.DOD.DPNG.CD
+name: External debt stocks, private nonguaranteed (PNG) (DOD, current US$)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, International Debt Statistics.
+topics:
+- id: '20'
+  value: External Debt
+description: Private nonguaranteed external debt comprises long-term external obligations of private debtors
+  that are not guaranteed for repayment by a public entity. Data are in current U.S. dollars.
 Aggregationmethod: Sum
 Dataset: International Debt Statistics
 Developmentrelevance: 'External indebtedness affects a country''s creditworthiness and investor perceptions.
@@ -31,21 +43,9 @@ Statisticalconceptandmethodology: Data on external debt are gathered through the
   Debt repayable in multiple currencies, goods, or services and debt with a provision for maintenance
   of the value of the currency of repayment are shown at book value.
 Topic: 'Economic Policy & Debt: External debt: Debt outstanding'
-description: Private nonguaranteed external debt comprises long-term external obligations of private debtors
-  that are not guaranteed for repayment by a public entity. Data are in current U.S. dollars.
 economies:
   ARG: Provincial debt for long-term private nonguaranteed debt data are World Bank staff estimates.
   IND: Data prior to 2003 are mechanically adjusted from fiscal year to calendar year.
   PHL: 'Long-term private nonguaranteed debt includes the following monitored aggregate private-sector
     debt: unregistered debt, intercompany debt and capital leases.'
   URY: Data on private nonguaranteed debt only cover Inter-American Development Bank and Bonds.
-id: DT.DOD.DPNG.CD
-name: External debt stocks, private nonguaranteed (PNG) (DOD, current US$)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank, International Debt Statistics.
-topics:
-- id: '20'
-  value: External Debt
-unit: ''

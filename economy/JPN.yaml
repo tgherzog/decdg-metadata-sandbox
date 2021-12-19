@@ -1,3 +1,13 @@
+id: JPN
+iso2Code: JP
+name: Japan
+region: EAS
+adminregion: ''
+capitalCity: Tokyo
+longitude: 139.77
+latitude: 35.67
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Japanese yen
 GovernmentAccountingconcept: Consolidated central government
@@ -7,7 +17,6 @@ Latestagriculturalcensus: '2010'
 Latestindustrialdata: '2012'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2009'
 LongName: Japan
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -19,13 +28,3 @@ SpecialNotes: 'Fiscal year end: March 31; reporting period for national accounts
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Tokyo
-id: JPN
-incomelevel: HIC
-iso2Code: JP
-latitude: 35.67
-lendingtype: LNX
-longitude: 139.77
-name: Japan
-region: EAS

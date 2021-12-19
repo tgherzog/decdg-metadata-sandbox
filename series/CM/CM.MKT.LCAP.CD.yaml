@@ -1,3 +1,18 @@
+id: CM.MKT.LCAP.CD
+name: Market capitalization of listed domestic companies (current US$)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Federation of Exchanges database.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+description: Market capitalization (also known as market value) is the share price times the number of
+  shares outstanding (including their several classes) for listed domestic companies. Investment funds,
+  unit trusts, and companies whose only business goal is to hold shares of other listed companies are
+  excluded. Data are end of year values converted to U.S. dollars using corresponding year-end foreign
+  exchange rates.
 Aggregationmethod: Sum
 Developmentrelevance: 'Stock market size can be measured in various ways, and each may produce a different
   ranking of countries.
@@ -41,20 +56,5 @@ Statisticalconceptandmethodology: 'Market capitalization figures include: shares
   companies and investment companies, regardless of their legal status; and companies admitted to trading
   (i.e., companies whose shares are traded at the exchange but not listed at the exchange).'
 Topic: 'Financial Sector: Capital markets'
-description: Market capitalization (also known as market value) is the share price times the number of
-  shares outstanding (including their several classes) for listed domestic companies. Investment funds,
-  unit trusts, and companies whose only business goal is to hold shares of other listed companies are
-  excluded. Data are end of year values converted to U.S. dollars using corresponding year-end foreign
-  exchange rates.
 economies:
   CAN: Data for TMX Group. Data for years 2008-2012, 2014-2015, 2020 - includes Canadian Securities Exchange
-id: CM.MKT.LCAP.CD
-name: Market capitalization of listed domestic companies (current US$)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Federation of Exchanges database.
-topics:
-- id: '7'
-  value: 'Financial Sector '
-unit: ''

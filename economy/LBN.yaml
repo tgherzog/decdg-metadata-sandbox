@@ -1,3 +1,13 @@
+id: LBN
+iso2Code: LB
+name: Lebanon
+region: MEA
+adminregion: MNA
+capitalCity: Beirut
+longitude: 35.5134
+latitude: 33.8872
+incomelevel: UMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
 CurrencyUnit: Lebanese pound
 ExternaldebtReportingstatus: Actual
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Family Health Survey, 2004
 Latestindustrialdata: '2007'
 Latestpopulationcensus: '1943'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2005'
 LongName: Lebanese Republic
 Nationalaccountsbaseyear: '2010'
 PPPsurveyyear: PPPs are imputed for 2011 and 2017 based on a regression model
@@ -19,13 +28,3 @@ SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: MNA
-capitalCity: Beirut
-id: LBN
-incomelevel: UMC
-iso2Code: LB
-latitude: 33.8872
-lendingtype: IBD
-longitude: 35.5134
-name: Lebanon
-region: MEA

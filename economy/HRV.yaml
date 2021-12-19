@@ -1,3 +1,13 @@
+id: HRV
+iso2Code: HR
+name: Croatia
+region: ECS
+adminregion: ''
+capitalCity: Zagreb
+longitude: 15.9614
+latitude: 45.8069
+incomelevel: HIC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Croatian kuna
 GovernmentAccountingconcept: Budgetary central government
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: World Health Survey, 2003
 Latestindustrialdata: '1996'
 Latestpopulationcensus: '2011'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2013'
 LongName: Republic of Croatia
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -20,13 +29,3 @@ SourceofmostrecentIncomeandexpendituredata: Income survey (IS), 2015
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Zagreb
-id: HRV
-incomelevel: HIC
-iso2Code: HR
-latitude: 45.8069
-lendingtype: IBD
-longitude: 15.9614
-name: Croatia
-region: ECS

@@ -1,3 +1,13 @@
+id: IMN
+iso2Code: IM
+name: Isle of Man
+region: ECS
+adminregion: ''
+capitalCity: Douglas
+longitude: -4.47928
+latitude: 54.1509
+incomelevel: HIC
+lendingtype: LNX
 CurrencyUnit: Pound sterling
 IncomeGroup: High income
 Latestpopulationcensus: '2016'
@@ -11,13 +21,3 @@ SpecialNotes: 'Fiscal year end: March 31; reporting period for national account 
   data published by the Cabinet Office, and are not consistent with data for 2011 and before.'
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Douglas
-id: IMN
-incomelevel: HIC
-iso2Code: IM
-latitude: 54.1509
-lendingtype: LNX
-longitude: -4.47928
-name: Isle of Man
-region: ECS

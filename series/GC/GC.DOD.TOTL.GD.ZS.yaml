@@ -1,3 +1,21 @@
+id: GC.DOD.TOTL.GD.ZS
+name: Central government debt, total (% of GDP)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, Government Finance Statistics Yearbook and data files,
+  and World Bank and OECD GDP estimates.
+topics:
+- id: '3'
+  value: Economy & Growth
+- id: '13'
+  value: 'Public Sector '
+description: Debt is the entire stock of direct government fixed-term contractual obligations to others
+  outstanding on a particular date. It includes domestic and foreign liabilities such as currency and
+  money deposits, securities other than shares, and loans. It is the gross amount of government liabilities
+  reduced by the amount of equity and financial derivatives held by the government. Because debt is a
+  stock rather than a flow, it is measured as of a given date, usually the last day of the fiscal year.
 Aggregationmethod: Weighted average
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
@@ -24,21 +42,3 @@ Statisticalconceptandmethodology: 'The IMF''s Government Finance Statistics Manu
   Government finance statistics are reported in local currency. Many countries report government finance
   data by fiscal year; see country metadata for information on fiscal year end by country.'
 Topic: 'Public Sector: Government finance: Deficit & financing'
-description: Debt is the entire stock of direct government fixed-term contractual obligations to others
-  outstanding on a particular date. It includes domestic and foreign liabilities such as currency and
-  money deposits, securities other than shares, and loans. It is the gross amount of government liabilities
-  reduced by the amount of equity and financial derivatives held by the government. Because debt is a
-  stock rather than a flow, it is measured as of a given date, usually the last day of the fiscal year.
-id: GC.DOD.TOTL.GD.ZS
-name: Central government debt, total (% of GDP)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Monetary Fund, Government Finance Statistics Yearbook and data files,
-  and World Bank and OECD GDP estimates.
-topics:
-- id: '3'
-  value: Economy & Growth
-- id: '13'
-  value: 'Public Sector '
-unit: ''

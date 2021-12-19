@@ -1,3 +1,25 @@
+id: BX.TRF.PWKR.CD.DT
+name: Personal remittances, received (current US$)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank staff estimates based on IMF balance of payments data.
+topics:
+- id: '3'
+  value: Economy & Growth
+- id: '7'
+  value: 'Financial Sector '
+- id: '20'
+  value: External Debt
+description: 'Personal remittances comprise personal transfers and compensation of employees. Personal
+  transfers consist of all current transfers in cash or in kind made or received by resident households
+  to or from nonresident households. Personal transfers thus include all current transfers between resident
+  and nonresident individuals. Compensation of employees refers to the income of border, seasonal, and
+  other short-term workers who are employed in an economy where they are not resident and of residents
+  employed by nonresident entities. Data are the sum of two items defined in the sixth edition of the
+  IMF''s Balance of Payments Manual: personal transfers and compensation of employees. Data are in current
+  U.S. dollars.'
 Aggregationmethod: Sum
 Developmentrelevance: 'Movement of people, most often through migration, is a significant part of global
   integration. Migrants contribute to the economies of both their host country and their country of origin.
@@ -52,42 +74,23 @@ Limitationsandexceptions: 'Remittance transactions have grown in importance over
   these assumptions and also the results in practice.'
 Periodicity: Annual
 Source: World Bank staff estimates based on IMF balance of payments data.
-Statisticalconceptandmethodology: "The two main components of personal remittances, \"personal transfers\"\
-  \ and \"compensation of employees\", are items in the balance of payments (BPM6) framework. Both of\
-  \ these standard components are recorded in the current account. \n\"Personal transfers\", a new item\
-  \ in the Balance of Payments (BPM6) represents a broader definition of worker remittances. Personal\
-  \ transfers include all current transfers in cash or in kind between resident and nonresident individuals,\
-  \ independent of the source of income of the sender (irrespective of whether the sender receives income\
-  \ from labor, entrepreneurial or property income, social benefits, and any other types of transfers;\
-  \ or disposes assets) and the relationship between the households (irrespective of whether they are\
-  \ related or unrelated individuals).\n\nCompensation of employees refers to the income of border, seasonal,\
-  \ and other short-term workers who are employed in an economy where they are not resident and of residents\
-  \ employed by nonresident entities. Compensation of employees represents remuneration in return for\
-  \ the labor input to the production process contributed by an individual in an employer-employee relationship\
-  \ with the enterprise. Compensation of employees is recorded gross and includes amounts paid by the\
-  \ employee as taxes or for other purposes in the economy where the work is performed. Compensation of\
-  \ employees has three main components: wages and salaries in cash, wages and salaries in kind, and employers'\
-  \ social contributions."
+Statisticalconceptandmethodology: 'The two main components of personal remittances, "personal transfers"
+  and "compensation of employees", are items in the balance of payments (BPM6) framework. Both of these
+  standard components are recorded in the current account. 
+
+  "Personal transfers", a new item in the Balance of Payments (BPM6) represents a broader definition of
+  worker remittances. Personal transfers include all current transfers in cash or in kind between resident
+  and nonresident individuals, independent of the source of income of the sender (irrespective of whether
+  the sender receives income from labor, entrepreneurial or property income, social benefits, and any
+  other types of transfers; or disposes assets) and the relationship between the households (irrespective
+  of whether they are related or unrelated individuals).
+
+
+  Compensation of employees refers to the income of border, seasonal, and other short-term workers who
+  are employed in an economy where they are not resident and of residents employed by nonresident entities.
+  Compensation of employees represents remuneration in return for the labor input to the production process
+  contributed by an individual in an employer-employee relationship with the enterprise. Compensation
+  of employees is recorded gross and includes amounts paid by the employee as taxes or for other purposes
+  in the economy where the work is performed. Compensation of employees has three main components: wages
+  and salaries in cash, wages and salaries in kind, and employers'' social contributions.'
 Topic: 'Economic Policy & Debt: Balance of payments: Current account: Transfers'
-description: 'Personal remittances comprise personal transfers and compensation of employees. Personal
-  transfers consist of all current transfers in cash or in kind made or received by resident households
-  to or from nonresident households. Personal transfers thus include all current transfers between resident
-  and nonresident individuals. Compensation of employees refers to the income of border, seasonal, and
-  other short-term workers who are employed in an economy where they are not resident and of residents
-  employed by nonresident entities. Data are the sum of two items defined in the sixth edition of the
-  IMF''s Balance of Payments Manual: personal transfers and compensation of employees. Data are in current
-  U.S. dollars.'
-id: BX.TRF.PWKR.CD.DT
-name: Personal remittances, received (current US$)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank staff estimates based on IMF balance of payments data.
-topics:
-- id: '3'
-  value: Economy & Growth
-- id: '7'
-  value: 'Financial Sector '
-- id: '20'
-  value: External Debt
-unit: ''

@@ -1,3 +1,18 @@
+id: AG.LND.TOTL.K2
+name: Land area (sq. km)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Food and Agriculture Organization, electronic files and web site.
+topics:
+- id: '1'
+  value: 'Agriculture & Rural Development  '
+- id: '6'
+  value: 'Environment '
+description: Land area is a country's total area, excluding area under inland water bodies, national claims
+  to continental shelf, and exclusive economic zones. In most cases the definition of inland water bodies
+  includes major rivers and lakes.
 Aggregationmethod: Sum
 Developmentrelevance: 'Land area is particularly important for understanding an economy''s agricultural
   capacity and the environmental effects of human activity. Innovations in satellite mapping and computer
@@ -24,18 +39,3 @@ Statisticalconceptandmethodology: Total land area does not include inland water 
   and lakes. Variations from year to year may be due to updated or revised data rather than to change
   in area.
 Topic: 'Environment: Land use'
-description: Land area is a country's total area, excluding area under inland water bodies, national claims
-  to continental shelf, and exclusive economic zones. In most cases the definition of inland water bodies
-  includes major rivers and lakes.
-id: AG.LND.TOTL.K2
-name: Land area (sq. km)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Food and Agriculture Organization, electronic files and web site.
-topics:
-- id: '1'
-  value: 'Agriculture & Rural Development  '
-- id: '6'
-  value: 'Environment '
-unit: ''

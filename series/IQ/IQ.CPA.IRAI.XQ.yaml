@@ -1,3 +1,16 @@
+id: IQ.CPA.IRAI.XQ
+name: IDA resource allocation index (1=low to 6=high)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank Group, CPIA database (http://www.worldbank.org/ida).
+topics:
+- id: '13'
+  value: 'Public Sector '
+description: IDA Resource Allocation Index is obtained by calculating the average score for each cluster
+  and then by averaging those scores. For each of 16 criteria countries are rated on a scale of 1 (low)
+  to 6 (high).
 Aggregationmethod: Unweighted average
 Developmentrelevance: 'The International Development Association (IDA) is the part of the World Bank Group
   that helps the poorest countries reduce poverty by providing concessional loans and grants for programs
@@ -49,16 +62,3 @@ Statisticalconceptandmethodology: 'All criteria within each cluster receive equa
   as guideposts. The final ratings are determined following a Bankwide review. The overall numerical IRAI
   score and the separate criteria scores were first publicly disclosed in June 2006.'
 Topic: 'Public Sector: Policy & institutions'
-description: IDA Resource Allocation Index is obtained by calculating the average score for each cluster
-  and then by averaging those scores. For each of 16 criteria countries are rated on a scale of 1 (low)
-  to 6 (high).
-id: IQ.CPA.IRAI.XQ
-name: IDA resource allocation index (1=low to 6=high)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank Group, CPIA database (http://www.worldbank.org/ida).
-topics:
-- id: '13'
-  value: 'Public Sector '
-unit: ''

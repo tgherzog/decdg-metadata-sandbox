@@ -1,3 +1,16 @@
+id: PA.NUS.FCRF
+name: Official exchange rate (LCU per US$, period average)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, International Financial Statistics.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+description: Official exchange rate refers to the exchange rate determined by national authorities or
+  to the rate determined in the legally sanctioned exchange market. It is calculated as an annual average
+  based on monthly averages (local currency units relative to the U.S. dollar).
 Developmentrelevance: In a market-based economy, household, producer, and government choices about resource
   allocation are influenced by relative prices, including the real exchange rate, real wages, real interest
   rates, and other prices in the economy. Relative prices also largely reflect these agents' choices.
@@ -22,9 +35,6 @@ Statisticalconceptandmethodology: The exchange rate is the price of one currency
   and for countries with multiple exchange arrangements, principal rates, secondary rates, and tertiary
   rates.
 Topic: 'Financial Sector: Exchange rates & prices'
-description: Official exchange rate refers to the exchange rate determined by national authorities or
-  to the rate determined in the legally sanctioned exchange market. It is calculated as an annual average
-  based on monthly averages (local currency units relative to the U.S. dollar).
 economies:
   AUT: Data are reported in Austrian schillings.
   BEL: Data are reported in Belgian francs.
@@ -49,13 +59,3 @@ economies:
   SVK: Data are reported in Slovak korunas.
   SVN: Data are reported in Slovenian tolars.
   ZWE: Data are reported in Zimbabwe dollars.
-id: PA.NUS.FCRF
-name: Official exchange rate (LCU per US$, period average)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Monetary Fund, International Financial Statistics.
-topics:
-- id: '7'
-  value: 'Financial Sector '
-unit: ''

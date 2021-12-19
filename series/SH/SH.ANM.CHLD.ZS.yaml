@@ -1,3 +1,16 @@
+id: SH.ANM.CHLD.ZS
+name: Prevalence of anemia among children (% of children ages 6-59 months)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Health Organization, Global Health Observatory Data Repository/World Health
+  Statistics.
+topics:
+- id: '8'
+  value: 'Health '
+description: Prevalence of anemia, children ages 6-59 months, is the percentage of children ages 6-59
+  months whose hemoglobin level is less than 110 grams per liter, adjusted for altitude.
 Aggregationmethod: Weighted average
 Generalcomments: Anemia is defined as a low blood haemoglobin concentration. Anaemia may result from a
   number of causes, with the most significant contributor being iron deficiency. Anaemia resulting from
@@ -10,19 +23,6 @@ Limitationsandexceptions: Data for blood haemoglobin concentrations are still li
   variation across countries and regions.
 Periodicity: Annual
 Source: World Health Organization, Global Health Observatory Data Repository/World Health Statistics.
-Statisticalconceptandmethodology: "Data on anemia are compiled by the WHO, and a statistical model was\
-  \ used to estimate trends. WHO\u2019s hemoglobin threshold concentration in blood was used."
+Statisticalconceptandmethodology: "Data on anemia are compiled by the WHO, and a statistical model was
+   used to estimate trends. WHO\u2019s hemoglobin threshold concentration in blood was used."
 Topic: 'Health: Nutrition'
-description: Prevalence of anemia, children ages 6-59 months, is the percentage of children ages 6-59
-  months whose hemoglobin level is less than 110 grams per liter, adjusted for altitude.
-id: SH.ANM.CHLD.ZS
-name: Prevalence of anemia among children (% of children ages 6-59 months)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Health Organization, Global Health Observatory Data Repository/World Health
-  Statistics.
-topics:
-- id: '8'
-  value: 'Health '
-unit: ''

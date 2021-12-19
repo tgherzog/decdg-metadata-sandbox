@@ -1,3 +1,16 @@
+id: SE.PRM.TCAQ.ZS
+name: Trained teachers in primary education (% of total teachers)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2021.
+topics:
+- id: '4'
+  value: 'Education '
+description: Trained teachers in primary education are the percentage of primary school teachers who have
+  received the minimum organized teacher training (pre-service or in-service) required for teaching in
+  a given country.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Trained teachers refer to teaching force with the necessary pedagogical skills
   to teach and use teaching materials in an effective manner. The share of trained teachers reveals a
@@ -19,27 +32,19 @@ Limitationsandexceptions: This indicator does not take into account differences 
   pedagogical skills through professional experience. In addition, national standards regarding teacher
   qualifications and pedagogical skills may vary.
 Periodicity: Annual
-Source: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2020.
-Statisticalconceptandmethodology: "Share of trained teachers is calculated by dividing the number of trained\
-  \ teachers of the specified level of education by total number of teachers at the same level of education,\
-  \ and multiplying by 100. \n\nData on education are collected by the UNESCO Institute for Statistics\
-  \ from official responses to its annual education survey. All the data are mapped to the International\
-  \ Standard Classification of Education (ISCED) to ensure the comparability of education programs at\
-  \ the international level. The current version was formally adopted by UNESCO Member States in 2011.\
-  \ \n\nThe reference years reflect the school year for which the data are presented. In some countries\
-  \ the school year spans two calendar years (for example, from September 2010 to June 2011); in these\
-  \ cases the reference year refers to the year in which the school year ended (2011 in the example)."
+Source: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2021.
+Statisticalconceptandmethodology: 'Share of trained teachers is calculated by dividing the number of trained
+  teachers of the specified level of education by total number of teachers at the same level of education,
+  and multiplying by 100. 
+
+
+  Data on education are collected by the UNESCO Institute for Statistics from official responses to its
+  annual education survey. All the data are mapped to the International Standard Classification of Education
+  (ISCED) to ensure the comparability of education programs at the international level. The current version
+  was formally adopted by UNESCO Member States in 2011. 
+
+
+  The reference years reflect the school year for which the data are presented. In some countries the
+  school year spans two calendar years (for example, from September 2010 to June 2011); in these cases
+  the reference year refers to the year in which the school year ended (2011 in the example).'
 Topic: 'Education: Inputs'
-description: Trained teachers in primary education are the percentage of primary school teachers who have
-  received the minimum organized teacher training (pre-service or in-service) required for teaching in
-  a given country.
-id: SE.PRM.TCAQ.ZS
-name: Trained teachers in primary education (% of total teachers)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2020.
-topics:
-- id: '4'
-  value: 'Education '
-unit: ''

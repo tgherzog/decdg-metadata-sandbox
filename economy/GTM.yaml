@@ -1,3 +1,13 @@
+id: GTM
+iso2Code: GT
+name: Guatemala
+region: LCN
+adminregion: LAC
+capitalCity: Guatemala City
+longitude: -90.5328
+latitude: 14.6248
+incomelevel: UMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Guatemalan quetzal
 ExternaldebtReportingstatus: Actual
@@ -8,7 +18,6 @@ Latesthouseholdsurvey: Demographic and Health Survey, 2014/15
 Latestindustrialdata: '1988'
 Latestpopulationcensus: '2018'
 Latesttradedata: '2017'
-Latestwaterwithdrawaldata: '2006'
 LongName: Republic of Guatemala
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2013'
@@ -19,13 +28,3 @@ SourceofmostrecentIncomeandexpendituredata: Living Standards Measurement Study S
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: LAC
-capitalCity: Guatemala City
-id: GTM
-incomelevel: UMC
-iso2Code: GT
-latitude: 14.6248
-lendingtype: IBD
-longitude: -90.5328
-name: Guatemala
-region: LCN

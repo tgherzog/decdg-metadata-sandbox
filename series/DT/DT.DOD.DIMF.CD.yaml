@@ -1,3 +1,24 @@
+id: DT.DOD.DIMF.CD
+name: Use of IMF credit (DOD, current US$)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, International Debt Statistics.
+topics:
+- id: '20'
+  value: External Debt
+description: "Use of IMF Credit: Data related to the operations of the IMF are provided by the IMF Treasurer\u2019\
+  s Department. They are converted from special drawing rights into dollars using end-of-period exchange
+   rates for stocks and average-over-the-period exchange rates for flows. IMF trust fund operations under
+   the Enhanced Structural Adjustment Facility, Extended Fund Facility, Poverty Reduction and Growth Facility,
+   and Structural Adjustment Facility (Enhanced Structural Adjustment Facility in 1999) are presented
+   together with all of the IMF\u2019s special facilities (buffer stock, supplemental reserve, compensatory
+   and contingency facilities, oil facilities, and other facilities). SDR allocations are also included
+   in this category. According to the BPM6, SDR allocations are recorded as the incurrence of a debt liability
+   of the member receiving them (because of a requirement to repay the allocation in certain circumstances,
+   and also because interest accrues). This debt item is introduced for the first time this year with
+   historical data starting in 1999."
 Aggregationmethod: Sum
 Dataset: International Debt Statistics
 Developmentrelevance: 'External indebtedness affects a country''s creditworthiness and investor perceptions.
@@ -15,10 +36,10 @@ Developmentrelevance: 'External indebtedness affects a country''s creditworthine
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
 Periodicity: Annual
-Shortdefinition: "Use of IMF credit denotes members\u2019 drawings on the IMF other than amounts drawn\
-  \ against the country\u2019s reserve tranche position. Use of IMF credit includes purchases and drawings\
-  \ under Stand-By, Extended, Structural Adjustment, Enhanced Structural Adjustment, and Systemic Transformation\
-  \ Facility Arrangements as well as Trust Fund loans. SDR allocations are also included in this category."
+Shortdefinition: "Use of IMF credit denotes members\u2019 drawings on the IMF other than amounts drawn
+   against the country\u2019s reserve tranche position. Use of IMF credit includes purchases and drawings
+   under Stand-By, Extended, Structural Adjustment, Enhanced Structural Adjustment, and Systemic Transformation
+   Facility Arrangements as well as Trust Fund loans. SDR allocations are also included in this category."
 Source: World Bank, International Debt Statistics.
 Statisticalconceptandmethodology: 'Data related to the operations of the IMF come from the IMF Treasurer''s
   Department and are converted from special drawing rights (SDRs) into dollars using end-of-period exchange
@@ -39,24 +60,3 @@ Statisticalconceptandmethodology: 'Data related to the operations of the IMF com
   goods, or services and debt with a provision for maintenance of the value of the currency of repayment
   are shown at book value.'
 Topic: 'Economic Policy & Debt: External debt: Debt outstanding'
-description: "Use of IMF Credit: Data related to the operations of the IMF are provided by the IMF Treasurer\u2019\
-  s Department. They are converted from special drawing rights into dollars using end-of-period exchange\
-  \ rates for stocks and average-over-the-period exchange rates for flows. IMF trust fund operations under\
-  \ the Enhanced Structural Adjustment Facility, Extended Fund Facility, Poverty Reduction and Growth\
-  \ Facility, and Structural Adjustment Facility (Enhanced Structural Adjustment Facility in 1999) are\
-  \ presented together with all of the IMF\u2019s special facilities (buffer stock, supplemental reserve,\
-  \ compensatory and contingency facilities, oil facilities, and other facilities). SDR allocations are\
-  \ also included in this category. According to the BPM6, SDR allocations are recorded as the incurrence\
-  \ of a debt liability of the member receiving them (because of a requirement to repay the allocation\
-  \ in certain circumstances, and also because interest accrues). This debt item is introduced for the\
-  \ first time this year with historical data starting in 1999."
-id: DT.DOD.DIMF.CD
-name: Use of IMF credit (DOD, current US$)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank, International Debt Statistics.
-topics:
-- id: '20'
-  value: External Debt
-unit: ''

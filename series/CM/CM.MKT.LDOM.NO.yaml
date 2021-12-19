@@ -1,3 +1,18 @@
+id: CM.MKT.LDOM.NO
+name: Listed domestic companies, total
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Federation of Exchanges database.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+description: Listed domestic companies, including foreign companies which are exclusively listed, are
+  those which have shares listed on an exchange at the end of the year. Investment funds, unit trusts,
+  and companies whose only business goal is to hold shares of other listed companies, such as holding
+  companies and investment companies, regardless of their legal status, are excluded. A company with several
+  classes of shares is counted once. Only companies admitted to listing on the exchange are included.
 Aggregationmethod: Sum
 Developmentrelevance: 'Stock market size can be measured in various ways, and each may produce a different
   ranking of countries.
@@ -37,20 +52,5 @@ Statisticalconceptandmethodology: A company is considered domestic when it is in
   are exclusively listed on an exchange (i.e., the foreign company is not listed on any other exchange
   as defined in the domestic market capitalization definition).
 Topic: 'Financial Sector: Capital markets'
-description: Listed domestic companies, including foreign companies which are exclusively listed, are
-  those which have shares listed on an exchange at the end of the year. Investment funds, unit trusts,
-  and companies whose only business goal is to hold shares of other listed companies, such as holding
-  companies and investment companies, regardless of their legal status, are excluded. A company with several
-  classes of shares is counted once. Only companies admitted to listing on the exchange are included.
 economies:
   CAN: Data for TMX Group. Data for years 2008-2012, 2014-2015, 2020 - includes Canadian Securities Exchange
-id: CM.MKT.LDOM.NO
-name: Listed domestic companies, total
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Federation of Exchanges database.
-topics:
-- id: '7'
-  value: 'Financial Sector '
-unit: ''

@@ -1,3 +1,19 @@
+id: BX.GRT.EXTA.CD.WD
+name: Grants, excluding technical cooperation (BoP, current US$)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, International Debt Statistics, and OECD.
+topics:
+- id: '3'
+  value: Economy & Growth
+- id: '20'
+  value: External Debt
+- id: '2'
+  value: 'Aid Effectiveness '
+description: Grants are defined as legally binding commitments that obligate a specific value of funds
+  available for disbursement for which there is no repayment requirement. Data are in current U.S. dollars.
 Aggregationmethod: Sum
 Developmentrelevance: 'DAC exists to help its members coordinate their development assistance and to encourage
   the expansion and improve the effectiveness of the aggregate resources flowing to recipient economies.
@@ -50,19 +66,3 @@ Statisticalconceptandmethodology: 'Grants are transfers made in cash, goods or s
   The official development assistance (ODA) estimates are published annually at the end of the calendar
   year in International Development Statistics (IDS) database. Data are in current U.S. dollars.'
 Topic: 'Economic Policy & Debt: Balance of payments: Reserves & other items'
-description: Grants are defined as legally binding commitments that obligate a specific value of funds
-  available for disbursement for which there is no repayment requirement. Data are in current U.S. dollars.
-id: BX.GRT.EXTA.CD.WD
-name: Grants, excluding technical cooperation (BoP, current US$)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank, International Debt Statistics, and OECD.
-topics:
-- id: '3'
-  value: Economy & Growth
-- id: '20'
-  value: External Debt
-- id: '2'
-  value: 'Aid Effectiveness '
-unit: ''

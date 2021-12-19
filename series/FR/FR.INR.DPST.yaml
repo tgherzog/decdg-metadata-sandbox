@@ -1,3 +1,16 @@
+id: FR.INR.DPST
+name: Deposit interest rate (%)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, International Financial Statistics and data files.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+description: Deposit interest rate is the rate paid by commercial or similar banks for demand, time, or
+  savings deposits. The terms and conditions attached to these rates differ by country, however, limiting
+  their comparability.
 Developmentrelevance: Both banking and financial systems enhance growth, the main factor in poverty reduction.
   At low levels of economic development commercial banks tend to dominate the financial system, while
   at higher levels domestic stock markets tend to become more active and efficient. The size and mobility
@@ -28,16 +41,3 @@ Statisticalconceptandmethodology: 'Many interest rates coexist in an economy, re
   data in accordance with its Monetary Financial Statistical Manual 2000. The presentation for countries
   that report data in accordance with its International Financial Statistics (IFS) remains the same.'
 Topic: 'Financial Sector: Interest rates'
-description: Deposit interest rate is the rate paid by commercial or similar banks for demand, time, or
-  savings deposits. The terms and conditions attached to these rates differ by country, however, limiting
-  their comparability.
-id: FR.INR.DPST
-name: Deposit interest rate (%)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Monetary Fund, International Financial Statistics and data files.
-topics:
-- id: '7'
-  value: 'Financial Sector '
-unit: ''

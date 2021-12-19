@@ -1,22 +1,36 @@
-Developmentrelevance: "PPP can be used to convert national accounts data, like GDP and its expenditure\
-  \ components, into a common currency, while also eliminating the effect of price level differences between\
-  \ countries. They can also be used to derive price level indexes (PLIs), the ratio of a country\u2019\
-  s PPP to its market exchange rate, to directly compare price levels across countries.\n\nPPPs and the\
-  \ PLIs and real (or PPP-adjusted) expenditures to which they give rise allow for many use-cases, but\
-  \ they are particularly valuable for empirical work involving comparisons of per capita consumption\
-  \ or levels of GDP (or other GDP aggregates) across countries and for the measurement of global poverty\
-  \ and global income inequality. The breadth and depth of ICP data allows its use-cases to cover other\
-  \ areas of economics, including empirical analyses of economic growth, productivity and trade, and even\
-  \ beyond, for instance, to help track global targets such as the UN Sustainable Development Goals related\
-  \ to health, education, energy and emissions and labor. Other applications of ICP data include their\
-  \ use in the construction of indexes, for example cost-of-living measures. Uses-cases can even be extended\
-  \ into the policymaking domain at all levels (global, regional and national) given the increased importance\
-  \ of cross-country benchmarking, among other possibilities.\n\nRecommended uses of PPPs include: To\
-  \ make spatial comparisons of GDP and its expenditure components | To make spatial comparisons of price\
-  \ levels | To group countries by their per capita volume indexes and price level indexes\n\nRecommended\
-  \ uses of PPPs with limitations  include: To analyze changes over time in relative GDP per capita and\
-  \ relative prices | To analyze price convergence | To make spatial comparisons of the cost of living\
-  \ | To use PPPs calculated for GDP and its expenditure components as deflators for other values."
+id: PA.NUS.PPP
+name: PPP conversion factor, GDP (LCU per international $)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Comparison Program, World Bank | World Development Indicators database,
+  World Bank | Eurostat-OECD PPP Programme.
+topics:
+- id: '3'
+  value: Economy & Growth
+description: Purchasing power parity (PPP) conversion factor is a spatial price deflator and currency
+  converter that controls for price level differences between countries, thereby allowing volume comparisons
+  of gross domestic product (GDP) and its expenditure components. This conversion factor is for GDP.
+Developmentrelevance: "PPP can be used to convert national accounts data, like GDP and its expenditure
+   components, into a common currency, while also eliminating the effect of price level differences between
+   countries. They can also be used to derive price level indexes (PLIs), the ratio of a country\u2019\
+  s PPP to its market exchange rate, to directly compare price levels across countries.\n\nPPPs and the
+   PLIs and real (or PPP-adjusted) expenditures to which they give rise allow for many use-cases, but
+   they are particularly valuable for empirical work involving comparisons of per capita consumption or
+   levels of GDP (or other GDP aggregates) across countries and for the measurement of global poverty
+   and global income inequality. The breadth and depth of ICP data allows its use-cases to cover other
+   areas of economics, including empirical analyses of economic growth, productivity and trade, and even
+   beyond, for instance, to help track global targets such as the UN Sustainable Development Goals related
+   to health, education, energy and emissions and labor. Other applications of ICP data include their
+   use in the construction of indexes, for example cost-of-living measures. Uses-cases can even be extended
+   into the policymaking domain at all levels (global, regional and national) given the increased importance
+   of cross-country benchmarking, among other possibilities.\n\nRecommended uses of PPPs include: To make
+   spatial comparisons of GDP and its expenditure components | To make spatial comparisons of price levels
+   | To group countries by their per capita volume indexes and price level indexes\n\nRecommended uses
+   of PPPs with limitations  include: To analyze changes over time in relative GDP per capita and relative
+   prices | To analyze price convergence | To make spatial comparisons of the cost of living | To use
+   PPPs calculated for GDP and its expenditure components as deflators for other values."
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
 Limitationsandexceptions: 'Global PPP estimates provided by ICP are produced by the ICP Global Office
@@ -33,38 +47,24 @@ Limitationsandexceptions: 'Global PPP estimates provided by ICP are produced by 
 Periodicity: Annual
 Source: International Comparison Program, World Bank | World Development Indicators database, World Bank
   | Eurostat-OECD PPP Programme.
-Statisticalconceptandmethodology: "PPPs are both currency conversion factors and spatial price indexes.\
-  \ PPPs convert different currencies to a common currency and, in the process of conversion, equalize\
-  \ their purchasing power by controlling differences in price levels between countries.\n\nTypically,\
-  \ higher income countries have higher price levels, while lower income countries have lower price levels\
-  \ (Balassa-Samuelson effect). Market exchange rate-based cross-country comparisons of GDP at its expenditure\
-  \ components reflect both differences in economic outputs (volumes) and prices. Given the differences\
-  \ in price levels, the size of higher income countries is inflated, while the size of lower income countries\
-  \ is depressed in the comparison. PPP-based cross-country comparisons of GDP at its expenditure components\
-  \ only reflect differences in economic outputs (volume), as PPPs control for price level differences\
-  \ between the countries. Hence, the comparison reflects the real size of the countries.\n\nThe International\
-  \ Comparison Program (ICP) estimates PPPs for the world\u2019s countries. The ICP is conducted as a\
-  \ global partnership of countries, multilateral agencies, and academia. The most recent 2017 ICP comparison\
-  \ covered 176 countries, including 47 Eurostat-OECD countries. For countries that have not participated\
-  \ in ICP comparisons, the PPP are imputed based on a regression model.\n\nICP estimated PPPs cover years\
-  \ from 2011 to 2017. WDI extrapolates 2011 PPPs for years earlier years, and 2017 PPPs for later years.\
-  \ Description of WDI extrapolation approach is available here: https://datahelpdesk.worldbank.org/knowledgebase/articles/665452-how-do-you-extrapolate-the-ppp-conversion-factors\n\
-  \nFor the member countries of Eurostat-OECD PPP Programme, PPP conversion factors are periodically updated\
-  \ based on the organizations\u2019 databases. For Eurostat-OECD PPP Programme, please refer to the following\
-  \ websites.\n(http://www.oecd.org/sdd/prices-ppp/)\n(https://ec.europa.eu/eurostat/web/purchasing-power-parities/overview)\n\
+Statisticalconceptandmethodology: "PPPs are both currency conversion factors and spatial price indexes.
+   PPPs convert different currencies to a common currency and, in the process of conversion, equalize
+   their purchasing power by controlling differences in price levels between countries.\n\nTypically,
+   higher income countries have higher price levels, while lower income countries have lower price levels
+   (Balassa-Samuelson effect). Market exchange rate-based cross-country comparisons of GDP at its expenditure
+   components reflect both differences in economic outputs (volumes) and prices. Given the differences
+   in price levels, the size of higher income countries is inflated, while the size of lower income countries
+   is depressed in the comparison. PPP-based cross-country comparisons of GDP at its expenditure components
+   only reflect differences in economic outputs (volume), as PPPs control for price level differences
+   between the countries. Hence, the comparison reflects the real size of the countries.\n\nThe International
+   Comparison Program (ICP) estimates PPPs for the world\u2019s countries. The ICP is conducted as a global
+   partnership of countries, multilateral agencies, and academia. The most recent 2017 ICP comparison
+   covered 176 countries, including 47 Eurostat-OECD countries. For countries that have not participated
+   in ICP comparisons, the PPP are imputed based on a regression model.\n\nICP estimated PPPs cover years
+   from 2011 to 2017. WDI extrapolates 2011 PPPs for years earlier years, and 2017 PPPs for later years.
+   Description of WDI extrapolation approach is available here: https://datahelpdesk.worldbank.org/knowledgebase/articles/665452-how-do-you-extrapolate-the-ppp-conversion-factors\n\
+  \nFor the member countries of Eurostat-OECD PPP Programme, PPP conversion factors are periodically updated
+   based on the organizations\u2019 databases. For Eurostat-OECD PPP Programme, please refer to the following
+   websites.\n(http://www.oecd.org/sdd/prices-ppp/)\n(https://ec.europa.eu/eurostat/web/purchasing-power-parities/overview)\n\
   \nFor more information on the ICP and PPPs, please refer to the ICP website at https://www.worldbank.org/en/programs/icp."
 Topic: 'Economic Policy & Debt: Purchasing power parity'
-description: Purchasing power parity (PPP) conversion factor is a spatial price deflator and currency
-  converter that controls for price level differences between countries, thereby allowing volume comparisons
-  of gross domestic product (GDP) and its expenditure components. This conversion factor is for GDP.
-id: PA.NUS.PPP
-name: PPP conversion factor, GDP (LCU per international $)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Comparison Program, World Bank | World Development Indicators database,
-  World Bank | Eurostat-OECD PPP Programme.
-topics:
-- id: '3'
-  value: Economy & Growth
-unit: ''

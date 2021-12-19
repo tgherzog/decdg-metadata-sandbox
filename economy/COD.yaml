@@ -1,3 +1,13 @@
+id: COD
+iso2Code: CD
+name: Congo, Dem. Rep.
+region: SSF
+adminregion: SSA
+capitalCity: Kinshasa
+longitude: 15.3222
+latitude: -4.325
+incomelevel: LIC
+lendingtype: IDX
 Alternativeconversionfactor: "1999\u20132001"
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Congolese franc
@@ -6,7 +16,6 @@ GovernmentAccountingconcept: Budgetary central government
 IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
 IncomeGroup: Low income
 Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2017/18
-Latestwaterwithdrawaldata: '2005'
 LongName: Democratic Republic of the Congo
 Nationalaccountsbaseyear: '2005'
 Othergroups: HIPC
@@ -15,13 +24,3 @@ Region: Sub-Saharan Africa
 SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: 1-2-3 survey (1-2-3), 2012/13
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
-adminregion: SSA
-capitalCity: Kinshasa
-id: COD
-incomelevel: LIC
-iso2Code: CD
-latitude: -4.325
-lendingtype: IDX
-longitude: 15.3222
-name: Congo, Dem. Rep.
-region: SSF

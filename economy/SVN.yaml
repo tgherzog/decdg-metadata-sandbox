@@ -1,3 +1,13 @@
+id: SVN
+iso2Code: SI
+name: Slovenia
+region: ECS
+adminregion: ''
+capitalCity: Ljubljana
+longitude: 14.5044
+latitude: 46.0546
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Euro
 GovernmentAccountingconcept: Consolidated central government
@@ -8,7 +18,6 @@ Latesthouseholdsurvey: World Health Survey, 2003
 Latestindustrialdata: '2013'
 Latestpopulationcensus: 2018. Population figures compiled from administrative registers.
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2013'
 LongName: Republic of Slovenia
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -24,13 +33,3 @@ SpecialNotes: 'A simple multiplier is used to convert the national currencies of
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Ljubljana
-id: SVN
-incomelevel: HIC
-iso2Code: SI
-latitude: 46.0546
-lendingtype: LNX
-longitude: 14.5044
-name: Slovenia
-region: ECS

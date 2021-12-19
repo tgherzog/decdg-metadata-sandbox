@@ -1,3 +1,13 @@
+id: SYR
+iso2Code: SY
+name: Syrian Arab Republic
+region: MEA
+adminregion: MNA
+capitalCity: Damascus
+longitude: 36.3119
+latitude: 33.5146
+incomelevel: LIC
+lendingtype: IDX
 Alternativeconversionfactor: "1970\u20132010"
 BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
 CurrencyUnit: Syrian pound
@@ -9,20 +19,9 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2006
 Latestindustrialdata: '2005'
 Latestpopulationcensus: '2004'
 Latesttradedata: '2010'
-Latestwaterwithdrawaldata: '2005'
 LongName: Syrian Arab Republic
 Nationalaccountsbaseyear: '2000'
 Region: Middle East & North Africa
-SNApricevaluation: Value added at basic prices (VAB)
+SNApricevaluation: Value added at producer prices (VAP)
 SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2007
-SystemofNationalAccounts: Country uses the 1968 System of National Accounts methodology
-adminregion: MNA
-capitalCity: Damascus
-id: SYR
-incomelevel: LIC
-iso2Code: SY
-latitude: 33.5146
-lendingtype: IDX
-longitude: 36.3119
-name: Syrian Arab Republic
-region: MEA
+SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology

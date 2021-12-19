@@ -1,3 +1,20 @@
+id: SL.TLF.0714.FE.ZS
+name: Children in employment, female (% of female children ages 7-14)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Understanding Children's Work project based on data from ILO, UNICEF and the World
+  Bank.
+topics:
+- id: '10'
+  value: Social Protection & Labor
+- id: '17'
+  value: Gender
+- id: '15'
+  value: 'Social Development '
+description: Children in employment refer to children involved in economic activity for at least one hour
+  in the reference week of the survey.
 Developmentrelevance: In most countries more boys are involved in employment, or the gender difference
   is small. However, girls are often more present in hidden or underreported forms of employment such
   as domestic service, and in almost all societies girls bear greater responsibility for household chores
@@ -38,20 +55,3 @@ Statisticalconceptandmethodology: 'Data are from household surveys by the Intern
   Country surveys define the ages for child labor as 5-17. The data here have been recalculated to present
   statistics for children ages 7-14.'
 Topic: 'Social Protection & Labor: Economic activity'
-description: Children in employment refer to children involved in economic activity for at least one hour
-  in the reference week of the survey.
-id: SL.TLF.0714.FE.ZS
-name: Children in employment, female (% of female children ages 7-14)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Understanding Children's Work project based on data from ILO, UNICEF and the World
-  Bank.
-topics:
-- id: '10'
-  value: Social Protection & Labor
-- id: '17'
-  value: Gender
-- id: '15'
-  value: 'Social Development '
-unit: ''

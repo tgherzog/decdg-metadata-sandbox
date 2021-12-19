@@ -1,3 +1,13 @@
+id: SUR
+iso2Code: SR
+name: Suriname
+region: LCN
+adminregion: LAC
+capitalCity: Paramaribo
+longitude: -55.1679
+latitude: 5.8232
+incomelevel: UMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Suriname dollar
 GovernmentAccountingconcept: Budgetary central government
@@ -7,7 +17,6 @@ Latestagriculturalcensus: 2008-2009
 Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2018
 Latestpopulationcensus: '2012'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2006'
 LongName: Republic of Suriname
 Nationalaccountsbaseyear: '2015'
 PPPsurveyyear: 2017, 2011
@@ -17,13 +26,3 @@ SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: LAC
-capitalCity: Paramaribo
-id: SUR
-incomelevel: UMC
-iso2Code: SR
-latitude: 5.8232
-lendingtype: IBD
-longitude: -55.1679
-name: Suriname
-region: LCN

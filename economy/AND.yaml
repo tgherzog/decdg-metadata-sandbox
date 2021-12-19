@@ -1,3 +1,14 @@
+id: AND
+iso2Code: AD
+name: Andorra
+region: ECS
+adminregion: ''
+capitalCity: Andorra la Vella
+longitude: 1.5218
+latitude: 42.5075
+incomelevel: HIC
+lendingtype: LNX
+BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Euro
 IncomeGroup: High income
 Latestpopulationcensus: 2011. Population figures compiled from administrative registers.
@@ -9,13 +20,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Andorra la Vella
-id: AND
-incomelevel: HIC
-iso2Code: AD
-latitude: 42.5075
-lendingtype: LNX
-longitude: 1.5218
-name: Andorra
-region: ECS

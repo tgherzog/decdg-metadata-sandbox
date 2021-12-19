@@ -1,13 +1,13 @@
+id: NAC
+iso2Code: XU
+name: North America
+region: NA
+adminregion: ''
+capitalCity: ''
+longitude: ''
+latitude: ''
+incomelevel: NA
+lendingtype: ''
 LongName: North America
 SpecialNotes: North America regional aggregate. There are no economies in North America classified as
   low or middle income.
-adminregion: ''
-capitalCity: ''
-id: NAC
-incomelevel: NA
-iso2Code: XU
-latitude: ''
-lendingtype: ''
-longitude: ''
-name: North America
-region: NA

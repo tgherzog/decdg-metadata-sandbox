@@ -1,3 +1,13 @@
+id: ARE
+iso2Code: AE
+name: United Arab Emirates
+region: MEA
+adminregion: ''
+capitalCity: Abu Dhabi
+longitude: 54.3705
+latitude: 24.4764
+incomelevel: HIC
+lendingtype: LNX
 CurrencyUnit: U.A.E. dirham
 GovernmentAccountingconcept: Consolidated central government
 IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
@@ -7,7 +17,6 @@ Latesthouseholdsurvey: World Health Survey, 2003
 Latestindustrialdata: '1985'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2005'
 LongName: United Arab Emirates
 Nationalaccountsbaseyear: '2010'
 PPPsurveyyear: Annual estimation for 2011-2017
@@ -16,13 +25,3 @@ SNApricevaluation: Value added at producer prices (VAP)
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Abu Dhabi
-id: ARE
-incomelevel: HIC
-iso2Code: AE
-latitude: 24.4764
-lendingtype: LNX
-longitude: 54.3705
-name: United Arab Emirates
-region: MEA

@@ -1,3 +1,13 @@
+id: RWA
+iso2Code: RW
+name: Rwanda
+region: SSF
+adminregion: SSA
+capitalCity: Kigali
+longitude: 30.0587
+latitude: -1.95325
+incomelevel: LIC
+lendingtype: IDX
 Alternativeconversionfactor: '1994'
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Rwandan franc
@@ -10,7 +20,6 @@ Latesthouseholdsurvey: Demographic and Health Survey, 2019/20
 Latestindustrialdata: '1999'
 Latestpopulationcensus: '2012'
 Latesttradedata: '2016'
-Latestwaterwithdrawaldata: '2000'
 LongName: Republic of Rwanda
 Nationalaccountsbaseyear: '2017'
 Othergroups: HIPC
@@ -20,13 +29,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2016/17
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SSA
-capitalCity: Kigali
-id: RWA
-incomelevel: LIC
-iso2Code: RW
-latitude: -1.95325
-lendingtype: IDX
-longitude: 30.0587
-name: Rwanda
-region: SSF

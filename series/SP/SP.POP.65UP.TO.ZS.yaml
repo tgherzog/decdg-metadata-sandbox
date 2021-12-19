@@ -1,3 +1,16 @@
+id: SP.POP.65UP.TO.ZS
+name: Population ages 65 and above (% of total population)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'World Bank staff estimates based on age/sex distributions of United Nations Population
+  Division''s World Population Prospects: 2019 Revision.'
+topics:
+- id: '8'
+  value: 'Health '
+description: Population ages 65 and above as a percentage of the total population. Population is based
+  on the de facto definition of population, which counts all residents regardless of legal status or citizenship.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Patterns of development in a country are partly determined by the age composition
   of its population. Different age groups have different impacts on both the environment and on infrastructure
@@ -25,22 +38,9 @@ Statisticalconceptandmethodology: Age structure in the World Bank's population e
   regardless of legal status or citizenship. The values shown are midyear estimates. For more information
   see metadata for total population (SP.POP.TOTL).
 Topic: 'Health: Population: Structure'
-description: Population ages 65 and above as a percentage of the total population. Population is based
-  on the de facto definition of population, which counts all residents regardless of legal status or citizenship.
 economies:
   AUS: 'Including Other Territories comprising Jervis Bay Territory, Christmas Island and the Cocos (Keeling)
     Islands. '
   CHI: Refers to Guernsey, and Jersey.
   CHN: Excluding Hong Kong SAR, China; Macao SAR, China; Taiwan, China.
   CYP: Including Northern-Cyprus.
-id: SP.POP.65UP.TO.ZS
-name: Population ages 65 and above (% of total population)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: 'World Bank staff estimates based on age/sex distributions of United Nations Population
-  Division''s World Population Prospects: 2019 Revision.'
-topics:
-- id: '8'
-  value: 'Health '
-unit: ''

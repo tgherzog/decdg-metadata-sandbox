@@ -1,3 +1,14 @@
+id: TCA
+iso2Code: TC
+name: Turks and Caicos Islands
+region: LCN
+adminregion: ''
+capitalCity: Grand Turk
+longitude: -71.141389
+latitude: 21.4602778
+incomelevel: HIC
+lendingtype: LNX
+BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: U.S. dollar
 IncomeGroup: High income
 Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019/20
@@ -10,13 +21,3 @@ Region: Latin America & Caribbean
 SNApricevaluation: Value added at basic prices (VAB)
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Grand Turk
-id: TCA
-incomelevel: HIC
-iso2Code: TC
-latitude: 21.4602778
-lendingtype: LNX
-longitude: -71.141389
-name: Turks and Caicos Islands
-region: LCN

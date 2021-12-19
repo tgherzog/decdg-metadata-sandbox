@@ -1,3 +1,13 @@
+id: GHA
+iso2Code: GH
+name: Ghana
+region: SSF
+adminregion: SSA
+capitalCity: Accra
+longitude: -0.20795
+latitude: 5.57045
+incomelevel: LMC
+lendingtype: IDX
 Alternativeconversionfactor: "1973\u201387"
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: New Ghanaian cedi
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Malaria Indicator Survey, 2019
 Latestindustrialdata: '2003'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2000'
 LongName: Republic of Ghana
 Nationalaccountsbaseyear: '2013'
 Othergroups: HIPC
@@ -19,13 +28,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Living Standards Measurement Study Survey (LSMS), 2017
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SSA
-capitalCity: Accra
-id: GHA
-incomelevel: LMC
-iso2Code: GH
-latitude: 5.57045
-lendingtype: IDX
-longitude: -0.20795
-name: Ghana
-region: SSF

@@ -1,3 +1,13 @@
+id: BLZ
+iso2Code: BZ
+name: Belize
+region: LCN
+adminregion: LAC
+capitalCity: Belmopan
+longitude: -88.7713
+latitude: 17.2534
+incomelevel: LMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Belize dollar
 ExternaldebtReportingstatus: Actual
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2015/16
 Latestindustrialdata: '1992'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2000'
 LongName: Belize
 Nationalaccountsbaseyear: '2000'
 PPPsurveyyear: 2017, 2011
@@ -18,13 +27,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Labor force survey (LFS), 1999
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: LAC
-capitalCity: Belmopan
-id: BLZ
-incomelevel: LMC
-iso2Code: BZ
-latitude: 17.2534
-lendingtype: IBD
-longitude: -88.7713
-name: Belize
-region: LCN

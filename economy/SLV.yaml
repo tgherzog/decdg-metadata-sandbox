@@ -1,3 +1,13 @@
+id: SLV
+iso2Code: SV
+name: El Salvador
+region: LCN
+adminregion: LAC
+capitalCity: San Salvador
+longitude: -89.2073
+latitude: 13.7034
+incomelevel: LMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: U.S. dollar
 ExternaldebtReportingstatus: Actual
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2014
 Latestindustrialdata: '1998'
 Latestpopulationcensus: '2007'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2005'
 LongName: Republic of El Salvador
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2014'
@@ -20,13 +29,3 @@ SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: LAC
-capitalCity: San Salvador
-id: SLV
-incomelevel: LMC
-iso2Code: SV
-latitude: 13.7034
-lendingtype: IBD
-longitude: -89.2073
-name: El Salvador
-region: LCN

@@ -1,3 +1,21 @@
+id: AG.YLD.CREL.KG
+name: Cereal yield (kg per hectare)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Food and Agriculture Organization, electronic files and web site.
+topics:
+- id: '1'
+  value: 'Agriculture & Rural Development  '
+- id: '19'
+  value: Climate Change
+description: Cereal yield, measured as kilograms per hectare of harvested land, includes wheat, rice,
+  maize, barley, oats, rye, millet, sorghum, buckwheat, and mixed grains. Production data on cereals relate
+  to crops harvested for dry grain only. Cereal crops harvested for hay or harvested green for food, feed,
+  or silage and those used for grazing are excluded. The FAO allocates production data to the calendar
+  year in which the bulk of the harvest took place. Most of a crop harvested near the end of a year will
+  be used in the following year.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'In developed countries, cereal crops are universally machine-harvested, typically
   using a combine harvester, which cuts, threshes, and winnows the grain during a single pass across the
@@ -55,21 +73,3 @@ Statisticalconceptandmethodology: A cereal is a grass cultivated for the edible 
   on cereals relate to crops harvested for dry grain only. Cereal crops harvested for hay or harvested
   green for food, feed, or silage and those used for grazing are excluded.
 Topic: 'Environment: Agricultural production'
-description: Cereal yield, measured as kilograms per hectare of harvested land, includes wheat, rice,
-  maize, barley, oats, rye, millet, sorghum, buckwheat, and mixed grains. Production data on cereals relate
-  to crops harvested for dry grain only. Cereal crops harvested for hay or harvested green for food, feed,
-  or silage and those used for grazing are excluded. The FAO allocates production data to the calendar
-  year in which the bulk of the harvest took place. Most of a crop harvested near the end of a year will
-  be used in the following year.
-id: AG.YLD.CREL.KG
-name: Cereal yield (kg per hectare)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Food and Agriculture Organization, electronic files and web site.
-topics:
-- id: '1'
-  value: 'Agriculture & Rural Development  '
-- id: '19'
-  value: Climate Change
-unit: ''

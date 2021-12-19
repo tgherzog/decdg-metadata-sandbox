@@ -1,3 +1,17 @@
+id: SP.MTR.1519.ZS
+name: Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Demographic and Health Surveys.
+topics:
+- id: '8'
+  value: 'Health '
+- id: '17'
+  value: Gender
+description: Teenage mothers are the percentage of women ages 15-19 who already have children or are currently
+  pregnant.
 Aggregationmethod: Weighted average
 Developmentrelevance: Having a child during the teenage years limits girls' opportunities for better education,
   jobs, and income. Pregnancy is more likely to be unintended during the teenage years, and births are
@@ -12,17 +26,3 @@ License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
 Periodicity: Annual
 Source: Demographic and Health Surveys.
 Topic: 'Health: Reproductive health'
-description: Teenage mothers are the percentage of women ages 15-19 who already have children or are currently
-  pregnant.
-id: SP.MTR.1519.ZS
-name: Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Demographic and Health Surveys.
-topics:
-- id: '8'
-  value: 'Health '
-- id: '17'
-  value: Gender
-unit: ''

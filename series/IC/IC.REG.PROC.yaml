@@ -1,3 +1,18 @@
+id: IC.REG.PROC
+name: Start-up procedures to register a business (number)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'World Bank, Doing Business project (http://www.doingbusiness.org/). NOTE: Doing Business
+  has been discontinued as of 9/16/2021. For more information: https://bit.ly/3CLCbme'
+topics:
+- id: '12'
+  value: Private Sector
+description: Start-up procedures are those required to start a business, including interactions to obtain
+  necessary permits and licenses and to complete all inscriptions, verifications, and notifications to
+  start operations. Data are for businesses with specific characteristics of ownership, size, and type
+  of production.
 Aggregationmethod: Unweighted average
 Developmentrelevance: 'The economic health of a country is measured not only in macroeconomic terms but
   also by other factors that shape daily economic activity such as laws, regulations, and institutional
@@ -35,7 +50,8 @@ Limitationsandexceptions: The Doing Business methodology has limitations that sh
   of the standardized case. Fifth, the methodology assumes that a business has full information on what
   is required and does not waste time when completing procedures.
 Periodicity: Annual
-Source: World Bank, Doing Business project (http://www.doingbusiness.org/).
+Source: 'World Bank, Doing Business project (http://www.doingbusiness.org/). NOTE: Doing Business has
+  been discontinued as of 9/16/2021. For more information: https://bit.ly/3CLCbme'
 Statisticalconceptandmethodology: 'Data are collected by the World Bank with a standardized survey that
   uses a simple business case to ensure comparability across economies and over time - with assumptions
   about the legal form of the business, its size, its location, and nature of its operation. Surveys are
@@ -55,17 +71,3 @@ Statisticalconceptandmethodology: 'Data are collected by the World Bank with a s
   where applicable. The data from surveys are subjected to numerous tests for robustness, which lead to
   revision or expansion of the information collected.'
 Topic: 'Private Sector & Trade: Business environment'
-description: Start-up procedures are those required to start a business, including interactions to obtain
-  necessary permits and licenses and to complete all inscriptions, verifications, and notifications to
-  start operations. Data are for businesses with specific characteristics of ownership, size, and type
-  of production.
-id: IC.REG.PROC
-name: Start-up procedures to register a business (number)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank, Doing Business project (http://www.doingbusiness.org/).
-topics:
-- id: '12'
-  value: Private Sector
-unit: ''

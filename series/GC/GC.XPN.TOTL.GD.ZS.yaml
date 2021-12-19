@@ -1,3 +1,19 @@
+id: GC.XPN.TOTL.GD.ZS
+name: Expense (% of GDP)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, Government Finance Statistics Yearbook and data files,
+  and World Bank and OECD GDP estimates.
+topics:
+- id: '3'
+  value: Economy & Growth
+- id: '13'
+  value: 'Public Sector '
+description: Expense is cash payments for operating activities of the government in providing goods and
+  services. It includes compensation of employees (such as wages and salaries), interest and subsidies,
+  grants, social benefits, and other expenses such as rent and dividends.
 Aggregationmethod: Weighted average
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
@@ -24,19 +40,3 @@ Statisticalconceptandmethodology: 'The IMF''s Government Finance Statistics Manu
   Government finance statistics are reported in local currency. Many countries report government finance
   data by fiscal year; see country metadata for information on fiscal year end by country.'
 Topic: 'Public Sector: Government finance: Expense'
-description: Expense is cash payments for operating activities of the government in providing goods and
-  services. It includes compensation of employees (such as wages and salaries), interest and subsidies,
-  grants, social benefits, and other expenses such as rent and dividends.
-id: GC.XPN.TOTL.GD.ZS
-name: Expense (% of GDP)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Monetary Fund, Government Finance Statistics Yearbook and data files,
-  and World Bank and OECD GDP estimates.
-topics:
-- id: '3'
-  value: Economy & Growth
-- id: '13'
-  value: 'Public Sector '
-unit: ''

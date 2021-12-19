@@ -1,3 +1,19 @@
+id: SH.TBS.INCD
+name: Incidence of tuberculosis (per 100,000 people)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Health Organization, Global Tuberculosis Report.
+topics:
+- id: '8'
+  value: 'Health '
+- id: '2'
+  value: 'Aid Effectiveness '
+description: Incidence of tuberculosis is the estimated number of new and relapse tuberculosis cases arising
+  in a given year, expressed as the rate per 100,000 population. All forms of TB are included, including
+  cases in people living with HIV. Estimates for all years are recalculated as new information becomes
+  available and techniques are refined, so they may differ from those published previously.
 Aggregationmethod: Weighted average
 Generalcomments: 'Aggregate data by groups are computed based on the groupings for the World Bank fiscal
   year in which the data was released by the World Health Organization.
@@ -26,19 +42,3 @@ Statisticalconceptandmethodology: Tuberculosis is one of the main causes of adul
   as a result of cases among immigrants. Since tuberculosis incidence cannot be directly measured, estimates
   are obtained by eliciting expert opinion or are derived from measurements of prevalence or mortality.
 Topic: 'Health: Risk factors'
-description: Incidence of tuberculosis is the estimated number of new and relapse tuberculosis cases arising
-  in a given year, expressed as the rate per 100,000 population. All forms of TB are included, including
-  cases in people living with HIV. Estimates for all years are recalculated as new information becomes
-  available and techniques are refined, so they may differ from those published previously.
-id: SH.TBS.INCD
-name: Incidence of tuberculosis (per 100,000 people)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Health Organization, Global Tuberculosis Report.
-topics:
-- id: '8'
-  value: 'Health '
-- id: '2'
-  value: 'Aid Effectiveness '
-unit: ''

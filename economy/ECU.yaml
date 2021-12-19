@@ -1,3 +1,13 @@
+id: ECU
+iso2Code: EC
+name: Ecuador
+region: LCN
+adminregion: LAC
+capitalCity: Quito
+longitude: -78.5243
+latitude: -0.229498
+incomelevel: UMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: U.S. dollar
 ExternaldebtReportingstatus: Actual
@@ -7,7 +17,6 @@ Latesthouseholdsurvey: Reproductive Health Survey, 2004
 Latestindustrialdata: '2008'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2005'
 LongName: Republic of Ecuador
 Nationalaccountsbaseyear: '2007'
 PPPsurveyyear: 2017, 2011
@@ -16,13 +25,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2018
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
-adminregion: LAC
-capitalCity: Quito
-id: ECU
-incomelevel: UMC
-iso2Code: EC
-latitude: -0.229498
-lendingtype: IBD
-longitude: -78.5243
-name: Ecuador
-region: LCN

@@ -1,3 +1,15 @@
+id: EG.USE.COMM.FO.ZS
+name: Fossil fuel energy consumption (% of total)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: "IEA Statistics \xA9 OECD/IEA 2014 (http://www.iea.org/stats/index.asp), subject to
+   https://www.iea.org/t&c/termsandconditions/"
+topics:
+- id: '5'
+  value: 'Energy & Mining '
+description: Fossil fuel comprises coal, oil, petroleum, and natural gas products.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Fossil fuels are non-renewable resources because they take millions of years to
   form, and reserves are being depleted much faster than new ones are being made. In developing economies
@@ -34,15 +46,3 @@ Statisticalconceptandmethodology: 'Energy data are compiled by the International
   of 33 percent is assumed for converting nuclear electricity into oil equivalents and 100 percent efficiency
   for converting hydroelectric power.'
 Topic: 'Environment: Energy production & use'
-description: Fossil fuel comprises coal, oil, petroleum, and natural gas products.
-id: EG.USE.COMM.FO.ZS
-name: Fossil fuel energy consumption (% of total)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: "IEA Statistics \xA9 OECD/IEA 2014 (http://www.iea.org/stats/index.asp), subject to\
-  \ https://www.iea.org/t&c/termsandconditions/"
-topics:
-- id: '5'
-  value: 'Energy & Mining '
-unit: ''

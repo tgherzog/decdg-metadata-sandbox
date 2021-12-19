@@ -1,3 +1,19 @@
+id: TX.VAL.TECH.MF.ZS
+name: High-technology exports (% of manufactured exports)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: United Nations, Comtrade database through the WITS platform.
+topics:
+- id: '12'
+  value: Private Sector
+- id: '14'
+  value: 'Science & Technology '
+- id: '21'
+  value: Trade
+description: High-technology exports are products with high R&D intensity, such as in aerospace, computers,
+  pharmaceuticals, scientific instruments, and electrical machinery.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'The OECD has developed a four-way classification of exports: high, medium-high,
   medium-low and low-technology. The classification is based on the importance of expenditures on research
@@ -64,19 +80,3 @@ Statisticalconceptandmethodology: 'The method for determining high-technology ex
 
   9 Armament 891'
 Topic: 'Infrastructure: Technology'
-description: High-technology exports are products with high R&D intensity, such as in aerospace, computers,
-  pharmaceuticals, scientific instruments, and electrical machinery.
-id: TX.VAL.TECH.MF.ZS
-name: High-technology exports (% of manufactured exports)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: United Nations, Comtrade database through the WITS platform.
-topics:
-- id: '12'
-  value: Private Sector
-- id: '14'
-  value: 'Science & Technology '
-- id: '21'
-  value: Trade
-unit: ''

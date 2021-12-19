@@ -1,3 +1,13 @@
+id: PSE
+iso2Code: PS
+name: West Bank and Gaza
+region: MEA
+adminregion: MNA
+capitalCity: ''
+longitude: ''
+latitude: ''
+incomelevel: LMC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Israeli new shekel
 GovernmentAccountingconcept: Consolidated central government
@@ -8,21 +18,9 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019/20
 Latestindustrialdata: '2013'
 Latestpopulationcensus: '2017'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2005'
 LongName: West Bank and Gaza
 Nationalaccountsbaseyear: '2015'
 PPPsurveyyear: Annual estimation for 2011-2017
 Region: Middle East & North Africa
-SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2016/17
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
-adminregion: MNA
-capitalCity: ''
-id: PSE
-incomelevel: LMC
-iso2Code: PS
-latitude: ''
-lendingtype: LNX
-longitude: ''
-name: West Bank and Gaza
-region: MEA

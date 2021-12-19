@@ -1,3 +1,16 @@
+id: SH.DYN.NMRT
+name: Mortality rate, neonatal (per 1,000 live births)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF,
+  WHO, World Bank, UN DESA Population Division) at www.childmortality.org.
+topics:
+- id: '8'
+  value: 'Health '
+description: Neonatal mortality rate is the number of neonates dying before reaching 28 days of age, per
+  1,000 live births in a given year.
 Aggregationmethod: Weighted average
 Developmentrelevance: Mortality rates for different age groups (infants, children, and adults) and overall
   mortality indicators (life expectancy at birth or survival to a given age) are important indicators
@@ -43,16 +56,3 @@ Statisticalconceptandmethodology: 'The main sources of mortality data are vital 
   to reconcile differences. The method uses statistical models to obtain a best estimate trend line by
   fitting a country-specific regression model of mortality rates against their reference dates.'
 Topic: 'Health: Mortality'
-description: Neonatal mortality rate is the number of neonates dying before reaching 28 days of age, per
-  1,000 live births in a given year.
-id: SH.DYN.NMRT
-name: Mortality rate, neonatal (per 1,000 live births)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF,
-  WHO, World Bank, UN DESA Population Division) at www.childmortality.org.
-topics:
-- id: '8'
-  value: 'Health '
-unit: ''

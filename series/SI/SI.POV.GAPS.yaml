@@ -1,3 +1,21 @@
+id: SI.POV.GAPS
+name: Poverty gap at $1.90 a day (2011 PPP) (%)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, Development Research Group. Data are based on primary household survey
+  data obtained from government statistical agencies and World Bank country departments. Data for high-income
+  economies are from the Luxembourg Income Study database. For more information and methodology, please
+  see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).
+topics:
+- id: '11'
+  value: 'Poverty '
+description: Poverty gap at $1.90 a day (2011 PPP) is the mean shortfall in income or consumption from
+  the poverty line $1.90 a day (counting the nonpoor as having zero shortfall), expressed as a percentage
+  of the poverty line. This measure reflects the depth of poverty as well as its incidence. As a result
+  of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty
+  rates reported in earlier editions.
 Developmentrelevance: 'The World Bank Group is committed to reducing extreme poverty to 3 percent or less,
   globally, by 2030. Monitoring poverty is important on the global development agenda as well as on the
   national development agenda of many countries. The World Bank produced its first global poverty estimates
@@ -14,36 +32,41 @@ Developmentrelevance: 'The World Bank Group is committed to reducing extreme pov
   different regions and countries. The country dashboards display trends in poverty measures based on
   the national poverty lines alongside the internationally comparable estimates, produced from and consistent
   with PovcalNet.'
-Generalcomments: "The World Bank\u2019s internationally comparable poverty monitoring database now draws\
-  \ on income or detailed consumption data from more than one thousand six hundred household surveys across\
-  \ 164 countries in six regions and 25 other high income countries (industrialized economies). While\
-  \ income distribution data are published for all countries with data available, poverty data are published\
-  \ for low- and middle-income countries and countries eligible to receive loans from the World Bank (such\
-  \ as Chile) and recently graduated countries (such as Estonia) only. The aggregated numbers for low-\
-  \ and middle-income countries correspond to the totals of 6 regions in PovcalNet, which include low-\
-  \ and middle-income countries and countries eligible to receive loans from the World Bank (such as Chile)\
-  \ and recently graduated countries (such as Estonia). See PovcalNet (http://iresearch.worldbank.org/PovcalNet/WhatIsNew.aspx)\
-  \ for definitions of geographical regions and industrialized countries."
+Generalcomments: "The World Bank\u2019s internationally comparable poverty monitoring database now draws
+   on income or detailed consumption data from more than one thousand six hundred household surveys across
+   164 countries in six regions and 25 other high income countries (industrialized economies). While income
+   distribution data are published for all countries with data available, poverty data are published for
+   low- and middle-income countries and countries eligible to receive loans from the World Bank (such
+   as Chile) and recently graduated countries (such as Estonia) only. The aggregated numbers for low-
+   and middle-income countries correspond to the totals of 6 regions in PovcalNet, which include low-
+   and middle-income countries and countries eligible to receive loans from the World Bank (such as Chile)
+   and recently graduated countries (such as Estonia). See PovcalNet (http://iresearch.worldbank.org/PovcalNet/WhatIsNew.aspx)
+   for definitions of geographical regions and industrialized countries."
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
-Limitationsandexceptions: "Despite progress in the last decade, the challenges of measuring poverty remain.\
-  \ The timeliness, frequency, quality, and comparability of household surveys need to increase substantially,\
-  \ particularly in the poorest countries. The availability and quality of poverty monitoring data remains\
-  \ low in small states, countries with fragile situations, and low-income countries and even some middle-income\
-  \ countries. The low frequency and lack of comparability of the data available in some countries create\
-  \ uncertainty over the magnitude of poverty reduction. \n\nBesides the frequency and timeliness of survey\
-  \ data, other data quality issues arise in measuring household living standards. The surveys ask detailed\
-  \ questions on sources of income and how it was spent, which must be carefully recorded by trained personnel.\
-  \ Income is generally more difficult to measure accurately, and consumption comes closer to the notion\
-  \ of living standards. And income can vary over time even if living standards do not. But consumption\
-  \ data are not always available: the latest estimates reported here use consumption data for about two-thirds\
-  \ of countries.\n\nHowever, even similar surveys may not be strictly comparable because of differences\
-  \ in timing or in the quality and training of enumerators. Comparisons of countries at different levels\
-  \ of development also pose a potential problem because of differences in the relative importance of\
-  \ the consumption of nonmarket goods. The local market value of all consumption in kind (including own\
-  \ production, particularly important in underdeveloped rural economies) should be included in total\
-  \ consumption expenditure but may not be. Most survey data now include valuations for consumption or\
-  \ income from own production, but valuation methods vary."
+Limitationsandexceptions: 'Despite progress in the last decade, the challenges of measuring poverty remain.
+  The timeliness, frequency, quality, and comparability of household surveys need to increase substantially,
+  particularly in the poorest countries. The availability and quality of poverty monitoring data remains
+  low in small states, countries with fragile situations, and low-income countries and even some middle-income
+  countries. The low frequency and lack of comparability of the data available in some countries create
+  uncertainty over the magnitude of poverty reduction. 
+
+
+  Besides the frequency and timeliness of survey data, other data quality issues arise in measuring household
+  living standards. The surveys ask detailed questions on sources of income and how it was spent, which
+  must be carefully recorded by trained personnel. Income is generally more difficult to measure accurately,
+  and consumption comes closer to the notion of living standards. And income can vary over time even if
+  living standards do not. But consumption data are not always available: the latest estimates reported
+  here use consumption data for about two-thirds of countries.
+
+
+  However, even similar surveys may not be strictly comparable because of differences in timing or in
+  the quality and training of enumerators. Comparisons of countries at different levels of development
+  also pose a potential problem because of differences in the relative importance of the consumption of
+  nonmarket goods. The local market value of all consumption in kind (including own production, particularly
+  important in underdeveloped rural economies) should be included in total consumption expenditure but
+  may not be. Most survey data now include valuations for consumption or income from own production, but
+  valuation methods vary.'
 Periodicity: Annual
 Shortdefinition: Poverty gap at $1.90 a day (2011 PPP) is the mean shortfall in income or consumption
   from the poverty line $1.90 a day (counting the nonpoor as having zero shortfall), expressed as a percentage
@@ -94,21 +117,3 @@ Statisticalconceptandmethodology: 'International comparisons of poverty estimate
   each other out: there was no significant statistical difference.'
 Topic: 'Poverty: Poverty rates'
 Unitofmeasure: '%'
-description: Poverty gap at $1.90 a day (2011 PPP) is the mean shortfall in income or consumption from
-  the poverty line $1.90 a day (counting the nonpoor as having zero shortfall), expressed as a percentage
-  of the poverty line. This measure reflects the depth of poverty as well as its incidence. As a result
-  of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty
-  rates reported in earlier editions.
-id: SI.POV.GAPS
-name: Poverty gap at $1.90 a day (2011 PPP) (%)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank, Development Research Group. Data are based on primary household survey
-  data obtained from government statistical agencies and World Bank country departments. Data for high-income
-  economies are from the Luxembourg Income Study database. For more information and methodology, please
-  see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).
-topics:
-- id: '11'
-  value: 'Poverty '
-unit: ''

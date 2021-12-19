@@ -1,3 +1,13 @@
+id: BTN
+iso2Code: BT
+name: Bhutan
+region: SAS
+adminregion: SAS
+capitalCity: Thimphu
+longitude: 89.6177
+latitude: 27.5768
+incomelevel: LMC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Bhutanese ngultrum
 ExternaldebtReportingstatus: Actual
@@ -9,7 +19,6 @@ Latestagriculturalcensus: 2009. Economic Census, Natural Resources Census, Lives
 Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2010
 Latestpopulationcensus: '2017'
 Latesttradedata: '2012'
-Latestwaterwithdrawaldata: '2008'
 LongName: Kingdom of Bhutan
 Nationalaccountsbaseyear: '2000'
 PPPsurveyyear: 2017, 2011
@@ -17,13 +26,3 @@ Region: South Asia
 SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2017
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
-adminregion: SAS
-capitalCity: Thimphu
-id: BTN
-incomelevel: LMC
-iso2Code: BT
-latitude: 27.5768
-lendingtype: IDX
-longitude: 89.6177
-name: Bhutan
-region: SAS

@@ -1,3 +1,13 @@
+id: PLW
+iso2Code: PW
+name: Palau
+region: EAS
+adminregion: ''
+capitalCity: Koror
+longitude: 134.479
+latitude: 7.34194
+incomelevel: HIC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: U.S. dollar
 GovernmentAccountingconcept: Budgetary central government
@@ -6,7 +16,7 @@ IncomeGroup: High income
 Latestpopulationcensus: '2015'
 Latesttradedata: '2018'
 LongName: Republic of Palau
-Nationalaccountsbaseyear: '2015'
+Nationalaccountsbaseyear: '2019'
 PPPsurveyyear: 2011 (Only for individual consumption expenditure by households)
 Region: East Asia & Pacific
 SNApricevaluation: Value added at basic prices (VAB)
@@ -15,13 +25,3 @@ SpecialNotes: 'Fiscal year ends on September 30; reporting period for national a
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Koror
-id: PLW
-incomelevel: HIC
-iso2Code: PW
-latitude: 7.34194
-lendingtype: IBD
-longitude: 134.479
-name: Palau
-region: EAS

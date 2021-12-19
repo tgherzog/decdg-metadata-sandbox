@@ -1,3 +1,13 @@
+id: ATG
+iso2Code: AG
+name: Antigua and Barbuda
+region: LCN
+adminregion: ''
+capitalCity: Saint John's
+longitude: -61.8456
+latitude: 17.1175
+incomelevel: HIC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: East Caribbean dollar
 GovernmentAccountingconcept: Budgetary central government
@@ -6,7 +16,6 @@ IncomeGroup: High income
 Latestagriculturalcensus: '2007'
 Latestpopulationcensus: '2011'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2012'
 LongName: Antigua and Barbuda
 Nationalaccountsbaseyear: '2006'
 PPPsurveyyear: 2017, 2011
@@ -15,13 +24,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Saint John's
-id: ATG
-incomelevel: HIC
-iso2Code: AG
-latitude: 17.1175
-lendingtype: IBD
-longitude: -61.8456
-name: Antigua and Barbuda
-region: LCN

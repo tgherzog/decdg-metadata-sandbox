@@ -1,3 +1,16 @@
+id: IP.JRN.ARTC.SC
+name: Scientific and technical journal articles
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: National Science Foundation, Science and Engineering Indicators.
+topics:
+- id: '14'
+  value: 'Science & Technology '
+description: 'Scientific and technical journal articles refer to the number of scientific and engineering
+  articles published in the following fields: physics, biology, chemistry, mathematics, clinical medicine,
+  biomedical research, engineering and technology, and earth and space sciences.'
 Aggregationmethod: Gap-filled total
 Developmentrelevance: 'A scientific journal is a periodical publication intended to further the progress
   of science, usually by reporting new research. Most journals are highly specialized, although some of
@@ -32,16 +45,3 @@ Statisticalconceptandmethodology: 'The number of scientific and engineering arti
   engineering and technology, and earth and space sciences. The NSF considers article counts from a set
   of journals covered by Science Citation Index (SCI) and Social Sciences Citation Index (SSCI).'
 Topic: 'Infrastructure: Technology'
-description: 'Scientific and technical journal articles refer to the number of scientific and engineering
-  articles published in the following fields: physics, biology, chemistry, mathematics, clinical medicine,
-  biomedical research, engineering and technology, and earth and space sciences.'
-id: IP.JRN.ARTC.SC
-name: Scientific and technical journal articles
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: National Science Foundation, Science and Engineering Indicators.
-topics:
-- id: '14'
-  value: 'Science & Technology '
-unit: ''

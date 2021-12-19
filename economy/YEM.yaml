@@ -1,3 +1,13 @@
+id: YEM
+iso2Code: YE
+name: Yemen, Rep.
+region: MEA
+adminregion: MNA
+capitalCity: Sana'a
+longitude: 44.2075
+latitude: 15.352
+incomelevel: LIC
+lendingtype: IDX
 Alternativeconversionfactor: "1990\u201396"
 BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
 CurrencyUnit: Yemeni rial
@@ -8,7 +18,6 @@ Latesthouseholdsurvey: Demographic and Health Survey, 2013
 Latestindustrialdata: '2012'
 Latestpopulationcensus: '2004'
 Latesttradedata: '2015'
-Latestwaterwithdrawaldata: '2005'
 LongName: Republic of Yemen
 Nationalaccountsbaseyear: '1990'
 PPPsurveyyear: Annual estimation for 2011-2013
@@ -17,13 +26,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES/BS), 2014
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: Special trade system
-adminregion: MNA
-capitalCity: Sana'a
-id: YEM
-incomelevel: LIC
-iso2Code: YE
-latitude: 15.352
-lendingtype: IDX
-longitude: 44.2075
-name: Yemen, Rep.
-region: MEA

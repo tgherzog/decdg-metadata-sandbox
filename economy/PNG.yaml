@@ -1,3 +1,13 @@
+id: PNG
+iso2Code: PG
+name: Papua New Guinea
+region: EAS
+adminregion: EAP
+capitalCity: Port Moresby
+longitude: 147.194
+latitude: -9.47357
+incomelevel: LMC
+lendingtype: IDB
 Alternativeconversionfactor: '1989'
 BalanceofPaymentsManualinuse: BPM5 (Converted into BPM6 by IMF)
 CurrencyUnit: Papua New Guinea kina
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Demographic and Health Survey, 2016/18
 Latestindustrialdata: '1987'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2012'
-Latestwaterwithdrawaldata: '2005'
 LongName: The Independent State of Papua New Guinea
 Nationalaccountsbaseyear: '2013'
 PPPsurveyyear: 2011 (Only for individual consumption expenditure by households)
@@ -17,13 +26,3 @@ Region: East Asia & Pacific
 SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2009/10
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
-adminregion: EAP
-capitalCity: Port Moresby
-id: PNG
-incomelevel: LMC
-iso2Code: PG
-latitude: -9.47357
-lendingtype: IDB
-longitude: 147.194
-name: Papua New Guinea
-region: EAS

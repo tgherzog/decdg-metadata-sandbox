@@ -1,3 +1,13 @@
+id: GEO
+iso2Code: GE
+name: Georgia
+region: ECS
+adminregion: ECA
+capitalCity: Tbilisi
+longitude: 44.793
+latitude: 41.71
+incomelevel: UMC
+lendingtype: IBD
 Alternativeconversionfactor: "1990\u201395"
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Georgian lari
@@ -10,7 +20,6 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2018
 Latestindustrialdata: '2013'
 Latestpopulationcensus: '2014'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2008'
 LongName: Georgia
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -24,13 +33,3 @@ SpecialNotes: Includes self-governed areas only, which mostly exclude Abkhazia a
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ECA
-capitalCity: Tbilisi
-id: GEO
-incomelevel: UMC
-iso2Code: GE
-latitude: 41.71
-lendingtype: IBD
-longitude: 44.793
-name: Georgia
-region: ECS

@@ -1,3 +1,23 @@
+id: SP.DYN.LE00.MA.IN
+name: Life expectancy at birth, male (years)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: '(1) United Nations Population Division. World Population Prospects: 2019 Revision.
+  (2) Census reports and other statistical publications from national statistical offices, (3) Eurostat:
+  Demographic Statistics, (4) United Nations Statistical Division. Population and Vital Statistics Reprot
+  (various years), (5) U.S. Census Bureau: International Database, and (6) Secretariat of the Pacific
+  Community: Statistics and Demography Programme.'
+topics:
+- id: '8'
+  value: 'Health '
+- id: '17'
+  value: Gender
+- id: '15'
+  value: 'Social Development '
+description: Life expectancy at birth indicates the number of years a newborn infant would live if prevailing
+  patterns of mortality at the time of its birth were to stay the same throughout its life.
 Aggregationmethod: Weighted average
 Developmentrelevance: Mortality rates for different age groups (infants, children, and adults) and overall
   mortality indicators (life expectancy at birth or survival to a given age) are important indicators
@@ -29,8 +49,6 @@ Statisticalconceptandmethodology: 'Life expectancy at birth used here is the ave
   at birth may be low due to the high childhood mortality so that once a person survives his/her childhood,
   he/she may live much longer than 50 years.'
 Topic: 'Health: Mortality'
-description: Life expectancy at birth indicates the number of years a newborn infant would live if prevailing
-  patterns of mortality at the time of its birth were to stay the same throughout its life.
 economies:
   ABW: 'Data source: United Nations World Population Prospects'
   AFG: 'Data source: United Nations World Population Prospects'
@@ -97,9 +115,9 @@ economies:
   ETH: 'Data source: United Nations World Population Prospects'
   FIN: 'Data source: Eurostat, Statistics Finland'
   FJI: 'Data source: United Nations World Population Prospects'
-  FRA: "Data source and note: Eurostat, United Nations World Population Prospects, Institut National de\
-    \ la Statistique et des \xC9tudes \xC9conomiques. Including the French overseas departments of French\
-    \ Guiana, Guadeloupe, Martinique, R\xE9union."
+  FRA: "Data source and note: Eurostat, United Nations World Population Prospects, Institut National de
+     la Statistique et des \xC9tudes \xC9conomiques. Including the French overseas departments of French
+     Guiana, Guadeloupe, Martinique, R\xE9union."
   FRO: 'Data source: Statistics Faroe Islands'
   FSM: 'Data source: United Nations World Population Prospects'
   GAB: 'Data source: United Nations World Population Prospects'
@@ -251,21 +269,3 @@ economies:
   ZAF: 'Data source: United Nations World Population Prospects'
   ZMB: 'Data source: United Nations World Population Prospects'
   ZWE: 'Data source: United Nations World Population Prospects'
-id: SP.DYN.LE00.MA.IN
-name: Life expectancy at birth, male (years)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: '(1) United Nations Population Division. World Population Prospects: 2019 Revision.
-  (2) Census reports and other statistical publications from national statistical offices, (3) Eurostat:
-  Demographic Statistics, (4) United Nations Statistical Division. Population and Vital Statistics Reprot
-  (various years), (5) U.S. Census Bureau: International Database, and (6) Secretariat of the Pacific
-  Community: Statistics and Demography Programme.'
-topics:
-- id: '8'
-  value: 'Health '
-- id: '17'
-  value: Gender
-- id: '15'
-  value: 'Social Development '
-unit: ''

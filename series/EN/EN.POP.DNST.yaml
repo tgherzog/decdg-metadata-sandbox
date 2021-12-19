@@ -1,3 +1,19 @@
+id: EN.POP.DNST
+name: Population density (people per sq. km of land area)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Food and Agriculture Organization and World Bank population estimates.
+topics:
+- id: '16'
+  value: 'Urban Development '
+description: Population density is midyear population divided by land area in square kilometers. Population
+  is based on the de facto definition of population, which counts all residents regardless of legal status
+  or citizenship--except for refugees not permanently settled in the country of asylum, who are generally
+  considered part of the population of their country of origin. Land area is a country's total area, excluding
+  area under inland water bodies, national claims to continental shelf, and exclusive economic zones.
+  In most cases the definition of inland water bodies includes major rivers and lakes.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Population estimates are usually based on national population censuses. Estimates
   for the years before and after the census are interpolations or extrapolations based on demographic
@@ -55,19 +71,3 @@ Statisticalconceptandmethodology: 'Population density is midyear population divi
   excluding area under inland water bodies, national claims to continental shelf, and exclusive economic
   zones. In most cases the definition of inland water bodies includes major rivers and lakes.'
 Topic: 'Environment: Density & urbanization'
-description: Population density is midyear population divided by land area in square kilometers. Population
-  is based on the de facto definition of population, which counts all residents regardless of legal status
-  or citizenship--except for refugees not permanently settled in the country of asylum, who are generally
-  considered part of the population of their country of origin. Land area is a country's total area, excluding
-  area under inland water bodies, national claims to continental shelf, and exclusive economic zones.
-  In most cases the definition of inland water bodies includes major rivers and lakes.
-id: EN.POP.DNST
-name: Population density (people per sq. km of land area)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Food and Agriculture Organization and World Bank population estimates.
-topics:
-- id: '16'
-  value: 'Urban Development '
-unit: ''

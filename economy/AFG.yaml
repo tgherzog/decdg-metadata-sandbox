@@ -1,3 +1,13 @@
+id: AFG
+iso2Code: AF
+name: Afghanistan
+region: SAS
+adminregion: SAS
+capitalCity: Kabul
+longitude: 69.1761
+latitude: 34.5228
+incomelevel: LIC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Afghan afghani
 ExternaldebtReportingstatus: Actual
@@ -7,7 +17,6 @@ IncomeGroup: Low income
 Latesthouseholdsurvey: Demographic and Health Survey, 2015
 Latestpopulationcensus: '1979'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2000'
 LongName: Islamic State of Afghanistan
 Nationalaccountsbaseyear: '2016'
 Othergroups: HIPC
@@ -18,13 +27,3 @@ SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2
 SpecialNotes: 'Fiscal year end: March 20; reporting period for national accounts data: FY.'
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SAS
-capitalCity: Kabul
-id: AFG
-incomelevel: LIC
-iso2Code: AF
-latitude: 34.5228
-lendingtype: IDX
-longitude: 69.1761
-name: Afghanistan
-region: SAS

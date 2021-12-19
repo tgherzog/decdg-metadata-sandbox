@@ -1,3 +1,20 @@
+id: IC.CRD.INFO.XQ
+name: Depth of credit information index (0=low to 8=high)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'World Bank, Doing Business project (http://www.doingbusiness.org/). NOTE: Doing Business
+  has been discontinued as of 9/16/2021. For more information: https://bit.ly/3CLCbme'
+topics:
+- id: '7'
+  value: 'Financial Sector '
+- id: '12'
+  value: Private Sector
+description: Depth of credit information index measures rules affecting the scope, accessibility, and
+  quality of credit information available through public or private credit registries. The index ranges
+  from 0 to 8, with higher values indicating the availability of more credit information, from either
+  a public registry or a private bureau, to facilitate lending decisions.
 Aggregationmethod: Unweighted average
 Developmentrelevance: 'Access to finance can expand opportunities for all with higher levels of access
   and use of banking services associated with lower financing obstacles for people and businesses. A stable
@@ -33,13 +50,12 @@ Developmentrelevance: 'Access to finance can expand opportunities for all with h
   workers - and those workers remain outside the protections of labor law. The indicator can help policymakers
   understand the business environment in a country and - along with information from other sources such
   as the World Bank''s Enterprise Surveys - provide insights into potential areas of reform.'
-Generalcomments: Data are presented for the survey year instead of publication year. Data before 2013
-  are not comparable with data from 2013 onward due to methodological changes.
+Generalcomments: Data are presented for the survey year instead of publication year.
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
-Limitationsandexceptions: The Doing Business methodology has limitations that should be considered when
-  interpreting the data. First, the data collected refer to businesses in the economy's largest city and
-  may not represent regulations in other locations of the economy. To address this limitation, subnational
+Limitationsandexceptions: 'The Doing Business methodology has limitations that should be considered when
+  interpreting the data. First, the data collected refer to businesses in the economy''s largest city
+  and may not represent regulations in other locations of the economy. To address this limitation, subnational
   indicators are being collected for selected economies. These subnational studies point to significant
   differences in the speed of reform and the ease of doing business across cities in the same economy.
   Second, the data often focus on a specific business form - generally a limited liability company of
@@ -49,9 +65,10 @@ Limitationsandexceptions: The Doing Business methodology has limitations that sh
   element of judgment by the expert respondents. When sources indicate different estimates, the Doing
   Business time indicators represent the median values of several responses given under the assumptions
   of the standardized case. Fifth, the methodology assumes that a business has full information on what
-  is required and does not waste time when completing procedures.
+  is required and does not waste time when completing procedures. Please also see: https://www.doingbusiness.org/en/about-us/faq'
 Periodicity: Annual
-Source: World Bank, Doing Business project (http://www.doingbusiness.org/).
+Source: 'World Bank, Doing Business project (http://www.doingbusiness.org/). NOTE: Doing Business has
+  been discontinued as of 9/16/2021. For more information: https://bit.ly/3CLCbme'
 Statisticalconceptandmethodology: 'For Doing Business 2015, the credit information index has expanded
   with two new measurements, namely whether (1) banks and financial institutions access credit bureaus
   and credit registries'' databases through an online platform or system-to-system connection; and (2)
@@ -75,19 +92,3 @@ Statisticalconceptandmethodology: 'For Doing Business 2015, the credit informati
   where applicable. The data from surveys are subjected to numerous tests for robustness, which lead to
   revision or expansion of the information collected. For more information on methodology, see http://www.doingbusiness.org/Methodology/getting-credit#legalRights.'
 Topic: 'Private Sector & Trade: Business environment'
-description: Depth of credit information index measures rules affecting the scope, accessibility, and
-  quality of credit information available through public or private credit registries. The index ranges
-  from 0 to 8, with higher values indicating the availability of more credit information, from either
-  a public registry or a private bureau, to facilitate lending decisions.
-id: IC.CRD.INFO.XQ
-name: Depth of credit information index (0=low to 8=high)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank, Doing Business project (http://www.doingbusiness.org/).
-topics:
-- id: '7'
-  value: 'Financial Sector '
-- id: '12'
-  value: Private Sector
-unit: ''

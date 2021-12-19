@@ -1,3 +1,13 @@
+id: URY
+iso2Code: UY
+name: Uruguay
+region: LCN
+adminregion: ''
+capitalCity: Montevideo
+longitude: -56.0675
+latitude: -34.8941
+incomelevel: HIC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Uruguayan peso
 GovernmentAccountingconcept: Consolidated central government
@@ -8,7 +18,6 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2012/13
 Latestindustrialdata: '2011'
 Latestpopulationcensus: '2011'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2000'
 LongName: Oriental Republic of Uruguay
 Nationalaccountsbaseyear: '2016'
 PPPsurveyyear: 2017, 2011
@@ -18,13 +27,3 @@ SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Montevideo
-id: URY
-incomelevel: HIC
-iso2Code: UY
-latitude: -34.8941
-lendingtype: IBD
-longitude: -56.0675
-name: Uruguay
-region: LCN

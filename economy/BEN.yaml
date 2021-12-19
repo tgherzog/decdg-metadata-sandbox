@@ -1,3 +1,13 @@
+id: BEN
+iso2Code: BJ
+name: Benin
+region: SSF
+adminregion: SSA
+capitalCity: Porto-Novo
+longitude: 2.6323
+latitude: 6.4779
+incomelevel: LMC
+lendingtype: IDX
 Alternativeconversionfactor: '1992'
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: West African CFA franc
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Demographic and Health Survey, 2017/18
 Latestindustrialdata: '1981'
 Latestpopulationcensus: '2013'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2001'
 LongName: Republic of Benin
 Nationalaccountsbaseyear: '2015'
 Othergroups: HIPC
@@ -19,13 +28,3 @@ SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Core Welfare Indicator Questionnaire Survey (CWIQ), 2015
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SSA
-capitalCity: Porto-Novo
-id: BEN
-incomelevel: LMC
-iso2Code: BJ
-latitude: 6.4779
-lendingtype: IDX
-longitude: 2.6323
-name: Benin
-region: SSF

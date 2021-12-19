@@ -1,3 +1,13 @@
+id: NCL
+iso2Code: NC
+name: New Caledonia
+region: EAS
+adminregion: ''
+capitalCity: Noum'ea
+longitude: 166.464
+latitude: -22.2677
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: CFP franc
 IncomeGroup: High income
@@ -11,13 +21,3 @@ SNApricevaluation: Value added at producer prices (VAP)
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Noum'ea
-id: NCL
-incomelevel: HIC
-iso2Code: NC
-latitude: -22.2677
-lendingtype: LNX
-longitude: 166.464
-name: New Caledonia
-region: EAS

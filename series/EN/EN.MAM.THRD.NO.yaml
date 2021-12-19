@@ -1,3 +1,17 @@
+id: EN.MAM.THRD.NO
+name: Mammal species, threatened
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: United Nations Environmental Program and the World Conservation Monitoring Centre,
+  and International Union for Conservation of Nature, Red List of Threatened Species.
+topics:
+- id: '6'
+  value: 'Environment '
+description: Mammal species are mammals excluding whales and porpoises. Threatened species are the number
+  of species classified by the IUCN as endangered, vulnerable, rare, indeterminate, out of danger, or
+  insufficiently known.
 Aggregationmethod: Sum
 Developmentrelevance: 'As threats to biodiversity mount, the international community is increasingly focusing
   on conserving diversity. The number of threatened species is an important measure of the immediate need
@@ -98,17 +112,3 @@ Statisticalconceptandmethodology: 'Species assessed as Critically Endangered (CR
   Additional information on ecology and habitat preferences, threats, and conservation action are also
   collated and assessed as part of Red List process.'
 Topic: 'Environment: Biodiversity & protected areas'
-description: Mammal species are mammals excluding whales and porpoises. Threatened species are the number
-  of species classified by the IUCN as endangered, vulnerable, rare, indeterminate, out of danger, or
-  insufficiently known.
-id: EN.MAM.THRD.NO
-name: Mammal species, threatened
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: United Nations Environmental Program and the World Conservation Monitoring Centre,
-  and International Union for Conservation of Nature, Red List of Threatened Species.
-topics:
-- id: '6'
-  value: 'Environment '
-unit: ''

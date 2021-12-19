@@ -1,3 +1,13 @@
+id: BIH
+iso2Code: BA
+name: Bosnia and Herzegovina
+region: ECS
+adminregion: ECA
+capitalCity: Sarajevo
+longitude: 18.4214
+latitude: 43.8607
+incomelevel: UMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Bosnia and Herzegovina convertible mark
 ExternaldebtReportingstatus: Actual
@@ -8,7 +18,6 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2011/12
 Latestindustrialdata: '2011'
 Latestpopulationcensus: '2013'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2013'
 LongName: Bosnia and Herzegovina
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -19,13 +28,3 @@ SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ECA
-capitalCity: Sarajevo
-id: BIH
-incomelevel: UMC
-iso2Code: BA
-latitude: 43.8607
-lendingtype: IBD
-longitude: 18.4214
-name: Bosnia and Herzegovina
-region: ECS

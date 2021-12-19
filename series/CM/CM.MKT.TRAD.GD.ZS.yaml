@@ -1,3 +1,17 @@
+id: CM.MKT.TRAD.GD.ZS
+name: Stocks traded, total value (% of GDP)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Federation of Exchanges database.
+topics:
+- id: '7'
+  value: 'Financial Sector '
+description: The value of shares traded is the total number of shares traded, both domestic and foreign,
+  multiplied by their respective matching prices. Figures are single counted (only one side of the transaction
+  is considered). Companies admitted to listing and admitted to trading are included in the data. Data
+  are end of year values.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Stock market size can be measured in various ways, and each may produce a different
   ranking of countries.
@@ -46,17 +60,3 @@ Statisticalconceptandmethodology: The value of shares traded represent the trans
   into foreign markets. Figures reported under the REV approach will be higher than those reported under
   the TSV approach.
 Topic: 'Financial Sector: Capital markets'
-description: The value of shares traded is the total number of shares traded, both domestic and foreign,
-  multiplied by their respective matching prices. Figures are single counted (only one side of the transaction
-  is considered). Companies admitted to listing and admitted to trading are included in the data. Data
-  are end of year values.
-id: CM.MKT.TRAD.GD.ZS
-name: Stocks traded, total value (% of GDP)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Federation of Exchanges database.
-topics:
-- id: '7'
-  value: 'Financial Sector '
-unit: ''

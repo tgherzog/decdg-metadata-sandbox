@@ -1,3 +1,13 @@
+id: CHE
+iso2Code: CH
+name: Switzerland
+region: ECS
+adminregion: ''
+capitalCity: Bern
+longitude: 7.44821
+latitude: 46.948
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Swiss franc
 GovernmentAccountingconcept: Consolidated central government
@@ -8,7 +18,6 @@ Latestindustrialdata: '2013'
 Latestpopulationcensus: 2020 (expected). Population figures compiled from administrative registers in
   combination with other sources of data, such as sample surveys.
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2012'
 LongName: Switzerland
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -19,13 +28,3 @@ SourceofmostrecentIncomeandexpendituredata: Income survey (IS), 2015
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Bern
-id: CHE
-incomelevel: HIC
-iso2Code: CH
-latitude: 46.948
-lendingtype: LNX
-longitude: 7.44821
-name: Switzerland
-region: ECS

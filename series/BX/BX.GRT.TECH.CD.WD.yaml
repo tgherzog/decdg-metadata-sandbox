@@ -1,3 +1,22 @@
+id: BX.GRT.TECH.CD.WD
+name: Technical cooperation grants (BoP, current US$)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, International Debt Statistics, and OECD.
+topics:
+- id: '3'
+  value: Economy & Growth
+- id: '20'
+  value: External Debt
+- id: '2'
+  value: 'Aid Effectiveness '
+description: Technical cooperation grants include free-standing technical cooperation grants, which are
+  intended to finance the transfer of technical and managerial skills or of technology for the purpose
+  of building up general national capacity without reference to any specific investment projects; and
+  investment-related technical cooperation grants, which are provided to strengthen the capacity to execute
+  specific investment projects. Data are in current U.S. dollars.
 Aggregationmethod: Sum
 Developmentrelevance: 'DAC exists to help its members coordinate their development assistance and to encourage
   the expansion and improve the effectiveness of the aggregate resources flowing to recipient economies.
@@ -58,22 +77,3 @@ Statisticalconceptandmethodology: 'Technical cooperation contributions take the 
   The official development assistance (ODA) estimates are published annually at the end of the calendar
   year in International Development Statistics (IDS) database. Data are in current U.S. dollars.'
 Topic: 'Economic Policy & Debt: Balance of payments: Reserves & other items'
-description: Technical cooperation grants include free-standing technical cooperation grants, which are
-  intended to finance the transfer of technical and managerial skills or of technology for the purpose
-  of building up general national capacity without reference to any specific investment projects; and
-  investment-related technical cooperation grants, which are provided to strengthen the capacity to execute
-  specific investment projects. Data are in current U.S. dollars.
-id: BX.GRT.TECH.CD.WD
-name: Technical cooperation grants (BoP, current US$)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank, International Debt Statistics, and OECD.
-topics:
-- id: '3'
-  value: Economy & Growth
-- id: '20'
-  value: External Debt
-- id: '2'
-  value: 'Aid Effectiveness '
-unit: ''

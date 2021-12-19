@@ -1,3 +1,29 @@
+id: IE.PPI.ENGY.CD
+name: Investment in energy with private participation (current US$)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank, Private Participation in Infrastructure Project Database (http://ppi.worldbank.org).
+topics:
+- id: '5'
+  value: 'Energy & Mining '
+- id: '9'
+  value: 'Infrastructure '
+- id: '12'
+  value: Private Sector
+description: 'Investment in energy projects with private participation  refers to commitments to  infrastructure
+  projects in energy (electricity and natural gas: generation, transmission and distribution) that have
+  reached financial closure and directly or indirectly serve the public. Movable assets and small projects
+  such as windmills are excluded. The types of projects included are management and lease contracts, operations
+  and management contracts with major capital expenditure, greenfield projects (in which a private entity
+  or a public-private joint venture builds and operates a new facility), and divestitures. Investment
+  commitments are the sum of investments in facilities and investments in government assets. Investments
+  in facilities are the resources the project company commits to invest during the contract period either
+  in new facilities or in expansion and modernization of existing facilities. Investments in government
+  assets are the resources the project company spends on acquiring government assets such as state-owned
+  enterprises, rights to provide services in a specific area, or the use of specific radio spectrums.
+  Data is presented based on investment year. Data are in current U.S. dollars.'
 Aggregationmethod: Sum
 Developmentrelevance: 'Investment in infrastructure projects with private participation has made important
   contributions to easing fiscal constraints, improving the efficiency of infrastructure services, and
@@ -54,29 +80,3 @@ Statisticalconceptandmethodology: 'The data are from the World Bank''s Private P
 
   Data are in current U.S. dollars.'
 Topic: 'Private Sector & Trade: Private infrastructure investment'
-description: 'Investment in energy projects with private participation  refers to commitments to  infrastructure
-  projects in energy (electricity and natural gas: generation, transmission and distribution) that have
-  reached financial closure and directly or indirectly serve the public. Movable assets and small projects
-  such as windmills are excluded. The types of projects included are management and lease contracts, operations
-  and management contracts with major capital expenditure, greenfield projects (in which a private entity
-  or a public-private joint venture builds and operates a new facility), and divestitures. Investment
-  commitments are the sum of investments in facilities and investments in government assets. Investments
-  in facilities are the resources the project company commits to invest during the contract period either
-  in new facilities or in expansion and modernization of existing facilities. Investments in government
-  assets are the resources the project company spends on acquiring government assets such as state-owned
-  enterprises, rights to provide services in a specific area, or the use of specific radio spectrums.
-  Data is presented based on investment year. Data are in current U.S. dollars.'
-id: IE.PPI.ENGY.CD
-name: Investment in energy with private participation (current US$)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank, Private Participation in Infrastructure Project Database (http://ppi.worldbank.org).
-topics:
-- id: '5'
-  value: 'Energy & Mining '
-- id: '9'
-  value: 'Infrastructure '
-- id: '12'
-  value: Private Sector
-unit: ''

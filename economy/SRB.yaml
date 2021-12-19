@@ -1,3 +1,13 @@
+id: SRB
+iso2Code: RS
+name: Serbia
+region: ECS
+adminregion: ECA
+capitalCity: Belgrade
+longitude: 20.4656
+latitude: 44.8024
+incomelevel: UMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: New Serbian dinar
 ExternaldebtReportingstatus: Actual
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019
 Latestindustrialdata: '2014'
 Latestpopulationcensus: '2011'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2013'
 LongName: Republic of Serbia
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -30,13 +39,3 @@ SpecialNotes: Montenegro declared independence from Serbia and Montenegro on Jun
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ECA
-capitalCity: Belgrade
-id: SRB
-incomelevel: UMC
-iso2Code: RS
-latitude: 44.8024
-lendingtype: IBD
-longitude: 20.4656
-name: Serbia
-region: ECS

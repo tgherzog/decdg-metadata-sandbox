@@ -1,3 +1,13 @@
+id: LTU
+iso2Code: LT
+name: Lithuania
+region: ECS
+adminregion: ''
+capitalCity: Vilnius
+longitude: 25.2799
+latitude: 54.6896
+incomelevel: HIC
+lendingtype: LNX
 Alternativeconversionfactor: "1990\u201395"
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Euro
@@ -9,7 +19,6 @@ Latestindustrialdata: '2014'
 Latestpopulationcensus: 2020 (expected). Population figures compiled from administrative registers in
   combination with other sources of data, such as sample surveys.
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2011'
 LongName: Republic of Lithuania
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -25,13 +34,3 @@ SpecialNotes: 'A simple multiplier is used to convert the national currencies of
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Vilnius
-id: LTU
-incomelevel: HIC
-iso2Code: LT
-latitude: 54.6896
-lendingtype: LNX
-longitude: 25.2799
-name: Lithuania
-region: ECS

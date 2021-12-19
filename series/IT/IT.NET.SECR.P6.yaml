@@ -1,3 +1,15 @@
+id: IT.NET.SECR.P6
+name: Secure Internet servers (per 1 million people)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Netcraft (http://www.netcraft.com/) and World Bank population estimates.
+topics:
+- id: '9'
+  value: 'Infrastructure '
+description: The number of distinct, publicly-trusted TLS/SSL certificates found in the Netcraft Secure
+  Server Survey.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'The quality of an economy''s infrastructure, including power and communications,
   is an important element in investment decisions for both domestic and foreign investors. Government
@@ -38,35 +50,22 @@ License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
 Periodicity: Annual
 Source: Netcraft (http://www.netcraft.com/) and World Bank population estimates.
-Statisticalconceptandmethodology: "The survey examines the use of encrypted transactions through extensive\
-  \ automated exploration, tallying the number of web sites using HTTPS. This analysis relates to those\
-  \ sites found in the survey where the certificate is valid for the hostname, and the certificate has\
-  \ been issued from a publicly-trusted root. The indicator refers to valid, third-party certificates.\
-  \ Included are sites found in the survey where the common name in the certificate matched the hostname,\
-  \ and the certificate's digital signature was not detected as being self-signed. The location is derived\
-  \ from the hosting location of the sites using the certificates (rather than the countries indicated\
-  \ on the certificates themselves.) \"Netcraft's survey counts (unique) valid certificates issued by\
-  \ widely-trusted third-party certification authorities. A certificate must be valid, that is it must\
-  \ be within its validity period (certificates are usually valid for up to 39 months), and the digital\
-  \ signatures on the certificate must check successfully. It must be issued by third party certificate\
-  \ issuer that is recognised by Netcraft. Netcraft investigate new issuers each month and determine whether\
-  \ they are third party issuers that could be expected to be trusted by some user base; CAs that issue\
-  \ only for one company are generally excluded, as are self-signed certificates.\" Netcraft note on the\
-  \ term \u201Cvalid certificates\": \u201CThere is nothing inherently \"invalid\" about private certification\
-  \ or self-signed certificates. But neither of these types of certificates are generally accepted by\
-  \ end-users' browsers, and browsers would typically report them as \"invalid\", so our terminology is\
-  \ consistent with normal user expectations.\u201D [https://www.netcraft.com/] The data reflects the\
-  \ December survey in that year."
+Statisticalconceptandmethodology: "The survey examines the use of encrypted transactions through extensive
+   automated exploration, tallying the number of web sites using HTTPS. This analysis relates to those
+   sites found in the survey where the certificate is valid for the hostname, and the certificate has
+   been issued from a publicly-trusted root. The indicator refers to valid, third-party certificates.
+   Included are sites found in the survey where the common name in the certificate matched the hostname,
+   and the certificate's digital signature was not detected as being self-signed. The location is derived
+   from the hosting location of the sites using the certificates (rather than the countries indicated
+   on the certificates themselves.) \"Netcraft's survey counts (unique) valid certificates issued by widely-trusted
+   third-party certification authorities. A certificate must be valid, that is it must be within its validity
+   period (certificates are usually valid for up to 39 months), and the digital signatures on the certificate
+   must check successfully. It must be issued by third party certificate issuer that is recognised by
+   Netcraft. Netcraft investigate new issuers each month and determine whether they are third party issuers
+   that could be expected to be trusted by some user base; CAs that issue only for one company are generally
+   excluded, as are self-signed certificates.\" Netcraft note on the term \u201Cvalid certificates\":
+   \u201CThere is nothing inherently \"invalid\" about private certification or self-signed certificates.
+   But neither of these types of certificates are generally accepted by end-users' browsers, and browsers
+   would typically report them as \"invalid\", so our terminology is consistent with normal user expectations.\u201D\
+   [https://www.netcraft.com/] The data reflects the December survey in that year."
 Topic: 'Infrastructure: Communications'
-description: The number of distinct, publicly-trusted TLS/SSL certificates found in the Netcraft Secure
-  Server Survey.
-id: IT.NET.SECR.P6
-name: Secure Internet servers (per 1 million people)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Netcraft (http://www.netcraft.com/) and World Bank population estimates.
-topics:
-- id: '9'
-  value: 'Infrastructure '
-unit: ''

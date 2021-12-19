@@ -1,3 +1,18 @@
+id: ER.H2O.INTR.PC
+name: Renewable internal freshwater resources per capita (cubic meters)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Food and Agriculture Organization, AQUASTAT data.
+topics:
+- id: '9'
+  value: 'Infrastructure '
+- id: '6'
+  value: 'Environment '
+description: Renewable internal freshwater resources flows refer to internal renewable resources (internal
+  river flows and groundwater from rainfall) in the country. Renewable internal freshwater resources per
+  capita are calculated using the World Bank's population estimates.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'UNESCO estimates that in developing countries in Asia, Africa and Latin America,
   public water withdrawal represents just 50-100 liters (13 to 26 gallons) per person per day. In regions
@@ -102,18 +117,3 @@ Statisticalconceptandmethodology: 'Renewable water resources (internal and exter
 
   * http://www.fao.org/nr/water/aquastat/data/glossary/search.html?termId=4188&submitBtn=s&cls=yes'
 Topic: 'Environment: Freshwater'
-description: Renewable internal freshwater resources flows refer to internal renewable resources (internal
-  river flows and groundwater from rainfall) in the country. Renewable internal freshwater resources per
-  capita are calculated using the World Bank's population estimates.
-id: ER.H2O.INTR.PC
-name: Renewable internal freshwater resources per capita (cubic meters)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Food and Agriculture Organization, AQUASTAT data.
-topics:
-- id: '9'
-  value: 'Infrastructure '
-- id: '6'
-  value: 'Environment '
-unit: ''

@@ -1,6 +1,16 @@
+id: ZWE
+iso2Code: ZW
+name: Zimbabwe
+region: SSF
+adminregion: SSA
+capitalCity: Harare
+longitude: 31.0672
+latitude: -17.8312
+incomelevel: LMC
+lendingtype: IDB
 Alternativeconversionfactor: 1991, 1998
 BalanceofPaymentsManualinuse: BPM6
-CurrencyUnit: U.S. dollar
+CurrencyUnit: Zimbabwean Dollar
 ExternaldebtReportingstatus: Actual
 GovernmentAccountingconcept: Budgetary central government
 IMFdatadisseminationstandard: Enhanced General Data Dissemination System (e-GDDS)
@@ -8,22 +18,13 @@ IncomeGroup: Lower middle income
 Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2019
 Latestpopulationcensus: '2012'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2007'
 LongName: Republic of Zimbabwe
 Nationalaccountsbaseyear: '2012'
 PPPsurveyyear: 2017, 2011
 Region: Sub-Saharan Africa
 SNApricevaluation: Value added at basic prices (VAB)
 SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2011/12
+SpecialNotes: National Accounts data are in Zimbabwean Dollar (ZWL). Before 2017, one ZWL is set to be
+  equal to one USD.
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SSA
-capitalCity: Harare
-id: ZWE
-incomelevel: LMC
-iso2Code: ZW
-latitude: -17.8312
-lendingtype: IDB
-longitude: 31.0672
-name: Zimbabwe
-region: SSF

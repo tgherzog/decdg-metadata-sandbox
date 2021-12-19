@@ -1,3 +1,16 @@
+id: EG.USE.COMM.CL.ZS
+name: Alternative and nuclear energy (% of total energy use)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: "IEA Statistics \xA9 OECD/IEA 2014 (http://www.iea.org/stats/index.asp), subject to
+   https://www.iea.org/t&c/termsandconditions/"
+topics:
+- id: '5'
+  value: 'Energy & Mining '
+description: Clean energy is noncarbohydrate energy that does not produce carbon dioxide when generated.
+  It includes hydropower and nuclear, geothermal, and solar power, among others.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Alternative energy is produced without the undesirable consequences of the burning
   of fossil fuels, such as high carbon dioxide emissions, which is considered to be the major contributing
@@ -35,16 +48,3 @@ Statisticalconceptandmethodology: Energy data are compiled by the International 
   (OECD) are based on national energy data adjusted to conform to annual questionnaires completed by OECD
   member governments.
 Topic: 'Environment: Energy production & use'
-description: Clean energy is noncarbohydrate energy that does not produce carbon dioxide when generated.
-  It includes hydropower and nuclear, geothermal, and solar power, among others.
-id: EG.USE.COMM.CL.ZS
-name: Alternative and nuclear energy (% of total energy use)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: "IEA Statistics \xA9 OECD/IEA 2014 (http://www.iea.org/stats/index.asp), subject to\
-  \ https://www.iea.org/t&c/termsandconditions/"
-topics:
-- id: '5'
-  value: 'Energy & Mining '
-unit: ''

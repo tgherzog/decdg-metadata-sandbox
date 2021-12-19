@@ -1,3 +1,26 @@
+id: AG.LND.AGRI.ZS
+name: Agricultural land (% of land area)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: Food and Agriculture Organization, electronic files and web site.
+topics:
+- id: '1'
+  value: 'Agriculture & Rural Development  '
+- id: '19'
+  value: Climate Change
+- id: '6'
+  value: 'Environment '
+description: Agricultural land refers to the share of land area that is arable, under permanent crops,
+  and under permanent pastures. Arable land includes land defined by the FAO as land under temporary crops
+  (double-cropped areas are counted once), temporary meadows for mowing or for pasture, land under market
+  or kitchen gardens, and land temporarily fallow. Land abandoned as a result of shifting cultivation
+  is excluded. Land under permanent crops is land cultivated with crops that occupy the land for long
+  periods and need not be replanted after each harvest, such as cocoa, coffee, and rubber. This category
+  includes land under flowering shrubs, fruit trees, nut trees, and vines, but excludes land under trees
+  grown for wood or timber. Permanent pasture is land used for five or more years for forage, including
+  natural and cultivated crops.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Agricultural land covers more than one-third of the world''s land area, with arable
   land representing less than one-third of agricultural land (about 10 percent of the world''s land area).
@@ -57,26 +80,3 @@ Statisticalconceptandmethodology: 'Agriculture is still a major sector in many e
   Total land area does not include inland water bodies such as major rivers and lakes. Variations from
   year to year may be due to updated or revised data rather than to change in area.'
 Topic: 'Environment: Land use'
-description: Agricultural land refers to the share of land area that is arable, under permanent crops,
-  and under permanent pastures. Arable land includes land defined by the FAO as land under temporary crops
-  (double-cropped areas are counted once), temporary meadows for mowing or for pasture, land under market
-  or kitchen gardens, and land temporarily fallow. Land abandoned as a result of shifting cultivation
-  is excluded. Land under permanent crops is land cultivated with crops that occupy the land for long
-  periods and need not be replanted after each harvest, such as cocoa, coffee, and rubber. This category
-  includes land under flowering shrubs, fruit trees, nut trees, and vines, but excludes land under trees
-  grown for wood or timber. Permanent pasture is land used for five or more years for forage, including
-  natural and cultivated crops.
-id: AG.LND.AGRI.ZS
-name: Agricultural land (% of land area)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Food and Agriculture Organization, electronic files and web site.
-topics:
-- id: '1'
-  value: 'Agriculture & Rural Development  '
-- id: '19'
-  value: Climate Change
-- id: '6'
-  value: 'Environment '
-unit: ''

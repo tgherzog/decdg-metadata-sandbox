@@ -1,3 +1,17 @@
+id: SE.ADT.1524.LT.MA.ZS
+name: Literacy rate, youth male (% of males ages 15-24)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2021.
+topics:
+- id: '4'
+  value: 'Education '
+- id: '17'
+  value: Gender
+description: Youth literacy rate is the percentage of people ages 15-24 who can both read and write with
+  understanding a short simple statement about their everyday life.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Literacy rate is an outcome indicator to evaluate educational attainment. This
   data can predict the quality of future labor force and can be used in ensuring policies for life skills
@@ -23,7 +37,7 @@ Limitationsandexceptions: In practice, literacy is difficult to measure. Estimat
   international surveys toward using a direct reading test of literacy skills. Because definitions and
   methods of data collection differ across countries, data should be used cautiously.
 Periodicity: Annual
-Source: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2020.
+Source: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2021.
 Statisticalconceptandmethodology: 'Literacy statistics for most countries cover the population ages 15
   and older, but some include younger ages or are confined to age ranges that tend to inflate literacy
   rates. The youth literacy rate for ages 15-24 reflects recent progress in education. It measures the
@@ -37,17 +51,3 @@ Statisticalconceptandmethodology: 'Literacy statistics for most countries cover 
   household surveys and, for countries without recent literacy data, using the Global Age-Specific Literacy
   Projection Model (GALP). For detailed information, see www.uis.unesco.org.'
 Topic: 'Education: Outcomes'
-description: Youth literacy rate is the percentage of people ages 15-24 who can both read and write with
-  understanding a short simple statement about their everyday life.
-id: SE.ADT.1524.LT.MA.ZS
-name: Literacy rate, youth male (% of males ages 15-24)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2020.
-topics:
-- id: '4'
-  value: 'Education '
-- id: '17'
-  value: Gender
-unit: ''

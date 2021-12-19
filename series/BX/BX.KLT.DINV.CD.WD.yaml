@@ -1,3 +1,24 @@
+id: BX.KLT.DINV.CD.WD
+name: Foreign direct investment, net inflows (BoP, current US$)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Monetary Fund, Balance of Payments database, supplemented by data from
+  the United Nations Conference on Trade and Development and official national sources.
+topics:
+- id: '3'
+  value: Economy & Growth
+- id: '7'
+  value: 'Financial Sector '
+- id: '20'
+  value: External Debt
+description: Foreign direct investment refers to direct investment equity flows in the reporting economy.
+  It is the sum of equity capital, reinvestment of earnings, and other capital. Direct investment is a
+  category of cross-border investment associated with a resident in one economy having control or a significant
+  degree of influence on the management of an enterprise that is resident in another economy. Ownership
+  of 10 percent or more of the ordinary shares of voting stock is the criterion for determining the existence
+  of a direct investment relationship. Data are in current U.S. dollars.
 Aggregationmethod: Sum
 Developmentrelevance: Private financial flows - equity and debt - account for the bulk of development
   finance. Equity flows comprise foreign direct investment (FDI) and portfolio equity. Debt flows are
@@ -46,26 +67,5 @@ Statisticalconceptandmethodology: 'Data on equity flows are based on balance of 
   many countries set a higher threshold. Many countries fail to report reinvested earnings, and the definition
   of long-term loans differs among countries. BoP refers to Balance of Payments.'
 Topic: 'Economic Policy & Debt: Balance of payments: Capital & financial account'
-description: Foreign direct investment refers to direct investment equity flows in the reporting economy.
-  It is the sum of equity capital, reinvestment of earnings, and other capital. Direct investment is a
-  category of cross-border investment associated with a resident in one economy having control or a significant
-  degree of influence on the management of an enterprise that is resident in another economy. Ownership
-  of 10 percent or more of the ordinary shares of voting stock is the criterion for determining the existence
-  of a direct investment relationship. Data are in current U.S. dollars.
 economies:
   ARE: 'Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database.'
-id: BX.KLT.DINV.CD.WD
-name: Foreign direct investment, net inflows (BoP, current US$)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Monetary Fund, Balance of Payments database, supplemented by data from
-  the United Nations Conference on Trade and Development and official national sources.
-topics:
-- id: '3'
-  value: Economy & Growth
-- id: '7'
-  value: 'Financial Sector '
-- id: '20'
-  value: External Debt
-unit: ''

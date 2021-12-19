@@ -1,3 +1,13 @@
+id: SVK
+iso2Code: SK
+name: Slovak Republic
+region: ECS
+adminregion: ''
+capitalCity: Bratislava
+longitude: 17.1073
+latitude: 48.1484
+incomelevel: HIC
+lendingtype: LNX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Euro
 GovernmentAccountingconcept: Consolidated central government
@@ -8,7 +18,6 @@ Latesthouseholdsurvey: World Health Survey, 2003
 Latestindustrialdata: '2013'
 Latestpopulationcensus: '2011'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2014'
 LongName: Slovak Republic
 Nationalaccountsbaseyear: Original chained constant price data are rescaled.
 Nationalaccountsreferenceyear: '2015'
@@ -24,13 +33,3 @@ SpecialNotes: 'A simple multiplier is used to convert the national currencies of
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: Special trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Bratislava
-id: SVK
-incomelevel: HIC
-iso2Code: SK
-latitude: 48.1484
-lendingtype: LNX
-longitude: 17.1073
-name: Slovak Republic
-region: ECS

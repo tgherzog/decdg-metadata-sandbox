@@ -1,3 +1,20 @@
+id: IT.CEL.SETS.P2
+name: Mobile cellular subscriptions (per 100 people)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Telecommunication Union (ITU) World Telecommunication/ICT Indicators
+  Database
+topics:
+- id: '9'
+  value: 'Infrastructure '
+description: Mobile cellular telephone subscriptions are subscriptions to a public mobile telephone service
+  that provide access to the PSTN using cellular technology. The indicator includes (and is split into)
+  the number of postpaid subscriptions, and the number of active prepaid accounts (i.e. that have been
+  used during the last three months). The indicator applies to all mobile cellular subscriptions that
+  offer voice communications. It excludes subscriptions via data cards or USB modems, subscriptions to
+  public mobile data services, private trunked mobile radio, telepoint, radio paging and telemetry services.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'The quality of an economy''s infrastructure, including power and communications,
   is an important element in investment decisions for both domestic and foreign investors. Government
@@ -85,12 +102,6 @@ Statisticalconceptandmethodology: 'Refers to the subscriptions to a public mobil
   by the country''s population and multiplied by 100. For additional/latest information on sources and
   country notes, please also refer to: https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx'
 Topic: 'Infrastructure: Communications'
-description: Mobile cellular telephone subscriptions are subscriptions to a public mobile telephone service
-  that provide access to the PSTN using cellular technology. The indicator includes (and is split into)
-  the number of postpaid subscriptions, and the number of active prepaid accounts (i.e. that have been
-  used during the last three months). The indicator applies to all mobile cellular subscriptions that
-  offer voice communications. It excludes subscriptions via data cards or USB modems, subscriptions to
-  public mobile data services, private trunked mobile radio, telepoint, radio paging and telemetry services.
 economies:
   ABW: Servicio di Telecomunicacion di Aruba (SETAR). Directorate of Telecommunication Affairs Aruba
   AFG: Ministry of Communications. Ministry of Communications & Information Technology
@@ -106,12 +117,12 @@ economies:
   AUT: 'Until 2001: Federal Ministry for Science and Transport. Austrian Regulatory Authority for Broadcasting
     and Telecommunications (RTR-GmbH).'
   AZE: Ministry of Communications and Information Technologies.
-  BDI: "Until 2001: Office National des T\xE9l\xE9communications (ONATEL). Agence de R\xE9gulation et\
-    \ de Contr\xF4le des T\xE9l\xE9communications."
+  BDI: "Until 2001: Office National des T\xE9l\xE9communications (ONATEL). Agence de R\xE9gulation et
+     de Contr\xF4le des T\xE9l\xE9communications."
   BEL: "Institut belge des services postaux et des t\xE9l\xE9communications (IBPT)."
   BEN: "Office des Postes et T\xE9l\xE9communications (OPT)."
-  BFA: "Office National des T\xE9l\xE9communications (ONATEL). 1997-2000: Direction G\xE9n\xE9rale de\
-    \ l'Office National des T\xE9l\xE9communications."
+  BFA: "Office National des T\xE9l\xE9communications (ONATEL). 1997-2000: Direction G\xE9n\xE9rale de
+     l'Office National des T\xE9l\xE9communications."
   BGD: 'Bangladesh Telegraph and Telephone Board. From 2002: Bangladesh Telecommunication Regulatory Commission.'
   BGR: 'Bulgarian Telecommunications Company Ltd. From 2002: Communications Regulation Commission.'
   BHR: 'Bahrain Telecommunications Company. From 2004: Telecommunications Regulatory Authority (TRA).'
@@ -123,8 +134,8 @@ economies:
   BMU: 'The Bermuda Telephone Company Limited (Bermuda Telephone). From 2001: Ministry of Energy,Telecommunications
     and E-Commerce; Dept of Telecommunications'
   BOL: 'Until 1998: Empresa Nacional de Telecomunicaciones (ENTEL). Superintendencia de Telecomunicaciones.'
-  BRA: "Telecomunica\xE7oes Brasileiras S.A. From 1998: Ag\xEAncia Nacional de Telecomunica\xE7\xF5es\
-    \ (ANATEL)."
+  BRA: "Telecomunica\xE7oes Brasileiras S.A. From 1998: Ag\xEAncia Nacional de Telecomunica\xE7\xF5es
+     (ANATEL)."
   BRB: 'Cable and Wireless (Barbados) Limited. From 2003: Ministry of Energy and Public Utilities.'
   BRN: 'Jabatan Telekom Brunei (JTB). Ministry of Communications. From 2002: Authority for Info-communications
     Technology Industry of Brunei Darussalam (AiTi.)'
@@ -133,14 +144,14 @@ economies:
   CAF: "Soci\xE9t\xE9 Centrafricaine de T\xE9l\xE9communications (SOCATEL)."
   CAN: Statistics Canada. Canadian Radio-television and Telecommunications Commission.
   CHE: 'Swisscom. From 1999: OFCOM.'
-  CHL: "Until 1998: Ministerio de Transportes y Telecomunicaciones. Subsecretar\xEDa de Telecomunicaciones\
-    \ (Subtel)."
+  CHL: "Until 1998: Ministerio de Transportes y Telecomunicaciones. Subsecretar\xEDa de Telecomunicaciones
+     (Subtel)."
   CHN: Ministry of Information Industry (MII). Ministry of Industry and Information Technology.
-  CIV: "Until 1996: Soci\xE9t\xE9 C\xF4te d'Ivoire-TELECOM (CI-TELCOM). Agence des T\xE9l\xE9communications\
-    \ de C\xF4te d'Ivoire."
+  CIV: "Until 1996: Soci\xE9t\xE9 C\xF4te d'Ivoire-TELECOM (CI-TELCOM). Agence des T\xE9l\xE9communications
+     de C\xF4te d'Ivoire."
   CMR: "Minist\xE8re des Postes et T\xE9l\xE9communications. Agence de R\xE9gulation des T\xE9l\xE9communications."
-  COD: "Until 2002: Minist\xE8re des Postes et T\xE9l\xE9communications. Autorit\xE9 de R\xE9gulation\
-    \ de la Poste et des T\xE9l\xE9communications."
+  COD: "Until 2002: Minist\xE8re des Postes et T\xE9l\xE9communications. Autorit\xE9 de R\xE9gulation
+     de la Poste et des T\xE9l\xE9communications."
   COG: "Direction G\xE9n\xE9rale de l'Administsration Centrale des Postes et T\xE9l\xE9communications."
   COL: Ministerio de Comunicaciones.
   COM: "Soci\xE9t\xE9 Nationale des Postes et Telecommunications (SNPT). Since 2005: Comores T\xE9l\xE9\
@@ -159,10 +170,10 @@ economies:
   DMA: 'Telecommunications of Dominica Limited. From 2000: National Telecommunications Regulatory Commission
     (NTRC).'
   DNK: National IT and Telecom Agency.
-  DOM: "Until 2000: Compa\xF1\xEDa Dominicana de Tel\xE9fonos (CODETEL). From 2000: Instituto Dominicano\
-    \ de las Telecomunicaciones (INDOTEL)."
-  DZA: "Minist\xE8re des Postes et T\xE9l\xE9communications (MPT). From 2004: Autorit\xE9 de R\xE9gulation\
-    \ de la Poste et des T\xE9lecommunications (ARPT)."
+  DOM: "Until 2000: Compa\xF1\xEDa Dominicana de Tel\xE9fonos (CODETEL). From 2000: Instituto Dominicano
+     de las Telecomunicaciones (INDOTEL)."
+  DZA: "Minist\xE8re des Postes et T\xE9l\xE9communications (MPT). From 2004: Autorit\xE9 de R\xE9gulation
+     de la Poste et des T\xE9lecommunications (ARPT)."
   ECU: Superintendencia de Telecomunicaciones (SUPTEL). Consejo Nacional de Telecomunicaciones.
   EGY: 'Telecom Egypt. From 2003: Ministry of Communications and Information Technology.'
   ERI: Eritrea Telecommunication Services Corporation (Eritel).
@@ -173,8 +184,8 @@ economies:
   FIN: 'Ministry of Transport and Communications. From 2005: Finnish Communications Regulatory Authority.'
   FJI: 'Until 2003: Telecom Fiji. Ministry of Information, Communications & Media Relations. Ministry
     of Industry, Tourism, Trade & Communications'
-  FRA: "Until 1996: France T\xE9l\xE9com. Autorit\xE9 de R\xE9gulation des Communications Electroniques\
-    \ et des Postes (ACREP) (formerly ART)."
+  FRA: "Until 1996: France T\xE9l\xE9com. Autorit\xE9 de R\xE9gulation des Communications Electroniques
+     et des Postes (ACREP) (formerly ART)."
   FRO: The Faroese Telephone Company, Danish National Telecom Agency.  Post and Telecom Surveillance Authority
   FSM: FSM Telecommunication Corporation.
   GAB: "Until 2001: Office des postes et des t\xE9l\xE9communications (OPT). Gabon Telecom S.A."
@@ -182,14 +193,14 @@ economies:
   GEO: 'Ministry of Communications, From 2001: Georgian National Communications Commission (GNCC).'
   GHA: 'Ghana Telecom. From 2002: National Communications Authority (NCA).'
   GIB: Gibtelecom. Gibraltar Regulatory Authority./
-  GIN: "Soci\xE9t\xE9 des T\xE9l\xE9communications de Guin\xE9e (SOTELGUI). Minist\xE8re de la Communication\
-    \ et des Nouvelles Technologies de l'Information."
+  GIN: "Soci\xE9t\xE9 des T\xE9l\xE9communications de Guin\xE9e (SOTELGUI). Minist\xE8re de la Communication
+     et des Nouvelles Technologies de l'Information."
   GMB: 'Gambia Telecommunications Co. Ltd (GAMTEL). From 2005: The Gambia Public Utilities Regulatory
     Authority.'
   GNB: "Until 2001: Minist\xE9rio dos Transportes e Comunica\xE7\xF5es. Instituto das Comunica\xE7\xF5\
     es da Guin\xE9-Bissau."
-  GNQ: "Until 2001: Ministerio de Transportes, Informaci\xF3n y Comunicaciones. La Soci\xE9t\xE9 Anonyme\
-    \ de T\xE9l\xE9communications de la R\xE9publique de Guin\xE9e Equatoriale (GETESA)."
+  GNQ: "Until 2001: Ministerio de Transportes, Informaci\xF3n y Comunicaciones. La Soci\xE9t\xE9 Anonyme
+     de T\xE9l\xE9communications de la R\xE9publique de Guin\xE9e Equatoriale (GETESA)."
   GRC: Hellenic Telecommunications & Post Commission (EETT).
   GRD: Cable and Wireless (WI).
   GRL: Tele Greenland A/S.
@@ -198,8 +209,8 @@ economies:
   GUM: Guam Telephone Authority.
   GUY: 'Guyana Telephone and Telegraph Company Ltd. From 2000: National Frequency Management Unit.'
   HKG: Office of the Telecommunications Authority (OFTA).
-  HND: "Until 2001: Empresa Hondure\xF1a de Telecomunicaciones (HONDUTEL). Comisi\xF3n Nacional de Telecomunicaciones\
-    \ (CONATEL)."
+  HND: "Until 2001: Empresa Hondure\xF1a de Telecomunicaciones (HONDUTEL). Comisi\xF3n Nacional de Telecomunicaciones
+     (CONATEL)."
   HRV: 'Croatian Post and Telecommunications (HPT). From 2002: Croatian Telecommunication Agency.'
   HTI: "Conseil National des T\xE9l\xE9communications (CONATEL)."
   HUN: 'MATAV Hungarian Telecommunication Company Ltd. From 1998: National Communications Authority.'
@@ -227,8 +238,8 @@ economies:
     Ministry of International Trade, Labour, Social Security, oTelecommunications and Technology
   KOR: Ministry of Information and Communication. Korea Communications Commission.
   KWT: Ministry of Communications.
-  LAO: "Lao Telecommunications Co., Ltd.; Minist\xE8re des communications, transports, postes et de la\
-    \ construction. National Authority of Post and Telecommunication."
+  LAO: "Lao Telecommunications Co., Ltd.; Minist\xE8re des communications, transports, postes et de la
+     construction. National Authority of Post and Telecommunication."
   LBN: "Minist\xE8re des Postes et des T\xE9l\xE9communications."
   LBR: Liberia Telecommunications Corporation (LTC). Ministry of Posts and Telecommunications
   LBY: Ministry of Transport and Communications. National Economic Strategy.
@@ -237,8 +248,8 @@ economies:
   LKA: Telecommunications Regulatory Commission of Sri Lanka.
   LSO: 'Telecomm Lesotho (TCL), From 2002: Lesotho Telecommunications Authority (LTA).'
   LTU: 'Lithuanian Telecom. From 2002: Communications Regulatory Authority.'
-  LUX: "Until 2000: Entreprise des Postes et T\xE9l\xE9communications (P&T). Institut Luxembourgeois de\
-    \ R\xE9gulation."
+  LUX: "Until 2000: Entreprise des Postes et T\xE9l\xE9communications (P&T). Institut Luxembourgeois de
+     R\xE9gulation."
   LVA: Ministry of Transport.
   MAC: Ministry of Information Industry and Ministry of Posts and Telecommunications (Directorate General
     of Telecommunications).  Bureau of Telecommunications Regulation
@@ -260,16 +271,16 @@ economies:
   MNP: Micronesian Telecommunication Corp. (MTC).
   MOZ: "Telecomunica\xE7oes de Mo\xE7ambique (TDM). Instituto Nacional das Comunica\xE7\xF5es de Mo\xE7\
     ambique (INCM)."
-  MRT: "Until 2002: Office des Postes et des T\xE9l\xE9communications (OPT). From 2002: Autorit\xE9 de\
-    \ R\xE9gulation."
+  MRT: "Until 2002: Office des Postes et des T\xE9l\xE9communications (OPT). From 2002: Autorit\xE9 de
+     R\xE9gulation."
   MUS: Mauritius Telecom. Information and Communication Technologies Authority.
   MWI: 'Malawi Telecommunications Limited (MTL),  From 2001: Malawi Communications Regulatory Authority
     (MACRA).'
   MYS: 'Jabatan Telekom Malaysia. From 2002: Malaysian Communications and Multimedia Commission (MCMC).'
   NAM: 'Telecom Namibia. From 2002: Namibian Communications Commission (NCC).'
   NCL: "Office des Postes et des T\xE9l\xE9communications (OPT)."
-  NER: "Until 2004: Minist\xE8re de la Communication and Societe Nigerienne des T\xE9l\xE9communications\
-    \ (SONITEL). Institut National de la Statistique."
+  NER: "Until 2004: Minist\xE8re de la Communication and Societe Nigerienne des T\xE9l\xE9communications
+     (SONITEL). Institut National de la Statistique."
   NGA: 'Nigerian Telecommunications Plc (NITEL). From 2002: Nigerian Communications Commission (NCC).'
   NIC: Instituto Nicaraguense de Telecomunicaciones y Correos (TELCOR).
   NLD: 'KPN, Libertel. From 2001: Independent Post and Telecommunications Authority (OPTA).'
@@ -292,27 +303,27 @@ economies:
   PRI: Puerto Rico Telephone Company (PRTC). Puerto Rico Institute of Statistics
   PRK: Ministry of Posts and Telecommunications.
   PRT: "Instituto das Comunica\xE7\xF5es de Portugal. From 2002: Autoridade Nacional de Comunicacoes (ANACOM)."
-  PRY: "Until 1998: Administraci\xF3n Nacional de Telecomunicaciones (ANTELCO). Comisi\xF3n Nacional de\
-    \ Telecomunicaciones."
+  PRY: "Until 1998: Administraci\xF3n Nacional de Telecomunicaciones (ANTELCO). Comisi\xF3n Nacional de
+     Telecomunicaciones."
   PSE: Palestine Telecommunications Company (PALTEL).
-  PYF: "Until 2004: Minist\xE8re de l'Economie, des Finances et de l'Industrie. Service des Postes et\
-    \ T\xE9l\xE9communications."
+  PYF: "Until 2004: Minist\xE8re de l'Economie, des Finances et de l'Industrie. Service des Postes et
+     T\xE9l\xE9communications."
   QAT: Qatar Telecom (Q-Tel) Q.S.C. ictQATAR
   ROU: 'Rom-Telecom. From 2002: National Regulatory Authority for Communications.'
   RUS: 'General State Supervisory Department for Communications. Ministry of Posts and Telecommunications.
     From 2005: Ministry for Information Technologies and Communications.'
-  RWA: "Until 2002: Soci\xE9t\xE9 Rwandaise des T\xE9l\xE9communications. Rwanda Information Technology\
-    \ Authority. Rwanda Utilities Regulatory Agency"
+  RWA: "Until 2002: Soci\xE9t\xE9 Rwandaise des T\xE9l\xE9communications. Rwanda Information Technology
+     Authority. Rwanda Utilities Regulatory Agency"
   SAU: 'Saudi Telecommunications Company. From 2005: Communication and Information Technology Commission.'
   SDN: 'Sudan Telecommunications Company Ltd. (Sudatel). From 2003: National Telecommunication Corporation
     (NTC).'
-  SEN: "Soci\xE9t\xE9 Nationale des T\xE9l\xE9communications du S\xE9n\xE9gal (SONATEL). From 2004: Agence\
-    \ de R\xE9gulation des T\xE9l\xE9communications."
+  SEN: "Soci\xE9t\xE9 Nationale des T\xE9l\xE9communications du S\xE9n\xE9gal (SONATEL). From 2004: Agence
+     de R\xE9gulation des T\xE9l\xE9communications."
   SGP: Infocomm Development Authority of Singapore (IDA).
   SLB: Solomon Telekom Company Ltd..
   SLE: Sierra Leone Telecommunications Company (SIERRATEL).
-  SLV: "Until 1997: Compa\xF1ia  de Telecomunicaciones de El Salvador (CTE). Superintendencia General\
-    \ de Electricidad y Telecomunicaciones."
+  SLV: "Until 1997: Compa\xF1ia  de Telecomunicaciones de El Salvador (CTE). Superintendencia General
+     de Electricidad y Telecomunicaciones."
   SMR: Direzione Generale Poste e Telecomunicazioni.
   SOM: Ministry of Posts and Telecommunications.
   SRB: Ratel, Republic Telecommunication Agency.
@@ -331,8 +342,8 @@ economies:
     of National Development.'
   SYR: Syrian Telecommunications Establishment (STE).
   TCD: "Until 2003: SOTEL. Office Tchadien de R\xE9gulation des T\xE9l\xE9communications."
-  TGO: "Societe des T\xE9l\xE9communications du Togo (TOGO TELECOM). From 2004: Autorit\xE9 de R\xE8glementation\
-    \ des secteurs de postes  (ART&P)."
+  TGO: "Societe des T\xE9l\xE9communications du Togo (TOGO TELECOM). From 2004: Autorit\xE9 de R\xE8glementation
+     des secteurs de postes  (ART&P)."
   THA: 'Post and Telegraph Department (PTD). From 2002: Ministry of Information and Communication Authority
     (MICT).'
   TJK: 'Ministry of Communications. From 2003: Tajiktelecom.'
@@ -347,8 +358,8 @@ economies:
     Authority.'
   UGA: 'Uganda Telecommunication Ltd. (UTL). From 1998: Uganda Communications Commission (UCC).'
   UKR: State Department of Communications & Information Technology.
-  URY: "Until 2003: Administraci\xF3n Nacional de Telecomunicaciones (ANTEL). Unidad Reguladora de Servicios\
-    \ de Comunicaciones."
+  URY: "Until 2003: Administraci\xF3n Nacional de Telecomunicaciones (ANTEL). Unidad Reguladora de Servicios
+     de Comunicaciones."
   USA: Federal Communications Commission (FCC).
   UZB: Communication and Information Agency of Uzbekistan.
   VCT: Cable & Wireless (West Indies) Ltd. (C&W). National Telecommunications Regulatory Comission.
@@ -362,14 +373,3 @@ economies:
   ZAF: 'Telkom SA Limited (Telkom). From 2001: Independent Communications Authority of South Africa (ICASA).'
   ZMB: 'Zambia Telecommunications Company Limited (Zamtel). From 2002: Communications Authority.'
   ZWE: 'TelOne. From 2002: Post and Telecommunications Regulatory Authority (POTRAZ).'
-id: IT.CEL.SETS.P2
-name: Mobile cellular subscriptions (per 100 people)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Telecommunication Union (ITU) World Telecommunication/ICT Indicators
-  Database
-topics:
-- id: '9'
-  value: 'Infrastructure '
-unit: ''

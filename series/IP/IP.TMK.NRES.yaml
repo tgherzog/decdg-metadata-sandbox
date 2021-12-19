@@ -1,3 +1,22 @@
+id: IP.TMK.NRES
+name: Trademark applications, direct nonresident
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: 'World Intellectual Property Organization (WIPO), WIPO Patent Report: Statistics on
+  Worldwide Patent Activity. The International Bureau of WIPO assumes no responsibility with respect to
+  the transformation of these data.'
+topics:
+- id: '14'
+  value: 'Science & Technology '
+description: Trademark applications filed are applications to register a trademark with a national or
+  regional Intellectual Property (IP) office. A trademark is a distinctive sign which identifies certain
+  goods or services as those produced or provided by a specific person or enterprise. A trademark provides
+  protection to the owner of the mark by ensuring the exclusive right to use it to identify goods or services,
+  or to authorize another to use it in return for payment. The period of protection varies, but a trademark
+  can be renewed indefinitely beyond the time limit on payment of additional fees. Direct nonresident
+  trademark applications are those filed by applicants from abroad directly at a given national IP office.
 Aggregationmethod: Sum
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
@@ -9,22 +28,3 @@ Source: 'World Intellectual Property Organization (WIPO), WIPO Patent Report: St
   Patent Activity. The International Bureau of WIPO assumes no responsibility with respect to the transformation
   of these data.'
 Topic: 'Infrastructure: Technology'
-description: Trademark applications filed are applications to register a trademark with a national or
-  regional Intellectual Property (IP) office. A trademark is a distinctive sign which identifies certain
-  goods or services as those produced or provided by a specific person or enterprise. A trademark provides
-  protection to the owner of the mark by ensuring the exclusive right to use it to identify goods or services,
-  or to authorize another to use it in return for payment. The period of protection varies, but a trademark
-  can be renewed indefinitely beyond the time limit on payment of additional fees. Direct nonresident
-  trademark applications are those filed by applicants from abroad directly at a given national IP office.
-id: IP.TMK.NRES
-name: Trademark applications, direct nonresident
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: 'World Intellectual Property Organization (WIPO), WIPO Patent Report: Statistics on
-  Worldwide Patent Activity. The International Bureau of WIPO assumes no responsibility with respect to
-  the transformation of these data.'
-topics:
-- id: '14'
-  value: 'Science & Technology '
-unit: ''

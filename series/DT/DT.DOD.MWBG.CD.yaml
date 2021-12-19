@@ -1,15 +1,6 @@
-Aggregationmethod: Sum
-License_Type: CC BY-4.0
-License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
-Periodicity: Annual
-Source: World Bank, International Debt Statistics.
-Topic: 'Economic Policy & Debt: External debt: Debt outstanding'
-description: IBRD loans and IDA credits are public and publicly guaranteed debt extended by the World
-  Bank Group. The International Bank for Reconstruction and Development (IBRD) lends at market rates.
-  Credits from the International Development Association (IDA) are at concessional rates. Data are in
-  current U.S. dollars.
 id: DT.DOD.MWBG.CD
 name: IBRD loans and IDA credits (DOD, current US$)
+unit: ''
 source:
   id: '2'
   value: World Development Indicators
@@ -17,4 +8,13 @@ sourceOrganization: World Bank, International Debt Statistics.
 topics:
 - id: '20'
   value: External Debt
-unit: ''
+description: IBRD loans and IDA credits are public and publicly guaranteed debt extended by the World
+  Bank Group. The International Bank for Reconstruction and Development (IBRD) lends at market rates.
+  Credits from the International Development Association (IDA) are at concessional rates. Data are in
+  current U.S. dollars.
+Aggregationmethod: Sum
+License_Type: CC BY-4.0
+License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+Periodicity: Annual
+Source: World Bank, International Debt Statistics.
+Topic: 'Economic Policy & Debt: External debt: Debt outstanding'

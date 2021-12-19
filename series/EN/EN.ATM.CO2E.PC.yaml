@@ -1,3 +1,22 @@
+id: EN.ATM.CO2E.PC
+name: CO2 emissions (metric tons per capita)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: "Data for up to 1990 are sourced from Carbon Dioxide Information Analysis Center,
+   Environmental Sciences Division, Oak Ridge National Laboratory, Tennessee, United States. Data from
+   1990 are CAIT data: Climate Watch. 2020. GHG Emissions. Washington, DC: World Resources Institute.
+   Available at:\_https://www.climatewatchdata.org/ghg-emissions. See SP.POP.TOTL for the denominator's
+   source."
+topics:
+- id: '19'
+  value: Climate Change
+- id: '6'
+  value: 'Environment '
+description: Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture
+  of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and
+  gas flaring.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Carbon dioxide (CO2) is naturally occurring gas fixed by photosynthesis into organic
   matter. A byproduct of fossil fuel combustion and biomass burning, it is also emitted from land use
@@ -36,8 +55,8 @@ Developmentrelevance: 'Carbon dioxide (CO2) is naturally occurring gas fixed by 
   them and to determine their individual and total contributions to global warming. The Kyoto Protocol,
   an environmental agreement adopted in 1997 by many of the parties to the United Nations Framework Convention
   on Climate Change (UNFCCC), is working towards curbing CO2 emissions globally.'
-License_Type: CC BY-4.0
-License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
+License_Type: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+License_URL: https://creativecommons.org/licenses/by-nc/4.0/
 Limitationsandexceptions: 'The U.S. Department of Energy''s Carbon Dioxide Information Analysis Center
   (CDIAC) calculates annual anthropogenic emissions from data on fossil fuel consumption (from the United
   Nations Statistics Division''s World Energy Data Set) and world cement manufacturing (from the U.S.
@@ -51,8 +70,10 @@ Limitationsandexceptions: 'The U.S. Department of Energy''s Carbon Dioxide Infor
   corrections. Estimates exclude fuels supplied to ships and aircraft in international transport because
   of the difficulty of apportioning the fuels among benefiting countries.'
 Periodicity: Annual
-Source: Carbon Dioxide Information Analysis Center, Environmental Sciences Division, Oak Ridge National
-  Laboratory, Tennessee, United States.
+Source: "Data for up to 1990 are sourced from Carbon Dioxide Information Analysis Center, Environmental
+   Sciences Division, Oak Ridge National Laboratory, Tennessee, United States. Data from 1990 are CAIT
+   data: Climate Watch. 2020. GHG Emissions. Washington, DC: World Resources Institute. Available at:\_\
+  https://www.climatewatchdata.org/ghg-emissions. See SP.POP.TOTL for the denominator's source."
 Statisticalconceptandmethodology: 'Carbon dioxide emissions, largely by-products of energy production
   and use, account for the largest share of greenhouse gases, which are associated with global warming.
   Anthropogenic carbon dioxide emissions result primarily from fossil fuel combustion and cement manufacturing.
@@ -62,19 +83,3 @@ Statisticalconceptandmethodology: 'Carbon dioxide emissions, largely by-products
   metric ton of cement produced. Data for carbon dioxide emissions include gases from the burning of fossil
   fuels and cement manufacture, but excludes emissions from land use such as deforestation.'
 Topic: 'Environment: Emissions'
-description: Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture
-  of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and
-  gas flaring.
-id: EN.ATM.CO2E.PC
-name: CO2 emissions (metric tons per capita)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: Carbon Dioxide Information Analysis Center, Environmental Sciences Division, Oak Ridge
-  National Laboratory, Tennessee, United States.
-topics:
-- id: '19'
-  value: Climate Change
-- id: '6'
-  value: 'Environment '
-unit: ''

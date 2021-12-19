@@ -1,3 +1,13 @@
+id: GUM
+iso2Code: GU
+name: Guam
+region: EAS
+adminregion: ''
+capitalCity: Agana
+longitude: 144.794
+latitude: 13.4443
+incomelevel: HIC
+lendingtype: LNX
 CurrencyUnit: U.S. dollar
 IncomeGroup: High income
 Latestagriculturalcensus: '2007'
@@ -9,13 +19,3 @@ Region: East Asia & Pacific
 SNApricevaluation: Value added at basic prices (VAB)
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
 Vitalregistrationcomplete: 'Yes'
-adminregion: ''
-capitalCity: Agana
-id: GUM
-incomelevel: HIC
-iso2Code: GU
-latitude: 13.4443
-lendingtype: LNX
-longitude: 144.794
-name: Guam
-region: EAS

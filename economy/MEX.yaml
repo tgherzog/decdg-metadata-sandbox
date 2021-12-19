@@ -1,3 +1,13 @@
+id: MEX
+iso2Code: MX
+name: Mexico
+region: LCN
+adminregion: LAC
+capitalCity: Mexico City
+longitude: -99.1276
+latitude: 19.427
+incomelevel: UMC
+lendingtype: IBD
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Mexican peso
 ExternaldebtReportingstatus: Actual
@@ -9,7 +19,6 @@ Latesthouseholdsurvey: Multiple Indicator Cluster Survey, 2015
 Latestindustrialdata: '2013'
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2011'
 LongName: United Mexican States
 Nationalaccountsbaseyear: '2013'
 PPPsurveyyear: Rolling surveys (annual estimation)
@@ -19,13 +28,3 @@ SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
 Vitalregistrationcomplete: 'Yes'
-adminregion: LAC
-capitalCity: Mexico City
-id: MEX
-incomelevel: UMC
-iso2Code: MX
-latitude: 19.427
-lendingtype: IBD
-longitude: -99.1276
-name: Mexico
-region: LCN

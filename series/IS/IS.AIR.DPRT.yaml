@@ -1,3 +1,16 @@
+id: IS.AIR.DPRT
+name: Air transport, registered carrier departures worldwide
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Civil Aviation Organization, Civil Aviation Statistics of the World
+  and ICAO staff estimates.
+topics:
+- id: '9'
+  value: 'Infrastructure '
+description: Registered carrier departures worldwide are domestic takeoffs and takeoffs abroad of air
+  carriers registered in the country.
 Aggregationmethod: Sum
 Developmentrelevance: 'Transport infrastructure - highways, railways, ports and waterways, and airports
   and air traffic control systems - and the services that flow from it are crucial to the activities of
@@ -55,16 +68,3 @@ Statisticalconceptandmethodology: 'The air transport data represent the total (i
   well as any flight stages between two such territories, should be classified as domestic. This applies
   even though a stage may cross international waters or over the territory of another State.'
 Topic: 'Infrastructure: Transportation'
-description: Registered carrier departures worldwide are domestic takeoffs and takeoffs abroad of air
-  carriers registered in the country.
-id: IS.AIR.DPRT
-name: Air transport, registered carrier departures worldwide
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Civil Aviation Organization, Civil Aviation Statistics of the World
-  and ICAO staff estimates.
-topics:
-- id: '9'
-  value: 'Infrastructure '
-unit: ''

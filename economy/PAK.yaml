@@ -1,3 +1,13 @@
+id: PAK
+iso2Code: PK
+name: Pakistan
+region: SAS
+adminregion: SAS
+capitalCity: Islamabad
+longitude: 72.8
+latitude: 30.5167
+incomelevel: LMC
+lendingtype: IDB
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: Pakistani rupee
 ExternaldebtReportingstatus: Actual
@@ -11,7 +21,6 @@ Latesthouseholdsurvey: 'Pakistan Maternal Mortality Survey
 Latestindustrialdata: '2006'
 Latestpopulationcensus: '2017'
 Latesttradedata: '2018'
-Latestwaterwithdrawaldata: '2008'
 LongName: Islamic Republic of Pakistan
 Nationalaccountsbaseyear: 2005/06
 PPPsurveyyear: 2017, 2011
@@ -21,13 +30,3 @@ SourceofmostrecentIncomeandexpendituredata: Integrated household survey (IHS), 2
 SpecialNotes: 'Fiscal year end: June 30; reporting period for national accounts data: FY.'
 SystemofNationalAccounts: Country uses the 2008 System of National Accounts methodology
 Systemoftrade: General trade system
-adminregion: SAS
-capitalCity: Islamabad
-id: PAK
-incomelevel: LMC
-iso2Code: PK
-latitude: 30.5167
-lendingtype: IDB
-longitude: 72.8
-name: Pakistan
-region: SAS

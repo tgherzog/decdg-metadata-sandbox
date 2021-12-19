@@ -1,3 +1,18 @@
+id: NY.GDP.PCAP.CD
+name: GDP per capita (current US$)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: World Bank national accounts data, and OECD National Accounts data files.
+topics:
+- id: '3'
+  value: Economy & Growth
+description: GDP per capita is gross domestic product divided by midyear population. GDP is the sum of
+  gross value added by all resident producers in the economy plus any product taxes and minus any subsidies
+  not included in the value of the products. It is calculated without making deductions for depreciation
+  of fabricated assets or for depletion and degradation of natural resources. Data are in current U.S.
+  dollars.
 Aggregationmethod: Weighted average
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
@@ -6,24 +21,9 @@ Source: World Bank national accounts data, and OECD National Accounts data files
 Statisticalconceptandmethodology: For more information, see the metadata for current U.S. dollar GDP (NY.GDP.MKTP.CD)
   and total population (SP.POP.TOTL).
 Topic: 'Economic Policy & Debt: National accounts: US$ at current prices: Aggregate indicators'
-description: GDP per capita is gross domestic product divided by midyear population. GDP is the sum of
-  gross value added by all resident producers in the economy plus any product taxes and minus any subsidies
-  not included in the value of the products. It is calculated without making deductions for depreciation
-  of fabricated assets or for depletion and degradation of natural resources. Data are in current U.S.
-  dollars.
 economies:
   CYP: Data are for areas under the effective control of the Government of the Republic of Cyprus.
   GEO: Excludes Abkhazia and South Ossetia.
   MAR: Includes Former Spanish Sahara.
   MDA: Excludes Transnistria.
   TZA: Covers mainland Tanzania only.
-id: NY.GDP.PCAP.CD
-name: GDP per capita (current US$)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: World Bank national accounts data, and OECD National Accounts data files.
-topics:
-- id: '3'
-  value: Economy & Growth
-unit: ''

@@ -1,3 +1,13 @@
+id: FSM
+iso2Code: FM
+name: Micronesia, Fed. Sts.
+region: EAS
+adminregion: EAP
+capitalCity: Palikir
+longitude: 158.185
+latitude: 6.91771
+incomelevel: LMC
+lendingtype: IDX
 BalanceofPaymentsManualinuse: BPM6
 CurrencyUnit: U.S. dollar
 GovernmentAccountingconcept: Budgetary central government
@@ -6,7 +16,7 @@ IncomeGroup: Lower middle income
 Latestpopulationcensus: 2020 (expected)
 Latesttradedata: '2013'
 LongName: Federated States of Micronesia
-Nationalaccountsbaseyear: '2004'
+Nationalaccountsbaseyear: 2003/04
 PPPsurveyyear: 2011 (Only for individual consumption expenditure by households)
 Region: East Asia & Pacific
 SNApricevaluation: Value added at basic prices (VAB)
@@ -14,13 +24,3 @@ SourceofmostrecentIncomeandexpendituredata: Expenditure survey/budget survey (ES
 SpecialNotes: 'Fiscal year ends on September 30; reporting period for national accounts data: FY. Based
   on the Pacific and Virgin Islands Training Initiative, national accounts data have been revised.'
 SystemofNationalAccounts: Country uses the 1993 System of National Accounts methodology
-adminregion: EAP
-capitalCity: Palikir
-id: FSM
-incomelevel: LMC
-iso2Code: FM
-latitude: 6.91771
-lendingtype: IDX
-longitude: 158.185
-name: Micronesia, Fed. Sts.
-region: EAS

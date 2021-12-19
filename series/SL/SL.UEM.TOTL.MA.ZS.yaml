@@ -1,3 +1,21 @@
+id: SL.UEM.TOTL.MA.ZS
+name: Unemployment, male (% of male labor force) (modeled ILO estimate)
+unit: ''
+source:
+  id: '2'
+  value: World Development Indicators
+sourceOrganization: International Labour Organization, ILOSTAT database. Data retrieved on June 15, 2021.
+topics:
+- id: '4'
+  value: 'Education '
+- id: '10'
+  value: Social Protection & Labor
+- id: '17'
+  value: Gender
+- id: '15'
+  value: 'Social Development '
+description: Unemployment refers to the share of the labor force that is without work but available for
+  and seeking employment.
 Aggregationmethod: Weighted average
 Developmentrelevance: 'Paradoxically, low unemployment rates can disguise substantial poverty in a country,
   while high unemployment rates can occur in countries with a high level of economic development and low
@@ -23,52 +41,42 @@ Generalcomments: National estimates are also available in the WDI database. Caut
   comparing ILO estimates with national estimates.
 License_Type: CC BY-4.0
 License_URL: https://datacatalog.worldbank.org/public-licenses#cc-by
-Limitationsandexceptions: "The criteria for people considered to be seeking work, and the treatment of\
-  \ people temporarily laid off or seeking work for the first time, vary across countries. In many cases\
-  \ it is especially difficult to measure employment and unemployment in agriculture. The timing of a\
-  \ survey can maximize the effects of seasonal unemployment in agriculture. And informal sector employment\
-  \ is difficult to quantify where informal activities are not tracked.\n\nThere may be also persons not\
-  \ currently in the labour market who want to work but do not actively \"seek\" work because they view\
-  \ job opportunities as limited, or because they have restricted labour mobility, or face discrimination,\
-  \ or structural, social or cultural barriers. The exclusion of people who want to work but are not seeking\
-  \ work (often called the \"hidden unemployed\" or \"discouraged workers\") is a criterion that will\
-  \ affect the unemployment count of both women and men. \n\nHowever, women tend to be excluded from the\
-  \ count for various reasons. Women suffer more from discrimination and from structural, social, and\
-  \ cultural barriers that impede them from seeking work. Also, women are often responsible for the care\
-  \ of children and the elderly and for household affairs. They may not be available for work during the\
-  \ short reference period, as they need to make arrangements before starting work. Further, women are\
-  \ considered to be employed when they are working part-time or in temporary jobs, despite the instability\
-  \ of these jobs or their active search for more secure employment."
+Limitationsandexceptions: 'The criteria for people considered to be seeking work, and the treatment of
+  people temporarily laid off or seeking work for the first time, vary across countries. In many cases
+  it is especially difficult to measure employment and unemployment in agriculture. The timing of a survey
+  can maximize the effects of seasonal unemployment in agriculture. And informal sector employment is
+  difficult to quantify where informal activities are not tracked.
+
+
+  There may be also persons not currently in the labour market who want to work but do not actively "seek"
+  work because they view job opportunities as limited, or because they have restricted labour mobility,
+  or face discrimination, or structural, social or cultural barriers. The exclusion of people who want
+  to work but are not seeking work (often called the "hidden unemployed" or "discouraged workers") is
+  a criterion that will affect the unemployment count of both women and men. 
+
+
+  However, women tend to be excluded from the count for various reasons. Women suffer more from discrimination
+  and from structural, social, and cultural barriers that impede them from seeking work. Also, women are
+  often responsible for the care of children and the elderly and for household affairs. They may not be
+  available for work during the short reference period, as they need to make arrangements before starting
+  work. Further, women are considered to be employed when they are working part-time or in temporary jobs,
+  despite the instability of these jobs or their active search for more secure employment.'
 Periodicity: Annual
 Source: International Labour Organization, ILOSTAT database. Data retrieved on June 15, 2021.
-Statisticalconceptandmethodology: "The standard definition of unemployed persons is those individuals\
-  \ without work, seeking work in a recent past period, and currently available for work, including people\
-  \ who have lost their jobs or who have voluntarily left work. Persons who did not look for work but\
-  \ have an arrangements for a future job are also counted as unemployed. \n\nSome unemployment is unavoidable.\
-  \ At any time some workers are temporarily unemployed between jobs as employers look for the right workers\
-  \ and workers search for better jobs. It is the labour force or the economically active portion of the\
-  \ population that serves as the base for this indicator, not the total population.\n\nThe series is\
-  \ part of the ILO estimates and is harmonized to ensure comparability across countries and over time\
-  \ by accounting for differences in data source, scope of coverage, methodology, and other country-specific\
-  \ factors. The estimates are based mainly on nationally representative labor force surveys, with other\
-  \ sources (population censuses and nationally reported estimates) used only when no survey data are\
-  \ available."
+Statisticalconceptandmethodology: 'The standard definition of unemployed persons is those individuals
+  without work, seeking work in a recent past period, and currently available for work, including people
+  who have lost their jobs or who have voluntarily left work. Persons who did not look for work but have
+  an arrangements for a future job are also counted as unemployed. 
+
+
+  Some unemployment is unavoidable. At any time some workers are temporarily unemployed between jobs as
+  employers look for the right workers and workers search for better jobs. It is the labour force or the
+  economically active portion of the population that serves as the base for this indicator, not the total
+  population.
+
+
+  The series is part of the ILO estimates and is harmonized to ensure comparability across countries and
+  over time by accounting for differences in data source, scope of coverage, methodology, and other country-specific
+  factors. The estimates are based mainly on nationally representative labor force surveys, with other
+  sources (population censuses and nationally reported estimates) used only when no survey data are available.'
 Topic: 'Social Protection & Labor: Unemployment'
-description: Unemployment refers to the share of the labor force that is without work but available for
-  and seeking employment.
-id: SL.UEM.TOTL.MA.ZS
-name: Unemployment, male (% of male labor force) (modeled ILO estimate)
-source:
-  id: '2'
-  value: World Development Indicators
-sourceOrganization: International Labour Organization, ILOSTAT database. Data retrieved on June 15, 2021.
-topics:
-- id: '4'
-  value: 'Education '
-- id: '10'
-  value: Social Protection & Labor
-- id: '17'
-  value: Gender
-- id: '15'
-  value: 'Social Development '
-unit: ''
