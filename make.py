@@ -10,7 +10,9 @@ Usage:
 Options:
   --db=DBASEID:          database [default: 2]
 
-  --limit=LIMIT:         how many elements per dimension to extract
+  --limit=LIMIT:         how many elements per concept to extract, mostly useful for quickly
+                         producing test output, e.g. --limit=50 will limit the build to
+                         50 indicators and countries.
 
   --width=WIDTH:         value width in the yaml file [default: 100]
 
